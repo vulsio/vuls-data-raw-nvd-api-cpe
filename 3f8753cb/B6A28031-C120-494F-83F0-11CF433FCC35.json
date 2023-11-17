@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:getpostman:postman:4.6.1:*:*:*:*:*:*:*",
+  "cpeNameId": "B6A28031-C120-494F-83F0-11CF433FCC35",
+  "created": "2019-06-24T20:40:53.407",
+  "lastModified": "2019-06-24T20:40:53.407",
+  "titles": [
+    {
+      "title": "GetPostman Postman 4.6.1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.getpostman.com/apps",
+      "type": "Change Log"
+    }
+  ]
+}

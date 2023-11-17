@@ -1,0 +1,27 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:smallpdf:json-pointer:0.0.3:*:*:*:*:node.js:*:*",
+  "cpeNameId": "DD0AD84C-4FE8-4C5E-94F6-4A1727E78E27",
+  "created": "2020-10-06T16:33:13.987",
+  "lastModified": "2020-10-06T16:33:13.987",
+  "titles": [
+    {
+      "title": "Smallpdf Json-pointer 0.0.3 for Node.js",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.npmjs.com/package/json-pointer",
+      "type": "Product"
+    },
+    {
+      "ref": "https://smallpdf.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://snyk.io/vuln/SNYK-JS-JSONPOINTER-596925",
+      "type": "Advisory"
+    }
+  ]
+}

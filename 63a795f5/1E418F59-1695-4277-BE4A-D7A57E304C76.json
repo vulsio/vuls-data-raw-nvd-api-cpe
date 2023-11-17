@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:cisco:firepower_management_center:6.2.3.7:*:*:*:*:*:*:*",
+  "cpeNameId": "1E418F59-1695-4277-BE4A-D7A57E304C76",
+  "created": "2020-02-05T15:29:34.497",
+  "lastModified": "2020-02-05T15:29:34.497",
+  "titles": [
+    {
+      "title": "Cisco Firepower Management Center (FMC) 6.2.3.7",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.cisco.com/c/en/us/support/security/defense-center/products-release-notes-list.html",
+      "type": "Version"
+    }
+  ]
+}

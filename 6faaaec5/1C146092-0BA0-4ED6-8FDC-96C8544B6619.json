@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:mozilla:firefox_esr:45.3.0:*:*:*:*:*:*:*",
+  "cpeNameId": "1C146092-0BA0-4ED6-8FDC-96C8544B6619",
+  "created": "2016-08-05T17:21:46.720",
+  "lastModified": "2016-08-05T17:21:46.720",
+  "titles": [
+    {
+      "title": "Mozilla Firefox Extended Support Release (ESR) 45.3.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.mozilla.org/en-US/firefox/45.3.0/releasenotes/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://www.mozilla.org/en-US/firefox/new/",
+      "type": "Vendor"
+    }
+  ]
+}

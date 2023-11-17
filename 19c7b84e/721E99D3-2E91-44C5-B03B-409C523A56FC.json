@@ -1,0 +1,27 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:apollographql:apollo_router:1.29.1:*:*:*:*:*:*:*",
+  "cpeNameId": "721E99D3-2E91-44C5-B03B-409C523A56FC",
+  "created": "2023-09-08T11:21:21.940",
+  "lastModified": "2023-09-09T03:46:59.147",
+  "titles": [
+    {
+      "title": "Apollo GraphQL Apollo Router 1.29.1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/apollographql/router/tags",
+      "type": "Version"
+    },
+    {
+      "ref": "https://www.apollographql.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://github.com/apollographql/router/security/advisories/GHSA-w8vq-3hf9-xppx",
+      "type": "Advisory"
+    }
+  ]
+}

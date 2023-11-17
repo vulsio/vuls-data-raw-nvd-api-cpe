@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:carspot_project:carspot:1.0.8:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "76885771-2D53-4E17-9F21-FC6B0CBE8715",
+  "created": "2019-09-12T12:54:35.990",
+  "lastModified": "2019-09-12T12:54:35.990",
+  "titles": [
+    {
+      "title": "Carspot Project Carspot 1.0.8 for Wordpress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://themeforest.net/item/carspot-automotive-car-dealer-wordpress-classified-theme/20195539",
+      "type": "Change Log"
+    }
+  ]
+}

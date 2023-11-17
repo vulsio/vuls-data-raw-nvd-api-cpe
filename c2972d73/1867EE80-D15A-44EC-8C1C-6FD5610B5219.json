@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:qnap:qts:4.3.6.0979:*:*:*:*:*:*:*",
+  "cpeNameId": "1867EE80-D15A-44EC-8C1C-6FD5610B5219",
+  "created": "2019-06-26T12:19:24.403",
+  "lastModified": "2019-06-26T12:19:24.403",
+  "titles": [
+    {
+      "title": "QNAP QTS 4.3.6.0979",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.qnap.com/zh-hk/releasenotes/index.php?cat_choose=5",
+      "type": "Version"
+    },
+    {
+      "ref": "https://www.qnap.com/zh-hk/",
+      "type": "Vendor"
+    }
+  ]
+}

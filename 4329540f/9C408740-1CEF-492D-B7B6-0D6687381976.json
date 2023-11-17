@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:daily_prayer_time_project:daily_prayer_time:2021.10.12:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "9C408740-1CEF-492D-B7B6-0D6687381976",
+  "created": "2022-04-26T14:59:06.153",
+  "lastModified": "2022-04-27T16:20:10.627",
+  "titles": [
+    {
+      "title": "Daily Prayer Time Project Daily Prayer Time 2021.10.12 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://wordpress.org/plugins/daily-prayer-time-for-mosques/#description",
+      "type": "Product"
+    },
+    {
+      "ref": "https://plugins.trac.wordpress.org/browser/daily-prayer-time-for-mosques/#tags",
+      "type": "Version"
+    }
+  ]
+}

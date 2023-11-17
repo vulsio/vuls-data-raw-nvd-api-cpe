@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:w3m_project:w3m:0.5.3-15:*:*:*:*:*:*:*",
+  "cpeNameId": "F86ED1F5-121A-40C6-8042-1C353EFDA286",
+  "created": "2019-12-19T15:58:20.070",
+  "lastModified": "2019-12-19T15:58:20.070",
+  "titles": [
+    {
+      "title": "w3m Project w3m 0.5.3-15",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/tats/w3m/releases",
+      "type": "Change Log"
+    }
+  ]
+}

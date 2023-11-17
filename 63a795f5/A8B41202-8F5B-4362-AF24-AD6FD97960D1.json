@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:cisco:firepower_management_center:6.6.1:*:*:*:*:*:*:*",
+  "cpeNameId": "A8B41202-8F5B-4362-AF24-AD6FD97960D1",
+  "created": "2020-11-03T22:04:56.223",
+  "lastModified": "2020-11-03T22:04:56.223",
+  "titles": [
+    {
+      "title": "Cisco Firepower Management Center 6.6.1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.cisco.com/c/en/us/support/security/defense-center-virtual-appliance/series.html#~tab-downloads",
+      "type": "Product"
+    }
+  ]
+}

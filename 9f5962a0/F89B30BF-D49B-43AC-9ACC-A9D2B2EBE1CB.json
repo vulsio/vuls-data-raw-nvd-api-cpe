@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:netapp:snapcenter:4.9:*:*:*:*:*:*:*",
+  "cpeNameId": "F89B30BF-D49B-43AC-9ACC-A9D2B2EBE1CB",
+  "created": "2023-10-27T14:07:16.190",
+  "lastModified": "2023-10-27T14:07:16.190",
+  "titles": [
+    {
+      "title": "NetApp SnapCenter 4.9",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://security.netapp.com/advisory/ntap-20230713-0002/",
+      "type": "Advisory"
+    }
+  ]
+}

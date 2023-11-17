@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:cryptography_project:cryptography:39.0.2:*:*:*:*:python:*:*",
+  "cpeNameId": "47E4D783-22F7-4CE9-8FD9-02A61EAB650A",
+  "created": "2023-07-24T18:44:53.067",
+  "lastModified": "2023-07-24T20:06:14.210",
+  "titles": [
+    {
+      "title": "cryptography Project cryptography 39.0.2 for Python",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/pyca/cryptography/tags",
+      "type": "Version"
+    }
+  ]
+}

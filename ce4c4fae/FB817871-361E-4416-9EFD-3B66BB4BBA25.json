@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.9:*:*:*:*:*:*:*",
+  "cpeNameId": "FB817871-361E-4416-9EFD-3B66BB4BBA25",
+  "created": "2020-07-02T17:34:06.307",
+  "lastModified": "2020-07-02T17:34:06.307",
+  "titles": [
+    {
+      "title": "Palo Alto Networks PAN-OS 9.0.9",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://security.paloaltonetworks.com/CVE-2020-2021",
+      "type": "Advisory"
+    }
+  ]
+}

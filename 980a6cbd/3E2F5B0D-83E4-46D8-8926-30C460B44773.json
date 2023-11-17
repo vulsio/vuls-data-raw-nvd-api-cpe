@@ -1,0 +1,27 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:cakephp:cakephp:2.0.3:*:*:*:*:*:*:*",
+  "cpeNameId": "3E2F5B0D-83E4-46D8-8926-30C460B44773",
+  "created": "2016-01-28T00:15:33.750",
+  "lastModified": "2016-01-28T00:15:33.750",
+  "titles": [
+    {
+      "title": "CakePHP 2.0.3",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "http://cakephp.org/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "http://cakephp.org/changelogs/",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://github.com/cakephp/cakephp/releases",
+      "type": "Version"
+    }
+  ]
+}

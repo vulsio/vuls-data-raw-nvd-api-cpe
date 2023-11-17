@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:cakephp:cakephp:3.6.8:*:*:*:*:*:*:*",
+  "cpeNameId": "6AAED927-C384-4D63-B2F7-528461CB5C46",
+  "created": "2021-05-20T15:54:47.823",
+  "lastModified": "2021-05-20T16:06:15.230",
+  "titles": [
+    {
+      "title": "CakePHP 3.6.8",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://cakephp.org/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://github.com/cakephp/cakephp/releases",
+      "type": "Version"
+    }
+  ]
+}

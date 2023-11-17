@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:rengine_project:rengine:1.0.2:*:*:*:*:*:*:*",
+  "cpeNameId": "2EB0FA29-4ED2-43D3-BACF-A732C16769A2",
+  "created": "2023-09-28T11:24:57.807",
+  "lastModified": "2023-09-28T11:24:57.807",
+  "titles": [
+    {
+      "title": "Rengine Project Rengine 1.0.2",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/yogeshojha/rengine/releases",
+      "type": "Change Log"
+    }
+  ]
+}

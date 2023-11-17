@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:zephyrproject:zephyr:2.90.0:*:*:*:*:*:*:*",
+  "cpeNameId": "0E581E56-7FCE-45CD-BA5D-DA64106E9A40",
+  "created": "2022-06-15T14:08:06.477",
+  "lastModified": "2022-06-16T14:36:34.920",
+  "titles": [
+    {
+      "title": "Zephyrproject Zephyr 2.90.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://wordpress.org/plugins/zephyr-project-manager/#developers",
+      "type": "Change Log"
+    }
+  ]
+}

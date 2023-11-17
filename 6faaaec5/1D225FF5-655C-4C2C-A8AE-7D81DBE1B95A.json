@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:mozilla:firefox_esr:91.12:*:*:*:*:*:*:*",
+  "cpeNameId": "1D225FF5-655C-4C2C-A8AE-7D81DBE1B95A",
+  "created": "2022-12-27T18:35:31.607",
+  "lastModified": "2022-12-27T23:36:24.363",
+  "titles": [
+    {
+      "title": "Mozilla Firefox Extended Support Release (ESR) 91.12",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.mozilla.org/en-US/security/advisories/mfsa2022-29/",
+      "type": "Advisory"
+    }
+  ]
+}

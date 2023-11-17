@@ -1,0 +1,27 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:caseproof:pretty_link:1.6.8:*:*:*:lite:*:*:*",
+  "cpeNameId": "90CF2280-AE20-4480-99D1-2065B4A6F7D2",
+  "created": "2019-12-05T18:49:01.970",
+  "lastModified": "2019-12-05T18:49:01.970",
+  "titles": [
+    {
+      "title": "Caseproof Pretty Link 1.6.8 Lite Edition",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://prettylinks.com/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://caseproof.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://wpvulndb.com/vulnerabilities/8249",
+      "type": "Advisory"
+    }
+  ]
+}

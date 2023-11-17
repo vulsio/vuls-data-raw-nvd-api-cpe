@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:fortinet:fortivoice:4.0.1:*:*:*:entreprise:*:*:*",
+  "cpeNameId": "ED47EB3A-3E72-499A-92F3-9D22BE3B6B8A",
+  "created": "2020-05-04T13:30:21.797",
+  "lastModified": "2020-05-04T13:30:21.797",
+  "titles": [
+    {
+      "title": "Fortinet FortiVoice 4.0.1 Entreprise Edition",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://docs.fortinet.com/product/fortivoice-enterprise/6.0",
+      "type": "Change Log"
+    }
+  ]
+}

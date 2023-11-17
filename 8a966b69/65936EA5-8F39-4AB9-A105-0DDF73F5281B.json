@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:microsoft:windows_ce:5.1.1700:*:*:*:*:*:*:*",
+  "cpeNameId": "65936EA5-8F39-4AB9-A105-0DDF73F5281B",
+  "created": "2007-08-28T21:31:27.427",
+  "lastModified": "2007-09-14T17:36:49.090",
+  "titles": [
+    {
+      "title": "Microsoft windows_ce 5.1.1700",
+      "lang": "en"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows-ce:5.1.1700:*:*:*:*:*:*:*",
+      "cpeNameId": "7CB7214F-FB67-4509-A097-51ACC6D4EDC3"
+    }
+  ]
+}

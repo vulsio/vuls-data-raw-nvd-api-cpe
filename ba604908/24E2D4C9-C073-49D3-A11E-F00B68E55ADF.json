@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:cakefoundation:cakephp:2.4.0:beta:*:*:*:*:*:*",
+  "cpeNameId": "24E2D4C9-C073-49D3-A11E-F00B68E55ADF",
+  "created": "2019-09-10T16:28:25.263",
+  "lastModified": "2019-09-10T16:28:25.263",
+  "titles": [
+    {
+      "title": "Cake Software Foundation CakePHP 2.4.0 Beta",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/cakephp/cakephp/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://cakefoundation.org/old",
+      "type": "Vendor"
+    }
+  ]
+}

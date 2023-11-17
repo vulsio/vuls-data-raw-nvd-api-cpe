@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:nodejs:node.js:4.2.6:*:*:*:lts:*:*:*",
+  "cpeNameId": "5C3836C9-E594-4DD0-8556-DB387CEE24E3",
+  "created": "2019-02-11T16:39:11.750",
+  "lastModified": "2019-02-11T16:39:11.750",
+  "titles": [
+    {
+      "title": "Nodejs Node.js 4.2.6 LTS Edition",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/nodejs/node",
+      "type": "Version"
+    }
+  ]
+}

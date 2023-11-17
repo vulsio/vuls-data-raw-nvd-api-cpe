@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:anji-plus:report:0.9.8.1:*:*:*:*:*:*:*",
+  "cpeNameId": "1E767202-76D0-4D14-B529-C64E9F74E1A4",
+  "created": "2022-11-04T14:28:30.667",
+  "lastModified": "2022-11-04T17:44:41.387",
+  "titles": [
+    {
+      "title": "Anji-plus Report 0.9.8.1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/anji-plus/report/tags",
+      "type": "Version"
+    },
+    {
+      "ref": "http://www.anji-plus.com/",
+      "type": "Vendor"
+    }
+  ]
+}

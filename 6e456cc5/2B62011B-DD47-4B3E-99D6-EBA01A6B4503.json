@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:veronalabs:wp_sms:6.2.0:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "2B62011B-DD47-4B3E-99D6-EBA01A6B4503",
+  "created": "2023-08-30T15:17:50.730",
+  "lastModified": "2023-08-30T15:24:32.113",
+  "titles": [
+    {
+      "title": "VeronaLabs WP SMS 6.2.0 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://veronalabs.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://wordpress.org/plugins/wp-sms/#developers",
+      "type": "Change Log"
+    }
+  ]
+}

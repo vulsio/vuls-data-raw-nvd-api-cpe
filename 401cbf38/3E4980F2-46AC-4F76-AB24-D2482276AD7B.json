@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:suricata-ids:suricata:5.0.0:rc1:*:*:*:*:*:*",
+  "cpeNameId": "3E4980F2-46AC-4F76-AB24-D2482276AD7B",
+  "created": "2019-12-10T19:59:26.767",
+  "lastModified": "2019-12-10T19:59:26.767",
+  "titles": [
+    {
+      "title": "Suricata-ids Suricata 5.0.0 Release Candidate 1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://suricata-ids.org/category/release/",
+      "type": "Change Log"
+    }
+  ]
+}

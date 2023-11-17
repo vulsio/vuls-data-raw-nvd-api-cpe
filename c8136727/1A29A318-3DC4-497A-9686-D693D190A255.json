@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:pulsesecure:pulse_connect_secure:8.1rx:*:*:*:*:*:*:*",
+  "cpeNameId": "1A29A318-3DC4-497A-9686-D693D190A255",
+  "created": "2018-10-26T18:56:13.800",
+  "lastModified": "2021-04-26T18:21:48.527",
+  "titles": [
+    {
+      "title": "PulseSecure Pulse Connect Secure (PCS) 8.1RX",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.pulsesecure.net/techpubs/pulse-policy-secure/pps",
+      "type": "Version"
+    },
+    {
+      "ref": "https://www.pulsesecure.net/techpubs/pulse-connect-secure/pcs",
+      "type": "Version"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:zyxel:zld_firmware:4.55:*:*:*:*:*:*:*",
+  "cpeNameId": "7249AAA4-A2A5-481E-A08C-C61A8185BA18",
+  "created": "2021-01-12T18:00:52.233",
+  "lastModified": "2021-01-12T18:00:52.233",
+  "titles": [
+    {
+      "title": "Zyxel ZLD Firmware 4.55",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.zyxel.com/support/Zyxel-security-advisory-for-buffer-overflow-vulnerability.shtml",
+      "type": "Advisory"
+    }
+  ]
+}

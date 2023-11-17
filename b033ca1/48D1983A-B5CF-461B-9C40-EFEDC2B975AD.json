@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:python:python:3.7:-:*:*:*:*:*:*",
+  "cpeNameId": "48D1983A-B5CF-461B-9C40-EFEDC2B975AD",
+  "created": "2022-09-12T18:29:16.167",
+  "lastModified": "2022-09-20T18:42:16.067",
+  "titles": [
+    {
+      "title": "Python 3.7",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/CVEProject/cvelist/blob/master/2020/10xxx/CVE-2020-10735.json",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://github.com/python/cpython/tags",
+      "type": "Change Log"
+    }
+  ]
+}

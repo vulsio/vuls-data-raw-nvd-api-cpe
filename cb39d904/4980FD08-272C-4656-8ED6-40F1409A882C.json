@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:adobe:experience_manager:6.5.5.0:*:*:*:*:*:*:*",
+  "cpeNameId": "4980FD08-272C-4656-8ED6-40F1409A882C",
+  "created": "2020-06-15T20:16:40.537",
+  "lastModified": "2020-06-15T20:16:40.537",
+  "titles": [
+    {
+      "title": "Adobe Experience Manager 6.5.5.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://helpx.adobe.com/experience-manager/aem-releases-updates.html#65",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb20-31.html",
+      "type": "Advisory"
+    }
+  ]
+}

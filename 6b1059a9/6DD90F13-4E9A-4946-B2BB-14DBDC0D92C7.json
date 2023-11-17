@@ -1,0 +1,13 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:joedolson:my-calendar:1.7.4:*:*:*:*:*:*:*",
+  "cpeNameId": "6DD90F13-4E9A-4946-B2BB-14DBDC0D92C7",
+  "created": "2013-02-06T19:55:30.173",
+  "lastModified": "2013-02-06T19:55:30.173",
+  "titles": [
+    {
+      "title": "joedolson My Calendar plugin (my-calendar) 1.7.4",
+      "lang": "en"
+    }
+  ]
+}

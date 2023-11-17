@@ -1,0 +1,45 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:nodejs:node.js:8.9.1:*:*:*:-:*:*:*",
+  "cpeNameId": "2DD66A18-C213-488C-82FD-8325B776C4C5",
+  "created": "2020-02-10T18:04:34.597",
+  "lastModified": "2020-02-10T18:04:34.597",
+  "titles": [
+    {
+      "title": "Nodejs Node.js 8.9.1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://nodejs.org/docs/",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://nodejs.org/en/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://nodejs.org/en/download/releases/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://nodejs.org/dist/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://nodejs.org/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://nodejs.org/dist/latest-v8.x/",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:nodejs:node.js:8.9.1:*:*:*:*:*:*:*",
+      "cpeNameId": "440C81FE-042B-47BA-A7D5-DABEAB93C44C"
+    }
+  ]
+}

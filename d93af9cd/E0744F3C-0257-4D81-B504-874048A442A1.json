@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:nodejs:node.js:10.3.0:*:*:*:lts:*:*:*",
+  "cpeNameId": "E0744F3C-0257-4D81-B504-874048A442A1",
+  "created": "2020-06-22T11:45:07.163",
+  "lastModified": "2020-06-22T11:45:07.163",
+  "titles": [
+    {
+      "title": "Nodejs Node.js 10.3.0 LTS Edition",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://nodejs.org/en/about/releases/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://nodejs.org/download/release/",
+      "type": "Change Log"
+    }
+  ]
+}

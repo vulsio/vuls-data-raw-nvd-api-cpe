@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:schneider-electric:modicon_m340_bmxp342020_firmware:-:*:*:*:*:*:*:*",
+  "cpeNameId": "1F5AEFCA-6B8B-4D6A-8CB9-12E5062AA4E8",
+  "created": "2022-01-31T20:29:31.970",
+  "lastModified": "2022-02-01T14:14:53.120",
+  "titles": [
+    {
+      "title": "Schneider Electric Modicon M340 BMXP342020 Firmware",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.se.com/ww/en/product/BMXP342020/processor-module-modicon-m340-automation-platform-max-1024-discrete-+-256-analog-i-o-modbus-ethernet/",
+      "type": "Product"
+    }
+  ]
+}

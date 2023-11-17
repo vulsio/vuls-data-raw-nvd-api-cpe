@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:wp-events-plugin:events_manager:2.2.2:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "FF28B0EF-63AD-46C5-831F-A93461C3F0A9",
+  "created": "2019-06-10T17:37:49.087",
+  "lastModified": "2019-06-10T17:37:49.087",
+  "titles": [
+    {
+      "title": "Events Manager Project Events Manager 2.2.2 for Wordpress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://wordpress.org/plugins/events-manager/#developers",
+      "type": "Change Log"
+    }
+  ]
+}

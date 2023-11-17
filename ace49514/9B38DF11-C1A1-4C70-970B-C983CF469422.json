@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:tracker-software:pdf-xchange_editor:5.5.312.1:*:*:*:*:*:*:*",
+  "cpeNameId": "9B38DF11-C1A1-4C70-970B-C983CF469422",
+  "created": "2019-09-16T15:54:40.023",
+  "lastModified": "2019-09-16T15:54:40.023",
+  "titles": [
+    {
+      "title": "Tracker Software PDF-XChange Editor 5.5.312.1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.tracker-software.com/product/pdf-xchange-editor/history",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://www.tracker-software.com/product/pdf-xchange-editor",
+      "type": "Product"
+    }
+  ]
+}

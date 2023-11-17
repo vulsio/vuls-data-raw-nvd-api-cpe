@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:esri:arcgis_desktop:10.8.1:*:*:*:*:*:*:*",
+  "cpeNameId": "EB6629A0-C402-4E15-B8D6-63E66A52E644",
+  "created": "2021-03-26T13:58:20.750",
+  "lastModified": "2021-04-15T18:07:26.423",
+  "titles": [
+    {
+      "title": "ESRI ArcGIS Desktop 10.8.1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.esri.com/en-us/arcgis/products/arcgis-platform/overview",
+      "type": "Product"
+    }
+  ]
+}

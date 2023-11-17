@@ -1,0 +1,13 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:ipswitch:whatsup_gold:7.04:*:*:*:*:*:*:*",
+  "cpeNameId": "16065B41-6898-41E6-91A1-F8E46A0F5FD0",
+  "created": "2007-08-23T21:16:59.567",
+  "lastModified": "2012-08-20T18:31:16.700",
+  "titles": [
+    {
+      "title": "Ipswitch WhatsUp Gold 7.04",
+      "lang": "en"
+    }
+  ]
+}

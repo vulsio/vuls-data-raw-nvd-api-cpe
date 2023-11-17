@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:f5:f5os-c:1.3.2:*:*:*:*:*:*:*",
+  "cpeNameId": "7B142D84-B43A-4F3B-825C-79A02C2FD726",
+  "created": "2023-05-16T12:00:41.170",
+  "lastModified": "2023-07-21T17:32:34.973",
+  "titles": [
+    {
+      "title": "F5 F5os-c 1.3.2",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://my.f5.com/manage/s/article/K83120834",
+      "type": "Advisory"
+    }
+  ]
+}

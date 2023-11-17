@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:ibm:engineering_lifecycle_optimization_-_publishing:7.0:*:*:*:*:*:*:*",
+  "cpeNameId": "8B4FC6B5-99BA-4306-944F-91F45E9FABBF",
+  "created": "2021-06-07T13:42:45.717",
+  "lastModified": "2021-08-23T13:28:48.267",
+  "titles": [
+    {
+      "title": "IBM Engineering Lifecycle Optimization - Publishing 7.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.ibm.com/products/engineering-lifecycle-optimization/publishing",
+      "type": "Product"
+    }
+  ]
+}

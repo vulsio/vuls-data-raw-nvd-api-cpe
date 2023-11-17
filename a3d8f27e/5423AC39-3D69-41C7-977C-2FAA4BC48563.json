@@ -1,0 +1,27 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:ashstonestudios:absolute_reviews:1.0.3:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "5423AC39-3D69-41C7-977C-2FAA4BC48563",
+  "created": "2023-06-21T14:59:36.787",
+  "lastModified": "2023-06-21T16:05:34.537",
+  "titles": [
+    {
+      "title": "Ashstonestudios Absolute Reviews 1.0.3 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://ashstonestudios.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://wordpress.org/plugins/absolute-reviews/#developers",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://blog.nintechnet.com/multiple-wordpress-plugins-fixed-csrf-vulnerabilities-part-3/",
+      "type": "Advisory"
+    }
+  ]
+}

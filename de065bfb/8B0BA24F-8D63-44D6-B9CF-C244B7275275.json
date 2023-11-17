@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:fastapi_project:fastapi:0.10.1:*:*:*:*:*:*:*",
+  "cpeNameId": "8B0BA24F-8D63-44D6-B9CF-C244B7275275",
+  "created": "2021-06-16T15:26:59.623",
+  "lastModified": "2021-06-24T17:33:19.890",
+  "titles": [
+    {
+      "title": "FastAPI Project FastAPI 0.10.1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/tiangolo/fastapi/security/advisories/GHSA-8h2j-cgx8-6xv7",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://github.com/tiangolo/fastapi/releases",
+      "type": "Change Log"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:ffw:complete_analytics_optimization_suite:4.1.1:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "6F7A75A1-0DA9-4FAB-BCD6-1F4ADD9F4DE6",
+  "created": "2022-01-10T20:09:40.783",
+  "lastModified": "2022-01-11T14:34:19.393",
+  "titles": [
+    {
+      "title": "FFW.Press Complete Analytics Optimization Suite (CAOS) 4.1.1 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://wordpress.org/plugins/host-analyticsjs-local/#developers",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://ffw.press/",
+      "type": "Vendor"
+    }
+  ]
+}

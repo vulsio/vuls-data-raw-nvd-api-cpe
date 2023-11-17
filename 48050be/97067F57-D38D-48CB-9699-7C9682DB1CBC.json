@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:gnu:glibc:2.29:*:*:*:*:*:x86:*",
+  "cpeNameId": "97067F57-D38D-48CB-9699-7C9682DB1CBC",
+  "created": "2019-03-06T16:56:49.053",
+  "lastModified": "2019-03-06T16:56:49.053",
+  "titles": [
+    {
+      "title": "GNU glibc 2.29 x86",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://pkgs.org/download/glibc(x86-64)",
+      "type": "Version"
+    }
+  ]
+}

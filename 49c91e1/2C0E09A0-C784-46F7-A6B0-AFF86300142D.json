@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:qnap:quts_hero:h5.0.1.2348:*:*:*:*:*:*:*",
+  "cpeNameId": "2C0E09A0-C784-46F7-A6B0-AFF86300142D",
+  "created": "2023-04-04T16:40:11.607",
+  "lastModified": "2023-09-01T03:42:36.997",
+  "titles": [
+    {
+      "title": "QNAP QuTS hero h5.0.1.2348",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.qnap.com/en-us/release-notes/quts_hero/overview/h5.0.1",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://www.qnap.com/en/security-advisory/qsa-23-10",
+      "type": "Advisory"
+    }
+  ]
+}

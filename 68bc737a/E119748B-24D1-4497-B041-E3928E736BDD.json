@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:bitcoincore:bitcoin_core:0.11.1:*:*:*:*:*:*:*",
+  "cpeNameId": "E119748B-24D1-4497-B041-E3928E736BDD",
+  "created": "2018-08-25T12:12:00.297",
+  "lastModified": "2021-03-16T18:08:02.160",
+  "titles": [
+    {
+      "title": "Bitcoincore Bitcoin Core 0.11.1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://bitcoin.org/en/version-history",
+      "type": "Version"
+    }
+  ]
+}

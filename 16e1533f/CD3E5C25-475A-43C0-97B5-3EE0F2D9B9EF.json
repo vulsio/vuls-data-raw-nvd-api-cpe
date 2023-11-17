@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:veeam:backup_\\&_replication:11.0.0.825:*:*:*:*:*:*:*",
+  "cpeNameId": "CD3E5C25-475A-43C0-97B5-3EE0F2D9B9EF",
+  "created": "2022-03-24T13:08:43.213",
+  "lastModified": "2022-03-25T14:51:28.573",
+  "titles": [
+    {
+      "title": "Veeam Backup & Replication 11.0.0.825",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.veeam.com/kb2680",
+      "type": "Version"
+    },
+    {
+      "ref": "https://www.veeam.com/kb4288",
+      "type": "Advisory"
+    }
+  ]
+}

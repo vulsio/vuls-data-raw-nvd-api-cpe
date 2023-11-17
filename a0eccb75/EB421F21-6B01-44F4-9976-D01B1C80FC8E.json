@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:openvpn:openvpn:2.2.0:rc2:*:*:*:*:*:*",
+  "cpeNameId": "EB421F21-6B01-44F4-9976-D01B1C80FC8E",
+  "created": "2019-10-31T17:20:06.087",
+  "lastModified": "2019-10-31T17:20:06.087",
+  "titles": [
+    {
+      "title": "OpenVPN 2.2.0 Release Candidate 2",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/OpenVPN/openvpn/tags",
+      "type": "Version"
+    },
+    {
+      "ref": "https://community.openvpn.net/openvpn/wiki/ChangesInOpenvpn24",
+      "type": "Change Log"
+    }
+  ]
+}

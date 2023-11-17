@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:nodejs:node.js:4.3.1:*:*:*:lts:*:*:*",
+  "cpeNameId": "ED78D8E0-71EF-4ED8-9F79-BE3C572F6731",
+  "created": "2019-02-11T16:39:12.047",
+  "lastModified": "2019-02-11T16:39:12.047",
+  "titles": [
+    {
+      "title": "Nodejs Node.js 4.3.1 LTS Edition",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/nodejs/node",
+      "type": "Version"
+    }
+  ]
+}

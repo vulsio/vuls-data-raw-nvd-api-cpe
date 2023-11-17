@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:linux:linux_kernel:4.0:*:*:*:*:*:*:*",
+  "cpeNameId": "2467EFC2-0000-4EE5-AD91-D4EDD1009228",
+  "created": "2016-05-26T14:45:11.503",
+  "lastModified": "2016-05-26T14:45:11.503",
+  "titles": [
+    {
+      "title": "Linux Kernel 4.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "http://kernelnewbies.org/Linux_4.0",
+      "type": "Version"
+    }
+  ]
+}

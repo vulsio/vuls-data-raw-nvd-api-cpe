@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:adobe:experience_manager:6.1.0:*:*:*:*:*:*:*",
+  "cpeNameId": "DEEBEB1B-E086-47F7-8E60-9DC42DF3C1BB",
+  "created": "2016-02-17T21:58:49.787",
+  "lastModified": "2016-02-17T21:58:49.787",
+  "titles": [
+    {
+      "title": "Adobe Experience Manager 6.1.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://docs.adobe.com/content/docs/en/aem/6-1.html",
+      "type": "Vendor"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:cisco:firepower_management_center:2.9.13.6:*:*:*:*:*:*:*",
+  "cpeNameId": "4B07DB07-CD5B-47D2-8639-FB0A15C6138B",
+  "created": "2019-12-06T19:14:46.287",
+  "lastModified": "2019-12-06T19:14:46.287",
+  "titles": [
+    {
+      "title": "Cisco Firepower Management Center 2.9.13.6",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190816-ftd-null",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://www.cisco.com/c/en/us/support/security/defense-center/products-release-notes-list.html",
+      "type": "Version"
+    }
+  ]
+}

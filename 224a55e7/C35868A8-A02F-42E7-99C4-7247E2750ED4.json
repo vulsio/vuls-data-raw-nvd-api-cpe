@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:asterisk:open_source:14.2.0:rc2:*:*:*:*:*:*",
+  "cpeNameId": "C35868A8-A02F-42E7-99C4-7247E2750ED4",
+  "created": "2017-06-08T15:57:38.270",
+  "lastModified": "2021-03-03T17:33:02.370",
+  "titles": [
+    {
+      "title": "Asterisk Open Source 14.2.0 Release Candidate 2",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/asterisk/asterisk/releases",
+      "type": "Version"
+    },
+    {
+      "ref": "https://downloads.asterisk.org/pub/telephony/certified-asterisk/releases/",
+      "type": "Version"
+    }
+  ]
+}

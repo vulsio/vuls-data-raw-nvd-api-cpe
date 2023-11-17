@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:aruba:cx_6300_firmware:10.04.1000:*:*:*:*:*:*:*",
+  "cpeNameId": "D1F69418-5976-453F-A703-B4646AEE9310",
+  "created": "2020-10-16T18:00:57.307",
+  "lastModified": "2020-10-16T18:00:57.307",
+  "titles": [
+    {
+      "title": "Aruba CX 6300 Firmware 10.04.1000",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2020-009.txt",
+      "type": "Advisory"
+    }
+  ]
+}

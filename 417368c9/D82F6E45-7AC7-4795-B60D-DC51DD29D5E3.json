@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:sir:gnuboard:5.56:*:*:*:*:*:*:*",
+  "cpeNameId": "D82F6E45-7AC7-4795-B60D-DC51DD29D5E3",
+  "created": "2022-05-20T12:48:28.930",
+  "lastModified": "2022-11-09T20:55:24.030",
+  "titles": [
+    {
+      "title": "SIR GNUBoard 5.56",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/gnuboard/gnuboard5/releases",
+      "type": "Change Log"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:h:samsung:t-oscpdeuc:-:*:*:*:*:*:*:*",
+  "cpeNameId": "CE6BF80B-9EB8-4EE9-9873-D962833C4BBF",
+  "created": "2022-12-14T20:22:11.117",
+  "lastModified": "2022-12-17T13:36:21.367",
+  "titles": [
+    {
+      "title": "Samsung T-OSCPDEUC",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://samsungtvbounty.com/securityUpdates",
+      "type": "Advisory"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:fla-shop:html5_maps:1.6.5.1:*:*:*:*:*:*:*",
+  "cpeNameId": "F2E4E1A9-5821-4F61-B667-3C7E7F4B2F7C",
+  "created": "2019-07-15T13:00:12.067",
+  "lastModified": "2019-07-15T13:00:12.067",
+  "titles": [
+    {
+      "title": "Fla-Shop HTML5 Maps 1.6.5.1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.fla-shop.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://wordpress.org/plugins/html5-maps/#developers",
+      "type": "Version"
+    },
+    {
+      "ref": "https://wordpress.org/plugins/html5-maps/",
+      "type": "Project"
+    }
+  ]
+}

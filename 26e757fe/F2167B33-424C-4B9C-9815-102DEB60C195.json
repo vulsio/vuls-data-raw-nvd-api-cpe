@@ -1,0 +1,13 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:veeam:backup_and_replication:5.0.2.230:*:*:*:*:*:*:*",
+  "cpeNameId": "F2167B33-424C-4B9C-9815-102DEB60C195",
+  "created": "2012-08-01T21:33:16.687",
+  "lastModified": "2012-08-01T21:33:16.687",
+  "titles": [
+    {
+      "title": "Veeam Backup And Replication 5.0.2.230",
+      "lang": "en"
+    }
+  ]
+}

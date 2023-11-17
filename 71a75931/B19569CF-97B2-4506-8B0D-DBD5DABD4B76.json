@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:libcap_project:libcap:2.25:*:*:*:*:*:*:*",
+  "cpeNameId": "B19569CF-97B2-4506-8B0D-DBD5DABD4B76",
+  "created": "2019-01-28T15:30:34.387",
+  "lastModified": "2019-01-28T15:30:34.387",
+  "titles": [
+    {
+      "title": "libcap Project libcap 2.25",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "http://sites.google.com/site/fullycapable/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://www.kernel.org/pub/linux/libs/security/linux-privs/libcap2",
+      "type": "Version"
+    }
+  ]
+}

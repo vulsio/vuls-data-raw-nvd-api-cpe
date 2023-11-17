@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:sir:gnuboard:5.1.16:*:*:*:*:*:*:*",
+  "cpeNameId": "B89201DF-A527-4FC8-BD4A-E38F52DAB290",
+  "created": "2023-02-28T11:22:06.480",
+  "lastModified": "2023-02-28T11:24:40.883",
+  "titles": [
+    {
+      "title": "SIR GNUBoard 5.1.16",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/gnuboard/gnuboard5/tags",
+      "type": "Version"
+    },
+    {
+      "ref": "https://sir.kr/",
+      "type": "Vendor"
+    }
+  ]
+}

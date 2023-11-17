@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:pulsesecure:pulse_connect_secure:9.0rx:*:*:*:*:*:*:*",
+  "cpeNameId": "D1CF6C83-0A81-40B2-A9C4-B0643A3B9046",
+  "created": "2019-04-29T16:05:31.433",
+  "lastModified": "2021-04-26T18:21:48.527",
+  "titles": [
+    {
+      "title": "PulseSecure Pulse Connect Secure (PCS) 9.0RX",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www-prev.pulsesecure.net/techpubs/pulse-connect-secure/pcs",
+      "type": "Version"
+    }
+  ]
+}

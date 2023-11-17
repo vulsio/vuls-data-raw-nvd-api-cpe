@@ -1,0 +1,27 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:b1:*:*:*:*:*:*",
+  "cpeNameId": "C7235F8D-7068-4529-A1E4-19E42E5E4EE7",
+  "created": "2022-03-02T14:27:50.630",
+  "lastModified": "2022-03-02T14:51:53.557",
+  "titles": [
+    {
+      "title": "tribe29 checkmk 2.1.0 B1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://checkmk.com/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://tribe29.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://github.com/tribe29/checkmk/tags",
+      "type": "Change Log"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:adobe:experience_manager:6.2.0.0:sp1-cfp17:*:*:*:*:*:*",
+  "cpeNameId": "C17F1FC2-B09A-4B6A-9840-4E04CE123D58",
+  "created": "2020-09-16T10:52:16.517",
+  "lastModified": "2020-09-16T10:52:16.517",
+  "titles": [
+    {
+      "title": "Adobe Experience Manager 6.2.0.0 Service Pack 1-Cumulative Fix Pack 17",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://helpx.adobe.com/experience-manager/release-notes--aem-6-2-cumulative-fix-pack.html",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html",
+      "type": "Version"
+    },
+    {
+      "ref": "https://www.adobe.com/",
+      "type": "Vendor"
+    }
+  ]
+}

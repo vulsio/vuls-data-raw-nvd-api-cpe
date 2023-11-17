@@ -1,0 +1,13 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:haxx:curl:7.15.1:*:*:*:*:*:*:*",
+  "cpeNameId": "579C4E34-4A37-484F-A80C-BAB12C41162F",
+  "created": "2013-04-30T15:36:50.500",
+  "lastModified": "2013-05-08T14:49:10.693",
+  "titles": [
+    {
+      "title": "Haxx Curl 7.15.1",
+      "lang": "en"
+    }
+  ]
+}

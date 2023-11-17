@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:owncloud:owncloud:7.0.9:*:*:*:*:*:*:*",
+  "cpeNameId": "9A74F486-702A-4A2D-96D3-033DED0A4452",
+  "created": "2022-06-30T13:05:51.647",
+  "lastModified": "2022-06-30T13:06:39.087",
+  "titles": [
+    {
+      "title": "OwnCloud 7.0.9",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/owncloud/core",
+      "type": "Version"
+    },
+    {
+      "ref": "https://owncloud.com/",
+      "type": "Vendor"
+    }
+  ]
+}

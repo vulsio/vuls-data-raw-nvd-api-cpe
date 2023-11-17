@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:easy_appointments_project:easy_appointments:1.6.0:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "FAEF830C-D6D5-46C9-A17B-02DB0B2E1FB4",
+  "created": "2019-07-26T11:50:12.583",
+  "lastModified": "2019-07-26T11:50:12.583",
+  "titles": [
+    {
+      "title": "Easy Appointments Project Easy Appointments 1.6.0 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://wordpress.org/plugins/easy-appointments/#developers",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://wordpress.org/plugins/easy-appointments/",
+      "type": "Project"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:opensuse:libzypp:12.13.2:*:*:*:*:*:*:*",
+  "cpeNameId": "191978E3-5F4D-4D9B-AD18-19C2D25E3B6A",
+  "created": "2019-06-05T17:22:01.020",
+  "lastModified": "2019-06-05T17:22:01.020",
+  "titles": [
+    {
+      "title": "openSUSE libzypp 12.13.2",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/openSUSE/libzypp",
+      "type": "Version"
+    }
+  ]
+}

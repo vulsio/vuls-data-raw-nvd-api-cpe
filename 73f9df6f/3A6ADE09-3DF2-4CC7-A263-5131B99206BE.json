@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:plexus-utils_project:plexus-utils:3.0.1:*:*:*:*:*:*:*",
+  "cpeNameId": "3A6ADE09-3DF2-4CC7-A263-5131B99206BE",
+  "created": "2019-09-18T18:14:31.387",
+  "lastModified": "2019-09-18T18:14:31.387",
+  "titles": [
+    {
+      "title": "Plexus-Utils Project Plexus-Utils 3.0.1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://codehaus-plexus.github.io/plexus-utils/",
+      "type": "Product"
+    }
+  ]
+}

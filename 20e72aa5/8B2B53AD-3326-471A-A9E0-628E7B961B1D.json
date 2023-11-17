@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:openharmony:openharmony:3.2.3:*:*:*:-:*:*:*",
+  "cpeNameId": "8B2B53AD-3326-471A-A9E0-628E7B961B1D",
+  "created": "2023-09-21T14:07:08.143",
+  "lastModified": "2023-09-21T14:07:08.143",
+  "titles": [
+    {
+      "title": "OpenHarmony 3.2.3 ",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://gitee.com/openharmony/docs/tree/master/zh-cn/release-notes",
+      "type": "Change Log"
+    }
+  ]
+}

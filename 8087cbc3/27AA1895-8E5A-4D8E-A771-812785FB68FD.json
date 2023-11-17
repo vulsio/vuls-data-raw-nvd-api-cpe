@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:upx_project:upx:2.00:*:*:*:*:*:*:*",
+  "cpeNameId": "27AA1895-8E5A-4D8E-A771-812785FB68FD",
+  "created": "2019-10-17T12:34:02.887",
+  "lastModified": "2019-10-17T12:34:02.887",
+  "titles": [
+    {
+      "title": "UPX Project UPX (Ultimate Packer for eXecutables) 2.00",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/upx/upx",
+      "type": "Project"
+    }
+  ]
+}

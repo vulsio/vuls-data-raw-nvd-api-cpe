@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:axmlrpc_project:axmlrpc:1.8.1:*:*:*:*:*:*:*",
+  "cpeNameId": "67C77137-3530-4560-9061-E4AE18F8D427",
+  "created": "2023-01-10T16:24:28.363",
+  "lastModified": "2023-01-10T18:04:41.463",
+  "titles": [
+    {
+      "title": "aXMLRPC Project aXMLRPC 1.8.1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/gturri/aXMLRPC/tags",
+      "type": "Version"
+    },
+    {
+      "ref": "https://vuldb.com/?id.217450",
+      "type": "Advisory"
+    }
+  ]
+}

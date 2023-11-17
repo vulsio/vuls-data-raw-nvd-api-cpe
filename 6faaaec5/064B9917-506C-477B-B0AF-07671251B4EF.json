@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:mozilla:firefox_esr:91.1:*:*:*:*:*:*:*",
+  "cpeNameId": "064B9917-506C-477B-B0AF-07671251B4EF",
+  "created": "2021-11-03T17:51:16.637",
+  "lastModified": "2021-11-04T14:58:05.737",
+  "titles": [
+    {
+      "title": "Mozilla Firefox ESR 91.1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.mozilla.org/en-US/security/advisories/mfsa2021-40/",
+      "type": "Advisory"
+    }
+  ]
+}

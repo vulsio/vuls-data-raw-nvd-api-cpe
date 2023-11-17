@@ -1,0 +1,18 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:esri:arcgis_for_server:10.1.1:*:*:*:*:*:*:*",
+  "cpeNameId": "7C7D70F3-8E86-41BB-B13D-3188311DA35B",
+  "created": "2014-08-22T17:34:26.707",
+  "lastModified": "2014-08-22T17:34:56.100",
+  "titles": [
+    {
+      "title": "ESRI ArcGIS for Server 10.1.1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "http://www.esri.com/software/arcgis/arcgisserver"
+    }
+  ]
+}

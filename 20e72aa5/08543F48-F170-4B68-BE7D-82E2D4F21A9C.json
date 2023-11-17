@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:openharmony:openharmony:3.0.6:*:*:*:lts:*:*:*",
+  "cpeNameId": "08543F48-F170-4B68-BE7D-82E2D4F21A9C",
+  "created": "2022-12-12T14:43:25.370",
+  "lastModified": "2023-01-09T21:16:58.570",
+  "titles": [
+    {
+      "title": "OpenHarmony 3.0.6 LTS Edition",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://gitee.com/openharmony/security/blob/master/en/security-disclosure/2022/2022-12.md",
+      "type": "Advisory"
+    }
+  ]
+}

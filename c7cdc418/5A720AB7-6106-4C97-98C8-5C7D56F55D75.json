@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:shaosina:sina_extension_for_elementor:2.3.0:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "5A720AB7-6106-4C97-98C8-5C7D56F55D75",
+  "created": "2019-09-03T14:37:00.290",
+  "lastModified": "2019-09-03T14:37:00.290",
+  "titles": [
+    {
+      "title": "Shaosina Sina Extension for Elementor 2.3.0 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://wordpress.org/plugins/sina-extension-for-elementor/#developers",
+      "type": "Change Log"
+    }
+  ]
+}

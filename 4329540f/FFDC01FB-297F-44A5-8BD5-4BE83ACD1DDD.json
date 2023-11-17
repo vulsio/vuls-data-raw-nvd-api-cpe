@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:daily_prayer_time_project:daily_prayer_time:2020.05.01:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "FFDC01FB-297F-44A5-8BD5-4BE83ACD1DDD",
+  "created": "2021-09-15T17:51:53.167",
+  "lastModified": "2021-09-16T16:29:32.027",
+  "titles": [
+    {
+      "title": "Daily Prayer Time Project Daily Prayer Time 2020.05.01 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://wordpress.org/plugins/daily-prayer-time-for-mosques/#description",
+      "type": "Product"
+    },
+    {
+      "ref": "https://plugins.trac.wordpress.org/browser/daily-prayer-time-for-mosques/#tags",
+      "type": "Version"
+    }
+  ]
+}

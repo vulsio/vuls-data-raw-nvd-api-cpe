@@ -1,0 +1,18 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:chamilo:chamilo_lms:1.9.4:*:*:*:*:*:*:*",
+  "cpeNameId": "1D1D570E-22FF-4A71-B65D-2F5D98701F54",
+  "created": "2013-12-06T16:51:24.620",
+  "lastModified": "2013-12-09T21:46:18.247",
+  "titles": [
+    {
+      "title": "Chamilo LMS 1.9.4",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "http://www.chamilo.org/en/versions"
+    }
+  ]
+}

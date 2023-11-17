@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:nodejs:node.js:8.1.0:*:*:*:lts:*:*:*",
+  "cpeNameId": "8FE6E3F9-4D29-4444-971B-3886CAE3BA29",
+  "created": "2020-06-22T11:45:04.210",
+  "lastModified": "2020-06-22T11:45:04.210",
+  "titles": [
+    {
+      "title": "Nodejs Node.js 8.1.0 LTS Edition",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://nodejs.org/en/about/releases/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://nodejs.org/download/release/",
+      "type": "Change Log"
+    }
+  ]
+}

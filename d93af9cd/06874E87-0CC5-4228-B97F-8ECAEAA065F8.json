@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:nodejs:node.js:6.9.5:*:*:*:lts:*:*:*",
+  "cpeNameId": "06874E87-0CC5-4228-B97F-8ECAEAA065F8",
+  "created": "2019-02-11T16:39:16.547",
+  "lastModified": "2019-02-11T16:39:16.547",
+  "titles": [
+    {
+      "title": "Nodejs Node.js 6.9.5 LTS Edition",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/nodejs/node",
+      "type": "Version"
+    }
+  ]
+}

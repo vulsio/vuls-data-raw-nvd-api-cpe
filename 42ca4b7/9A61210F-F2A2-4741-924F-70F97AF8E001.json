@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:nixos:patchelf:0.9:*:*:*:*:*:*:*",
+  "cpeNameId": "9A61210F-F2A2-4741-924F-70F97AF8E001",
+  "created": "2023-09-29T03:56:47.257",
+  "lastModified": "2023-09-29T03:56:47.257",
+  "titles": [
+    {
+      "title": "NixOS Patchelf 0.9",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/NixOS/patchelf/releases",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://nixos.org/",
+      "type": "Vendor"
+    }
+  ]
+}

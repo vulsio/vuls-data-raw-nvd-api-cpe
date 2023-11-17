@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:schneider-electric:bmxp342030h_firmware:-:*:*:*:*:*:*:*",
+  "cpeNameId": "841A68D2-8717-4066-AB48-E613916B28B7",
+  "created": "2019-04-02T15:10:55.147",
+  "lastModified": "2021-05-11T17:49:02.347",
+  "titles": [
+    {
+      "title": "Schneider-electric Bmxp342030h Firmware -",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://ics-cert.us-cert.gov/advisories/ICSA-15-246-02",
+      "type": "Advisory"
+    }
+  ]
+}

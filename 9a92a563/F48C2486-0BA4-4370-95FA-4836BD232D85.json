@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:getshortcodes:shortcodes_ultimate:4.9.8:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "F48C2486-0BA4-4370-95FA-4836BD232D85",
+  "created": "2019-09-03T17:31:52.130",
+  "lastModified": "2019-09-03T17:31:52.130",
+  "titles": [
+    {
+      "title": "Getshortcodes Shortcodes Ultimate 4.9.8 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://wordpress.org/plugins/shortcodes-ultimate/#developers",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://getshortcodes.com/",
+      "type": "Vendor"
+    }
+  ]
+}

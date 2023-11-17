@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:twistedmatrix:twisted:22.4.0:-:*:*:*:*:*:*",
+  "cpeNameId": "B01B39E7-A58C-48EC-937A-B2FB970B51CC",
+  "created": "2022-04-12T13:14:59.923",
+  "lastModified": "2022-05-20T18:56:51.343",
+  "titles": [
+    {
+      "title": "Twisted Matrix Twisted 22.4.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/twisted/twisted/releases",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://github.com/twisted/twisted/security/advisories/GHSA-c2jg-hw38-jrqq",
+      "type": "Advisory"
+    }
+  ]
+}

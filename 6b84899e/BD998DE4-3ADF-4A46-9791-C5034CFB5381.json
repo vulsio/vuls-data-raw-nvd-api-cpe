@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:awpcp:another_wordpress_classifieds_plugin:4.3:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "BD998DE4-3ADF-4A46-9791-C5034CFB5381",
+  "created": "2022-10-31T17:23:18.693",
+  "lastModified": "2022-11-04T16:12:14.797",
+  "titles": [
+    {
+      "title": "AWPCP Another WordPress Classifieds Plugin 4.3 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://wordpress.org/plugins/another-wordpress-classifieds-plugin/#developers",
+      "type": "Change Log"
+    },
+    {
+      "ref": "http://awpcp.com/",
+      "type": "Vendor"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:huawei:openeuler:20.03:sp3:*:*:lts:*:*:*",
+  "cpeNameId": "504AD464-D072-48C8-A3F6-4D5E3C3654C8",
+  "created": "2022-03-17T16:12:53.590",
+  "lastModified": "2022-07-13T14:46:27.713",
+  "titles": [
+    {
+      "title": "Huawei Openeuler 20.03 Service Pack 3 Lts Edition",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.openeuler.org/zh/security/safety-bulletin/detail.html?id=openEuler-SA-2022-1541",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://github.com/CVEProject/cvelist/blob/master/2021/33xxx/CVE-2021-33658.json",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://www.openeuler.org/en/",
+      "type": "Product"
+    }
+  ]
+}

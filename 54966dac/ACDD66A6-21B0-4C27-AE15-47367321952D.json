@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:synology:diskstation_manager:5.2-5592:*:*:*:*:*:*:*",
+  "cpeNameId": "ACDD66A6-21B0-4C27-AE15-47367321952D",
+  "created": "2019-05-09T14:33:19.667",
+  "lastModified": "2019-05-09T14:33:19.667",
+  "titles": [
+    {
+      "title": "Synology Diskstation Manager 5.2-5592",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.synology.com/en-us/releaseNote/DS1815+",
+      "type": "Version"
+    },
+    {
+      "ref": "https://www.synology.com/en-us/releaseNote/DS211j",
+      "type": "Version"
+    }
+  ]
+}

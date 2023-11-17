@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:arm:midguard_gpu_kernel_driver:r4p0:*:*:*:*:*:*:*",
+  "cpeNameId": "9FEEB9EA-7F60-4988-B458-71425BC37422",
+  "created": "2022-10-26T13:17:59.727",
+  "lastModified": "2022-10-26T15:53:25.267",
+  "titles": [
+    {
+      "title": "ARM Midguard GPU Kernel Driver r4p0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://developer.arm.com/Arm%20Security%20Center/Mali%20GPU%20Driver%20Vulnerabilities",
+      "type": "Advisory"
+    }
+  ]
+}

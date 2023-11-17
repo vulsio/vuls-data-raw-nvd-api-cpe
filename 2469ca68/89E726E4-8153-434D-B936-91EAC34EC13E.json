@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:arm:bifrost:r30p0:*:*:*:*:*:*:*",
+  "cpeNameId": "89E726E4-8153-434D-B936-91EAC34EC13E",
+  "created": "2021-06-02T15:41:44.080",
+  "lastModified": "2021-06-02T16:12:35.463",
+  "titles": [
+    {
+      "title": "ARM Bifrost r30p0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://developer.arm.com/support/arm-security-updates/mali-gpu-kernel-driver",
+      "type": "Advisory"
+    }
+  ]
+}

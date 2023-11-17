@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:woocommerce:woocommerce:1.0.1:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "30352AA1-AC18-42BC-8612-335A5B8A2D62",
+  "created": "2019-07-16T17:45:16.053",
+  "lastModified": "2019-07-16T17:45:16.053",
+  "titles": [
+    {
+      "title": "WooCommerce 1.0.1 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://woocommerce.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://github.com/woocommerce/woocommerce/",
+      "type": "Version"
+    }
+  ]
+}

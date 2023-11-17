@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:omnitauth-saml_project:omnitauth-saml:0.9.2:*:*:*:*:*:*:*",
+  "cpeNameId": "F99336FD-CB59-45AE-8446-8C00853E3288",
+  "created": "2019-09-30T13:44:09.537",
+  "lastModified": "2019-09-30T13:44:09.537",
+  "titles": [
+    {
+      "title": "OmnitAuth-SAML Project OmnitAuth-SAML 0.9.2",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/omniauth/omniauth-saml",
+      "type": "Project"
+    }
+  ]
+}

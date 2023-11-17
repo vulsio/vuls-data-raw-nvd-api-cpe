@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:mozilla:firefox_esr:78.4.0:*:*:*:*:*:*:*",
+  "cpeNameId": "7DC257CB-CA02-41EF-B935-320A334C647A",
+  "created": "2020-12-21T16:25:35.313",
+  "lastModified": "2020-12-21T16:25:35.313",
+  "titles": [
+    {
+      "title": "Mozilla Firefox ESR 78.4.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.mozilla.org/en-US/firefox/78.4.0/releasenotes/",
+      "type": "Version"
+    }
+  ]
+}

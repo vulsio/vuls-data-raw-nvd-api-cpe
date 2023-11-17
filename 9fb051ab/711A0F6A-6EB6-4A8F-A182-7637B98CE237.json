@@ -1,0 +1,27 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:cisco:ios:15.0\\\\(2\\\\)se:*:*:*:*:*:*:*",
+  "cpeNameId": "711A0F6A-6EB6-4A8F-A182-7637B98CE237",
+  "created": "2020-05-11T12:09:47.557",
+  "lastModified": "2020-05-11T12:09:47.557",
+  "titles": [
+    {
+      "title": "Cisco IOS 15.0\\(2\\)SE",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://software.cisco.com/download/home/281458045",
+      "type": "Version"
+    },
+    {
+      "ref": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCuv45410",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160323-smi",
+      "type": "Advisory"
+    }
+  ]
+}

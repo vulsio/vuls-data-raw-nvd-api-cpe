@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:oracle:jdk:9.0.1:*:*:*:*:*:*:*",
+  "cpeNameId": "28303AAC-39A0-4D42-9FFA-FF99A0A733AB",
+  "created": "2020-03-19T13:00:24.090",
+  "lastModified": "2020-03-19T13:00:24.090",
+  "titles": [
+    {
+      "title": "Oracle JDK 9.0.1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.oracle.com/technetwork/java/javase/9u-relnotes-3704429.html",
+      "type": "Version"
+    }
+  ]
+}

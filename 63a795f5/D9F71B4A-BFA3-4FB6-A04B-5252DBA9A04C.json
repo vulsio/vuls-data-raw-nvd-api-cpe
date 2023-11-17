@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:cisco:firepower_management_center:6.0.0:*:*:*:*:*:*:*",
+  "cpeNameId": "D9F71B4A-BFA3-4FB6-A04B-5252DBA9A04C",
+  "created": "2015-12-17T17:21:10.293",
+  "lastModified": "2015-12-17T17:21:10.293",
+  "titles": [
+    {
+      "title": "Cisco Firepower Management Center 6.0.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "http://www.cisco.com/c/en/us/products/collateral/security/firesight-management-center/datasheet-c78-732251.html",
+      "type": "Vendor"
+    }
+  ]
+}

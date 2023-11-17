@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:cisco:firepower_management_center:6.2.3.16:*:*:*:*:*:*:*",
+  "cpeNameId": "6E666A71-79D9-423D-9B9D-DF1C1E889814",
+  "created": "2020-12-02T15:45:03.583",
+  "lastModified": "2020-12-02T15:45:03.583",
+  "titles": [
+    {
+      "title": "Cisco Firepower Management Center 6.2.3.16",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.cisco.com/c/en/us/td/docs/security/firepower/hotfix/Firepower_Hotfix_Release_Notes/available-hotfixes.html",
+      "type": "Version"
+    }
+  ]
+}

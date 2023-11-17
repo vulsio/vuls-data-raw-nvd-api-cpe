@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:adobe:experience_manager:6.1.1.0:*:*:*:*:*:*:*",
+  "cpeNameId": "1B82DDDF-063C-462C-831B-FDC938A9D969",
+  "created": "2018-11-19T18:40:13.560",
+  "lastModified": "2018-11-19T18:40:13.560",
+  "titles": [
+    {
+      "title": "Adobe Experience Manager 6.1.1.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://helpx.adobe.com/experience-manager/aem-releases-updates.html",
+      "type": "Change Log"
+    }
+  ]
+}

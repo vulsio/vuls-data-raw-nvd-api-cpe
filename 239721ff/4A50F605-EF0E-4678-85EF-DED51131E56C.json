@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:nixos:nix:0.16:*:*:*:*:*:*:*",
+  "cpeNameId": "4A50F605-EF0E-4678-85EF-DED51131E56C",
+  "created": "2019-10-11T13:23:47.157",
+  "lastModified": "2019-10-11T13:23:47.157",
+  "titles": [
+    {
+      "title": "NixOS Nix 0.16",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://nixos.org/",
+      "type": "Change Log"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:loan_management_system_project:loan_management_system:-:*:*:*:*:*:*:*",
+  "cpeNameId": "E874914B-342A-4F24-9FF5-5B3768484FBD",
+  "created": "2022-08-08T18:51:34.503",
+  "lastModified": "2022-09-14T13:56:23.110",
+  "titles": [
+    {
+      "title": "Loan Management System Project Loan Management System ",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.sourcecodester.com/php/15529/loan-management-system-oop-php-mysqlijquery-free-source-code.html",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/cxaqhq/Loan-Management-System-Sqlinjection",
+      "type": "Advisory"
+    }
+  ]
+}

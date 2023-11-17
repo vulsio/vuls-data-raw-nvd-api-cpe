@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:cisco:ios:15.2\\\\(4\\\\)m8:*:*:*:*:*:*:*",
+  "cpeNameId": "8A31A36D-5D75-4D56-A32F-ECC9968DEDB7",
+  "created": "2020-05-11T11:57:14.710",
+  "lastModified": "2020-05-11T11:57:14.710",
+  "titles": [
+    {
+      "title": "Cisco IOS 15.2\\(4\\)M8",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://software.cisco.com/download/find/ios",
+      "type": "Version"
+    },
+    {
+      "ref": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160323-l4f",
+      "type": "Advisory"
+    }
+  ]
+}

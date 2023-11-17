@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:mozilla:firefox:103.0:*:*:*:*:*:*:*",
+  "cpeNameId": "4D067920-CE5E-4358-9FC0-04D2FDEAB44B",
+  "created": "2022-12-27T17:07:02.070",
+  "lastModified": "2022-12-28T15:54:12.120",
+  "titles": [
+    {
+      "title": "Mozilla Firefox 103.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.mozilla.org/en-US/security/advisories/mfsa2022-28/",
+      "type": "Advisory"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.8.0:rc1:*:*:*:wordpress:*:*",
+  "cpeNameId": "A1A1A1E1-0808-45C6-B635-21EBDD05E670",
+  "created": "2021-08-04T18:59:03.550",
+  "lastModified": "2021-08-05T18:08:14.110",
+  "titles": [
+    {
+      "title": "WooCommerce 3.8.0 Release Candidate 1 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/woocommerce/woocommerce",
+      "type": "Version"
+    },
+    {
+      "ref": "https://woocommerce.com/",
+      "type": "Vendor"
+    }
+  ]
+}

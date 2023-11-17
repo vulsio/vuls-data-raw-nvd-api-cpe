@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:synology:drive:1.0.0-10240:*:*:*:*:*:*:*",
+  "cpeNameId": "E74C1AA7-EFEA-4B06-BA1B-AA09E82DC016",
+  "created": "2018-08-09T13:58:09.593",
+  "lastModified": "2018-08-09T13:58:09.593",
+  "titles": [
+    {
+      "title": "Synology Drive 1.0.0-10240",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.synology.com/en-us/releaseNote/SynologyDrive?model=DS115j",
+      "type": "Change Log"
+    }
+  ]
+}

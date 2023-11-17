@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:owncloud:owncloud:3.4.3:*:*:*:*:*:*:*",
+  "cpeNameId": "47180E62-63AB-459B-AA50-C3511691FC22",
+  "created": "2015-10-30T16:41:16.253",
+  "lastModified": "2015-11-09T19:15:31.320",
+  "titles": [
+    {
+      "title": "ownCloud 3.4.3",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "http://owncloud.org/",
+      "type": "Vendor"
+    }
+  ]
+}

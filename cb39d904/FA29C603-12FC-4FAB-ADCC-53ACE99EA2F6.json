@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:adobe:experience_manager:6.4.8.1:*:*:*:*:*:*:*",
+  "cpeNameId": "FA29C603-12FC-4FAB-ADCC-53ACE99EA2F6",
+  "created": "2020-06-15T20:16:40.397",
+  "lastModified": "2020-06-15T20:16:40.397",
+  "titles": [
+    {
+      "title": "Adobe Experience Manager 6.4.8.1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://helpx.adobe.com/experience-manager/aem-releases-updates.html#65",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb20-31.html",
+      "type": "Advisory"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:streamlit:streamlit:1.12.3:dev20220914:*:*:*:*:*:*",
+  "cpeNameId": "0EB3AF47-AE2C-43E8-9E9B-688EA36097C2",
+  "created": "2023-03-06T23:38:57.557",
+  "lastModified": "2023-03-07T14:12:52.007",
+  "titles": [
+    {
+      "title": "Streamlit 1.12.3 Dev20220914",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/streamlit/streamlit",
+      "type": "Product"
+    },
+    {
+      "ref": "https://streamlit.io/",
+      "type": "Vendor"
+    }
+  ]
+}

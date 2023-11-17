@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:mozilla:firefox:85.0:*:*:*:*:*:*:*",
+  "cpeNameId": "710AA3B0-669B-4E52-9815-94D6834CFDE1",
+  "created": "2021-03-10T19:12:50.180",
+  "lastModified": "2021-05-21T15:58:22.580",
+  "titles": [
+    {
+      "title": "Mozilla Firefox 85.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.mozilla.org/en-US/security/advisories/mfsa2021-03/",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://www.mozilla.org/en-US/firefox/85.0/releasenotes/",
+      "type": "Version"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:tribe29:checkmk:1.6.0:b9:*:*:*:*:*:*",
+  "cpeNameId": "5DFED772-8BCB-486C-BD81-B82971DBD7DD",
+  "created": "2019-10-17T12:12:42.127",
+  "lastModified": "2019-10-17T12:12:42.127",
+  "titles": [
+    {
+      "title": "tribe29 checkmk 1.6.0 B9",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://checkmk.com/check_mk-werks.php?edition_id=raw&all_versions=1",
+      "type": "Version"
+    },
+    {
+      "ref": "https://checkmk.com/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://tribe29.com/",
+      "type": "Vendor"
+    }
+  ]
+}

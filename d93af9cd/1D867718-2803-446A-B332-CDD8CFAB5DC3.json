@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:nodejs:node.js:12.11.0:*:*:*:lts:*:*:*",
+  "cpeNameId": "1D867718-2803-446A-B332-CDD8CFAB5DC3",
+  "created": "2020-02-13T15:21:42.347",
+  "lastModified": "2020-02-13T15:21:42.347",
+  "titles": [
+    {
+      "title": "Nodejs Node.js 12.11.0 LTS Edition",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/nodejs/node/releases",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://nodejs.org/en/blog/vulnerability/february-2020-security-releases/",
+      "type": "Advisory"
+    }
+  ]
+}

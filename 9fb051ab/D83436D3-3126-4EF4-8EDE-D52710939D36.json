@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:cisco:ios:15.5\\\\(1\\\\)t1:*:*:*:*:*:*:*",
+  "cpeNameId": "D83436D3-3126-4EF4-8EDE-D52710939D36",
+  "created": "2020-05-11T11:57:48.553",
+  "lastModified": "2020-05-11T11:57:48.553",
+  "titles": [
+    {
+      "title": "Cisco IOS 15.5\\(1\\)T1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://software.cisco.com/download/find/ios",
+      "type": "Version"
+    },
+    {
+      "ref": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160323-l4f",
+      "type": "Advisory"
+    }
+  ]
+}

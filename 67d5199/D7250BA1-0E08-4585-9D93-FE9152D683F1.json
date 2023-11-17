@@ -1,0 +1,27 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:elementor:website_builder:3.1.4:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "D7250BA1-0E08-4585-9D93-FE9152D683F1",
+  "created": "2021-04-08T17:11:06.067",
+  "lastModified": "2021-04-09T14:30:54.390",
+  "titles": [
+    {
+      "title": "Elementor Website Builder 3.1.4 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://wordpress.org/plugins/elementor/",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://elementor.com/features/page-builder/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://wpscan.com/vulnerability/9647f516-b130-4cc8-85fb-2e69b034ced0",
+      "type": "Advisory"
+    }
+  ]
+}

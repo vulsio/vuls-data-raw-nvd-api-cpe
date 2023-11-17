@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:iteachyou:dreamer_cms:3.0.1:*:*:*:*:*:*:*",
+  "cpeNameId": "0431CA4D-5A78-4F5A-9957-BD17515EFFAE",
+  "created": "2023-09-12T14:17:01.343",
+  "lastModified": "2023-09-12T14:17:01.343",
+  "titles": [
+    {
+      "title": "I Teach You Dreamer CMS 3.0.1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.iteachyou.cc/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "http://cms.iteachyou.cc/",
+      "type": "Product"
+    }
+  ]
+}

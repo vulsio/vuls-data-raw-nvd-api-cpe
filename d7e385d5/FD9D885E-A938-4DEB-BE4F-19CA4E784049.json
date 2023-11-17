@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:h:aruba:cx_8320:-:*:*:*:*:*:*:*",
+  "cpeNameId": "FD9D885E-A938-4DEB-BE4F-19CA4E784049",
+  "created": "2020-10-16T18:02:53.153",
+  "lastModified": "2020-10-16T18:02:53.153",
+  "titles": [
+    {
+      "title": "Aruba CX 8320",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2020-009.txt",
+      "type": "Advisory"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:nixos:nix:1.8:*:*:*:*:*:*:*",
+  "cpeNameId": "F9010415-7860-4F07-B98E-6BC140CABAEB",
+  "created": "2019-10-11T13:23:48.753",
+  "lastModified": "2019-10-11T13:23:48.753",
+  "titles": [
+    {
+      "title": "NixOS Nix 1.8",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://nixos.org/",
+      "type": "Change Log"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:postgresql:pgadmin_4:1.0:beta2:*:*:*:*:*:*",
+  "cpeNameId": "58B7C68C-EE0D-4F3B-8FFC-3B8DF915A653",
+  "created": "2022-03-22T17:41:43.490",
+  "lastModified": "2022-03-23T15:10:12.610",
+  "titles": [
+    {
+      "title": "PostgreSQL pgAdmin 4 1.0 Beta 2",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.postgresql.org/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://www.pgadmin.org/docs/pgadmin4/latest/index.html",
+      "type": "Product"
+    },
+    {
+      "ref": "https://www.pgadmin.org/docs/pgadmin4/latest/release_notes.html",
+      "type": "Version"
+    }
+  ]
+}

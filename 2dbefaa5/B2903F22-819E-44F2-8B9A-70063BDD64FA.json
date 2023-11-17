@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:smarty:smarty:4.2.1:*:*:*:*:*:*:*",
+  "cpeNameId": "B2903F22-819E-44F2-8B9A-70063BDD64FA",
+  "created": "2022-09-15T13:38:17.540",
+  "lastModified": "2022-09-15T13:43:16.003",
+  "titles": [
+    {
+      "title": "Smarty 4.2.1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.smarty.net/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://github.com/smarty-php/smarty/releases",
+      "type": "Change Log"
+    }
+  ]
+}

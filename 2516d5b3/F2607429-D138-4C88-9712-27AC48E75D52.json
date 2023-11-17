@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:wp-members_project:wp-members:3.1.7:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "F2607429-D138-4C88-9712-27AC48E75D52",
+  "created": "2020-04-22T16:41:56.310",
+  "lastModified": "2020-04-22T16:41:56.310",
+  "titles": [
+    {
+      "title": "WP-Members Project WP-Members 3.1.7 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://wordpress.org/plugins/wp-members/#developers",
+      "type": "Version"
+    }
+  ]
+}

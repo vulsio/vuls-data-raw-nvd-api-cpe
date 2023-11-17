@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:veeam:backup_\\&_replication:11.0.0.837:p20210319:*:*:*:*:*:*",
+  "cpeNameId": "CDC58E74-7154-4EAD-BA62-73100D9588F3",
+  "created": "2022-03-24T13:09:58.603",
+  "lastModified": "2022-03-25T14:51:28.573",
+  "titles": [
+    {
+      "title": "Veeam Backup & Replication 11.0.0.837 Patch 20210319",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.veeam.com/kb2680",
+      "type": "Version"
+    },
+    {
+      "ref": "https://www.veeam.com/kb4288",
+      "type": "Advisory"
+    }
+  ]
+}

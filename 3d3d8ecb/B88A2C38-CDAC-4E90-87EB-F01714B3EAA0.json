@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:activity_log_project:activity_log:2.2.9:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "B88A2C38-CDAC-4E90-87EB-F01714B3EAA0",
+  "created": "2019-07-22T14:31:34.673",
+  "lastModified": "2019-07-22T14:31:34.673",
+  "titles": [
+    {
+      "title": "Activity Log Project Activity Log 2.2.9 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://wordpress.org/plugins/aryo-activity-log/#developers",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://wordpress.org/plugins/aryo-activity-log/#description",
+      "type": "Project"
+    }
+  ]
+}

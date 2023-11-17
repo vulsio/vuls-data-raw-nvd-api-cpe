@@ -1,0 +1,27 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:unlimited-elements:unlimited_elements_for_elementor_\\(free_widgets\\,_addons\\,_templates\\):1.3.20:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "DA6B3C8A-109B-4DC3-A2FF-78A64C884911",
+  "created": "2023-03-30T15:43:26.360",
+  "lastModified": "2023-04-07T21:57:13.350",
+  "titles": [
+    {
+      "title": "Unlimited Elements For Elementor 1.3.20 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://patchstack.com/database/vulnerability/unlimited-elements-for-elementor/wordpress-unlimited-elements-for-elementor-plugin-1-5-48-cross-site-scripting-xss?_s_id=cve",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://wordpress.org/plugins/unlimited-elements-for-elementor/#developers",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://unlimited-elements.com",
+      "type": "Vendor"
+    }
+  ]
+}

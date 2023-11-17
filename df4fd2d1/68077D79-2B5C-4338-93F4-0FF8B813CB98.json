@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:bolt:bolt_cms:4.2.0:beta9:*:*:*:*:*:*",
+  "cpeNameId": "68077D79-2B5C-4338-93F4-0FF8B813CB98",
+  "created": "2022-04-15T13:17:37.653",
+  "lastModified": "2022-04-15T16:34:21.080",
+  "titles": [
+    {
+      "title": "Bolt CMS 4.2.0 Beta 9",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/bolt/core/releases",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://github.com/iiSiLvEr/CVEs/tree/main/CVE-2021-40219",
+      "type": "Advisory"
+    }
+  ]
+}

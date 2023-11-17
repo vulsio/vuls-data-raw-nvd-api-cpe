@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:microsoft:sql_server:2016:sp1:*:*:*:*:*:*",
+  "cpeNameId": "A5DEEC36-A766-4593-A58F-DEC6C5F4ED40",
+  "created": "2017-09-11T14:04:00.170",
+  "lastModified": "2017-09-11T14:04:00.170",
+  "titles": [
+    {
+      "title": "Microsoft SQL Server 2016 Service Pack 1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.microsoft.com/en-us/download/details.aspx?id=54276",
+      "type": "Product"
+    }
+  ]
+}

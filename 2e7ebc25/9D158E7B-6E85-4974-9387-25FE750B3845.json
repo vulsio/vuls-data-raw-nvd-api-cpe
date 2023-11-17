@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:calibre-web_project:calibre-web:0.6.11:*:*:*:*:*:*:*",
+  "cpeNameId": "9D158E7B-6E85-4974-9387-25FE750B3845",
+  "created": "2021-10-06T17:30:45.737",
+  "lastModified": "2021-10-08T14:58:27.913",
+  "titles": [
+    {
+      "title": "Calibre-Web Project Calibre-Web 0.6.11",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/janeczku/calibre-web/releases",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://www.whitesourcesoftware.com/vulnerability-database/CVE-2021-25964",
+      "type": "Advisory"
+    }
+  ]
+}

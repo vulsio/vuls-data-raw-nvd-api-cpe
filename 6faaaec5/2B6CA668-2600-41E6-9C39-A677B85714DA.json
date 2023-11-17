@@ -1,0 +1,13 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:mozilla:firefox_esr:10.0.2:*:*:*:*:*:*:*",
+  "cpeNameId": "2B6CA668-2600-41E6-9C39-A677B85714DA",
+  "created": "2012-04-25T13:19:32.160",
+  "lastModified": "2012-04-30T16:13:29.297",
+  "titles": [
+    {
+      "title": "Mozilla Firefox Extended Support Release (ESR) 10.0.2",
+      "lang": "en"
+    }
+  ]
+}

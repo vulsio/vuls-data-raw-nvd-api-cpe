@@ -1,0 +1,13 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:gnome:glib:2.28.7:*:*:*:*:*:*:*",
+  "cpeNameId": "8A27BB1F-5A02-4FA5-BA22-6C87E5F901AF",
+  "created": "2012-01-16T16:26:01.537",
+  "lastModified": "2012-01-16T20:29:05.163",
+  "titles": [
+    {
+      "title": "GNOME Glib 2.28.7",
+      "lang": "en"
+    }
+  ]
+}

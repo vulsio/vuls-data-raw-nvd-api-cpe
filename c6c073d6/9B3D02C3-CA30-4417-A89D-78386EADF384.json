@@ -1,0 +1,27 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:wedevs:wp_erp:1.1.15:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "9B3D02C3-CA30-4417-A89D-78386EADF384",
+  "created": "2023-06-21T13:47:44.440",
+  "lastModified": "2023-06-21T14:25:09.700",
+  "titles": [
+    {
+      "title": "WEDEVS WP ERP 1.1.15 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://wedevs.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://blog.nintechnet.com/25-wordpress-plugins-vulnerable-to-csrf-attacks/",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://wordpress.org/plugins/erp/#developers",
+      "type": "Change Log"
+    }
+  ]
+}

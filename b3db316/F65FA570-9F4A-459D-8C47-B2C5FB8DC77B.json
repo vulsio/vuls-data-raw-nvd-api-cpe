@@ -1,0 +1,31 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:stellar:freighter:5.1.0:*:*:*:*:*:*:*",
+  "cpeNameId": "F65FA570-9F4A-459D-8C47-B2C5FB8DC77B",
+  "created": "2023-08-31T13:53:08.043",
+  "lastModified": "2023-08-31T17:53:11.017",
+  "titles": [
+    {
+      "title": "Stellar Freighter 5.1.0",
+      "lang": "en"
+    },
+    {
+      "title": "Stellar Freighter 5.1.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.stellar.org/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://github.com/stellar/freighter",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/stellar/freighter/tags",
+      "type": "Version"
+    }
+  ]
+}

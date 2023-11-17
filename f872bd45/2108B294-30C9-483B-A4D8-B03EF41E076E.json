@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:n8n:n8n:0.193.0:*:*:*:*:node.js:*:*",
+  "cpeNameId": "2108B294-30C9-483B-A4D8-B03EF41E076E",
+  "created": "2023-11-01T14:31:26.377",
+  "lastModified": "2023-11-01T14:31:26.377",
+  "titles": [
+    {
+      "title": "n8n 0.193.0 for Node.js",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://n8n.io/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://www.npmjs.com/package/n8n?activeTab=versions",
+      "type": "Version"
+    }
+  ]
+}

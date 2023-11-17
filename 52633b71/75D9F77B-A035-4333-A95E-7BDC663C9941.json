@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:sandhillsdev:easy_digital_downloads:3.1.1.4.2:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "75D9F77B-A035-4333-A95E-7BDC663C9941",
+  "created": "2023-05-08T17:01:20.050",
+  "lastModified": "2023-06-30T03:40:51.790",
+  "titles": [
+    {
+      "title": "Sandhillsdev Easy Digital Downloads 3.1.1.4.2 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://wordpress.org/plugins/easy-digital-downloads/#developers",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://patchstack.com/database/vulnerability/easy-digital-downloads/wordpress-easy-digital-downloads-plugin-3-1-1-4-1-unauthenticated-privilege-escalation-vulnerability?_s_id=cve",
+      "type": "Advisory"
+    }
+  ]
+}

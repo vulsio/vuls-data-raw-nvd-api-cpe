@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:owncloud:owncloud:6.0.7:*:*:*:*:*:*:*",
+  "cpeNameId": "83A6A745-D7AB-41E7-ABFE-C8722CF233F8",
+  "created": "2019-07-26T01:33:29.570",
+  "lastModified": "2019-07-26T01:33:29.570",
+  "titles": [
+    {
+      "title": "ownCloud 6.0.7",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://ftp.icm.edu.pl/packages/owncloud/",
+      "type": "Version"
+    }
+  ]
+}

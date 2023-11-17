@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:wpdeveloper:betterlinks:1.2.7:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "AC11B3DE-3DA2-45CC-AE92-3F7B31931750",
+  "created": "2021-11-24T16:09:40.340",
+  "lastModified": "2021-11-30T14:16:35.757",
+  "titles": [
+    {
+      "title": "WPDeveloper BetterLinks 1.2.7 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://wpdeveloper.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://wordpress.org/plugins/betterlinks/",
+      "type": "Product"
+    }
+  ]
+}

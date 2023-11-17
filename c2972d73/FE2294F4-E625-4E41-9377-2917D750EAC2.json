@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:qnap:qts:4.3.6.1033:*:*:*:*:*:*:*",
+  "cpeNameId": "FE2294F4-E625-4E41-9377-2917D750EAC2",
+  "created": "2020-03-19T11:42:52.873",
+  "lastModified": "2020-03-19T11:42:52.873",
+  "titles": [
+    {
+      "title": "QNAP QTS 4.3.6.1033",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.qnap.com/zh-hk/release-notes/qts/4.4.2.1247/20200318",
+      "type": "Change Log"
+    }
+  ]
+}

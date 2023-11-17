@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:cisco:ios:15.1\\\\(1\\\\)sy2:*:*:*:*:*:*:*",
+  "cpeNameId": "4ABE66A5-5F55-487D-ACCA-78065CE4F939",
+  "created": "2020-05-11T12:01:34.420",
+  "lastModified": "2020-05-11T12:01:34.420",
+  "titles": [
+    {
+      "title": "Cisco IOS 15.1\\(1\\)SY2",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://software.cisco.com/download/find/ios",
+      "type": "Version"
+    }
+  ]
+}

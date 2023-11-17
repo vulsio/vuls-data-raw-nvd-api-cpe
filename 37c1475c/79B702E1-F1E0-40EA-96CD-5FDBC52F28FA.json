@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:h:korenix:jetnet4706f:-:*:*:*:*:*:*:*",
+  "cpeNameId": "79B702E1-F1E0-40EA-96CD-5FDBC52F28FA",
+  "created": "2022-03-03T20:58:42.010",
+  "lastModified": "2022-04-20T14:25:53.070",
+  "titles": [
+    {
+      "title": "Korenix JetNet4706F",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.korenixstore.com/searchresults.asp?Search=jetnet&Submit=",
+      "type": "Product"
+    },
+    {
+      "ref": "http://www.korenix.com/",
+      "type": "Vendor"
+    }
+  ]
+}

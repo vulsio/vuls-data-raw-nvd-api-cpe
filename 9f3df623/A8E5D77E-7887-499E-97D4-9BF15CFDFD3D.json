@@ -1,0 +1,13 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:ibm:db2:8.0:*:*:*:*:*:*:*",
+  "cpeNameId": "A8E5D77E-7887-499E-97D4-9BF15CFDFD3D",
+  "created": "2007-08-23T21:16:59.567",
+  "lastModified": "2023-01-17T16:46:51.587",
+  "titles": [
+    {
+      "title": "IBM DB2 8.0",
+      "lang": "en"
+    }
+  ]
+}

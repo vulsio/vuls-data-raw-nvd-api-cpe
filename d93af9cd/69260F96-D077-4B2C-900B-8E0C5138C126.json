@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:nodejs:node.js:8.2.1:*:*:*:lts:*:*:*",
+  "cpeNameId": "69260F96-D077-4B2C-900B-8E0C5138C126",
+  "created": "2020-06-22T11:45:05.177",
+  "lastModified": "2020-06-22T11:45:05.177",
+  "titles": [
+    {
+      "title": "Nodejs Node.js 8.2.1 LTS Edition",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://nodejs.org/en/about/releases/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://nodejs.org/download/release/",
+      "type": "Change Log"
+    }
+  ]
+}

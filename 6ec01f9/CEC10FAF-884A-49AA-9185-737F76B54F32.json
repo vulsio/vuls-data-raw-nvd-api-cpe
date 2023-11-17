@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:schneider-electric:bmxp341000_firmware:3.30:*:*:*:*:*:*:*",
+  "cpeNameId": "CEC10FAF-884A-49AA-9185-737F76B54F32",
+  "created": "2020-12-14T14:57:02.907",
+  "lastModified": "2021-03-15T18:24:43.387",
+  "titles": [
+    {
+      "title": "Schneider Electric BMXP341000 Firmware 3.30",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://download.schneider-electric.com/files?p_enDocType=Technical+leaflet&p_File_Name=SEVD-2020-343-05+_Web_Server_Modicon_M340_Premium_Quantum_Communication_Modules_Security_Notification.pdf&p_Doc_Ref=SEVD-2020-343-05",
+      "type": "Advisory"
+    }
+  ]
+}

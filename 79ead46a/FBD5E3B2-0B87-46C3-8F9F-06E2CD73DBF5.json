@@ -1,0 +1,27 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:tribe29:checkmk:1.4.0:p25:*:*:*:*:*:*",
+  "cpeNameId": "FBD5E3B2-0B87-46C3-8F9F-06E2CD73DBF5",
+  "created": "2019-10-17T12:12:38.457",
+  "lastModified": "2019-10-17T12:12:38.457",
+  "titles": [
+    {
+      "title": "tribe29 checkmk 1.4.0 Patch 25",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://checkmk.com/check_mk-werks.php?edition_id=raw&all_versions=1",
+      "type": "Version"
+    },
+    {
+      "ref": "https://checkmk.com/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://tribe29.com/",
+      "type": "Vendor"
+    }
+  ]
+}

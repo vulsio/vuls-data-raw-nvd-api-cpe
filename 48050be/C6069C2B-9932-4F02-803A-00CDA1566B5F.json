@@ -1,0 +1,13 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:gnu:glibc:2.3.6:*:*:*:*:*:*:*",
+  "cpeNameId": "C6069C2B-9932-4F02-803A-00CDA1566B5F",
+  "created": "2010-06-02T13:07:31.717",
+  "lastModified": "2013-05-08T14:48:32.553",
+  "titles": [
+    {
+      "title": "GNU glibc 2.3.6",
+      "lang": "en"
+    }
+  ]
+}

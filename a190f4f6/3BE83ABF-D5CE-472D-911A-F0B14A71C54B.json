@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:importwp:import_wp:2.4.5:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "3BE83ABF-D5CE-472D-911A-F0B14A71C54B",
+  "created": "2022-05-09T14:49:26.373",
+  "lastModified": "2022-05-09T15:00:24.853",
+  "titles": [
+    {
+      "title": "Import WP 2.4.5 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://wordpress.org/plugins/jc-importer/#developers",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://www.importwp.com/",
+      "type": "Vendor"
+    }
+  ]
+}

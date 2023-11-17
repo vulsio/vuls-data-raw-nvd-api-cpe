@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:advanced_access_manager_project:advanced_access_manager:5.5.2:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "8D62CFD4-DD29-4840-89B2-25443044E761",
+  "created": "2020-02-05T12:54:59.727",
+  "lastModified": "2020-02-05T12:54:59.727",
+  "titles": [
+    {
+      "title": "Advanced Access Manager Project Advanced Access Manager 5.5.2 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://wordpress.org/plugins/advanced-access-manager/#developers",
+      "type": "Change Log"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:boltcms:bolt:4.1.9:*:*:*:*:*:*:*",
+  "cpeNameId": "49FE823D-E6D0-47DD-A514-BEDE3A2C7726",
+  "created": "2021-02-18T17:55:02.667",
+  "lastModified": "2021-02-18T17:55:02.667",
+  "titles": [
+    {
+      "title": "BoltCMS Bolt 4.1.9",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/bolt/core",
+      "type": "Version"
+    },
+    {
+      "ref": "https://boltcms.io/",
+      "type": "Vendor"
+    }
+  ]
+}

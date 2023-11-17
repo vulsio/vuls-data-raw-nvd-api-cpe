@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:4.6.4:*:*:*:*:*:*:*",
+  "cpeNameId": "5A324E4F-441D-4254-8C1E-3290162D10B7",
+  "created": "2023-07-13T18:26:16.680",
+  "lastModified": "2023-07-13T18:34:21.447",
+  "titles": [
+    {
+      "title": "Stormshield Network Security 4.6.4",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://advisories.stormshield.eu/2023-013/",
+      "type": "Advisory"
+    }
+  ]
+}

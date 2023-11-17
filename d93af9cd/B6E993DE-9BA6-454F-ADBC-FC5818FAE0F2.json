@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:nodejs:node.js:6.8.1:*:*:*:lts:*:*:*",
+  "cpeNameId": "B6E993DE-9BA6-454F-ADBC-FC5818FAE0F2",
+  "created": "2020-06-22T11:45:03.350",
+  "lastModified": "2020-06-22T11:45:03.350",
+  "titles": [
+    {
+      "title": "Nodejs Node.js 6.8.1 LTS Edition",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://nodejs.org/en/about/releases/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://nodejs.org/download/release/",
+      "type": "Change Log"
+    }
+  ]
+}

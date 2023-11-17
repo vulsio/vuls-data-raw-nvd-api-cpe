@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:owncloud:owncloud:9.1.4:rc2:*:*:*:*:*:*",
+  "cpeNameId": "914ED241-F32C-45E4-8CE6-DCD561723127",
+  "created": "2019-06-25T15:59:30.040",
+  "lastModified": "2019-06-25T15:59:30.040",
+  "titles": [
+    {
+      "title": "ownCloud 9.1.4 Release Candidate 2",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/owncloud/docs/tags",
+      "type": "Change Log"
+    }
+  ]
+}

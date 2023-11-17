@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:brizy:brizy-page_builder:1.0.72:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "F9F12821-BAB8-4FA9-8B70-6CEE2A1711C7",
+  "created": "2022-07-05T13:13:35.070",
+  "lastModified": "2022-07-05T15:03:01.093",
+  "titles": [
+    {
+      "title": "Brizy - Page Builder 1.0.72 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.brizy.io/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://wordpress.org/plugins/brizy/#developers",
+      "type": "Change Log"
+    }
+  ]
+}

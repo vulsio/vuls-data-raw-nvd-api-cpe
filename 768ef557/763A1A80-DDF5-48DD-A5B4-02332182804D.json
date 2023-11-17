@@ -1,0 +1,13 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:microsoft:visio:-:*:*:*:*:*:*:*",
+  "cpeNameId": "763A1A80-DDF5-48DD-A5B4-02332182804D",
+  "created": "2007-08-23T21:05:57.937",
+  "lastModified": "2008-04-15T22:39:16.107",
+  "titles": [
+    {
+      "title": "Microsoft Visio",
+      "lang": "en"
+    }
+  ]
+}

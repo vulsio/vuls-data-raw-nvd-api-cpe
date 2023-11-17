@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:zohocorp:application_control_plus:10.0.511:*:*:*:*:*:*:*",
+  "cpeNameId": "D0409600-43B9-46AA-9A35-D5B5EF2131A0",
+  "created": "2020-10-20T15:34:41.567",
+  "lastModified": "2020-10-20T15:34:41.567",
+  "titles": [
+    {
+      "title": "Zohocorp Application Control Plus 10.0.511",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.manageengine.com/application-control/hotfix-readme.html",
+      "type": "Change Log"
+    }
+  ]
+}

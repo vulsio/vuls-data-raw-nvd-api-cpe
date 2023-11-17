@@ -1,0 +1,27 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:tribe29:checkmk:1.4.0:p23:*:*:*:*:*:*",
+  "cpeNameId": "BEB812A4-7CA2-4A9C-A111-DB64210807CF",
+  "created": "2019-10-17T12:12:38.283",
+  "lastModified": "2019-10-17T12:12:38.283",
+  "titles": [
+    {
+      "title": "tribe29 checkmk 1.4.0 Patch 23",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://checkmk.com/check_mk-werks.php?edition_id=raw&all_versions=1",
+      "type": "Version"
+    },
+    {
+      "ref": "https://checkmk.com/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://tribe29.com/",
+      "type": "Vendor"
+    }
+  ]
+}

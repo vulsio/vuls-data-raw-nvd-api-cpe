@@ -1,0 +1,13 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:webwiz:web_wiz_forums:9.53:*:*:*:*:*:*:*",
+  "cpeNameId": "50541A21-9F97-4144-8ED3-5059FFEE286A",
+  "created": "2010-12-02T16:23:10.787",
+  "lastModified": "2010-12-09T20:23:43.163",
+  "titles": [
+    {
+      "title": "Web Wiz Forums 9.53",
+      "lang": "en"
+    }
+  ]
+}

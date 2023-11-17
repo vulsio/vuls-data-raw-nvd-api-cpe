@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:apache:tomcat:9.0.0:milestone5:*:*:*:*:*:*",
+  "cpeNameId": "6C9A9EE6-651C-410E-86EA-E6BE01029C09",
+  "created": "2019-10-29T13:55:11.237",
+  "lastModified": "2019-10-29T13:55:11.237",
+  "titles": [
+    {
+      "title": "Apache Software Foundation Tomcat 9.0.0 Milestone 5",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/apache/tomcat",
+      "type": "Version"
+    }
+  ]
+}

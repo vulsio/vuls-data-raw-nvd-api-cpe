@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:online_medicine_ordering_system_project:online_medicine_ordering_system:1.0:*:*:*:*:*:*:*",
+  "cpeNameId": "2C2A88DD-1224-4AA7-8E9A-8855CFFB724E",
+  "created": "2022-10-27T13:57:15.377",
+  "lastModified": "2022-10-28T13:48:37.443",
+  "titles": [
+    {
+      "title": "Online Medicine Ordering System Project Online Medicine Ordering System 1.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.sourcecodester.com/php/15359/online-medicine-ordering-system-phpoop-free-source-code.html",
+      "type": "Project"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:zohocorp:network_configuration_manager:12.6:build126119:*:*:*:*:*:*",
+  "cpeNameId": "B01EA4DB-05C0-44B5-88D3-5AA5105AC918",
+  "created": "2022-08-12T14:41:09.760",
+  "lastModified": "2022-08-12T20:46:00.243",
+  "titles": [
+    {
+      "title": "Zoho Corporation Network Configuration Manager 12.6 Build126119",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.manageengine.com/itom/advisory/cve-2022-37024.html",
+      "type": "Advisory"
+    }
+  ]
+}

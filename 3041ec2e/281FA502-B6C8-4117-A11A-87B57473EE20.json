@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:mozilla:firefox:93.0:*:*:*:*:*:*:*",
+  "cpeNameId": "281FA502-B6C8-4117-A11A-87B57473EE20",
+  "created": "2021-11-04T12:16:47.760",
+  "lastModified": "2021-11-04T14:58:05.737",
+  "titles": [
+    {
+      "title": "Mozilla Firefox 93.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.mozilla.org/en-US/security/advisories/mfsa2021-43/",
+      "type": "Advisory"
+    }
+  ]
+}

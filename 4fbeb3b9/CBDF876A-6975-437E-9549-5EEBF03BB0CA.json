@@ -1,0 +1,27 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.8.0:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "CBDF876A-6975-437E-9549-5EEBF03BB0CA",
+  "created": "2021-01-04T14:00:44.180",
+  "lastModified": "2021-01-04T14:00:44.180",
+  "titles": [
+    {
+      "title": "WooCommerce 3.8.0 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://raw.githubusercontent.com/woocommerce/woocommerce/master/CHANGELOG.txt",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://github.com/Ko-kn3t/CVE-2020-29156",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://wordpress.org/plugins/woocommerce/",
+      "type": "Product"
+    }
+  ]
+}

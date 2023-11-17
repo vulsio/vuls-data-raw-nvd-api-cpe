@@ -1,0 +1,45 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:nodejs:node.js:4.2.5:*:*:*:-:*:*:*",
+  "cpeNameId": "EADA01F6-9DF8-4735-9F1E-56CDFC0257F5",
+  "created": "2020-02-10T17:53:56.300",
+  "lastModified": "2020-02-10T17:53:56.300",
+  "titles": [
+    {
+      "title": "Nodejs Node.js 4.2.5",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://nodejs.org/en/download/releases/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://nodejs.org/en/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://nodejs.org/download/docs/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/nodejs/node",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/nodejs/node/blob/master/CHANGELOG.md",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://nodejs.org/docs/",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:nodejs:node.js:4.2.5:*:*:*:*:*:*:*",
+      "cpeNameId": "D2A510C5-2859-40B6-8A62-A30D99111EB8"
+    }
+  ]
+}

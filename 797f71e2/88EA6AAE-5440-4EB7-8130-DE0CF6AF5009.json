@@ -1,0 +1,31 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:automattic:woocommerce_payments:5.3.0:*:*:*:*:*:*:*",
+  "cpeNameId": "88EA6AAE-5440-4EB7-8130-DE0CF6AF5009",
+  "created": "2023-04-18T14:49:11.767",
+  "lastModified": "2023-06-20T17:00:07.953",
+  "titles": [
+    {
+      "title": "Automattic WooCommerce Payments 5.3.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/Automattic/woocommerce-payments/releases/tag/5.3.0",
+      "type": "Version"
+    },
+    {
+      "ref": "https://automattic.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://wordpress.org/plugins/woocommerce-payments/#developers",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://woocommerce.com/payments/",
+      "type": "Product"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:uri-js_project:uri-js:3.0.1:*:*:*:*:node.js:*:*",
+  "cpeNameId": "03FD1F8A-D4E3-4628-98B4-37909502BDFF",
+  "created": "2019-09-18T17:42:39.847",
+  "lastModified": "2019-09-18T17:42:39.847",
+  "titles": [
+    {
+      "title": "uri-js Project uri-js 3.0.1 for Node.js",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.npmjs.com/package/uri-js",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/garycourt/uri-js",
+      "type": "Project"
+    }
+  ]
+}

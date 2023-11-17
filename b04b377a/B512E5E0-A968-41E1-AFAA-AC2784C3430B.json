@@ -1,0 +1,13 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:twistedmatrix:twisted:11.0.0:*:*:*:*:*:*:*",
+  "cpeNameId": "B512E5E0-A968-41E1-AFAA-AC2784C3430B",
+  "created": "2012-08-01T21:33:01.703",
+  "lastModified": "2012-08-01T21:33:01.703",
+  "titles": [
+    {
+      "title": "Twistedmatrix Twisted 11.0.0",
+      "lang": "en"
+    }
+  ]
+}

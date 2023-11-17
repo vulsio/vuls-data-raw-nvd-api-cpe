@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:tribe29:checkmk:2.2.0:b7:*:*:*:*:*:*",
+  "cpeNameId": "40ECCD26-E5D4-46CD-9212-C7571EAACEFF",
+  "created": "2023-05-24T13:04:41.480",
+  "lastModified": "2023-07-05T15:18:30.983",
+  "titles": [
+    {
+      "title": "tribe29 checkmk 2.2.0 Beta 7",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://checkmk.com/werks?search=&product=cmk&cmk_version%5B%5D=2.2&level%5B%5D=1&level%5B%5D=2&level%5B%5D=3&class%5B%5D=feature&class%5B%5D=fix&class%5B%5D=security&edition%5B%5D=cre&edition%5B%5D=cee&edition%5B%5D=cce&edition%5B%5D=cme",
+      "type": "Version"
+    }
+  ]
+}

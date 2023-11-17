@@ -1,0 +1,27 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:pgadmin:pgadmin:3.4:*:*:*:*:postgresql:*:*",
+  "cpeNameId": "DD18F13B-5B40-499E-8C7E-8360197FA6DB",
+  "created": "2023-01-23T17:08:53.800",
+  "lastModified": "2023-01-25T06:04:40.610",
+  "titles": [
+    {
+      "title": "Pgadmin Pgadmin 3.4 for Postgresql",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.pgadmin.org/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://jvn.jp/en/jp/JVN03832974/index.html",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://github.com/pgadmin-org/pgadmin4/tags",
+      "type": "Version"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:pulsesecure:pulse_connect_secure:9.1:r8.2:*:*:*:*:*:*",
+  "cpeNameId": "612D60B0-4F14-4DD1-8A39-FE5DFCC5630D",
+  "created": "2020-11-10T15:22:41.513",
+  "lastModified": "2020-11-10T15:22:41.513",
+  "titles": [
+    {
+      "title": "Pulsesecure Pulse Connect Secure 9.1 R8.2",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www-prev.pulsesecure.net/techpubs/pulse-connect-secure/pcs",
+      "type": "Version"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:mozilla:firefox_esr:38.5.0:*:*:*:*:*:*:*",
+  "cpeNameId": "9EBF19C5-D2DE-449A-B4CF-DDF04F74B44A",
+  "created": "2016-01-15T22:14:46.383",
+  "lastModified": "2016-01-15T22:14:46.383",
+  "titles": [
+    {
+      "title": "Mozilla Firefox ESR 38.5.0",
+      "lang": "en"
+    }
+  ]
+}

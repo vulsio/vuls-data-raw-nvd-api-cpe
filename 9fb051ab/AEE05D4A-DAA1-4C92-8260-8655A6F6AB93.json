@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:cisco:ios:15.2\\\\(4\\\\)jb5m:*:*:*:*:*:*:*",
+  "cpeNameId": "AEE05D4A-DAA1-4C92-8260-8655A6F6AB93",
+  "created": "2020-05-11T11:57:08.617",
+  "lastModified": "2020-05-11T11:57:08.617",
+  "titles": [
+    {
+      "title": "Cisco IOS 15.2\\(4\\)JB5M",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://software.cisco.com/download/find/ios",
+      "type": "Version"
+    },
+    {
+      "ref": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160323-l4f",
+      "type": "Advisory"
+    }
+  ]
+}

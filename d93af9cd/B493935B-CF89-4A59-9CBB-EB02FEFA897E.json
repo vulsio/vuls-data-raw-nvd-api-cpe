@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:nodejs:node.js:4.7.0:*:*:*:lts:*:*:*",
+  "cpeNameId": "B493935B-CF89-4A59-9CBB-EB02FEFA897E",
+  "created": "2019-02-11T16:39:14.970",
+  "lastModified": "2019-02-11T16:39:14.970",
+  "titles": [
+    {
+      "title": "Nodejs Node.js 4.7.0 LTS Edition",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/nodejs/node",
+      "type": "Version"
+    }
+  ]
+}

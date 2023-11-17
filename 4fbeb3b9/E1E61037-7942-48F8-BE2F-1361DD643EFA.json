@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:woocommerce:woocommerce:2.3.4:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "E1E61037-7942-48F8-BE2F-1361DD643EFA",
+  "created": "2019-07-16T17:45:46.600",
+  "lastModified": "2019-07-16T17:45:46.600",
+  "titles": [
+    {
+      "title": "WooCommerce 2.3.4 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://woocommerce.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://github.com/woocommerce/woocommerce/",
+      "type": "Version"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:owncloud:owncloud_client:1.1.2:*:*:*:*:iphone_os:*:*",
+  "cpeNameId": "014F033D-F9C7-4D97-A350-0F4AE4AAE99C",
+  "created": "2021-04-09T18:27:22.030",
+  "lastModified": "2021-04-30T16:42:18.143",
+  "titles": [
+    {
+      "title": "ownCloud 1.1.2 for iPhone OS",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://owncloud.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://owncloud.com/changelog/ios-app/",
+      "type": "Change Log"
+    }
+  ]
+}

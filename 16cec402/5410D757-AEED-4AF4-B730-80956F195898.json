@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:h:aruba:cx_6400:-:*:*:*:*:*:*:*",
+  "cpeNameId": "5410D757-AEED-4AF4-B730-80956F195898",
+  "created": "2020-10-16T18:02:52.843",
+  "lastModified": "2020-10-16T18:02:52.843",
+  "titles": [
+    {
+      "title": "Aruba CX 6400",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2020-009.txt",
+      "type": "Advisory"
+    }
+  ]
+}

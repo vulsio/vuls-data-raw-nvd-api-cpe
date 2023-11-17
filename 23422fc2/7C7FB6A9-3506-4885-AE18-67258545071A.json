@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:arm:midguard_gpu_kernel_driver:-:*:*:*:*:*:*:*",
+  "cpeNameId": "7C7FB6A9-3506-4885-AE18-67258545071A",
+  "created": "2022-01-21T19:21:11.860",
+  "lastModified": "2022-01-24T13:58:54.247",
+  "titles": [
+    {
+      "title": "ARM Midguard GPU Kernel Driver",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://developer.arm.com/support/arm-security-updates/mali-gpu-kernel-driver",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://developer.arm.com/tools-and-software/graphics-and-gaming/mali-drivers/midgard-kernel",
+      "type": "Product"
+    }
+  ]
+}

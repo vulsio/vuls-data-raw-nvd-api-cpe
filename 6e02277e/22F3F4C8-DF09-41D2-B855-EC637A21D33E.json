@@ -1,0 +1,13 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:h:hp:cp1700_network_printer:-:*:*:*:*:*:*:*",
+  "cpeNameId": "22F3F4C8-DF09-41D2-B855-EC637A21D33E",
+  "created": "2007-08-23T21:16:59.567",
+  "lastModified": "2008-04-07T14:12:39.580",
+  "titles": [
+    {
+      "title": "HP Network Printer CP1700",
+      "lang": "en"
+    }
+  ]
+}

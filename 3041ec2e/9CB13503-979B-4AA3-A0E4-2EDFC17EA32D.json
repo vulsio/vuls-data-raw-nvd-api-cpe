@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:mozilla:firefox:115.0.3:*:*:*:*:*:*:*",
+  "cpeNameId": "9CB13503-979B-4AA3-A0E4-2EDFC17EA32D",
+  "created": "2023-09-21T17:55:37.093",
+  "lastModified": "2023-09-21T17:55:37.093",
+  "titles": [
+    {
+      "title": "Mozilla Firefox 115.0.3",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.mozilla.org/en-US/firefox/releases/",
+      "type": "Change Log"
+    }
+  ]
+}

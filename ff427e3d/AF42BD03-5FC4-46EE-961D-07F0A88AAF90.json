@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:cisco:nx-os:6.2\\\\(8a\\\\):*:*:*:*:*:*:*",
+  "cpeNameId": "AF42BD03-5FC4-46EE-961D-07F0A88AAF90",
+  "created": "2020-05-11T12:01:38.717",
+  "lastModified": "2020-05-11T12:01:38.717",
+  "titles": [
+    {
+      "title": "Cisco NX-OS 6.2\\(8a\\)",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://software.cisco.com/download/find/nx-os",
+      "type": "Product"
+    }
+  ]
+}

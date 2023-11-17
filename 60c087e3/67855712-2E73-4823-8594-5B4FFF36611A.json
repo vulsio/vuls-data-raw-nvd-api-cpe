@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:ngiflib_project:ngiflib:2023-07-14:*:*:*:*:*:*:*",
+  "cpeNameId": "67855712-2E73-4823-8594-5B4FFF36611A",
+  "created": "2023-08-07T17:03:37.970",
+  "lastModified": "2023-08-11T23:44:56.230",
+  "titles": [
+    {
+      "title": "Ngiflib Project Ngiflib 2023-07-14",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/miniupnp/ngiflib/commit/84a750338394bbd2f8ff15811e2098bd9634180a",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://github.com/miniupnp/ngiflib/issues/27",
+      "type": "Advisory"
+    }
+  ]
+}

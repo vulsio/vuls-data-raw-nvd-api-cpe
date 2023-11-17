@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:freedesktop:dbus:1.11.18:*:*:*:*:*:*:*",
+  "cpeNameId": "09317B9B-5211-4957-827A-0C1D32D85A10",
+  "created": "2022-02-03T21:48:47.833",
+  "lastModified": "2022-02-03T21:51:47.363",
+  "titles": [
+    {
+      "title": "Freedesktop Dbus 1.11.18",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.freedesktop.org/wiki/Software/dbus/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://gitlab.freedesktop.org/dbus/dbus/-/tags",
+      "type": "Version"
+    }
+  ]
+}

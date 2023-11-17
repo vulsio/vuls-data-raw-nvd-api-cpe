@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:stormshield:network_security:3.7.21:*:*:*:*:*:*:*",
+  "cpeNameId": "B4D8256F-1C1B-430A-A271-15B915EC81B9",
+  "created": "2022-02-02T13:26:51.087",
+  "lastModified": "2022-02-02T15:29:27.327",
+  "titles": [
+    {
+      "title": "Stormshield Network Security 3.7.21",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://advisories.stormshield.eu/2021-007/#sns",
+      "type": "Advisory"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:collne:welcart:1.4.2:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "BAFCDEBA-B78A-4AA7-AAFB-1F37E84C7B42",
+  "created": "2021-06-24T15:50:07.337",
+  "lastModified": "2021-06-24T15:59:01.227",
+  "titles": [
+    {
+      "title": "Collne Welcart 1.4.2 for Wordpress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.welcart.com/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://www.collne.com/",
+      "type": "Vendor"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:welcart:welcart:1.4.2:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "ED94A125-BE96-4805-8420-C9839CB9ECDE"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:synology:diskstation_manager:6.2.3-25426-2:*:*:*:*:*:*:*",
+  "cpeNameId": "3A6C26FA-7194-477D-8F88-951087866BB6",
+  "created": "2020-11-02T12:36:59.740",
+  "lastModified": "2021-06-04T18:34:01.400",
+  "titles": [
+    {
+      "title": "Synology DiskStation Manager 6.2.3-25426-2",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.synology.com/en-us/security/advisory/Synology_SA_20_18",
+      "type": "Advisory"
+    }
+  ]
+}

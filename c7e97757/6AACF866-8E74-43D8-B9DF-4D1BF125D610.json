@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:3.8.0:*:*:*:*:*:*:*",
+  "cpeNameId": "6AACF866-8E74-43D8-B9DF-4D1BF125D610",
+  "created": "2020-03-10T19:53:39.277",
+  "lastModified": "2020-03-10T19:53:39.277",
+  "titles": [
+    {
+      "title": "Stormshield Network Security 3.8.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://documentation.stormshield.eu/SNS/v3/en/Content/Release_Notes_SNS/Previous-Versions.htm",
+      "type": "Version"
+    },
+    {
+      "ref": "https://documentation.stormshield.eu",
+      "type": "Vendor"
+    }
+  ]
+}

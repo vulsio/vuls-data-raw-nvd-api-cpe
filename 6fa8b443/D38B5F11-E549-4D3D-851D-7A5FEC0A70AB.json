@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:arm:midgard:r32p0:*:*:*:*:*:*:*",
+  "cpeNameId": "D38B5F11-E549-4D3D-851D-7A5FEC0A70AB",
+  "created": "2022-09-06T15:48:24.277",
+  "lastModified": "2022-09-12T13:41:30.647",
+  "titles": [
+    {
+      "title": "ARM Midgard R32p0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://developer.arm.com/Arm%20Security%20Center/Mali%20GPU%20Driver%20Vulnerabilities",
+      "type": "Advisory"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:collne:welcart_e-commerce:2.8.6:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "68A6A9A1-7502-4845-849D-E783D09089EC",
+  "created": "2022-12-13T01:20:31.110",
+  "lastModified": "2022-12-13T01:22:39.810",
+  "titles": [
+    {
+      "title": "Collne Welcart e-Commerce 2.8.6 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://wordpress.org/plugins/usc-e-shop/#developers",
+      "type": "Change Log"
+    }
+  ]
+}

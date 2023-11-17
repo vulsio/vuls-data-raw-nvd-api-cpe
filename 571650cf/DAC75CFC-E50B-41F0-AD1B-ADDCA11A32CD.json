@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:cryptography.io:cryptography:1.7.2:*:*:*:*:*:*:*",
+  "cpeNameId": "DAC75CFC-E50B-41F0-AD1B-ADDCA11A32CD",
+  "created": "2020-07-06T16:27:43.530",
+  "lastModified": "2020-07-06T16:27:43.530",
+  "titles": [
+    {
+      "title": "Cryptography 1.7.2",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://cryptography.io/en/latest/",
+      "type": "Vendor"
+    }
+  ]
+}

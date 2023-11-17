@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:h:schneider-electric:modicon_m340_bmxp342000:-:*:*:*:*:*:*:*",
+  "cpeNameId": "C6A38379-6B6E-4E36-9F7B-FC60AE1E0A80",
+  "created": "2021-12-08T16:56:40.640",
+  "lastModified": "2022-02-01T14:14:53.120",
+  "titles": [
+    {
+      "title": "Schneider Electric Modicon M340 BMXP342000",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://download.schneider-electric.com/files?p_enDocType=Technical+leaflet&p_File_Name=SEVD-2019-344-02_Modicon_Controllers_EcoStruxure%E2%84%A2_Control_Expert_and_Unity_Pro_Security_Notification_V2.1.pdf&p_Doc_Ref=SEVD-2019-344-02",
+      "type": "Advisory"
+    }
+  ]
+}

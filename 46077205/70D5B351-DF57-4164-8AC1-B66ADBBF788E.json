@@ -1,0 +1,18 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:openinfosecfoundation:suricata:2.0:beta_1:*:*:*:*:*:*",
+  "cpeNameId": "70D5B351-DF57-4164-8AC1-B66ADBBF788E",
+  "created": "2014-03-13T13:48:22.857",
+  "lastModified": "2014-03-13T13:50:10.310",
+  "titles": [
+    {
+      "title": "Open Information Security Foundation (OISF) Suricata 2.0 beta 1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "http://www.openinfosecfoundation.org/index.php/component/content/article/1-latest-news/180-suricata-20beta1-available"
+    }
+  ]
+}

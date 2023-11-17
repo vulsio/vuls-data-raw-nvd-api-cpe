@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:arm:trusted_firmware-a:1.6:rc1:*:*:*:*:*:*",
+  "cpeNameId": "B056D2C4-F443-413A-A7A9-C30127E20AFA",
+  "created": "2020-11-19T13:25:43.307",
+  "lastModified": "2020-11-19T13:25:43.307",
+  "titles": [
+    {
+      "title": "Arm Trusted Firmware-A (TF-A) 1.6 Release Candidate 1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/ARM-software/arm-trusted-firmware",
+      "type": "Version"
+    },
+    {
+      "ref": "https://www.arm.com/",
+      "type": "Vendor"
+    }
+  ]
+}

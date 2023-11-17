@@ -1,0 +1,27 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:cisco:ios:12.2\\\\(40\\\\)se:*:*:*:*:*:*:*",
+  "cpeNameId": "97E822D0-5C72-423E-B42D-3E6C779B234B",
+  "created": "2020-05-11T12:09:00.917",
+  "lastModified": "2020-05-11T12:09:00.917",
+  "titles": [
+    {
+      "title": "Cisco IOS 12.2\\(40\\)SE",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://software.cisco.com/download/home/281458045",
+      "type": "Version"
+    },
+    {
+      "ref": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCuv45410",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160323-smi",
+      "type": "Advisory"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:fortinet:fortivoice:5.3.11:*:*:*:entreprise:*:*:*",
+  "cpeNameId": "B3D68C59-463E-42EC-9094-BC457BB38C74",
+  "created": "2022-07-21T17:54:17.567",
+  "lastModified": "2022-07-21T18:21:39.000",
+  "titles": [
+    {
+      "title": "Fortinet FortiVoice 5.3.11 Entreprise Edition",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.fortiguard.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://www.fortiguard.com/psirt/FG-IR-21-155",
+      "type": "Advisory"
+    }
+  ]
+}

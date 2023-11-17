@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:mozilla:firefox_esr:45.1.1:*:*:*:*:*:*:*",
+  "cpeNameId": "16F1A944-1F89-4CAB-82D9-AB66F17F6D7E",
+  "created": "2016-06-15T17:30:24.917",
+  "lastModified": "2016-06-15T17:30:24.917",
+  "titles": [
+    {
+      "title": "Mozilla Firefox Extended Support Release (ESR) 45.1.1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.mozilla.org/en-US/firefox/45.1.1/releasenotes/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://www.mozilla.org/en-US/",
+      "type": "Vendor"
+    }
+  ]
+}

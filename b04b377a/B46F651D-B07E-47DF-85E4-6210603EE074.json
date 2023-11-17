@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:twistedmatrix:twisted:16.1.1:*:*:*:*:*:*:*",
+  "cpeNameId": "B46F651D-B07E-47DF-85E4-6210603EE074",
+  "created": "2019-06-18T12:24:22.003",
+  "lastModified": "2019-06-18T12:24:22.003",
+  "titles": [
+    {
+      "title": "Twisted Matrix Twisted 16.1.1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/twisted/twisted",
+      "type": "Change Log"
+    }
+  ]
+}

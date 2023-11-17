@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:qnap:qts:4.3.4.0372:*:*:*:*:*:*:*",
+  "cpeNameId": "AD71C06A-9174-47BB-96C0-0E9E69CEB3DD",
+  "created": "2019-06-26T12:38:31.407",
+  "lastModified": "2019-06-26T12:38:31.407",
+  "titles": [
+    {
+      "title": "QNAP QTS 4.3.4.0372",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.qnap.com/en-us/releasenotes/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://www.qnap.com/en-us/",
+      "type": "Vendor"
+    }
+  ]
+}

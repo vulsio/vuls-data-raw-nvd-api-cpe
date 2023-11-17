@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:nextcloud:nextcloud_mail:0.15.1:*:*:*:*:*:*:*",
+  "cpeNameId": "FFC45C83-DE65-41CD-A1D0-F62837606EB5",
+  "created": "2020-05-18T15:47:46.830",
+  "lastModified": "2020-05-18T15:47:46.830",
+  "titles": [
+    {
+      "title": "Nextcloud Mail 0.15.1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/nextcloud/mail",
+      "type": "Change Log"
+    }
+  ]
+}

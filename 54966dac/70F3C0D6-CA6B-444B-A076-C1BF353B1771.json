@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:synology:diskstation_manager:6.2.1-23824-3:*:*:*:*:*:*:*",
+  "cpeNameId": "70F3C0D6-CA6B-444B-A076-C1BF353B1771",
+  "created": "2019-05-09T14:33:31.903",
+  "lastModified": "2019-05-09T14:33:31.903",
+  "titles": [
+    {
+      "title": "Synology Diskstation Manager 6.2.1-23824-3",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.synology.com/en-us/releaseNote/DS1815+",
+      "type": "Version"
+    },
+    {
+      "ref": "https://www.synology.com/en-us/releaseNote/DS211j",
+      "type": "Version"
+    }
+  ]
+}

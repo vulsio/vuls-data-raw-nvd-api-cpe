@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:cisco:pix_firewall:515_base:*:*:*:*:*:*:*",
+  "cpeNameId": "A14A9F60-8947-4261-BB18-72FF7BB0C1DE",
+  "created": "2016-08-19T14:10:27.293",
+  "lastModified": "2021-06-17T15:20:33.500",
+  "titles": [
+    {
+      "title": "Cisco Pix Firewall 515 Base",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160817-asa-snmp",
+      "type": "Advisory"
+    },
+    {
+      "ref": "http://www.cisco.com/c/en/us/index.html",
+      "type": "Vendor"
+    }
+  ]
+}

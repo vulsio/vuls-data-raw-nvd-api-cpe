@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:fooplugins:foogallery:1.9.44:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "A2268A26-2410-4233-8DF5-D9CE993FCF8D",
+  "created": "2021-07-12T12:58:24.877",
+  "lastModified": "2021-07-12T14:36:15.623",
+  "titles": [
+    {
+      "title": "FooPlugins FooGallery 1.9.44 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://fooplugins.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://wordpress.org/plugins/foogallery/#developers",
+      "type": "Change Log"
+    }
+  ]
+}

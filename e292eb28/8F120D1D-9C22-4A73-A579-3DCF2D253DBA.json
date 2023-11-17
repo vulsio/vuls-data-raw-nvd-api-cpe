@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:arm:trusted_firmware-a:2.8:*:*:*:*:*:*:*",
+  "cpeNameId": "8F120D1D-9C22-4A73-A579-3DCF2D253DBA",
+  "created": "2023-01-23T14:35:17.897",
+  "lastModified": "2023-03-03T13:46:47.540",
+  "titles": [
+    {
+      "title": "ARM Trusted Firmware-A (TF-A) 2.8",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://trustedfirmware-a.readthedocs.io/en/latest/security_advisories/security-advisory-tfv-10.html",
+      "type": "Advisory"
+    }
+  ]
+}

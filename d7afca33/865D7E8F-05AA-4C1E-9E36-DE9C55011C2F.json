@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:owncloud:owncloud:10.2.1:rc1:*:*:*:*:*:*",
+  "cpeNameId": "865D7E8F-05AA-4C1E-9E36-DE9C55011C2F",
+  "created": "2021-02-10T18:00:25.577",
+  "lastModified": "2021-02-10T18:00:25.577",
+  "titles": [
+    {
+      "title": "ownCloud 10.2.1 Release Candidate 1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/owncloud/core",
+      "type": "Version"
+    },
+    {
+      "ref": "https://owncloud.com/",
+      "type": "Vendor"
+    }
+  ]
+}

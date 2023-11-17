@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:usrsctp_project:usrsctp:2019-12-20:*:*:*:*:*:*:*",
+  "cpeNameId": "A3A6F47D-C5D5-4A5E-8495-A3B7BA0403FD",
+  "created": "2020-03-10T17:33:57.007",
+  "lastModified": "2020-03-10T17:33:57.007",
+  "titles": [
+    {
+      "title": "Usrsctp Project Usrsctp 2019-12-20",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/sctplab/usrsctp/commits/master",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://bugs.chromium.org/p/project-zero/issues/detail?id=1992",
+      "type": "Advisory"
+    }
+  ]
+}

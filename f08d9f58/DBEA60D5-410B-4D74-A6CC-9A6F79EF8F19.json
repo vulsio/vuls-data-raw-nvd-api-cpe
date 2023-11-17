@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:h:korenix:jetnet6710g:-:*:*:*:*:*:*:*",
+  "cpeNameId": "DBEA60D5-410B-4D74-A6CC-9A6F79EF8F19",
+  "created": "2017-11-22T19:27:55.813",
+  "lastModified": "2021-06-07T14:13:07.093",
+  "titles": [
+    {
+      "title": "Korenix JetNet6710G",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://ics-cert.us-cert.gov/advisories/ICSA-17-299-01",
+      "type": "Advisory"
+    },
+    {
+      "ref": "http://www.korenix.com/",
+      "type": "Vendor"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:kerio:connect:9.1.0:*:*:*:*:*:*:*",
+  "cpeNameId": "A039D46B-F289-49E8-8806-0314DF35B8D1",
+  "created": "2017-05-13T03:06:19.847",
+  "lastModified": "2021-03-02T14:44:59.780",
+  "titles": [
+    {
+      "title": "Kerio Connect 9.1.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "http://www.kerio.com/support/kerio-connect",
+      "type": "Product"
+    },
+    {
+      "ref": "http://download.kerio.com/archive/",
+      "type": "Version"
+    }
+  ]
+}

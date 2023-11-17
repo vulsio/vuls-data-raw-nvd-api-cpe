@@ -1,0 +1,21 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:tenmiles:helpdesk_pilot:-:*:*:*:*:*:*:*",
+  "cpeNameId": "D420A11F-6B6B-4C7F-9CA3-F36D32F8752C",
+  "created": "2013-12-23T16:48:07.747",
+  "lastModified": "2013-12-23T16:50:22.673",
+  "titles": [
+    {
+      "title": "tenmiles HelpDesk PIlot",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "http://tenmiles.com/"
+    },
+    {
+      "ref": "http://www.helpdeskpilot.com/"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:nodejs:node.js:8.3.0:*:*:*:lts:*:*:*",
+  "cpeNameId": "EDB096E4-2410-466B-80BE-F7D602D177F9",
+  "created": "2020-06-22T11:45:05.303",
+  "lastModified": "2020-06-22T11:45:05.303",
+  "titles": [
+    {
+      "title": "Nodejs Node.js 8.3.0 LTS Edition",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://nodejs.org/en/about/releases/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://nodejs.org/download/release/",
+      "type": "Change Log"
+    }
+  ]
+}

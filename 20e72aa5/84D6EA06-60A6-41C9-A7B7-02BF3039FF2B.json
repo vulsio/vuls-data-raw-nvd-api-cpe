@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:openharmony:openharmony:3.0:*:*:*:lts:*:*:*",
+  "cpeNameId": "84D6EA06-60A6-41C9-A7B7-02BF3039FF2B",
+  "created": "2022-12-12T14:43:25.370",
+  "lastModified": "2023-03-14T13:18:29.953",
+  "titles": [
+    {
+      "title": "OpenHarmony 3.0 Long Term Support (LTS)",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://gitee.com/openharmony/security/blob/master/en/security-disclosure/2022/2022-12.md",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://gitee.com/openharmony/docs/tree/master/zh-cn/release-notes",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:openharmony:openharmony:3.0:long_term_support:*:*:*:*:*:*",
+      "cpeNameId": "F25F7CA7-0D6F-4344-9B68-C79019DF2965"
+    }
+  ]
+}

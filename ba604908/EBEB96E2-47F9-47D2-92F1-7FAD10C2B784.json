@@ -1,0 +1,13 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:cakefoundation:cakephp:2.0.0:rc2:*:*:*:*:*:*",
+  "cpeNameId": "EBEB96E2-47F9-47D2-92F1-7FAD10C2B784",
+  "created": "2012-10-10T16:46:30.643",
+  "lastModified": "2012-11-21T17:14:27.820",
+  "titles": [
+    {
+      "title": "Cake Software Foundation CakePHP 2.0.0 Release Candidate 2",
+      "lang": "en"
+    }
+  ]
+}

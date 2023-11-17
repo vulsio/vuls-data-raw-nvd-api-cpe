@@ -1,0 +1,31 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:themeum:tutor_lms:1.6.7:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "4EA1D055-A65B-4718-AC6C-EF16826E5C0F",
+  "created": "2021-04-08T13:51:03.620",
+  "lastModified": "2021-04-12T14:51:42.813",
+  "titles": [
+    {
+      "title": "themeum Tutor LMS 1.6.7 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/themeum/tutor/blob/master/.github/changelog.md#tutorlms-changelog",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://wpscan.com/vulnerability/d5a00322-7098-4f8d-8e5e-157b63449c17",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://www.wordfence.com/blog/2021/03/several-vulnerabilities-patched-in-tutor-lms-plugin/",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://www.themeum.com/",
+      "type": "Vendor"
+    }
+  ]
+}

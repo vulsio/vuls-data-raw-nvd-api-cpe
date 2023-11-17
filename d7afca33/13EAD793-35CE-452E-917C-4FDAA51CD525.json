@@ -1,0 +1,25 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:owncloud:owncloud:8.2.11:-:*:*:*:*:*:*",
+  "cpeNameId": "13EAD793-35CE-452E-917C-4FDAA51CD525",
+  "created": "2019-06-25T16:00:49.747",
+  "lastModified": "2019-06-25T16:00:49.747",
+  "titles": [
+    {
+      "title": "ownCloud 8.2.11",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/owncloud/docs/tags",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:owncloud:owncloud:8.2.11:*:*:*:*:*:*:*",
+      "cpeNameId": "CEB8A0FB-D8C7-4621-95A8-5403CE6ABF68"
+    }
+  ]
+}

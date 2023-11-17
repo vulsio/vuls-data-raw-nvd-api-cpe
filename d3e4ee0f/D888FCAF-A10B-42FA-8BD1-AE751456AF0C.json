@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:smartdns_project:smartdns:39:*:*:*:*:*:*:*",
+  "cpeNameId": "D888FCAF-A10B-42FA-8BD1-AE751456AF0C",
+  "created": "2023-05-05T12:56:26.553",
+  "lastModified": "2023-05-09T12:27:44.557",
+  "titles": [
+    {
+      "title": "SmartDNS Project SmartDNS 39",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/pymumu/smartdns/tags",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/pymumu/smartdns/issues/1378",
+      "type": "Advisory"
+    }
+  ]
+}

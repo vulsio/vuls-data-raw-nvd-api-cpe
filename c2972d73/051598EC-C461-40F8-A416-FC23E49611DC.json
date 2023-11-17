@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:qnap:qts:5.0.0.1785:*:*:*:*:*:*:*",
+  "cpeNameId": "051598EC-C461-40F8-A416-FC23E49611DC",
+  "created": "2022-05-13T12:54:32.770",
+  "lastModified": "2022-05-27T03:44:08.690",
+  "titles": [
+    {
+      "title": "QNAP QTS 5.0.0.1785",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.qnap.com/en/security-advisory/qsa-22-13",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://www.qnap.com/en-us/release-notes/qts/5.0.0.1986/20220324",
+      "type": "Change Log"
+    }
+  ]
+}

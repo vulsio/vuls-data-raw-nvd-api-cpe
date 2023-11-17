@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:rack_project:rack:1.4.2:*:*:*:*:ruby:*:*",
+  "cpeNameId": "C70C21C8-B9D0-41F1-BCDC-9849EF194E0A",
+  "created": "2021-10-21T13:48:57.093",
+  "lastModified": "2021-10-21T13:56:35.227",
+  "titles": [
+    {
+      "title": "Rack Project Rack 1.4.2 for Ruby",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/rack/rack",
+      "type": "Version"
+    }
+  ]
+}

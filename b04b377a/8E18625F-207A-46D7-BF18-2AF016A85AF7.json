@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:twistedmatrix:twisted:21.2.0:-:*:*:*:*:*:*",
+  "cpeNameId": "8E18625F-207A-46D7-BF18-2AF016A85AF7",
+  "created": "2022-02-09T15:06:38.510",
+  "lastModified": "2022-02-09T19:19:31.827",
+  "titles": [
+    {
+      "title": "Twisted Matrix Twisted 21.2.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.twistedmatrix.com/trac/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://github.com/twisted/twisted/releases",
+      "type": "Change Log"
+    }
+  ]
+}

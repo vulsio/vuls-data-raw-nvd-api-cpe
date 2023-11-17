@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:mozilla:firefox_esr:24.4:*:*:*:*:*:*:*",
+  "cpeNameId": "165F027A-D838-4372-9383-22613BE862FE",
+  "created": "2014-03-19T18:56:38.153",
+  "lastModified": "2014-04-30T17:06:13.977",
+  "titles": [
+    {
+      "title": "Mozilla Firefox Extended Support Release (ESR) 24.4",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://wiki.mozilla.org/Releases",
+      "type": "Version"
+    }
+  ]
+}

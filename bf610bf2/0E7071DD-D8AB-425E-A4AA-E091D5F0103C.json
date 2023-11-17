@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:redhat:ansible_collection:4.0.0:*:*:*:*:aws:*:*",
+  "cpeNameId": "0E7071DD-D8AB-425E-A4AA-E091D5F0103C",
+  "created": "2022-10-31T17:25:16.957",
+  "lastModified": "2022-11-02T15:32:25.360",
+  "titles": [
+    {
+      "title": "Red Hat Ansible Collection 4.0.0 for AWS",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/ansible-collections/amazon.aws/releases",
+      "type": "Change Log"
+    }
+  ]
+}

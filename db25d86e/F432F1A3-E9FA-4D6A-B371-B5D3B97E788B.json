@@ -1,0 +1,35 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:liquidweb:kb_support:1.3.5:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "F432F1A3-E9FA-4D6A-B371-B5D3B97E788B",
+  "created": "2023-11-13T18:30:11.970",
+  "lastModified": "2023-11-13T18:30:11.970",
+  "titles": [
+    {
+      "title": "Liquid Web KB Support 1.3.5 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://wordpress.org/plugins/kb-support/#developers",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://kb-support.com/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://wpomnia.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://www.liquidweb.com/our-brands/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://github.com/codemonkey-jack/kb-support/tags",
+      "type": "Version"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:jsonpointer_project:jsonpointer:1.0.0:*:*:*:*:node.js:*:*",
+  "cpeNameId": "543AB9AD-C33C-4058-A481-A746F4BA8972",
+  "created": "2021-11-05T14:53:05.587",
+  "lastModified": "2021-11-05T18:13:49.883",
+  "titles": [
+    {
+      "title": "JSON Pointer Project JSON Pointer 1.0.0 for Node.js",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://security.snyk.io/vuln/SNYK-JS-JSONPOINTER-1577288",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://github.com/janl/node-jsonpointer",
+      "type": "Project"
+    },
+    {
+      "ref": "https://www.npmjs.com/package/jsonpointer",
+      "type": "Product"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:incsub:forminator:1.5.3:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "763362DE-C439-4E5C-A703-470CC67D5666",
+  "created": "2019-07-16T15:29:46.327",
+  "lastModified": "2019-07-16T15:29:46.327",
+  "titles": [
+    {
+      "title": "Incsub Forminator 1.5.3 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://wordpress.org/plugins/forminator/#developers",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://incsub.com/",
+      "type": "Vendor"
+    }
+  ]
+}

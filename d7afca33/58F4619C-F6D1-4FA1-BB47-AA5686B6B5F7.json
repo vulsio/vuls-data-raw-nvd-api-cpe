@@ -1,0 +1,27 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:owncloud:owncloud:1.5.0:*:*:*:*:android:*:*",
+  "cpeNameId": "58F4619C-F6D1-4FA1-BB47-AA5686B6B5F7",
+  "created": "2021-09-10T13:55:11.883",
+  "lastModified": "2021-09-10T14:05:30.933",
+  "titles": [
+    {
+      "title": "ownCloud 1.5.0 for Android",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://owncloud.com/changelog/android-app/",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://play.google.com/store/apps/details?id=com.owncloud.android&hl=en_US&gl=US",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/owncloud/android",
+      "type": "Version"
+    }
+  ]
+}

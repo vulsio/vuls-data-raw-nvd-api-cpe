@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:gnu:glibc:2.22:*:*:*:*:*:*:*",
+  "cpeNameId": "96C89639-6664-49C0-BE9B-B281DA2D2121",
+  "created": "2016-01-22T17:15:07.263",
+  "lastModified": "2016-01-22T17:15:07.263",
+  "titles": [
+    {
+      "title": "GNU Glibc 2.22",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "http://ftp.gnu.org/gnu/libc/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://www.gnu.org/software/libc/",
+      "type": "Project"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:python:python:3.7.2:-:*:*:*:*:*:*",
+  "cpeNameId": "B50B7173-D8EE-4514-9923-4D7BE82DFBA7",
+  "created": "2019-05-07T18:36:32.720",
+  "lastModified": "2019-05-07T18:36:32.720",
+  "titles": [
+    {
+      "title": "Python 3.7.2",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://docs.python.org/3.7/whatsnew/index.html",
+      "type": "Change Log"
+    }
+  ]
+}

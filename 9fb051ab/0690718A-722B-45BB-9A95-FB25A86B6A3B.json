@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:cisco:ios:15.2\\\\(4\\\\)m6a:*:*:*:*:*:*:*",
+  "cpeNameId": "0690718A-722B-45BB-9A95-FB25A86B6A3B",
+  "created": "2020-05-11T11:57:13.820",
+  "lastModified": "2020-05-11T11:57:13.820",
+  "titles": [
+    {
+      "title": "Cisco IOS 15.2\\(4\\)M6A",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://software.cisco.com/download/find/ios",
+      "type": "Version"
+    },
+    {
+      "ref": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160323-l4f",
+      "type": "Advisory"
+    }
+  ]
+}

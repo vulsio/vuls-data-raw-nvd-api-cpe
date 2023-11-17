@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:apple:ipad_os:16.5:*:*:*:*:*:*:*",
+  "cpeNameId": "435A4C07-0562-42C3-968D-59711106DB22",
+  "created": "2023-09-22T21:13:32.977",
+  "lastModified": "2023-09-22T21:13:32.977",
+  "titles": [
+    {
+      "title": "Apple iPad OS 16.5",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://support.apple.com/en-us/HT213757",
+      "type": "Advisory"
+    }
+  ]
+}

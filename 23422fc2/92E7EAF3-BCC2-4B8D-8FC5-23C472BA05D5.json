@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:arm:midguard_gpu_kernel_driver:r26p0:*:*:*:*:*:*:*",
+  "cpeNameId": "92E7EAF3-BCC2-4B8D-8FC5-23C472BA05D5",
+  "created": "2022-01-21T19:21:11.860",
+  "lastModified": "2022-01-24T13:58:54.247",
+  "titles": [
+    {
+      "title": "ARM Midguard GPU Kernel Driver r26p0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://developer.arm.com/support/arm-security-updates/mali-gpu-kernel-driver",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://developer.arm.com/tools-and-software/graphics-and-gaming/mali-drivers/midgard-kernel",
+      "type": "Product"
+    }
+  ]
+}

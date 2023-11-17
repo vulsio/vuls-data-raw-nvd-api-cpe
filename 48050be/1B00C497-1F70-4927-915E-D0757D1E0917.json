@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:gnu:glibc:2.36:*:*:*:*:*:*:*",
+  "cpeNameId": "1B00C497-1F70-4927-915E-D0757D1E0917",
+  "created": "2022-09-02T15:10:57.783",
+  "lastModified": "2022-09-03T03:59:50.990",
+  "titles": [
+    {
+      "title": "GNU glibc 2.36",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://sourceware.org/glibc/wiki/Release/2.36",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://sourceware.org/bugzilla/show_bug.cgi?id=29536",
+      "type": "Advisory"
+    }
+  ]
+}

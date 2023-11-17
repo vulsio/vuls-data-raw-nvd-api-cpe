@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:cisco:ios:15.3\\\\(3\\\\)jb75:*:*:*:*:*:*:*",
+  "cpeNameId": "86E4D3E0-E099-4A24-859D-48F1048A61C0",
+  "created": "2020-05-11T11:57:26.647",
+  "lastModified": "2020-05-11T11:57:26.647",
+  "titles": [
+    {
+      "title": "Cisco IOS 15.3\\(3\\)JB75",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://software.cisco.com/download/find/ios",
+      "type": "Version"
+    },
+    {
+      "ref": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160323-l4f",
+      "type": "Advisory"
+    }
+  ]
+}

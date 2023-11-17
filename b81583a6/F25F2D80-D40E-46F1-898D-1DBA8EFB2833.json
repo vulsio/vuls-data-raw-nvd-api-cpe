@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:igniterealtime:openfire:4.5.0:-:*:*:*:*:*:*",
+  "cpeNameId": "F25F2D80-D40E-46F1-898D-1DBA8EFB2833",
+  "created": "2022-03-25T15:46:52.690",
+  "lastModified": "2023-02-21T17:43:46.510",
+  "titles": [
+    {
+      "title": "Ignite Realtime Openfire 4.5.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://discourse.igniterealtime.org/t/openfire-4-5-0-is-released/87004",
+      "type": "Version"
+    }
+  ]
+}

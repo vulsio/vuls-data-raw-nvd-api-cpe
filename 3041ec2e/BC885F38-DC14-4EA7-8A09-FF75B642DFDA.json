@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:mozilla:firefox:101.0:*:*:*:*:*:*:*",
+  "cpeNameId": "BC885F38-DC14-4EA7-8A09-FF75B642DFDA",
+  "created": "2022-12-27T16:21:33.803",
+  "lastModified": "2022-12-27T18:05:08.333",
+  "titles": [
+    {
+      "title": "Mozilla Firefox 101.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.mozilla.org/en-US/security/advisories/mfsa2022-20/",
+      "type": "Advisory"
+    }
+  ]
+}

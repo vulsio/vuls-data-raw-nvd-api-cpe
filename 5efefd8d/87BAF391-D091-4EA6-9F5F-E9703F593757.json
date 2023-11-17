@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:pulsesecure:pulse_policy_secure:9.1:r6:*:*:*:*:*:*",
+  "cpeNameId": "87BAF391-D091-4EA6-9F5F-E9703F593757",
+  "created": "2020-07-28T14:01:16.707",
+  "lastModified": "2021-05-07T13:46:46.500",
+  "titles": [
+    {
+      "title": "Pulse Secure Pulse Policy Secure 9.1 R6",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www-prev.pulsesecure.net/techpubs/pulse-policy-secure/pps/9.1rx",
+      "type": "Version"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:online_class_and_exam_scheduling_system_project:online_class_and_exam_scheduling_system:-:*:*:*:*:*:*:*",
+  "cpeNameId": "602CA8D1-CC35-4777-925A-B8C1A7702891",
+  "created": "2022-08-09T15:13:27.927",
+  "lastModified": "2022-08-09T15:18:28.023",
+  "titles": [
+    {
+      "title": "Online Class and Exam Scheduling System Project Online Class and Exam Scheduling System",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.sourcecodester.com/php/11353/online-class-and-exam-scheduling-system.html",
+      "type": "Product"
+    }
+  ]
+}

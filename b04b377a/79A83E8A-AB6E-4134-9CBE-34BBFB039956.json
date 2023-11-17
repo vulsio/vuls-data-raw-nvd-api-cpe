@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:twistedmatrix:twisted:19.10.0:*:*:*:*:*:*:*",
+  "cpeNameId": "79A83E8A-AB6E-4134-9CBE-34BBFB039956",
+  "created": "2020-03-12T16:47:57.330",
+  "lastModified": "2020-03-12T16:47:57.330",
+  "titles": [
+    {
+      "title": "Twisted Matrix Twisted 19.10.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/twisted/twisted/releases",
+      "type": "Change Log"
+    }
+  ]
+}

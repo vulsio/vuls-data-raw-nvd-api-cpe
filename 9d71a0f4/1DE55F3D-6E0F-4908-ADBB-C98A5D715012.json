@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:coolplugins:cryptocurrency_widgets:2.5.1:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "1DE55F3D-6E0F-4908-ADBB-C98A5D715012",
+  "created": "2023-06-13T14:31:18.610",
+  "lastModified": "2023-06-21T16:37:46.310",
+  "titles": [
+    {
+      "title": "CoolPlugins Cryptocurrency Widgets 2.5.1 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.wordfence.com/threat-intel/vulnerabilities/detail/cool-plugins-various-versions-arbitrary-plugin-installation-and-activation",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://coolplugins.net/",
+      "type": "Vendor"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:bitcoincore:bitcoin_core:0.8.0:*:*:*:*:*:*:*",
+  "cpeNameId": "136C930B-7BFA-4A59-B641-331B86683DF8",
+  "created": "2018-08-25T12:12:00.297",
+  "lastModified": "2021-03-16T18:08:02.160",
+  "titles": [
+    {
+      "title": "Bitcoincore Bitcoin Core 0.8.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://bitcoin.org/en/version-history",
+      "type": "Version"
+    }
+  ]
+}

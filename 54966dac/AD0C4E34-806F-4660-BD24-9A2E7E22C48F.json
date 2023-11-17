@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:synology:diskstation_manager:6.1.7-15284:*:*:*:*:*:*:*",
+  "cpeNameId": "AD0C4E34-806F-4660-BD24-9A2E7E22C48F",
+  "created": "2019-06-10T12:32:32.803",
+  "lastModified": "2019-06-10T12:32:32.803",
+  "titles": [
+    {
+      "title": "Synology DiskStation Manager 6.1.7-15284",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://forum.synology.com/enu/viewtopic.php?t=142657",
+      "type": "Version"
+    },
+    {
+      "ref": "https://www.synology.com/en-us/releaseNote/DS1817+",
+      "type": "Version"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:tribe29:checkmk:2.2.0:b3:*:*:*:*:*:*",
+  "cpeNameId": "E85D8752-C5BC-4B46-96D5-49F55511B751",
+  "created": "2023-04-07T15:27:34.323",
+  "lastModified": "2023-07-05T15:18:30.983",
+  "titles": [
+    {
+      "title": "Tribe29 checkmk 2.2.0 Beta 3",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/tribe29/checkmk",
+      "type": "Product"
+    },
+    {
+      "ref": "https://tribe29.com/",
+      "type": "Vendor"
+    }
+  ]
+}

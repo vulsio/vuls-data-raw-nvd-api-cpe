@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:link_library_project:link_library:6.8.11:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "755A1BF9-C962-4700-BC61-0747A7A6A645",
+  "created": "2022-02-03T16:58:34.210",
+  "lastModified": "2022-02-23T23:02:46.957",
+  "titles": [
+    {
+      "title": "Link Library Project Link Library 6.8.11 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://wordpress.org/plugins/link-library/",
+      "type": "Project"
+    },
+    {
+      "ref": "https://wordpress.org/plugins/link-library/#developers",
+      "type": "Change Log"
+    }
+  ]
+}

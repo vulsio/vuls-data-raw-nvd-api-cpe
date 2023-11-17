@@ -1,0 +1,22 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:mozilla:firefox_esr:31.5.1:*:*:*:*:*:*:*",
+  "cpeNameId": "8BD736CD-595D-4992-A5E1-16493ACCBFC9",
+  "created": "2015-03-24T13:58:45.910",
+  "lastModified": "2015-03-25T15:38:05.737",
+  "titles": [
+    {
+      "title": "Mozilla Firefox Extended Support Release (ESR) 31.5.1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "http://windows-download.tumblr.com/post/114147453232/mozilla-firefox-31-5-1-esr-2015"
+    },
+    {
+      "ref": "https://www.mozilla.org/en-US/firefox/organizations/",
+      "type": "Version"
+    }
+  ]
+}

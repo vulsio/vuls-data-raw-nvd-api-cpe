@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:ibm:rational_publishing_engine:2.1.2:*:*:*:*:*:*:*",
+  "cpeNameId": "5D7F28C1-7ABC-4FD2-9D83-2869C05AF8D9",
+  "created": "2019-08-02T15:27:06.857",
+  "lastModified": "2019-08-02T15:27:06.857",
+  "titles": [
+    {
+      "title": "IBM Rational Publishing Engine 2.1.2",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www-01.ibm.com/support/docview.wss?uid=swg22013961",
+      "type": "Advisory"
+    }
+  ]
+}

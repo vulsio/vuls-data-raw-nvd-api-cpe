@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:python:pycryptodome:3.4.3:*:*:*:*:*:*:*",
+  "cpeNameId": "7708DE64-DF23-4EAE-9D38-9768B03DA869",
+  "created": "2019-11-05T15:05:18.707",
+  "lastModified": "2019-11-05T15:05:18.707",
+  "titles": [
+    {
+      "title": "Python Pycryptodome 3.4.3",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://pypi.org/project/pycryptodome/#history",
+      "type": "Version"
+    }
+  ]
+}

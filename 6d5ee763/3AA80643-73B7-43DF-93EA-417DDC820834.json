@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:netbox_project:netbox:2.5.13:*:*:*:*:*:*:*",
+  "cpeNameId": "3AA80643-73B7-43DF-93EA-417DDC820834",
+  "created": "2021-06-16T13:38:04.770",
+  "lastModified": "2021-06-16T13:44:32.693",
+  "titles": [
+    {
+      "title": "netbox Project netbox 2.5.13",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://netbox.readthedocs.io/en/stable/",
+      "type": "Project"
+    },
+    {
+      "ref": "https://github.com/netbox-community/netbox/releases",
+      "type": "Version"
+    }
+  ]
+}

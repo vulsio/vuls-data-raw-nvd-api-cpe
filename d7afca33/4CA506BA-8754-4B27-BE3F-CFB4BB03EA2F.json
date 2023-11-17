@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:owncloud:owncloud:8.0.13:*:*:*:*:*:*:*",
+  "cpeNameId": "4CA506BA-8754-4B27-BE3F-CFB4BB03EA2F",
+  "created": "2018-06-13T14:33:52.237",
+  "lastModified": "2018-06-13T14:33:52.237",
+  "titles": [
+    {
+      "title": "ownCloud 8.0.13",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://owncloud.org/changelog/server/",
+      "type": "Change Log"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:p3:*:*:*:*:*:*",
+  "cpeNameId": "63091A9B-20C6-4AF0-9B96-3F72BE443CFE",
+  "created": "2022-06-25T00:21:11.467",
+  "lastModified": "2022-09-12T13:51:26.700",
+  "titles": [
+    {
+      "title": "tribe29 checkmk 2.1.0 Patch 3",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://checkmk.com/download/archive",
+      "type": "Change Log"
+    }
+  ]
+}

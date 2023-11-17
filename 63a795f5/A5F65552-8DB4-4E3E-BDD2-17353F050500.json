@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:cisco:firepower_management_center:5.3.1.6:*:*:*:*:*:*:*",
+  "cpeNameId": "A5F65552-8DB4-4E3E-BDD2-17353F050500",
+  "created": "2016-03-07T16:31:34.780",
+  "lastModified": "2016-03-07T16:31:34.780",
+  "titles": [
+    {
+      "title": "Cisco FirePOWER Management Center 5.3.1.6",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "http://www.cisco.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160224-fmc",
+      "type": "Advisory"
+    }
+  ]
+}

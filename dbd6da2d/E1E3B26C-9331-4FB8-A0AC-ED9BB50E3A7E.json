@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:ibm:rational_doors:9.6.0.8:*:*:*:*:*:*:*",
+  "cpeNameId": "E1E3B26C-9331-4FB8-A0AC-ED9BB50E3A7E",
+  "created": "2021-04-22T14:03:31.473",
+  "lastModified": "2021-04-22T16:07:36.240",
+  "titles": [
+    {
+      "title": "IBM Rational DOORS 9.6.0.8",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.ibm.com/support/fixcentral/swg/selectFixes?product=ibm%2FRational%2FRational+DOORS&fixids=9.5.1.10-RATIONAL-DOORS-fixpack1&release=9.5&platform=All&source=SAR&function=fixId&parent=ibm/Rational",
+      "type": "Version"
+    }
+  ]
+}

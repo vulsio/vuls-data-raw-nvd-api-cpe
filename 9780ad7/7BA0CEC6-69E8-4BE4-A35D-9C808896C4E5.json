@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:xstream_project:xstream:1.4.14:*:*:*:*:*:*:*",
+  "cpeNameId": "7BA0CEC6-69E8-4BE4-A35D-9C808896C4E5",
+  "created": "2020-11-20T20:07:51.387",
+  "lastModified": "2020-11-20T20:07:51.387",
+  "titles": [
+    {
+      "title": "XStream Project XStream 1.4.14",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/x-stream/xstream",
+      "type": "Version"
+    }
+  ]
+}

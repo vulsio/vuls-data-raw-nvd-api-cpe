@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:cisco:nx-os:7.0\\\\(3\\\\)f:*:*:*:*:*:*:*",
+  "cpeNameId": "75276DEC-1148-42C0-A1CE-AB3C0B812970",
+  "created": "2019-09-04T17:56:00.430",
+  "lastModified": "2021-04-13T14:38:54.460",
+  "titles": [
+    {
+      "title": "Cisco NX-OS 7.0\\(3\\)f",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190828-fxnxos-snmp-dos",
+      "type": "Advisory"
+    },
+    {
+      "ref": "http://www.cisco.com/c/en/us/products/ios-nx-os-software/nx-os-software/index.html",
+      "type": "Product"
+    }
+  ]
+}

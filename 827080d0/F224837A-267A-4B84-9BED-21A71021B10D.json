@@ -1,0 +1,27 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:rockwellautomation:arena:14.70.00:*:*:*:*:*:*:*",
+  "cpeNameId": "F224837A-267A-4B84-9BED-21A71021B10D",
+  "created": "2019-11-04T19:39:43.680",
+  "lastModified": "2019-11-04T19:39:43.680",
+  "titles": [
+    {
+      "title": "Rockwell Automation Arena 14.70.00",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://compatibility.rockwellautomation.com/Pages/MultiProductCompareSelections.aspx?crumb=113&versions=56903,56501,55302,53518,51988,54099,50421,50004,50003,50379,50378,50324,50323,50325,54097,54098,50322,50321",
+      "type": "Version"
+    },
+    {
+      "ref": "https://www.rockwellautomation.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://www.arenasimulation.com/",
+      "type": "Product"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:wpmet:wp_fundraising_donation_and_crowdfunding_platform:1.1.14:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "2CFF9617-62B2-4846-AA6B-DDBDB6DFC005",
+  "created": "2022-11-04T15:18:18.423",
+  "lastModified": "2022-11-04T15:19:36.130",
+  "titles": [
+    {
+      "title": "Wpmet WP Fundraising Donation And Crowdfunding Platform 1.1.14 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://wpmet.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://wordpress.org/plugins/wp-fundraising-donation/#developers",
+      "type": "Change Log"
+    }
+  ]
+}

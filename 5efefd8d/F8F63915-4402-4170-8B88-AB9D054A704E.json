@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:pulsesecure:pulse_policy_secure:9.1:r9:*:*:*:*:*:*",
+  "cpeNameId": "F8F63915-4402-4170-8B88-AB9D054A704E",
+  "created": "2022-12-08T18:20:55.223",
+  "lastModified": "2022-12-12T16:19:16.443",
+  "titles": [
+    {
+      "title": "Pulse Secure Pulse Policy Secure 9.1 R9",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.ivanti.com/support/product-documentation?psredirect",
+      "type": "Version"
+    }
+  ]
+}

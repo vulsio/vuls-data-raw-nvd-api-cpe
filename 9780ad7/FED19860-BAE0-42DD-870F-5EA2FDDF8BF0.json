@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:xstream_project:xstream:1.4.9:*:*:*:*:*:*:*",
+  "cpeNameId": "FED19860-BAE0-42DD-870F-5EA2FDDF8BF0",
+  "created": "2018-03-26T18:34:37.620",
+  "lastModified": "2018-03-26T18:34:37.620",
+  "titles": [
+    {
+      "title": "XStream Project XStream 1.4.9",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "http://x-stream.github.io/index.html",
+      "type": "Project"
+    },
+    {
+      "ref": "https://github.com/x-stream/xstream/releases",
+      "type": "Change Log"
+    }
+  ]
+}

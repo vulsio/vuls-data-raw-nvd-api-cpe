@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:ibm:cics_tx:11.1:*:*:*:advanced:*:*:*",
+  "cpeNameId": "0165E3C9-EC5B-4099-A3CF-B2254B5E4E8C",
+  "created": "2022-07-05T17:23:42.870",
+  "lastModified": "2022-07-12T13:08:10.930",
+  "titles": [
+    {
+      "title": "IBM Cics Tx 11.1 Advanced Edition",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.ibm.com/support/pages/node/6597531",
+      "type": "Advisory"
+    }
+  ]
+}

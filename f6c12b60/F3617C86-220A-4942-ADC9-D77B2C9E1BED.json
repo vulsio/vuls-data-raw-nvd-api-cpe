@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:gnome:anjuta:3.9.4:*:*:*:*:*:*:*",
+  "cpeNameId": "F3617C86-220A-4942-ADC9-D77B2C9E1BED",
+  "created": "2022-08-29T15:01:13.820",
+  "lastModified": "2022-08-29T15:04:00.160",
+  "titles": [
+    {
+      "title": "GNOME anjuta 3.9.4",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://gitlab.gnome.org/Archive/anjuta/-/tags",
+      "type": "Version"
+    }
+  ]
+}

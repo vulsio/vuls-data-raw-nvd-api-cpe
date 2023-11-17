@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:sandhillsdev:easy_digital_downloads:2.9.4:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "1521BC76-1C33-4A32-918E-DA7C2CD5F16D",
+  "created": "2021-10-26T16:08:12.350",
+  "lastModified": "2021-10-26T16:24:48.820",
+  "titles": [
+    {
+      "title": "Sandhills Development Easy Digital Downloads 2.9.4 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://wordpress.org/plugins/easy-digital-downloads/#developers",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://easydigitaldownloads.com/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://sandhillsdev.com/",
+      "type": "Vendor"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:easydigitaldownloads:easy_digital_downloads:2.9.4:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "A0F40FB8-7A7D-46EC-8AEC-4631C7E1A5D0"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:zohocorp:manageengine_password_manager_pro:12.1:build12110:*:*:*:*:*:*",
+  "cpeNameId": "B743E53B-7CB1-4408-BE6D-FE0F1539CA00",
+  "created": "2022-09-19T16:57:17.643",
+  "lastModified": "2022-11-02T16:51:12.993",
+  "titles": [
+    {
+      "title": "Zoho Corporation ManageEngine Password Manager Pro 12.1 Build12110",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.manageengine.com/products/passwordmanagerpro/advisory/cve-2022-40300.html",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://www.manageengine.com/products/passwordmanagerpro/minor-upgrades.html",
+      "type": "Version"
+    }
+  ]
+}

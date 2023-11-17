@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:bitcoincore:bitcoin_core:0.3.22:*:*:*:*:*:*:*",
+  "cpeNameId": "CF96F3A7-4651-40D8-9F30-46645A9B7943",
+  "created": "2018-08-25T12:12:00.297",
+  "lastModified": "2021-03-16T18:08:02.160",
+  "titles": [
+    {
+      "title": "Bitcoincore Bitcoin Core 0.3.22",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://bitcoin.org/en/version-history",
+      "type": "Version"
+    }
+  ]
+}

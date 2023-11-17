@@ -1,0 +1,27 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:sendinblue:newsletter\\,_smtp\\,_email_marketing_and_subscribe:3.1.27:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "7695FE41-027E-4670-9F6F-B23EF609E9A3",
+  "created": "2022-01-27T14:29:03.853",
+  "lastModified": "2022-03-04T19:37:31.503",
+  "titles": [
+    {
+      "title": "Sendinblue Newsletter, SMTP, Email Marketing And Subscribe 3.1.27 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://wpscan.com/vulnerability/3afef591-9e00-4af8-a8a6-e04ec5e61795",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://www.sendinblue.com/?r=wporg",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://wordpress.org/plugins/mailin/#developers",
+      "type": "Version"
+    }
+  ]
+}

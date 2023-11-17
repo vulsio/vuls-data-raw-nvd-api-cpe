@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:calibre-web_project:calibre-web:0.6.6:*:*:*:*:*:*:*",
+  "cpeNameId": "33AFB967-77C2-40BD-BEDE-8D587A715A56",
+  "created": "2020-05-05T13:03:08.187",
+  "lastModified": "2020-05-05T13:03:08.187",
+  "titles": [
+    {
+      "title": "Calibre-Web Project Calibre-Web 0.6.6",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/janeczku/calibre-web/releases",
+      "type": "Change Log"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:qurl:dynamic_widgets:1.3.1:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "E8BF1A81-A987-438F-960A-41582672AB81",
+  "created": "2019-09-26T13:41:24.853",
+  "lastModified": "2019-09-26T13:41:24.853",
+  "titles": [
+    {
+      "title": "QURL Dynamic Widgets 1.3.1 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://wordpress.org/plugins/dynamic-widgets/#developers",
+      "type": "Change Log"
+    }
+  ]
+}

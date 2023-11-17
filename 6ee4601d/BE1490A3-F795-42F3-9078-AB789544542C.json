@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:wpdeveloper:essential_blocks:4.1.1:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "BE1490A3-F795-42F3-9078-AB789544542C",
+  "created": "2023-06-14T19:59:43.540",
+  "lastModified": "2023-06-14T20:01:57.967",
+  "titles": [
+    {
+      "title": "WPDeveloper Essential Blocks 4.1.1 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://wordpress.org/plugins/essential-blocks/#developers",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://wpdeveloper.com/",
+      "type": "Vendor"
+    }
+  ]
+}

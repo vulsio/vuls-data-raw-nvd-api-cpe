@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:oisf:suricata:4.0.2:*:*:*:*:*:*:*",
+  "cpeNameId": "EED78D80-4C18-4994-80AA-9579BEB6953F",
+  "created": "2019-07-22T11:24:36.240",
+  "lastModified": "2019-07-22T11:24:36.240",
+  "titles": [
+    {
+      "title": "OISF 4.0.2",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/OISF/suricata/releases",
+      "type": "Change Log"
+    }
+  ]
+}

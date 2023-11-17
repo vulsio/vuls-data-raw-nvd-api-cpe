@@ -1,0 +1,27 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:postgresql:pgadmin_4:4.11:*:*:*:*:*:*:*",
+  "cpeNameId": "E60DE294-9245-4466-8819-610E50C224B6",
+  "created": "2022-03-22T17:41:43.490",
+  "lastModified": "2022-03-23T15:10:12.610",
+  "titles": [
+    {
+      "title": "PostgreSQL pgAdmin 4 4.11",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.postgresql.org/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://www.pgadmin.org/docs/pgadmin4/latest/index.html",
+      "type": "Product"
+    },
+    {
+      "ref": "https://www.pgadmin.org/docs/pgadmin4/latest/release_notes.html",
+      "type": "Version"
+    }
+  ]
+}

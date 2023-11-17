@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:cakefoundation:cakephp:4.0.1:*:*:*:*:*:*:*",
+  "cpeNameId": "86935FCB-C512-44C0-8B1A-FEEC3EBCE8CC",
+  "created": "2021-02-01T15:02:41.240",
+  "lastModified": "2021-02-01T15:02:41.240",
+  "titles": [
+    {
+      "title": "Cake Software Foundation CakePHP 4.0.1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/cakephp/cakephp/tags",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://cakephp.org/",
+      "type": "Product"
+    }
+  ]
+}

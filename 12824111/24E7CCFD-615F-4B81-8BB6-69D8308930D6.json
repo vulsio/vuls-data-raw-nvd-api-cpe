@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:microsoft:sql_server:2017:-:*:*:*:*:x64:*",
+  "cpeNameId": "24E7CCFD-615F-4B81-8BB6-69D8308930D6",
+  "created": "2019-11-15T16:09:04.643",
+  "lastModified": "2019-11-15T16:09:04.643",
+  "titles": [
+    {
+      "title": "Microsoft SQL Server 2017 on X64",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-1068",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://www.microsoft.com/en-us/download/details.aspx?id=58482",
+      "type": "Product"
+    }
+  ]
+}

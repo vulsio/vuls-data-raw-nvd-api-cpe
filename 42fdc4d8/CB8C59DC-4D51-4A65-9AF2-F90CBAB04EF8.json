@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:jenkins:openid_connect_authentication:1.1:*:*:*:*:jenkins:*:*",
+  "cpeNameId": "CB8C59DC-4D51-4A65-9AF2-F90CBAB04EF8",
+  "created": "2022-11-23T16:59:40.673",
+  "lastModified": "2022-11-23T17:09:09.827",
+  "titles": [
+    {
+      "title": "Jenkins OpenId Connect Authentication 1.1 for Jenkins",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://plugins.jenkins.io/oic-auth/#releases",
+      "type": "Change Log"
+    }
+  ]
+}

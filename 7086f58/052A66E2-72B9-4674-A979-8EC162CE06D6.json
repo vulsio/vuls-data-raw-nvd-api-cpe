@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:h:dell:latitude_3480:-:*:*:*:*:*:*:*",
+  "cpeNameId": "052A66E2-72B9-4674-A979-8EC162CE06D6",
+  "created": "2019-08-12T12:20:24.680",
+  "lastModified": "2021-04-19T17:13:36.930",
+  "titles": [
+    {
+      "title": "Dell Latitude 3480",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.dell.com/support/article/us/en/04/sln317683/dsa-2019-043-dell-client-improper-access-control-vulnerability?lang=en",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://www.dell.com/en-us/work/shop/cty/latitude-3480/spd/latitude-14-3480-laptop",
+      "type": "Product"
+    }
+  ]
+}

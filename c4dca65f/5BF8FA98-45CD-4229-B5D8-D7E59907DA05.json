@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:aiohttp_project:aiohttp:3.8.0:alpha6:*:*:*:*:*:*",
+  "cpeNameId": "5BF8FA98-45CD-4229-B5D8-D7E59907DA05",
+  "created": "2022-06-30T18:05:33.793",
+  "lastModified": "2022-07-01T13:33:04.310",
+  "titles": [
+    {
+      "title": "Aiohttp Project Aiohttp 3.8.0 Alpha 6",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/aio-libs/aiohttp/releases",
+      "type": "Change Log"
+    }
+  ]
+}

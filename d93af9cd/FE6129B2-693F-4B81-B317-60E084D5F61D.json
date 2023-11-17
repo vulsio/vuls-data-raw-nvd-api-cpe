@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:nodejs:node.js:14.13.1:*:*:*:lts:*:*:*",
+  "cpeNameId": "FE6129B2-693F-4B81-B317-60E084D5F61D",
+  "created": "2020-12-16T14:48:00.550",
+  "lastModified": "2020-12-16T14:48:00.550",
+  "titles": [
+    {
+      "title": "Nodejs Node.js 14.13.1 LTS Edition",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://nodejs.org/en/download/releases/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://nodejs.org/en/blog/vulnerability/november-2020-security-releases/",
+      "type": "Advisory"
+    }
+  ]
+}

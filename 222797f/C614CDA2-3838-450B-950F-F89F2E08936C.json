@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:1password:command-line:0.5.5:*:*:*:*:*:*:*",
+  "cpeNameId": "C614CDA2-3838-450B-950F-F89F2E08936C",
+  "created": "2020-12-21T14:46:35.927",
+  "lastModified": "2020-12-21T14:46:35.927",
+  "titles": [
+    {
+      "title": "1password Command-line 0.5.5",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://support.1password.com/command-line/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://support.1password.com/kb/202010/",
+      "type": "Advisory"
+    }
+  ]
+}

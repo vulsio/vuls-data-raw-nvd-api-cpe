@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:mozilla:firefox:109.0.1:*:*:*:*:*:*:*",
+  "cpeNameId": "F5AC4CF1-D29E-47FA-A863-BF1C47EEDC51",
+  "created": "2023-09-21T17:55:37.093",
+  "lastModified": "2023-09-21T17:55:37.093",
+  "titles": [
+    {
+      "title": "Mozilla Firefox 109.0.1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.mozilla.org/en-US/firefox/releases/",
+      "type": "Change Log"
+    }
+  ]
+}

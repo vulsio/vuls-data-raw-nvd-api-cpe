@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:nps_project:nps:0.0.9:*:*:*:*:*:*:*",
+  "cpeNameId": "F2E673C7-A005-4306-8DE6-E48F05DB58BE",
+  "created": "2019-11-05T13:11:52.057",
+  "lastModified": "2019-11-05T13:11:52.057",
+  "titles": [
+    {
+      "title": "nps Project nps 0.0.9",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/cnlh/nps/releases",
+      "type": "Project"
+    }
+  ]
+}

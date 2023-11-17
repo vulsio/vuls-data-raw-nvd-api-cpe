@@ -1,0 +1,27 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:tribe29:checkmk:1.6.0:p24:*:*:*:*:*:*",
+  "cpeNameId": "41FCA1F3-B165-4017-9CEC-20E3DFDAB7CC",
+  "created": "2022-03-02T14:27:50.630",
+  "lastModified": "2022-03-02T14:51:53.557",
+  "titles": [
+    {
+      "title": "tribe29 checkmk 1.6.0 Patch 24",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://checkmk.com/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://tribe29.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://github.com/tribe29/checkmk/tags",
+      "type": "Change Log"
+    }
+  ]
+}

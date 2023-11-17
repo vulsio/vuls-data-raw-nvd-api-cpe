@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:adaptiva:adaptiva_edge_platform:8.1.935.7:*:*:*:*:*:*:*",
+  "cpeNameId": "E2BB7A87-499D-470D-A00A-4272BA99FC8F",
+  "created": "2023-04-25T17:32:40.253",
+  "lastModified": "2023-04-25T17:35:04.433",
+  "titles": [
+    {
+      "title": "Adaptiva Edge Platform 8.1.935.7 ",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://adaptiva.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://adaptiva.com/release-history/",
+      "type": "Version"
+    }
+  ]
+}

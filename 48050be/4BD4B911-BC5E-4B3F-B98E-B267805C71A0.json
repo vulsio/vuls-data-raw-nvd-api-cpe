@@ -1,0 +1,31 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:gnu:glibc:1.02:*:*:*:*:*:*:*",
+  "cpeNameId": "4BD4B911-BC5E-4B3F-B98E-B267805C71A0",
+  "created": "2018-05-24T14:22:51.423",
+  "lastModified": "2018-05-24T14:22:51.423",
+  "titles": [
+    {
+      "title": "GNU glibc 1.02",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://sourceware.org/glibc/wiki/Release/2.23",
+      "type": "Version"
+    },
+    {
+      "ref": "http://ftp.gnu.org/gnu/libc/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://www.gnu.org/software/libc/",
+      "type": "Project"
+    },
+    {
+      "ref": "https://sourceware.org/glibc/wiki/Glibc%20Timeline",
+      "type": "Version"
+    }
+  ]
+}

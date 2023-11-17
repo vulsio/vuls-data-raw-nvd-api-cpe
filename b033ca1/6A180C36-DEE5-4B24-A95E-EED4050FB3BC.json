@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:python:python:3.7.5:*:*:*:*:*:*:*",
+  "cpeNameId": "6A180C36-DEE5-4B24-A95E-EED4050FB3BC",
+  "created": "2020-02-04T18:41:14.377",
+  "lastModified": "2020-02-04T18:41:14.377",
+  "titles": [
+    {
+      "title": "Python 3.7.5",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.python.org/doc/versions/",
+      "type": "Version"
+    }
+  ]
+}

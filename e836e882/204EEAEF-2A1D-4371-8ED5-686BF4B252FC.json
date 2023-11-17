@@ -1,0 +1,13 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:moinmo:moinmoin:1.5.5a:*:*:*:*:*:*:*",
+  "cpeNameId": "204EEAEF-2A1D-4371-8ED5-686BF4B252FC",
+  "created": "2010-03-01T20:28:46.577",
+  "lastModified": "2010-09-24T01:20:12.753",
+  "titles": [
+    {
+      "title": "moinmo MoinMoin 1.5.5a",
+      "lang": "en"
+    }
+  ]
+}

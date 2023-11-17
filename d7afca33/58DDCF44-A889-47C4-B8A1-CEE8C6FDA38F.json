@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:owncloud:owncloud:4.5.11:*:*:*:*:*:*:*",
+  "cpeNameId": "58DDCF44-A889-47C4-B8A1-CEE8C6FDA38F",
+  "created": "2013-08-16T15:14:53.873",
+  "lastModified": "2013-08-19T18:52:40.793",
+  "titles": [
+    {
+      "title": "ownCloud 4.5.11",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "http://owncloud.org/changelog/",
+      "type": "Version"
+    }
+  ]
+}

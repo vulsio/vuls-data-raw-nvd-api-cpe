@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:openharmony:openharmony:3.1.2:*:*:*:-:*:*:*",
+  "cpeNameId": "78E00B54-95C9-44DA-8A11-DE8B25976BBA",
+  "created": "2023-03-14T13:26:36.373",
+  "lastModified": "2023-03-14T13:42:58.610",
+  "titles": [
+    {
+      "title": "OpenHarmony 3.1.2",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://gitee.com/openharmony/docs/tree/master/zh-cn/release-notes",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://www.openharmony.cn/mainPlay",
+      "type": "Product"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:openharmony:openharmony:3.1.2:-:*:*:*:*:*:*",
+      "cpeNameId": "72DDB4B6-84E9-4F17-A558-3E1C619E49F3"
+    }
+  ]
+}

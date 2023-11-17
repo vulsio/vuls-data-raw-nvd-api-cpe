@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:veeam:backup_and_replication:8.0.0.2030:*:*:*:*:*:*:*",
+  "cpeNameId": "6475C1CF-D114-45D1-9085-F77B6338EE26",
+  "created": "2016-11-23T16:27:07.070",
+  "lastModified": "2016-11-23T16:27:07.070",
+  "titles": [
+    {
+      "title": "Veeam Backup And Replication (B&R) 8.0.0.2030",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "http://www.veeam.com/vm-backup-recovery-replication-software.html",
+      "type": "Product"
+    },
+    {
+      "ref": "https://www.veeam.com/",
+      "type": "Vendor"
+    }
+  ]
+}

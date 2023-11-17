@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:mozilla:firefox:95.0:*:*:*:*:*:*:*",
+  "cpeNameId": "CA832B39-D374-4BC2-AFCB-EE56A187F717",
+  "created": "2021-12-09T13:46:55.337",
+  "lastModified": "2021-12-10T18:37:45.827",
+  "titles": [
+    {
+      "title": "Mozilla Firefox 95.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.mozilla.org/en-US/firefox/releases/",
+      "type": "Change Log"
+    }
+  ]
+}

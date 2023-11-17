@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:wp_editor_project:wp_editor:1.2.6:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "84B7B253-6AB8-497D-8E36-1B13C8C1DE3A",
+  "created": "2019-09-05T16:19:04.077",
+  "lastModified": "2019-09-05T16:19:04.077",
+  "titles": [
+    {
+      "title": "WP Editor Project WP Editor 1.2.6 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://wordpress.org/plugins/wp-editor/#developers",
+      "type": "Change Log"
+    }
+  ]
+}

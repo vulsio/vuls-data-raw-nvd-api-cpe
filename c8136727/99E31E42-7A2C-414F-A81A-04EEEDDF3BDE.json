@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:pulsesecure:pulse_connect_secure:9.1:r2.0:*:*:*:*:*:*",
+  "cpeNameId": "99E31E42-7A2C-414F-A81A-04EEEDDF3BDE",
+  "created": "2021-08-19T23:44:50.640",
+  "lastModified": "2022-04-26T11:14:02.553",
+  "titles": [
+    {
+      "title": "PulseSecure Pulse Connect Secure (PCS) 9.1 R2.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.pulsesecure.net/wp-content/uploads/2018/12/PS-Pulse-Connect-Secure-DS.pdf",
+      "type": "Product"
+    },
+    {
+      "ref": "https://kb.pulsesecure.net/?l=en_US",
+      "type": "Vendor"
+    }
+  ]
+}

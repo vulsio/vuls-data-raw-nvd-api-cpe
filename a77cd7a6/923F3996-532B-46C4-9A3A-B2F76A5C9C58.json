@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:wpulike:wp_ulike:4.6.3:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "923F3996-532B-46C4-9A3A-B2F76A5C9C58",
+  "created": "2022-11-30T19:55:21.527",
+  "lastModified": "2023-01-18T19:46:26.740",
+  "titles": [
+    {
+      "title": "WP ULike 4.6.3 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://wpulike.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://wordpress.org/plugins/wp-ulike/#developers",
+      "type": "Change Log"
+    }
+  ]
+}

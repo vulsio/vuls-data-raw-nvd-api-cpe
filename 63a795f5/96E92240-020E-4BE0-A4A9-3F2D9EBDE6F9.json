@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:cisco:firepower_management_center:-:*:*:*:*:*:*:*",
+  "cpeNameId": "96E92240-020E-4BE0-A4A9-3F2D9EBDE6F9",
+  "created": "2020-10-01T16:43:33.377",
+  "lastModified": "2020-10-01T16:43:33.377",
+  "titles": [
+    {
+      "title": "Cisco Firepower Management Center",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.cisco.com/c/en/us/products/collateral/security/firesight-management-center/datasheet-c78-736775.html",
+      "type": "Product"
+    }
+  ]
+}

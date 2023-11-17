@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:stormshield:network_security:4.3.15:*:*:*:*:*:*:*",
+  "cpeNameId": "0FE71708-375D-4CA3-AE04-9F1D804A22ED",
+  "created": "2023-08-31T15:02:16.357",
+  "lastModified": "2023-08-31T17:58:33.267",
+  "titles": [
+    {
+      "title": "Stormshield Network Security 4.3.15",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://documentation.stormshield.eu/SNS/v4/en/Content/Release_Notes_SNS_LTSB/Previous-Versions.htm",
+      "type": "Change Log"
+    }
+  ]
+}

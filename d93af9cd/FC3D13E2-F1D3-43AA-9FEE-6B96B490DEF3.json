@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:nodejs:node.js:12.5.0:*:*:*:lts:*:*:*",
+  "cpeNameId": "FC3D13E2-F1D3-43AA-9FEE-6B96B490DEF3",
+  "created": "2020-02-13T15:21:41.080",
+  "lastModified": "2020-02-13T15:21:41.080",
+  "titles": [
+    {
+      "title": "Nodejs Node.js 12.5.0 LTS Edition",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/nodejs/node/releases",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://nodejs.org/en/blog/vulnerability/february-2020-security-releases/",
+      "type": "Advisory"
+    }
+  ]
+}

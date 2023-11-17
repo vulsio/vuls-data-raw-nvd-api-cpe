@@ -1,0 +1,27 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:adobe:experience_manager:6.3.1.0:*:*:*:*:*:*:*",
+  "cpeNameId": "2D322D9C-EBF0-4186-9310-B7FC0AF48798",
+  "created": "2018-11-19T18:45:19.133",
+  "lastModified": "2018-11-19T18:45:19.133",
+  "titles": [
+    {
+      "title": "Adobe Experience Manager 6.3.1.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.adobe.com/marketing-cloud/experience-manager.html",
+      "type": "Product"
+    },
+    {
+      "ref": "https://www.adobe.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://helpx.adobe.com/experience-manager/aem-releases-updates.html",
+      "type": "Change Log"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:naga_project:naga:-:*:*:*:*:*:*:*",
+  "cpeNameId": "D709E3F5-8E3E-48DC-ABB9-6A4F86B73B69",
+  "created": "2020-04-20T11:52:32.893",
+  "lastModified": "2020-04-20T11:52:32.893",
+  "titles": [
+    {
+      "title": "naga Project naga",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://etherscan.io/token/0x262a02a7de2124ca49ea98d55a3ed723fa605615",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md",
+      "type": "Advisory"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:synology:diskstation_manager:7.1.1-42962-2:*:*:*:*:*:*:*",
+  "cpeNameId": "99584D95-8313-40F1-89BD-AEB41A7FFF2D",
+  "created": "2022-10-21T14:03:38.520",
+  "lastModified": "2022-10-25T15:44:44.353",
+  "titles": [
+    {
+      "title": "Synology DiskStation Manager 7.1.1-42962-2",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.synology.com/en-us/security/advisory/Synology_SA_22_17",
+      "type": "Advisory"
+    }
+  ]
+}

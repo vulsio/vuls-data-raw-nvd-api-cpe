@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:cakefoundation:cakephp:2.7.3:*:*:*:*:*:*:*",
+  "cpeNameId": "33014C2D-389C-42D4-9661-1DEAF88DAA70",
+  "created": "2019-09-10T16:28:38.420",
+  "lastModified": "2019-09-10T16:28:38.420",
+  "titles": [
+    {
+      "title": "Cake Software Foundation CakePHP 2.7.3",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/cakephp/cakephp/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://cakefoundation.org/old",
+      "type": "Vendor"
+    }
+  ]
+}

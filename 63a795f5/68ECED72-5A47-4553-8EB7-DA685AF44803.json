@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:cisco:firepower_management_center:2.9.14.14:*:*:*:*:*:*:*",
+  "cpeNameId": "68ECED72-5A47-4553-8EB7-DA685AF44803",
+  "created": "2021-01-21T17:32:09.367",
+  "lastModified": "2021-01-21T17:32:09.367",
+  "titles": [
+    {
+      "title": "Cisco Firepower Management Center 2.9.14.14",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvs85467",
+      "type": "Advisory"
+    }
+  ]
+}

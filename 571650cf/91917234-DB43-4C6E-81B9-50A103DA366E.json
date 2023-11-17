@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:cryptography.io:cryptography:0.5:*:*:*:*:*:*:*",
+  "cpeNameId": "91917234-DB43-4C6E-81B9-50A103DA366E",
+  "created": "2020-07-06T16:27:36.043",
+  "lastModified": "2020-07-06T16:27:36.043",
+  "titles": [
+    {
+      "title": "Cryptography 0.5",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://cryptography.io/en/latest/",
+      "type": "Vendor"
+    }
+  ]
+}

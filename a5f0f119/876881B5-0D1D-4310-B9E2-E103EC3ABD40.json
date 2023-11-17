@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:wpdownloadmanager:wordpress_download_manager:3.2.50:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "876881B5-0D1D-4310-B9E2-E103EC3ABD40",
+  "created": "2022-08-24T14:30:51.210",
+  "lastModified": "2022-08-24T15:25:48.330",
+  "titles": [
+    {
+      "title": "WordPress Download Manager 3.2.50 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.wpdownloadmanager.com/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://wordpress.org/plugins/download-manager/#developers",
+      "type": "Change Log"
+    }
+  ]
+}

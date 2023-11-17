@@ -1,0 +1,27 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:webhammer:wp-custom-fields-search:0.3.28:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "680FF8B3-CBBB-41E0-834E-EF3F60489BAB",
+  "created": "2019-09-11T13:49:37.077",
+  "lastModified": "2019-09-11T13:49:37.077",
+  "titles": [
+    {
+      "title": "Webhammer WP-Custom-Fields-Search 0.3.28 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "http://www.webhammer.co.uk/shop",
+      "type": "Product"
+    },
+    {
+      "ref": "http://www.webhammer.co.uk/wordpress",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://dtsa.eu/cve-2017-9419-wordpress-wp-custom-fields-search-v-0-3-28-reflected-cross-site-scripting-xss/",
+      "type": "Advisory"
+    }
+  ]
+}

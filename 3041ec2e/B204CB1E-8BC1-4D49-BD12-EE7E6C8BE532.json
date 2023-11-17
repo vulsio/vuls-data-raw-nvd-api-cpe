@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:mozilla:firefox:102.13.0:*:*:*:*:*:*:*",
+  "cpeNameId": "B204CB1E-8BC1-4D49-BD12-EE7E6C8BE532",
+  "created": "2023-09-21T17:55:37.093",
+  "lastModified": "2023-09-21T17:55:37.093",
+  "titles": [
+    {
+      "title": "Mozilla Firefox 102.13.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.mozilla.org/en-US/firefox/releases/",
+      "type": "Change Log"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:arcgis:geoevent_server:10.8.1:*:*:*:*:*:*:*",
+  "cpeNameId": "29E3998C-E6F3-44B2-82D9-4EBDABB9F445",
+  "created": "2021-05-10T11:03:52.883",
+  "lastModified": "2021-05-17T15:28:33.857",
+  "titles": [
+    {
+      "title": "ArcGIS GeoEvent Server 10.8.1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://enterprise.arcgis.com/en/geoevent/latest/get-started/what-is-arcgis-geoevent-server.htm",
+      "type": "Product"
+    },
+    {
+      "ref": "https://www.esri.com/arcgis-blog/products/ext-server-geoevent/administration/arcgis-geoevent-server-security-update-2021-patch-1/",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://enterprise.arcgis.com/en/geoevent/latest/get-started/whats-new-in-geoevent-server.htm",
+      "type": "Change Log"
+    }
+  ]
+}

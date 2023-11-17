@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:synology:diskstation_manager:6.1.4-15217:*:*:*:*:*:*:*",
+  "cpeNameId": "0B8C8830-0337-4618-9606-5EF48E124E91",
+  "created": "2019-05-09T14:33:30.480",
+  "lastModified": "2019-05-09T14:33:30.480",
+  "titles": [
+    {
+      "title": "Synology Diskstation Manager 6.1.4-15217",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.synology.com/en-us/releaseNote/DS211j",
+      "type": "Version"
+    }
+  ]
+}

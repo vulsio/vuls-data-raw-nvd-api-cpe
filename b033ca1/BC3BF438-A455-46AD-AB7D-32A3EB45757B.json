@@ -1,0 +1,27 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:python:python:3.7.5:-:*:*:*:*:*:*",
+  "cpeNameId": "BC3BF438-A455-46AD-AB7D-32A3EB45757B",
+  "created": "2022-05-20T13:47:26.407",
+  "lastModified": "2022-05-20T13:51:00.430",
+  "titles": [
+    {
+      "title": "Python 3.7.5",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.python.org/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://www.python.org/doc/versions/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/python/cpython",
+      "type": "Version"
+    }
+  ]
+}

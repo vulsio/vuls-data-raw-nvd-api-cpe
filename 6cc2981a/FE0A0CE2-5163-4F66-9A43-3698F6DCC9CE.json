@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.5.8:*:*:*:*:kubernetes:*:*",
+  "cpeNameId": "FE0A0CE2-5163-4F66-9A43-3698F6DCC9CE",
+  "created": "2021-03-16T17:44:42.133",
+  "lastModified": "2021-03-25T17:07:09.633",
+  "titles": [
+    {
+      "title": "The Linux Foundation Argo Continuous Delivery 1.5.8 for Kubernetes",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/argoproj/argo-cd",
+      "type": "Version"
+    }
+  ]
+}

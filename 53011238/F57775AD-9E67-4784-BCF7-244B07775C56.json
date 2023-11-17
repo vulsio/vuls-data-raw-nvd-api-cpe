@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:zohocorp:manageengine_password_manager_pro:12.1:build12121:*:*:*:*:*:*",
+  "cpeNameId": "F57775AD-9E67-4784-BCF7-244B07775C56",
+  "created": "2022-11-15T18:17:53.333",
+  "lastModified": "2022-11-17T17:14:54.160",
+  "titles": [
+    {
+      "title": "ZohoCorp ManageEngine Password Manager Pro 12.1 Build12121",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.manageengine.com/products/passwordmanagerpro/advisory/cve-2022-43671.html",
+      "type": "Advisory"
+    }
+  ]
+}

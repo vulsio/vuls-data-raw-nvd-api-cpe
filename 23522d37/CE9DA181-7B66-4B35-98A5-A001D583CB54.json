@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:file-upload-with-preview_project:file-upload-with-preview:3.0.3:*:*:*:*:node.js:*:*",
+  "cpeNameId": "CE9DA181-7B66-4B35-98A5-A001D583CB54",
+  "created": "2021-09-08T15:53:30.553",
+  "lastModified": "2021-09-08T15:54:41.093",
+  "titles": [
+    {
+      "title": "file-upload-with-preview Project file-upload-with-preview 3.0.3 for Node.js",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.npmjs.com/package/file-upload-with-preview",
+      "type": "Version"
+    }
+  ]
+}

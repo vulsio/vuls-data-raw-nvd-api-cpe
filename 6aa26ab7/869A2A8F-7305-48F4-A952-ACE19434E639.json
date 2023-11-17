@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:cryptography_project:cryptography:1.0.2:*:*:*:*:python:*:*",
+  "cpeNameId": "869A2A8F-7305-48F4-A952-ACE19434E639",
+  "created": "2021-02-08T15:11:43.623",
+  "lastModified": "2021-02-08T15:11:43.623",
+  "titles": [
+    {
+      "title": "cryptography Project cryptography 1.0.2 for Python",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/pyca/cryptography",
+      "type": "Version"
+    }
+  ]
+}

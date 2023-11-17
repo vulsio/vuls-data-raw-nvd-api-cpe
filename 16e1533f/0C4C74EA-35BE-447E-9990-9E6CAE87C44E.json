@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:veeam:backup_\\&_replication:10.0.0.4461:p1:*:*:*:*:*:*",
+  "cpeNameId": "0C4C74EA-35BE-447E-9990-9E6CAE87C44E",
+  "created": "2022-03-24T13:09:21.183",
+  "lastModified": "2022-03-25T14:51:28.573",
+  "titles": [
+    {
+      "title": "Veeam Backup & Replication 10.0.0.4461 Patch 1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.veeam.com/kb2680",
+      "type": "Version"
+    },
+    {
+      "ref": "https://www.veeam.com/kb4288",
+      "type": "Advisory"
+    }
+  ]
+}

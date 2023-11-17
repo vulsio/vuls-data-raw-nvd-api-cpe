@@ -1,0 +1,21 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:geo_mashup_project:geo_mashup:1.8.2:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "774BE983-CDB0-4762-9F1C-1C234126C73E",
+  "created": "2015-02-03T17:44:35.937",
+  "lastModified": "2015-02-12T01:13:23.590",
+  "titles": [
+    {
+      "title": "Geo Mashup project Geo Mashup for WordPress 1.8.2",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://wordpress.org/plugins/geo-mashup/"
+    },
+    {
+      "ref": "https://wordpress.org/plugins/geo-mashup/changelog/"
+    }
+  ]
+}

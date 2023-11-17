@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:ibm:rational_doors:9.6.1.3:*:*:*:*:*:*:*",
+  "cpeNameId": "73F0EC7B-0CCE-4A63-B2B1-0102B9CD2CFD",
+  "created": "2019-05-13T12:58:22.937",
+  "lastModified": "2019-05-13T12:58:22.937",
+  "titles": [
+    {
+      "title": "IBM Rational DOORS 9.6.1.3",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.ibm.com/us-en/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://www-01.ibm.com/support/docview.wss?uid=swg27036720",
+      "type": "Version"
+    }
+  ]
+}

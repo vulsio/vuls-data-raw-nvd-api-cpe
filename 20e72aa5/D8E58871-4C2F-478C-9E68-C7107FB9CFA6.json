@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:openharmony:openharmony:3.2:beta4:*:*:-:*:*:*",
+  "cpeNameId": "D8E58871-4C2F-478C-9E68-C7107FB9CFA6",
+  "created": "2023-03-14T13:27:16.593",
+  "lastModified": "2023-03-14T13:29:04.130",
+  "titles": [
+    {
+      "title": "OpenHarmony 3.2 Beta 4",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://gitee.com/openharmony/docs/tree/master/zh-cn/release-notes",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://www.openharmony.cn/mainPlay",
+      "type": "Product"
+    }
+  ]
+}

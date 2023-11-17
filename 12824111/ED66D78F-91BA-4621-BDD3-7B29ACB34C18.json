@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:microsoft:sql_server:2016:sp1:*:*:*:*:x64:*",
+  "cpeNameId": "ED66D78F-91BA-4621-BDD3-7B29ACB34C18",
+  "created": "2019-11-15T16:09:04.360",
+  "lastModified": "2019-11-15T16:09:04.360",
+  "titles": [
+    {
+      "title": "Microsoft SQL Server 2016 Service Pack 1 on x64",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-1068",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://www.microsoft.com/en-us/download/details.aspx?id=58488",
+      "type": "Product"
+    }
+  ]
+}

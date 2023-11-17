@@ -1,0 +1,31 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:pgadmin:pgadmin:7.7:*:*:*:*:postgresql:*:*",
+  "cpeNameId": "D28B1077-CD82-482D-A6CA-841D5FE575E7",
+  "created": "2023-09-25T19:54:54.930",
+  "lastModified": "2023-09-25T19:54:54.930",
+  "titles": [
+    {
+      "title": "pgAdmin 7.7 for Postgresql",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://bugzilla.redhat.com/show_bug.cgi?id=2239164",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://github.com/pgadmin-org/pgadmin4/tags",
+      "type": "Version"
+    },
+    {
+      "ref": "https://www.pgadmin.org/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/pgadmin-org/pgadmin4/issues/6763",
+      "type": "Advisory"
+    }
+  ]
+}

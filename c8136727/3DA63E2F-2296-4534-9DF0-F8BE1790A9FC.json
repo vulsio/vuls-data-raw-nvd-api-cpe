@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:pulsesecure:pulse_connect_secure:9.1:r11.3:*:*:*:*:*:*",
+  "cpeNameId": "3DA63E2F-2296-4534-9DF0-F8BE1790A9FC",
+  "created": "2021-04-28T17:44:52.423",
+  "lastModified": "2021-05-07T13:38:51.503",
+  "titles": [
+    {
+      "title": "PulseSecure Pulse Connect Secure (PCS) 9.1 R11.3",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www-prev.pulsesecure.net/techpubs/pulse-connect-secure/pcs/9.1rx",
+      "type": "Change Log"
+    }
+  ]
+}

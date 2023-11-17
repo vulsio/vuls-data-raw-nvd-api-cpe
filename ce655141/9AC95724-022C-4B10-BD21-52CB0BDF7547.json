@@ -1,0 +1,27 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:themeum:tutor_lms:1.4.3:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "9AC95724-022C-4B10-BD21-52CB0BDF7547",
+  "created": "2020-02-07T17:42:56.857",
+  "lastModified": "2020-02-07T17:42:56.857",
+  "titles": [
+    {
+      "title": "Themeum Tutor LMS 1.4.3 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.themeum.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://wordpress.org/plugins/tutor/#developers",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/themeum/tutor/blob/master/.github/changelog.md#tutorlms-changelog",
+      "type": "Change Log"
+    }
+  ]
+}

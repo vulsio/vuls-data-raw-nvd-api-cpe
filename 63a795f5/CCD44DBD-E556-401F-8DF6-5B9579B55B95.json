@@ -1,0 +1,27 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:cisco:firepower_management_center:2.3.0:*:*:*:*:*:*:*",
+  "cpeNameId": "CCD44DBD-E556-401F-8DF6-5B9579B55B95",
+  "created": "2020-05-14T13:54:19.447",
+  "lastModified": "2020-05-14T13:54:19.447",
+  "titles": [
+    {
+      "title": "Cisco Firepower Management Center 2.3.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-fmcua-statcred-weeCcZct",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://www.cisco.com/c/en/us/products/security/firepower-management-center/index.html",
+      "type": "Product"
+    },
+    {
+      "ref": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvo08211",
+      "type": "Advisory"
+    }
+  ]
+}

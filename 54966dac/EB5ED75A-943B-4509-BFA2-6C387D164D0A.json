@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:synology:diskstation_manager:4.0-2259:*:*:*:*:*:*:*",
+  "cpeNameId": "EB5ED75A-943B-4509-BFA2-6C387D164D0A",
+  "created": "2014-01-10T13:50:52.290",
+  "lastModified": "2014-01-10T13:54:10.357",
+  "titles": [
+    {
+      "title": "Synology Diskstation Manager 4.0-2259",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "http://www.synology.com/en-global/",
+      "type": "Vendor"
+    }
+  ]
+}

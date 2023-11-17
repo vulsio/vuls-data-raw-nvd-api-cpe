@@ -1,0 +1,27 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:nodejs:node.js:13.12.0:*:*:*:lts:*:*:*",
+  "cpeNameId": "54FF2818-84AE-4AEF-AADF-6E4D84D61D35",
+  "created": "2021-10-08T14:30:25.480",
+  "lastModified": "2021-10-08T14:39:57.400",
+  "titles": [
+    {
+      "title": "Nodejs Node.js 13.12.0 LTS Edition",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://nodejs.org/en/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://github.com/nodejs/node/releases",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://nodejs.org/en/download/releases/",
+      "type": "Version"
+    }
+  ]
+}

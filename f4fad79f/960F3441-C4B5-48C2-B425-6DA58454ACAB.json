@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:ntt-east:og810xa_firmware:-:*:*:*:*:*:*:*",
+  "cpeNameId": "960F3441-C4B5-48C2-B425-6DA58454ACAB",
+  "created": "2022-04-07T17:18:53.183",
+  "lastModified": "2022-08-01T16:36:02.813",
+  "titles": [
+    {
+      "title": "Ntt-east Og810xa Firmware -",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://jvn.jp/en/vu/JVNVU94900322/index.html",
+      "type": "Advisory"
+    }
+  ]
+}

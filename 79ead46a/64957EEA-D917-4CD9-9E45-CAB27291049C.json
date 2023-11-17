@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:tribe29:checkmk:1.6.0:p17:*:*:*:*:*:*",
+  "cpeNameId": "64957EEA-D917-4CD9-9E45-CAB27291049C",
+  "created": "2022-01-21T19:01:18.123",
+  "lastModified": "2022-09-12T13:51:26.700",
+  "titles": [
+    {
+      "title": "Tribe29 checkmk 1.6.0 Patch 17",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://checkmk.com/download/archive",
+      "type": "Change Log"
+    }
+  ]
+}

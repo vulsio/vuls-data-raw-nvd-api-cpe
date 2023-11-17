@@ -1,0 +1,27 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:adobe:experience_manager:6.3.3.8:*:*:*:*:*:*:*",
+  "cpeNameId": "48B48E9F-C60F-43FB-B358-3DC8DAB57164",
+  "created": "2020-09-16T10:55:20.537",
+  "lastModified": "2020-09-16T10:55:20.537",
+  "titles": [
+    {
+      "title": "Adobe Experience Manager 6.3.3.8",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://helpx.adobe.com/experience-manager/aem-previous-versions.html",
+      "type": "Version"
+    },
+    {
+      "ref": "https://www.adobe.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://helpx.adobe.com/experience-manager/aem-releases-updates.html",
+      "type": "Change Log"
+    }
+  ]
+}

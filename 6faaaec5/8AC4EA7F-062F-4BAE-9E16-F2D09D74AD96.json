@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:mozilla:firefox_esr:102.4:*:*:*:*:*:*:*",
+  "cpeNameId": "8AC4EA7F-062F-4BAE-9E16-F2D09D74AD96",
+  "created": "2022-12-28T12:15:41.920",
+  "lastModified": "2022-12-28T15:54:12.120",
+  "titles": [
+    {
+      "title": "Mozilla Firefox Extended Support Release (ESR) 102.4",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.mozilla.org/en-US/security/advisories/mfsa2022-45/",
+      "type": "Advisory"
+    }
+  ]
+}

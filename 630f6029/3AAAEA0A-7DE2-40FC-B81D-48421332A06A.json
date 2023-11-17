@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:pixelyoursite:pixelyoursite:5.2.0:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "3AAAEA0A-7DE2-40FC-B81D-48421332A06A",
+  "created": "2019-07-19T17:57:38.977",
+  "lastModified": "2019-07-19T17:57:38.977",
+  "titles": [
+    {
+      "title": "PixelYourSite 5.2.0 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "http://www.pixelyoursite.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://wordpress.org/plugins/pixelyoursite/#developers",
+      "type": "Change Log"
+    }
+  ]
+}

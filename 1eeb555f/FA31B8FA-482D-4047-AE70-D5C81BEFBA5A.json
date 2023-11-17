@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:pmb_project:pmb:5.0.9:*:*:*:*:*:*:*",
+  "cpeNameId": "FA31B8FA-482D-4047-AE70-D5C81BEFBA5A",
+  "created": "2022-06-29T17:58:58.280",
+  "lastModified": "2022-07-01T00:25:46.010",
+  "titles": [
+    {
+      "title": "PMB Project PMB 5.0.9",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://forge.sigb.net/projects/pmb",
+      "type": "Product"
+    },
+    {
+      "ref": "https://forge.sigb.net/projects/pmb/files",
+      "type": "Version"
+    }
+  ]
+}

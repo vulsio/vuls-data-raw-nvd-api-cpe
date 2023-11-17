@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:publify_project:publify:4.0.2:*:*:*:*:*:*:*",
+  "cpeNameId": "17636420-492C-44E4-9B70-20A989AB21AC",
+  "created": "2020-01-14T19:18:15.070",
+  "lastModified": "2020-01-14T19:18:15.070",
+  "titles": [
+    {
+      "title": "Publify Project Publify 4.0.2",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/publify/publify",
+      "type": "Project"
+    },
+    {
+      "ref": "https://github.com/publify/publify/releases",
+      "type": "Version"
+    }
+  ]
+}

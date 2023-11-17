@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:d-bus_project:d-bus:1.9.14:*:*:*:*:*:*:*",
+  "cpeNameId": "E94741FC-506A-4944-AF84-432A26C79F53",
+  "created": "2018-04-19T15:23:29.797",
+  "lastModified": "2018-04-19T15:23:29.797",
+  "titles": [
+    {
+      "title": "D-Bus Project D-Bus 1.9.14",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "http://www.freedesktop.org/wiki/Software/dbus/#index1h1",
+      "type": "Vendor"
+    },
+    {
+      "ref": "http://dbus.freedesktop.org/releases/dbus/",
+      "type": "Product"
+    }
+  ]
+}

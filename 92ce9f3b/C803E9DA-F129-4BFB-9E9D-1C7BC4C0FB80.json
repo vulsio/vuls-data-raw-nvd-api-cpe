@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:pywin32_project:pywin32:b153:*:*:*:*:*:*:*",
+  "cpeNameId": "C803E9DA-F129-4BFB-9E9D-1C7BC4C0FB80",
+  "created": "2021-07-07T15:20:42.447",
+  "lastModified": "2021-07-07T15:38:40.410",
+  "titles": [
+    {
+      "title": "pywin32 Project pywin32 B153",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/fireeye/Vulnerability-Disclosures/blob/master/FEYE-2021-0017/FEYE-2021-0017.md",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://github.com/mhammond/pywin32/releases",
+      "type": "Change Log"
+    }
+  ]
+}

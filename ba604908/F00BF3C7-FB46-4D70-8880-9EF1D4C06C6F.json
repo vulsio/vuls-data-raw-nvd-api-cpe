@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:cakefoundation:cakephp:3.5.16:*:*:*:*:*:*:*",
+  "cpeNameId": "F00BF3C7-FB46-4D70-8880-9EF1D4C06C6F",
+  "created": "2019-09-10T16:29:50.843",
+  "lastModified": "2019-09-10T16:29:50.843",
+  "titles": [
+    {
+      "title": "Cake Software Foundation CakePHP 3.5.16",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/cakephp/cakephp/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://cakefoundation.org/old",
+      "type": "Vendor"
+    }
+  ]
+}

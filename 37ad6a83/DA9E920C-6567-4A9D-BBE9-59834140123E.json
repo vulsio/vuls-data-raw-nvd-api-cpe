@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:fastecdsa_project:fastecdsa:2.1.0:*:*:*:*:*:*:*",
+  "cpeNameId": "DA9E920C-6567-4A9D-BBE9-59834140123E",
+  "created": "2020-06-03T17:25:25.017",
+  "lastModified": "2020-06-03T17:25:25.017",
+  "titles": [
+    {
+      "title": "Fastecdsa Project Fastecdsa 2.1.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/AntonKueltz/fastecdsa/releases",
+      "type": "Version"
+    }
+  ]
+}

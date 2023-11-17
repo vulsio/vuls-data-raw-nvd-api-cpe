@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:monitorr_project:monitorr:1.7.6m:*:*:*:*:*:*:*",
+  "cpeNameId": "E464AA73-1BF3-465E-BBC3-13777DA67D9C",
+  "created": "2021-02-10T18:15:45.047",
+  "lastModified": "2021-02-10T18:15:45.047",
+  "titles": [
+    {
+      "title": "Monitorr Project Monitorr 1.7.6m",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.exploit-db.com/exploits/48980",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://github.com/Monitorr/Monitorr",
+      "type": "Project"
+    }
+  ]
+}

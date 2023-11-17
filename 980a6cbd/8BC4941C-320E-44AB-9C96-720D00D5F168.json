@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:cakephp:cakephp:3.4.0:rc2:*:*:*:*:*:*",
+  "cpeNameId": "8BC4941C-320E-44AB-9C96-720D00D5F168",
+  "created": "2021-05-20T15:53:43.707",
+  "lastModified": "2021-05-20T16:06:15.230",
+  "titles": [
+    {
+      "title": "CakePHP 3.4.0 Release Candidate 2",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://cakephp.org/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://github.com/cakephp/cakephp/releases",
+      "type": "Version"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:owncloud:owncloud_client:2.1.2:*:*:*:*:android:*:*",
+  "cpeNameId": "DED597AA-DFD5-4523-A115-EC9ED2E217F6",
+  "created": "2018-06-13T15:09:46.493",
+  "lastModified": "2021-04-09T18:06:45.780",
+  "titles": [
+    {
+      "title": "ownCloud Client 2.1.2 for Android",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://owncloud.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://owncloud.com/changelog/android-app/",
+      "type": "Change Log"
+    }
+  ]
+}

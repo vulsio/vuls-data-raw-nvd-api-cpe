@@ -1,0 +1,13 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:esri:arcsde:9.0:*:*:*:*:*:*:*",
+  "cpeNameId": "9188ACDC-BB2B-4C1E-B2D9-96EF8460CC43",
+  "created": "2007-08-23T21:16:59.567",
+  "lastModified": "2007-09-14T17:36:49.090",
+  "titles": [
+    {
+      "title": "ESRI ArcSDE 9.0",
+      "lang": "en"
+    }
+  ]
+}

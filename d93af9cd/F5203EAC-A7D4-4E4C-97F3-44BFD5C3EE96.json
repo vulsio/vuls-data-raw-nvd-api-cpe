@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:nodejs:node.js:11.7.0:*:*:*:lts:*:*:*",
+  "cpeNameId": "F5203EAC-A7D4-4E4C-97F3-44BFD5C3EE96",
+  "created": "2020-06-22T11:45:10.100",
+  "lastModified": "2020-06-22T11:45:10.100",
+  "titles": [
+    {
+      "title": "Nodejs Node.js 11.7.0 LTS Edition",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://nodejs.org/en/about/releases/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://nodejs.org/download/release/",
+      "type": "Change Log"
+    }
+  ]
+}

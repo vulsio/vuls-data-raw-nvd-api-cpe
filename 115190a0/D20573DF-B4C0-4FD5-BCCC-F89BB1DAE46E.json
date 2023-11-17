@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:zohocorp:network_configuration_manager:-:*:*:*:*:*:*:*",
+  "cpeNameId": "D20573DF-B4C0-4FD5-BCCC-F89BB1DAE46E",
+  "created": "2018-08-17T17:05:10.433",
+  "lastModified": "2021-08-09T15:58:30.800",
+  "titles": [
+    {
+      "title": "Zoho Corporation Network Configuration Manager",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.manageengine.com/network-configuration-manager/",
+      "type": "Product"
+    }
+  ]
+}

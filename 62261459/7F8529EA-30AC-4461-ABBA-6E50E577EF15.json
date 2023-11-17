@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:d-bus_project:d-bus:1.12.28:*:*:*:*:*:*:*",
+  "cpeNameId": "7F8529EA-30AC-4461-ABBA-6E50E577EF15",
+  "created": "2023-06-16T14:34:07.377",
+  "lastModified": "2023-07-05T12:37:25.880",
+  "titles": [
+    {
+      "title": "D-Bus Project D-Bus 1.12.28",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://gitlab.freedesktop.org/dbus/dbus/-/issues/457",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://gitlab.freedesktop.org/dbus/dbus/-/tags",
+      "type": "Version"
+    }
+  ]
+}

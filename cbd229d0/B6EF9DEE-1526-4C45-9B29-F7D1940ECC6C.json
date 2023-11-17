@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:h:aruba:cx_8400:-:*:*:*:*:*:*:*",
+  "cpeNameId": "B6EF9DEE-1526-4C45-9B29-F7D1940ECC6C",
+  "created": "2020-10-16T18:02:53.810",
+  "lastModified": "2020-10-16T18:02:53.810",
+  "titles": [
+    {
+      "title": "Aruba CX 8400",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2020-009.txt",
+      "type": "Advisory"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:properfraction:profilepress:2.2.14:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "145EA13D-CBE2-4BCF-9716-9885ECB7C9E6",
+  "created": "2022-12-27T17:23:43.900",
+  "lastModified": "2023-05-26T19:38:24.680",
+  "titles": [
+    {
+      "title": "Proper Fraction ProfilePress 2.2.14 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://profilepress.com/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://properfraction.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://plugins.svn.wordpress.org/wp-user-avatar/trunk/changelog.txt",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:profilepress:profilepress:2.2.14:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "AE571805-0B0E-423A-9805-39B7EBA1F992"
+    }
+  ]
+}

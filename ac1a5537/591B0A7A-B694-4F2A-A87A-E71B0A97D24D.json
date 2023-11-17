@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:geo_mashup_project:geo_mashup:1.4.8:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "591B0A7A-B694-4F2A-A87A-E71B0A97D24D",
+  "created": "2019-06-24T18:19:47.730",
+  "lastModified": "2019-06-24T18:19:47.730",
+  "titles": [
+    {
+      "title": "Geo Mashup Project Geo Mashup 1.4.8 for Wordpress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/cyberhobo/wordpress-geo-mashup/releases",
+      "type": "Version"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:suricata-ids:suricata:1.0.4:*:*:*:*:*:*:*",
+  "cpeNameId": "D0AAD881-01D9-4E00-AB86-1AB2C7A32AD2",
+  "created": "2018-06-07T13:26:48.047",
+  "lastModified": "2018-06-07T13:26:48.047",
+  "titles": [
+    {
+      "title": "Suricata-IDS Suricata 1.0.4",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/OISF/suricata/releases",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://suricata-ids.org",
+      "type": "Vendor"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:dreamer_cms_project:dreamer_cms:4.0.01:*:*:*:*:*:*:*",
+  "cpeNameId": "AE77EACE-0E2C-4E51-862D-23D642F3A5D4",
+  "created": "2022-11-17T12:08:13.597",
+  "lastModified": "2023-02-16T17:52:39.337",
+  "titles": [
+    {
+      "title": "Dreamer CMS Project Dreamer Content Management System 4.0.01",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://gitee.com/isoftforce/dreamer_cms/issues/I5U408",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://gitee.com/isoftforce/dreamer_cms/tags",
+      "type": "Version"
+    }
+  ]
+}

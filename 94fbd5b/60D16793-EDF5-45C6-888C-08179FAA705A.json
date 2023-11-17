@@ -1,0 +1,13 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:h:apple:ipad:-:*:*:*:*:*:*:*",
+  "cpeNameId": "60D16793-EDF5-45C6-888C-08179FAA705A",
+  "created": "2010-08-06T17:22:06.797",
+  "lastModified": "2010-08-09T22:08:12.427",
+  "titles": [
+    {
+      "title": "Apple iPad",
+      "lang": "en"
+    }
+  ]
+}

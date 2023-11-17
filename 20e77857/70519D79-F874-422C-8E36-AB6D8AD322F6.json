@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:advanced_category_template_project:advanced_category_template:-:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "70519D79-F874-422C-8E36-AB6D8AD322F6",
+  "created": "2023-08-23T12:30:44.653",
+  "lastModified": "2023-08-24T11:17:11.437",
+  "titles": [
+    {
+      "title": "Advanced Category Template Project Advanced Category Template for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://wordpress.org/plugins/advanced-category-template/",
+      "type": "Project"
+    },
+    {
+      "ref": "https://patchstack.com/database/vulnerability/advanced-category-template/wordpress-advanced-category-template-plugin-0-1-cross-site-scripting-xss-vulnerability?_s_id=cve",
+      "type": "Advisory"
+    }
+  ]
+}

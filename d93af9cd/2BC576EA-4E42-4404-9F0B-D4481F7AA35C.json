@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:nodejs:node.js:6.2.2:*:*:*:lts:*:*:*",
+  "cpeNameId": "2BC576EA-4E42-4404-9F0B-D4481F7AA35C",
+  "created": "2020-06-22T11:45:02.380",
+  "lastModified": "2020-06-22T11:45:02.380",
+  "titles": [
+    {
+      "title": "Nodejs Node.js 6.2.2 LTS Edition",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://nodejs.org/en/about/releases/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://nodejs.org/download/release/",
+      "type": "Change Log"
+    }
+  ]
+}

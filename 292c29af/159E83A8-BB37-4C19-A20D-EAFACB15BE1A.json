@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:huawei:openeuler:22.03:*:*:*:lts:*:*:*",
+  "cpeNameId": "159E83A8-BB37-4C19-A20D-EAFACB15BE1A",
+  "created": "2022-08-11T12:30:05.770",
+  "lastModified": "2022-10-03T14:46:53.110",
+  "titles": [
+    {
+      "title": "Huawei openEuler 22.03 LTS Edition",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://exchange.xforce.ibmcloud.com/vulnerabilities/233213",
+      "type": "Advisory"
+    }
+  ]
+}

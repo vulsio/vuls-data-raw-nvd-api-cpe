@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:linux:linux_kernel:3.10:*:*:*:*:*:*:*",
+  "cpeNameId": "627457F8-5AC8-4B56-90A8-F5817CEA1A02",
+  "created": "2014-02-07T15:58:35.653",
+  "lastModified": "2014-02-07T16:34:29.723",
+  "titles": [
+    {
+      "title": "Linux Kernel 3.10",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.kernel.org/pub/linux/kernel/v3.x/",
+      "type": "Version"
+    }
+  ]
+}

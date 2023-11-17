@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:oracle:complex_maintenance\\,_repair\\,_and_overhaul:12.2:*:*:*:*:*:*:*",
+  "cpeNameId": "AE2E4D29-2452-4194-8F86-937ECFC47EB8",
+  "created": "2021-01-25T16:12:55.943",
+  "lastModified": "2021-01-25T16:12:55.943",
+  "titles": [
+    {
+      "title": "Oracle Complex Maintenance, Repair, and Overhaul (MRO) 12.2",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.oracle.com/security-alerts/cpujan2021.html",
+      "type": "Advisory"
+    }
+  ]
+}

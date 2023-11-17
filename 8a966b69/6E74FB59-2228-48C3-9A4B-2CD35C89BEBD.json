@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:microsoft:windows_ce:4.21.1088:*:*:*:*:*:*:*",
+  "cpeNameId": "6E74FB59-2228-48C3-9A4B-2CD35C89BEBD",
+  "created": "2007-08-28T21:31:27.147",
+  "lastModified": "2007-09-14T17:36:49.090",
+  "titles": [
+    {
+      "title": "Microsoft windows_ce 4.21.1088",
+      "lang": "en"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:o:microsoft:windows-ce:4.21.1088:*:*:*:*:*:*:*",
+      "cpeNameId": "17AE1F1D-AA21-4EF9-B05F-297234056C55"
+    }
+  ]
+}

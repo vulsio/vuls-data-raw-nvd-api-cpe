@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:mozilla:firefox_esr:52.5.3:*:*:*:*:*:*:*",
+  "cpeNameId": "9B667937-2C69-45F7-A725-915B33092346",
+  "created": "2019-06-25T17:50:54.513",
+  "lastModified": "2019-06-25T17:50:54.513",
+  "titles": [
+    {
+      "title": "Mozilla Firefox ESR 52.5.3",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://ftp.mozilla.org/pub/firefox/releases/",
+      "type": "Version"
+    }
+  ]
+}

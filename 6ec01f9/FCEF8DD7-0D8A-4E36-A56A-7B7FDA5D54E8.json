@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:schneider-electric:bmxp341000_firmware:3.20:*:*:*:*:*:*:*",
+  "cpeNameId": "FCEF8DD7-0D8A-4E36-A56A-7B7FDA5D54E8",
+  "created": "2020-12-02T17:59:30.817",
+  "lastModified": "2021-05-11T17:49:02.347",
+  "titles": [
+    {
+      "title": "Schneider-Electric BMXP341000 Firmware 3.20",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://download.schneider-electric.com/files?p_enDocType=Technical+leaflet&p_File_Name=SEVD-2020-287-01_Modicon_Web_Server_Security_Notificatiton.pdf&p_Doc_Ref=SEVD-2020-287-01",
+      "type": "Advisory"
+    }
+  ]
+}

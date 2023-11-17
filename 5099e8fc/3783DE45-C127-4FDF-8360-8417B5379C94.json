@@ -1,0 +1,27 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:byconsole:wooodt_lite:1.1.7:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "3783DE45-C127-4FDF-8360-8417B5379C94",
+  "created": "2023-10-23T11:21:16.597",
+  "lastModified": "2023-10-23T11:21:16.597",
+  "titles": [
+    {
+      "title": "ByConsole WooODT Lite 1.1.7 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://patchstack.com/database/vulnerability/byconsole-woo-order-delivery-time/wordpress-wooodt-lite-plugin-2-4-6-reflected-cross-site-scripting-xss-vulnerability?_s_id=cve",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://wordpress.org/plugins/byconsole-woo-order-delivery-time/#developers",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://plugins.byconsole.com/product/wooodt-extended/",
+      "type": "Product"
+    }
+  ]
+}

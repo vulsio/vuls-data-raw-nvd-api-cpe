@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:mozilla:firefox_esr:78.6.0:*:*:*:*:*:*:*",
+  "cpeNameId": "317055D9-DE1E-422C-BB48-2E578D2441DC",
+  "created": "2021-01-08T21:24:25.307",
+  "lastModified": "2021-01-08T21:24:25.307",
+  "titles": [
+    {
+      "title": "Mozilla Firefox ESR 78.6.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.mozilla.org/en-US/security/advisories/mfsa2020-55/",
+      "type": "Advisory"
+    }
+  ]
+}

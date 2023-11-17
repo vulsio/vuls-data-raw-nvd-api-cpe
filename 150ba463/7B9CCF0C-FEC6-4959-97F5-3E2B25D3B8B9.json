@@ -1,0 +1,18 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:h:brickom:ob-100ae:-:*:*:*:*:*:*:*",
+  "cpeNameId": "7B9CCF0C-FEC6-4959-97F5-3E2B25D3B8B9",
+  "created": "2013-10-02T16:39:55.793",
+  "lastModified": "2013-10-02T18:31:00.607",
+  "titles": [
+    {
+      "title": "Brickom OB-100AE",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "http://www.brickcom.com/products/Network-Camera/"
+    }
+  ]
+}

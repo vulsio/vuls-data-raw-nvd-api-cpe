@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:veeam:backup_\\&_replication:10.0.1.4854:p20220304:*:*:*:*:*:*",
+  "cpeNameId": "22944682-D06C-4C86-AAB7-6E26B4C02540",
+  "created": "2022-03-24T13:26:55.457",
+  "lastModified": "2022-03-25T14:51:28.573",
+  "titles": [
+    {
+      "title": "Veeam Backup & Replication 10.0.1.4854 Patch 20220304",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.veeam.com/kb2680",
+      "type": "Version"
+    }
+  ]
+}

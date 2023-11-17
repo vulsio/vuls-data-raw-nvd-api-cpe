@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:stormshield:network_security:4.3.18:*:*:*:ltsb:*:*:*",
+  "cpeNameId": "196B3C8C-3F3F-483D-BF9C-9D2F628B17BD",
+  "created": "2023-08-31T15:04:50.127",
+  "lastModified": "2023-08-31T17:58:33.267",
+  "titles": [
+    {
+      "title": "Stormshield Network Security 4.3.18 Long-Term Support Branch Edition",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://documentation.stormshield.eu/SNS/v4/en/Content/Release_Notes_SNS_LTSB/Previous-Versions.htm",
+      "type": "Change Log"
+    }
+  ]
+}

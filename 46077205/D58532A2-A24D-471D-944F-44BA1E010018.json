@@ -1,0 +1,27 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:openinfosecfoundation:suricata:4.1.0:beta1:*:*:*:*:*:*",
+  "cpeNameId": "D58532A2-A24D-471D-944F-44BA1E010018",
+  "created": "2020-01-23T19:24:15.180",
+  "lastModified": "2020-01-23T19:24:15.180",
+  "titles": [
+    {
+      "title": "Open Information Security Foundation (OISF) Suricata 4.1.0 Beta 1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://suricata-ids.org/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://github.com/OISF/suricata/releases",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://oisf.net/",
+      "type": "Vendor"
+    }
+  ]
+}

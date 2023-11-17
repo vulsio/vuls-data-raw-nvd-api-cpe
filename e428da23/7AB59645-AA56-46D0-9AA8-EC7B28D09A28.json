@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:nex-forms_-_ultimate_form_builder_project:nex-forms_-_ultimate_form_builder:6.0.1:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "7AB59645-AA56-46D0-9AA8-EC7B28D09A28",
+  "created": "2019-10-09T13:35:29.460",
+  "lastModified": "2019-10-09T13:35:29.460",
+  "titles": [
+    {
+      "title": "NEX-Forms - Ultimate Form Builder Project NEX-Forms - Ultimate Form Builder 6.0.1 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://wordpress.org/plugins/nex-forms-express-wp-form-builder/#developers",
+      "type": "Change Log"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:freedesktop:dbus:1.9.8:*:*:*:*:*:*:*",
+  "cpeNameId": "5007E814-7516-4850-8B2F-DBD8E74A84A8",
+  "created": "2019-07-12T17:24:35.340",
+  "lastModified": "2019-07-12T17:24:35.340",
+  "titles": [
+    {
+      "title": "Freedesktop dbus 1.9.8",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://gitlab.freedesktop.org/dbus/dbus/-/tags",
+      "type": "Version"
+    }
+  ]
+}

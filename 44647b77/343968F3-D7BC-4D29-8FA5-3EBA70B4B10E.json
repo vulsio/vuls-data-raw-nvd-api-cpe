@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:sap:hana_extended_application_services:1.0:*:*:*:*:*:*:*",
+  "cpeNameId": "343968F3-D7BC-4D29-8FA5-3EBA70B4B10E",
+  "created": "2018-10-18T18:55:02.913",
+  "lastModified": "2018-10-18T18:55:02.913",
+  "titles": [
+    {
+      "title": "SAP HANA Extended Application Services 1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://blogs.sap.com/2012/11/29/sap-hana-extended-application-services/",
+      "type": "Product"
+    }
+  ]
+}

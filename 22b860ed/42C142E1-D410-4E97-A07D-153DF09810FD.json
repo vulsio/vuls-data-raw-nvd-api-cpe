@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:arm:valhall_gpu_kernel_driver:r39p0:*:*:*:*:*:*:*",
+  "cpeNameId": "42C142E1-D410-4E97-A07D-153DF09810FD",
+  "created": "2022-10-26T13:16:24.973",
+  "lastModified": "2022-10-26T15:53:25.267",
+  "titles": [
+    {
+      "title": "ARM Valhall GPU Kernel Driver r39p0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://developer.arm.com/Arm%20Security%20Center/Mali%20GPU%20Driver%20Vulnerabilities",
+      "type": "Advisory"
+    }
+  ]
+}

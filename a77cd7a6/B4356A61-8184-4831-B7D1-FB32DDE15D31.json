@@ -1,0 +1,29 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:wpulike:wp_ulike:2.2:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "B4356A61-8184-4831-B7D1-FB32DDE15D31",
+  "created": "2022-11-30T19:44:15.057",
+  "lastModified": "2022-11-30T19:47:57.507",
+  "titles": [
+    {
+      "title": "WP ULike 2.2 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://wpulike.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://wordpress.org/plugins/wp-ulike/#developers",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:wp_ulike_project:wp_ulike:2.2:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "C50139B5-0C48-4B99-BD67-0F8F0E57E624"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:nodejs:node.js:8.9.2:*:*:*:lts:*:*:*",
+  "cpeNameId": "FAAAD150-3683-4E28-BB3D-38C910F13E07",
+  "created": "2019-02-11T16:39:20.517",
+  "lastModified": "2019-02-11T16:39:20.517",
+  "titles": [
+    {
+      "title": "Nodejs Node.js 8.9.2 LTS Edition",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/nodejs/node",
+      "type": "Version"
+    }
+  ]
+}

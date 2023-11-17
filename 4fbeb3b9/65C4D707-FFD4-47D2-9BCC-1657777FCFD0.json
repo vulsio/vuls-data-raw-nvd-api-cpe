@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:woocommerce:woocommerce:5.4.2:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "65C4D707-FFD4-47D2-9BCC-1657777FCFD0",
+  "created": "2021-08-04T18:56:48.487",
+  "lastModified": "2021-08-05T18:08:14.110",
+  "titles": [
+    {
+      "title": "WooCommerce 5.4.2 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/woocommerce/woocommerce",
+      "type": "Version"
+    },
+    {
+      "ref": "https://woocommerce.com/",
+      "type": "Vendor"
+    }
+  ]
+}

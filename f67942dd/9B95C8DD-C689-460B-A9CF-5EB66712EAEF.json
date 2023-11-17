@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:coderex:wpfunnels:2.2.6:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "9B95C8DD-C689-460B-A9CF-5EB66712EAEF",
+  "created": "2023-07-31T18:06:19.120",
+  "lastModified": "2023-08-01T14:12:30.683",
+  "titles": [
+    {
+      "title": "CodeRex WPFunnels 2.2.6 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://patchstack.com/database/vulnerability/wpfunnels/wordpress-wpfunnels-plugin-2-7-16-reflected-cross-site-scripting-xss-vulnerability?_s_id=cve",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://wordpress.org/plugins/wpfunnels/#developers",
+      "type": "Change Log"
+    }
+  ]
+}

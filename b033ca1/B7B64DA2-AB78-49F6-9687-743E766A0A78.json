@@ -1,0 +1,27 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:python:python:3.12:*:*:*:*:*:*:*",
+  "cpeNameId": "B7B64DA2-AB78-49F6-9687-743E766A0A78",
+  "created": "2023-02-24T20:33:21.437",
+  "lastModified": "2023-03-21T16:27:21.170",
+  "titles": [
+    {
+      "title": "Python 3.12",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.python.org/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://github.com/python/cpython",
+      "type": "Version"
+    },
+    {
+      "ref": "https://www.python.org/downloads/",
+      "type": "Version"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:smartdns_project:smartdns:32:rc3:*:*:*:*:*:*",
+  "cpeNameId": "3C3815BD-A311-42B9-BC87-86A868DE5D10",
+  "created": "2023-05-05T12:56:26.553",
+  "lastModified": "2023-05-09T12:27:44.557",
+  "titles": [
+    {
+      "title": "SmartDNS Project SmartDNS 32 Release Candidate 3",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/pymumu/smartdns/tags",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/pymumu/smartdns/issues/1378",
+      "type": "Advisory"
+    }
+  ]
+}

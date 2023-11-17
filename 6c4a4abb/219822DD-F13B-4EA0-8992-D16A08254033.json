@@ -1,0 +1,27 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:vmware:rabbitmq:3.10.0:rc6:*:*:*:*:*:*",
+  "cpeNameId": "219822DD-F13B-4EA0-8992-D16A08254033",
+  "created": "2022-10-07T12:57:18.133",
+  "lastModified": "2022-10-11T17:20:36.080",
+  "titles": [
+    {
+      "title": "VMware RabbitMQ 3.10.0 Release Candidate 6",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/rabbitmq/rabbitmq-server/releases",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://rabbitmq.com/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://github.com/rabbitmq/rabbitmq-server/security/advisories/GHSA-v9gv-xp36-jgj8",
+      "type": "Advisory"
+    }
+  ]
+}

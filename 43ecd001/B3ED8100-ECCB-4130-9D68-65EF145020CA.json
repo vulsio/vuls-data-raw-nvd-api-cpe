@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:h:schneider-electric:bmxp342030h:-:*:*:*:*:*:*:*",
+  "cpeNameId": "B3ED8100-ECCB-4130-9D68-65EF145020CA",
+  "created": "2019-04-02T15:10:55.147",
+  "lastModified": "2021-05-11T14:45:05.237",
+  "titles": [
+    {
+      "title": "Schneider-electric Bmxp342030h -",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://ics-cert.us-cert.gov/advisories/ICSA-15-246-02",
+      "type": "Advisory"
+    }
+  ]
+}

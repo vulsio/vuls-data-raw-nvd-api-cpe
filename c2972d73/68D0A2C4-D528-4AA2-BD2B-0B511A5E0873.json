@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:qnap:qts:4.3.6.1663:*:*:*:*:*:*:*",
+  "cpeNameId": "68D0A2C4-D528-4AA2-BD2B-0B511A5E0873",
+  "created": "2021-05-26T16:24:26.103",
+  "lastModified": "2021-06-03T15:01:50.883",
+  "titles": [
+    {
+      "title": "QNAP QTS 4.3.6.1663",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.qnap.com/en-us/release-notes/qts/4.5.3.1670/20210515",
+      "type": "Version"
+    },
+    {
+      "ref": "https://www.qnap.com/zh-tw/security-advisory/qsa-21-14",
+      "type": "Advisory"
+    }
+  ]
+}

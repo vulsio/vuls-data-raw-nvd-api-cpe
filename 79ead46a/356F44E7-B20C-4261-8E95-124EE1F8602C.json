@@ -1,0 +1,27 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:tribe29:checkmk:1.2.3:i6:*:*:*:*:*:*",
+  "cpeNameId": "356F44E7-B20C-4261-8E95-124EE1F8602C",
+  "created": "2019-10-17T12:12:34.063",
+  "lastModified": "2019-10-17T12:12:34.063",
+  "titles": [
+    {
+      "title": "tribe29 checkmk 1.2.3 i6",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://checkmk.com/check_mk-werks.php?edition_id=raw&all_versions=1",
+      "type": "Version"
+    },
+    {
+      "ref": "https://checkmk.com/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://tribe29.com/",
+      "type": "Vendor"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:adobe:experience_manager:6.5.6.0:*:*:*:*:*:*:*",
+  "cpeNameId": "628399DA-AB3F-4F3E-BEAA-C2C70FC986A0",
+  "created": "2020-12-11T17:36:43.807",
+  "lastModified": "2021-04-02T16:31:57.080",
+  "titles": [
+    {
+      "title": "Adobe Experience Manager 6.5.6.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb20-72.html",
+      "type": "Advisory"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:python:python:3.6.11:*:*:*:*:*:*:*",
+  "cpeNameId": "E6FD4FCA-9DCD-4FCD-95F8-8F484143D0EA",
+  "created": "2020-11-12T14:32:57.667",
+  "lastModified": "2020-11-12T14:32:57.667",
+  "titles": [
+    {
+      "title": "Python 3.6.11",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/python/cpython/releases/tag/v3.6.11",
+      "type": "Version"
+    }
+  ]
+}

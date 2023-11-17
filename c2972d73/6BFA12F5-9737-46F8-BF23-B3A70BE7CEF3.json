@@ -1,0 +1,25 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:qnap:qts:4.3.6.1907:*:*:*:*:*:*:*",
+  "cpeNameId": "6BFA12F5-9737-46F8-BF23-B3A70BE7CEF3",
+  "created": "2023-11-14T19:26:47.020",
+  "lastModified": "2023-11-14T19:26:47.020",
+  "titles": [
+    {
+      "title": "QNAP QTS 4.3.6.1907",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.qnap.com/en-us/",
+      "type": "Vendor"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:qnap:qts:4.3.6.1907:*:*:*:*:*:*:*",
+      "cpeNameId": "AC319E87-7688-4CE4-A1E8-04C1C2BBF1A0"
+    }
+  ]
+}

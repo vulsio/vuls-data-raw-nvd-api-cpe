@@ -1,0 +1,18 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:d-bus_project:d-bus:1.4.26:*:*:*:*:*:*:*",
+  "cpeNameId": "2802B57A-309C-4EA5-A441-9938BB999A04",
+  "created": "2013-10-16T14:56:55.517",
+  "lastModified": "2014-07-15T20:11:54.323",
+  "titles": [
+    {
+      "title": "D-Bus Project D-Bus 1.4.26",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "http://cgit.freedesktop.org/dbus/dbus/"
+    }
+  ]
+}

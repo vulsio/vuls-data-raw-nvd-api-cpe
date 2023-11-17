@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:1password:command-line:0.0.3:*:*:*:*:*:*:*",
+  "cpeNameId": "570CCCD5-7ADE-4D9A-A242-DA3867A3A0E3",
+  "created": "2021-07-12T17:52:21.163",
+  "lastModified": "2021-07-12T17:58:13.950",
+  "titles": [
+    {
+      "title": "1Password Command Line 0.0.3",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://app-updates.agilebits.com/product_history/CLI",
+      "type": "Version"
+    },
+    {
+      "ref": "https://1password.com/downloads/command-line/",
+      "type": "Product"
+    }
+  ]
+}

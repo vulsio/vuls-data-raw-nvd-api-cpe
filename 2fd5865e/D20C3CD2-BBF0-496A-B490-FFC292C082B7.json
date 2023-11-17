@@ -1,0 +1,27 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:es:iperf3:3.2:rc1:*:*:*:*:*:*",
+  "cpeNameId": "D20C3CD2-BBF0-496A-B490-FFC292C082B7",
+  "created": "2019-02-25T13:59:48.560",
+  "lastModified": "2019-02-25T13:59:48.560",
+  "titles": [
+    {
+      "title": "Energy Sciences Network (ESnet) iperf3 3.2 Release Candidate 1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://downloads.es.net/pub/iperf/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://software.es.net/iperf/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://software.es.net/",
+      "type": "Vendor"
+    }
+  ]
+}

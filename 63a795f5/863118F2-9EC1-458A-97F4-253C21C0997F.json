@@ -1,0 +1,27 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:cisco:firepower_management_center:6.6.4:*:*:*:*:*:*:*",
+  "cpeNameId": "863118F2-9EC1-458A-97F4-253C21C0997F",
+  "created": "2022-11-17T16:21:04.637",
+  "lastModified": "2022-11-17T17:10:37.757",
+  "titles": [
+    {
+      "title": "Cisco Firepower Management Center 6.6.4",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.cve.org/CVERecord?id=CVE-2022-20854",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://www.cisco.com/c/en/us/products/security/firepower-management-center/index.html",
+      "type": "Product"
+    },
+    {
+      "ref": "https://www.cisco.com/c/en/us/support/security/firepower-ngfw/series.html",
+      "type": "Product"
+    }
+  ]
+}

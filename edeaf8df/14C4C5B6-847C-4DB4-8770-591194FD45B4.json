@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:phpspreadsheet_project:phpspreadsheet:1.14.1:*:*:*:*:*:*:*",
+  "cpeNameId": "14C4C5B6-847C-4DB4-8770-591194FD45B4",
+  "created": "2021-01-19T17:12:46.967",
+  "lastModified": "2021-01-19T17:12:46.967",
+  "titles": [
+    {
+      "title": "PhpSpreadsheet Project PhpSpreadsheet 1.14.1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/PHPOffice/PhpSpreadsheet",
+      "type": "Version"
+    }
+  ]
+}

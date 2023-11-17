@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:mediaelementjs:mediaelement.js:2.1.6:*:*:*:*:*:*:*",
+  "cpeNameId": "21483073-CE36-4D3E-ADCE-4C1365BA272D",
+  "created": "2014-02-06T14:53:51.587",
+  "lastModified": "2014-06-30T18:14:46.373",
+  "titles": [
+    {
+      "title": "mediaelements.js 2.1.6",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "http://mediaelementjs.com/",
+      "type": "Vendor"
+    }
+  ]
+}

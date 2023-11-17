@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:nodejs:node.js:6.11.3:*:*:*:lts:*:*:*",
+  "cpeNameId": "47C80AEA-6DB7-46FE-A33F-04999C4A60F1",
+  "created": "2019-02-11T16:39:17.377",
+  "lastModified": "2019-02-11T16:39:17.377",
+  "titles": [
+    {
+      "title": "Nodejs Node.js 6.11.3 LTS Edition",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/nodejs/node",
+      "type": "Version"
+    }
+  ]
+}

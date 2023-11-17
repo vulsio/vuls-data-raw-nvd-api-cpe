@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:qnap:quts_hero:h5.0.1.2269:*:*:*:*:*:*:*",
+  "cpeNameId": "E81B6F4F-65A0-4255-93B3-8B3A8019117D",
+  "created": "2023-02-01T12:50:18.507",
+  "lastModified": "2023-02-01T17:56:47.683",
+  "titles": [
+    {
+      "title": "QNAP QuTS Hero H5.0.1.2269",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.qnap.com/en-us/release-notes/quts_hero/overview/h5.0.1",
+      "type": "Change Log"
+    }
+  ]
+}

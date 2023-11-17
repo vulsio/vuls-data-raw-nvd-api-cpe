@@ -1,0 +1,27 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:pymatgen:pymatgen:-:*:*:*:*:*:*:*",
+  "cpeNameId": "BE468DA2-7D67-48E3-AAD6-CA673767ACBE",
+  "created": "2022-11-10T11:07:21.763",
+  "lastModified": "2023-02-21T17:43:46.510",
+  "titles": [
+    {
+      "title": "Pymatgen Pymatgen -",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://pypi.org/project/pymatgen/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://research.jfrog.com/vulnerabilities/pymatgen-redos-xray-257184/",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://pymatgen.org/",
+      "type": "Vendor"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:nodejs:node.js:4.9.0:*:*:*:-:*:*:*",
+  "cpeNameId": "17C6BE82-C0AE-40D8-B9B4-A85798593CFA",
+  "created": "2020-02-10T17:57:33.403",
+  "lastModified": "2020-02-10T17:57:33.403",
+  "titles": [
+    {
+      "title": "Nodejs Node.js 4.9.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://nodejs.org/docs/",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://nodejs.org/en/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://nodejs.org/en/download/releases/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://github.com/nodejs/node/blob/master/CHANGELOG.md",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://nodejs.org/download/docs/",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:nodejs:node.js:4.9.0:*:*:*:*:*:*:*",
+      "cpeNameId": "D1D0CDDA-3071-4202-A34F-5F15497BDCF8"
+    }
+  ]
+}

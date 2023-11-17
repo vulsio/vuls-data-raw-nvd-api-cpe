@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:nodejs:node.js:12.16.2:*:*:*:lts:*:*:*",
+  "cpeNameId": "68666310-AD91-456D-860D-9C9CC6A4B475",
+  "created": "2020-09-24T12:00:34.393",
+  "lastModified": "2020-09-24T12:00:34.393",
+  "titles": [
+    {
+      "title": "Nodejs Node.js 12.16.2 LTS Edition",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/nodejs/node/releases",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://nodejs.org/en/blog/vulnerability/september-2020-security-releases/",
+      "type": "Advisory"
+    }
+  ]
+}

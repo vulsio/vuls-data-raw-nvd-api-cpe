@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:hitachienergy:foxman_un:r11a:*:*:*:*:*:*:*",
+  "cpeNameId": "85494BE6-B70C-4EFC-8D26-629AF9899456",
+  "created": "2023-06-06T17:30:53.500",
+  "lastModified": "2023-07-12T09:47:51.930",
+  "titles": [
+    {
+      "title": "Hitachi Energay Foxman Un R11a",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://search.abb.com/library/Download.aspx?DocumentID=8DBD000155&LanguageCode=en&DocumentPartId=&Action=Launch",
+      "type": "Advisory"
+    }
+  ]
+}

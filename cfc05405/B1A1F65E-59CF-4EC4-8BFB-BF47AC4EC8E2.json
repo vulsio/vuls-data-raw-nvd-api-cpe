@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:tracker-software:pdf-tools:8.0.335.0:*:*:*:*:*:*:*",
+  "cpeNameId": "B1A1F65E-59CF-4EC4-8BFB-BF47AC4EC8E2",
+  "created": "2021-03-08T20:41:09.897",
+  "lastModified": "2021-03-09T18:27:29.830",
+  "titles": [
+    {
+      "title": "Tracker Software PDF-Tools 8.0.335.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.tracker-software.com/products",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://www.tracker-software.com/product/pdf-tools/history",
+      "type": "Change Log"
+    }
+  ]
+}

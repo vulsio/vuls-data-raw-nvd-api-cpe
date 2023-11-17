@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:mozilla:firefox_esr:38.3.0:*:*:*:*:*:x64:*",
+  "cpeNameId": "6BB75E14-37FD-4A12-A6B8-127593FDF14E",
+  "created": "2015-12-16T15:36:13.050",
+  "lastModified": "2015-12-16T15:36:13.050",
+  "titles": [
+    {
+      "title": "Mozilla Firefox ESR 38.3.0 (64 bit)",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.mozilla.org/en-US/firefox/organizations/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://www.mozilla.org/en-US/firefox/releases/",
+      "type": "Change Log"
+    }
+  ]
+}

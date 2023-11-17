@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:mozilla:firefox_esr:24.6:*:*:*:*:*:*:*",
+  "cpeNameId": "6281D9D1-76F5-4743-ADC6-00C54929E197",
+  "created": "2014-07-23T14:10:27.590",
+  "lastModified": "2014-07-23T17:20:07.470",
+  "titles": [
+    {
+      "title": "Mozilla Firefox Extended Support Release (ESR) 24.6",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "http://www.mozilla.org/en-US/firefox/organizations/faq/",
+      "type": "Product"
+    }
+  ]
+}

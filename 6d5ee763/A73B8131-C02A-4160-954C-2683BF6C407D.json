@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:netbox_project:netbox:3.3.0:*:*:*:*:*:*:*",
+  "cpeNameId": "A73B8131-C02A-4160-954C-2683BF6C407D",
+  "created": "2023-05-26T14:29:44.477",
+  "lastModified": "2023-05-26T14:31:33.983",
+  "titles": [
+    {
+      "title": "netbox Project netbox 3.3.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/netbox-community/netbox/tags",
+      "type": "Version"
+    },
+    {
+      "ref": "https://docs.netbox.dev/en/stable/",
+      "type": "Project"
+    }
+  ]
+}

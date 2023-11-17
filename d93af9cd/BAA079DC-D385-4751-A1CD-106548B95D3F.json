@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:nodejs:node.js:4.2.5:*:*:*:lts:*:*:*",
+  "cpeNameId": "BAA079DC-D385-4751-A1CD-106548B95D3F",
+  "created": "2019-02-11T16:39:11.610",
+  "lastModified": "2019-02-11T16:39:11.610",
+  "titles": [
+    {
+      "title": "Nodejs Node.js 4.2.5 LTS Edition",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/nodejs/node",
+      "type": "Version"
+    }
+  ]
+}

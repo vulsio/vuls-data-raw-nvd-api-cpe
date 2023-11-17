@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:bolt:bolt_cms:1.4.3:*:*:*:*:*:*:*",
+  "cpeNameId": "06FC6AEE-38C0-4980-9C32-3BF023712434",
+  "created": "2019-06-20T15:48:06.690",
+  "lastModified": "2019-06-20T15:48:06.690",
+  "titles": [
+    {
+      "title": "Bolt CMS 1.4.3",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/bolt/bolt/releases",
+      "type": "Change Log"
+    }
+  ]
+}

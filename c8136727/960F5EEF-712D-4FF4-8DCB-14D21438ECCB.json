@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:pulsesecure:pulse_connect_secure:7.1:r18.0:*:*:*:*:*:*",
+  "cpeNameId": "960F5EEF-712D-4FF4-8DCB-14D21438ECCB",
+  "created": "2019-06-26T15:56:24.687",
+  "lastModified": "2019-06-26T15:56:24.687",
+  "titles": [
+    {
+      "title": "PulseSecure Pulse Connect Secure (PCS) 7.1 R18.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www-prev.pulsesecure.net/techpubs/pulse-connect-secure/pcs/7.1rx",
+      "type": "Version"
+    }
+  ]
+}

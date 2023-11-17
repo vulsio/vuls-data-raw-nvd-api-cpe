@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:pulsesecure:pulse_connect_secure:8.2r7.1:*:*:*:*:*:*:*",
+  "cpeNameId": "79D5C85D-3C49-4962-B62F-01BC053ED773",
+  "created": "2023-01-26T20:38:35.507",
+  "lastModified": "2023-04-24T17:21:22.763",
+  "titles": [
+    {
+      "title": "PulseSecure Pulse Connect Secure (PCS) 8.2r7.1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://kb.pulsesecure.net/?l=en_US",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://www.pulsesecure.net/products/pulse-connect-secure/",
+      "type": "Product"
+    }
+  ]
+}

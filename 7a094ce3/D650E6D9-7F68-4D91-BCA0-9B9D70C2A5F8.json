@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:strategy11:formidable_forms:6.3.1:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "D650E6D9-7F68-4D91-BCA0-9B9D70C2A5F8",
+  "created": "2023-07-03T18:44:44.030",
+  "lastModified": "2023-08-21T13:30:58.903",
+  "titles": [
+    {
+      "title": "Strategy11 Formidable Forms 6.3.1 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://wordpress.org/plugins/formidable/#developers",
+      "type": "Change Log"
+    }
+  ]
+}

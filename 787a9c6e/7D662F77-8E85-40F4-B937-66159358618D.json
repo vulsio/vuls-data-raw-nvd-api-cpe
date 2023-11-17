@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:hitachienergy:foxman_un:r15a:*:*:*:*:*:*:*",
+  "cpeNameId": "7D662F77-8E85-40F4-B937-66159358618D",
+  "created": "2023-06-06T17:30:53.500",
+  "lastModified": "2023-07-12T09:47:51.930",
+  "titles": [
+    {
+      "title": "Hitachi Energy Foxman Un R15a",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://search.abb.com/library/Download.aspx?DocumentID=8DBD000155&LanguageCode=en&DocumentPartId=&Action=Launch",
+      "type": "Advisory"
+    }
+  ]
+}

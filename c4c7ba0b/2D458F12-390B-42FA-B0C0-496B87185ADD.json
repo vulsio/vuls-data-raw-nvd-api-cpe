@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:esri:arcgis_server:-:*:*:*:*:*:*:*",
+  "cpeNameId": "2D458F12-390B-42FA-B0C0-496B87185ADD",
+  "created": "2021-12-07T22:56:10.450",
+  "lastModified": "2023-08-19T02:38:52.163",
+  "titles": [
+    {
+      "title": "Esri ArcGIS Server",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://enterprise.arcgis.com/en/server/latest/get-started/windows/what-is-arcgis-for-server-.htm",
+      "type": "Product"
+    }
+  ]
+}

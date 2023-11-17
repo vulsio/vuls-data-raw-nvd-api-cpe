@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:gnuboard:gnuboard5:5.5.8.1.1:*:*:*:*:*:*:*",
+  "cpeNameId": "A01A11FB-6B89-4920-937D-4251101E06CF",
+  "created": "2022-11-17T15:04:07.500",
+  "lastModified": "2022-11-17T15:51:25.323",
+  "titles": [
+    {
+      "title": "gnuboard5 5.5.8.1.1",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://gnuboard.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://github.com/gnuboard/gnuboard5",
+      "type": "Product"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:wpdownloadmanager:wordpress_download_manager:3.1.05:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "4F3ABEFB-D547-4078-B58C-FE21C00D3A51",
+  "created": "2021-08-12T16:27:37.657",
+  "lastModified": "2021-08-12T16:37:40.320",
+  "titles": [
+    {
+      "title": "WordPress Download Manager 3.1.05 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://wordpress.org/plugins/download-manager/#developers",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://www.wordfence.com/blog/2021/07/wordpress-download-manager-vulnerabilities/",
+      "type": "Advisory"
+    }
+  ]
+}

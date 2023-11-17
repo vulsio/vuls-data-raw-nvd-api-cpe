@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:h:mediatek:mt8791:-:*:*:*:*:*:*:*",
+  "cpeNameId": "DAFBE234-800B-437B-BC36-8F22DFD46DEF",
+  "created": "2021-11-19T14:22:04.837",
+  "lastModified": "2021-11-19T14:31:01.437",
+  "titles": [
+    {
+      "title": "MediaTek MT8791",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://corp.mediatek.com/product-security-bulletin/November-2021",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://www.mediatek.com/",
+      "type": "Vendor"
+    }
+  ]
+}

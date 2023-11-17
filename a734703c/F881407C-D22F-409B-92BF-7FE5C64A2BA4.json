@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:tri:event_tickets:4.8:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "F881407C-D22F-409B-92BF-7FE5C64A2BA4",
+  "created": "2019-09-09T12:50:22.210",
+  "lastModified": "2019-09-09T12:50:22.210",
+  "titles": [
+    {
+      "title": "Modern Tribe Event Tickets 4.8 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://wordpress.org/plugins/event-tickets/#developers",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://tri.be/",
+      "type": "Vendor"
+    }
+  ]
+}

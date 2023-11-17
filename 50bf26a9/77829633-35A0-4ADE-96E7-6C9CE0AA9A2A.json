@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:wp-advanced-search_project:wp-advanced-search:1.5:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "77829633-35A0-4ADE-96E7-6C9CE0AA9A2A",
+  "created": "2020-05-06T13:41:05.187",
+  "lastModified": "2020-05-06T13:41:05.187",
+  "titles": [
+    {
+      "title": "WP-Advanced-Search Project WP-Advanced-Search 1.5 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://plugins.trac.wordpress.org/browser/wp-advanced-search/#tags",
+      "type": "Version"
+    }
+  ]
+}

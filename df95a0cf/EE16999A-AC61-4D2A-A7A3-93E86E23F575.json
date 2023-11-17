@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:aiohttp-session_project:aiohttp-session:0.4.0:*:*:*:*:*:*:*",
+  "cpeNameId": "EE16999A-AC61-4D2A-A7A3-93E86E23F575",
+  "created": "2019-09-19T14:18:35.257",
+  "lastModified": "2019-09-19T14:18:35.257",
+  "titles": [
+    {
+      "title": "aiohttp-session Project aiohttp-session 0.4.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/aio-libs/aiohttp-session/releases",
+      "type": "Change Log"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:zohocorp:manageengine_password_manager_pro:12.0:build12001:*:*:*:*:*:*",
+  "cpeNameId": "28C67C8C-A90F-413C-8760-A4D8C7E5F39B",
+  "created": "2022-05-05T12:41:47.953",
+  "lastModified": "2022-07-06T15:01:08.077",
+  "titles": [
+    {
+      "title": "Zoho Corp ManageEngine Password Manager Pro 12.0 Build12001",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.manageengine.com/privileged-access-management/upgradepack.html",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://www.manageengine.com/products/passwordmanagerpro/minor-upgrades.html",
+      "type": "Version"
+    }
+  ]
+}

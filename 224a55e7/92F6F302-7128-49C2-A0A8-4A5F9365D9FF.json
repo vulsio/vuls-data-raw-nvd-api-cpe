@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:asterisk:open_source:18.0.0:*:*:*:*:*:*:*",
+  "cpeNameId": "92F6F302-7128-49C2-A0A8-4A5F9365D9FF",
+  "created": "2020-12-04T17:59:01.593",
+  "lastModified": "2020-12-04T17:59:01.593",
+  "titles": [
+    {
+      "title": "Asterisk Open Source 18.0.0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "http://downloads.asterisk.org/pub/security/AST-2020-001.html",
+      "type": "Advisory"
+    }
+  ]
+}

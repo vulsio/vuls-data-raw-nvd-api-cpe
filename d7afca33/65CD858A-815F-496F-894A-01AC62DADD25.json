@@ -1,0 +1,13 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:owncloud:owncloud:4.0.3:*:*:*:*:*:*:*",
+  "cpeNameId": "65CD858A-815F-496F-894A-01AC62DADD25",
+  "created": "2012-09-06T15:25:41.113",
+  "lastModified": "2012-09-18T14:13:44.880",
+  "titles": [
+    {
+      "title": "ownCloud 4.0.3",
+      "lang": "en"
+    }
+  ]
+}

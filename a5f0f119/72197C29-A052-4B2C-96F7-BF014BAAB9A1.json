@@ -1,0 +1,33 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:wpdownloadmanager:wordpress_download_manager:2.9.47:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "72197C29-A052-4B2C-96F7-BF014BAAB9A1",
+  "created": "2020-05-05T12:20:41.820",
+  "lastModified": "2020-05-05T12:20:41.820",
+  "titles": [
+    {
+      "title": "WordPress Download Manager 2.9.47 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.wpdownloadmanager.com/",
+      "type": "Product"
+    },
+    {
+      "ref": "https://wordpress.org/plugins/download-manager/#developers",
+      "type": "Change Log"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:download_manager_project:download_manager:2.9.47:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "98703A2D-7DC2-490A-B0FE-4A25E2409635"
+    },
+    {
+      "cpeName": "cpe:2.3:a:wpdownloadmanager:download_manager:2.9.47:*:*:*:*:wordpress:*:*",
+      "cpeNameId": "E96D8197-99C3-41EA-A57A-FECD7EC79BE7"
+    }
+  ]
+}

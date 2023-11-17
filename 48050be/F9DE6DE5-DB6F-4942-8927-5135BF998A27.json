@@ -1,0 +1,27 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:gnu:glibc:1.06.9:*:*:*:*:*:*:*",
+  "cpeNameId": "F9DE6DE5-DB6F-4942-8927-5135BF998A27",
+  "created": "2018-05-24T14:29:16.907",
+  "lastModified": "2018-05-24T14:29:16.907",
+  "titles": [
+    {
+      "title": "GNU glibc 1.06.9",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "http://ftp.gnu.org/gnu/libc/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://www.gnu.org/software/libc/",
+      "type": "Project"
+    },
+    {
+      "ref": "https://sourceware.org/glibc/wiki/Glibc%20Timeline",
+      "type": "Version"
+    }
+  ]
+}

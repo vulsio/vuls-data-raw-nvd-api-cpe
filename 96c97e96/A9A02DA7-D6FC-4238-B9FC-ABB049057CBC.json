@@ -1,0 +1,18 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:iij:seil_x1_firmware:4.39:*:*:*:*:*:*:*",
+  "cpeNameId": "A9A02DA7-D6FC-4238-B9FC-ABB049057CBC",
+  "created": "2014-12-08T18:09:51.250",
+  "lastModified": "2014-12-08T18:59:11.747",
+  "titles": [
+    {
+      "title": "Internet Initiative Japan SEIL x1 Firmware 4.39",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "http://www.seil.jp/support/tech/doc/"
+    }
+  ]
+}

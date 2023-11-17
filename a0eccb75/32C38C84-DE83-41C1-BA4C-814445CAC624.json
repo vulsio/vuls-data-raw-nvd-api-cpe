@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:openvpn:openvpn:2.4.5:*:*:*:*:*:*:*",
+  "cpeNameId": "32C38C84-DE83-41C1-BA4C-814445CAC624",
+  "created": "2019-10-31T17:20:12.713",
+  "lastModified": "2019-10-31T17:20:12.713",
+  "titles": [
+    {
+      "title": "OpenVPN 2.4.5",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://community.openvpn.net/openvpn/wiki/ChangesInOpenvpn24",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://github.com/OpenVPN/openvpn/tags",
+      "type": "Version"
+    }
+  ]
+}

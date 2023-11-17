@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:radiustheme:the_post_grid:4.2.3:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "8D26CF07-7CF4-4A39-9389-A6F4887F725E",
+  "created": "2023-10-05T11:01:09.973",
+  "lastModified": "2023-10-05T11:01:09.973",
+  "titles": [
+    {
+      "title": "RadiusTheme The Post Grid 4.2.3 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://wordpress.org/plugins/the-post-grid/#developers",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://radiustheme.com/",
+      "type": "Vendor"
+    }
+  ]
+}

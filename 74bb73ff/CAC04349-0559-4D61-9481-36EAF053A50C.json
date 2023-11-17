@@ -1,0 +1,25 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:mp3gain_project:mp3gain:1.2.4:*:*:*:*:*:*:*",
+  "cpeNameId": "CAC04349-0559-4D61-9481-36EAF053A50C",
+  "created": "2019-11-08T15:48:56.170",
+  "lastModified": "2019-11-08T15:48:56.170",
+  "titles": [
+    {
+      "title": "MP3Gain Project MP3Gain 1.2.4",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://sourceforge.net/projects/mp3gain/files/",
+      "type": "Version"
+    }
+  ],
+  "deprecates": [
+    {
+      "cpeName": "cpe:2.3:a:mp3gain:mp3gain:1.2.4:*:*:*:*:*:*:*",
+      "cpeNameId": "81B25409-0BDD-4773-8D20-999C43F99607"
+    }
+  ]
+}

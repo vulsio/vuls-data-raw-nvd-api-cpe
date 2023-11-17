@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:aruba:cx_6200f_firmware:10.04.3021:*:*:*:*:*:*:*",
+  "cpeNameId": "35B86EDA-2EEA-4B46-8573-FA4A59D374F7",
+  "created": "2020-10-16T18:02:54.247",
+  "lastModified": "2020-10-16T18:02:54.247",
+  "titles": [
+    {
+      "title": "Aruba CX 6200F Firmware 10.04.3021",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2020-009.txt",
+      "type": "Advisory"
+    }
+  ]
+}

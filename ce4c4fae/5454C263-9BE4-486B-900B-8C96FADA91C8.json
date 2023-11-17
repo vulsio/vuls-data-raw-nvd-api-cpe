@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:10.2.4:*:*:*:*:*:*:*",
+  "cpeNameId": "5454C263-9BE4-486B-900B-8C96FADA91C8",
+  "created": "2023-05-17T16:21:28.010",
+  "lastModified": "2023-08-19T02:57:00.647",
+  "titles": [
+    {
+      "title": "Palo Alto Networks PAN-OS 10.2.4",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://security.paloaltonetworks.com/CVE-2023-0008",
+      "type": "Advisory"
+    }
+  ]
+}

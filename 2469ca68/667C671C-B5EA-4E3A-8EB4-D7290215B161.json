@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:arm:bifrost:r39p0:*:*:*:*:*:*:*",
+  "cpeNameId": "667C671C-B5EA-4E3A-8EB4-D7290215B161",
+  "created": "2022-09-06T15:47:53.787",
+  "lastModified": "2022-09-12T13:41:30.647",
+  "titles": [
+    {
+      "title": "ARM Bifrost R39p0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://developer.arm.com/Arm%20Security%20Center/Mali%20GPU%20Driver%20Vulnerabilities",
+      "type": "Advisory"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:fooplugins:foogallery:2.0.20:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "4971969E-30BC-4233-A279-F67432F63B49",
+  "created": "2021-07-12T12:58:24.877",
+  "lastModified": "2021-07-12T14:36:15.623",
+  "titles": [
+    {
+      "title": "FooPlugins FooGallery 2.0.20 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://fooplugins.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://wordpress.org/plugins/foogallery/#developers",
+      "type": "Change Log"
+    }
+  ]
+}

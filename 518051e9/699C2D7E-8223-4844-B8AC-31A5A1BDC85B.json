@@ -1,0 +1,27 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:gpt_academic_project:gpt_academic:2.68-2:*:*:*:*:*:*:*",
+  "cpeNameId": "699C2D7E-8223-4844-B8AC-31A5A1BDC85B",
+  "created": "2023-06-08T01:39:25.287",
+  "lastModified": "2023-06-08T16:05:10.647",
+  "titles": [
+    {
+      "title": "GPT Academic Project GPT Academic 2.68-2",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/binary-husky/gpt_academic",
+      "type": "Project"
+    },
+    {
+      "ref": "https://huggingface.co/spaces/qingxu98/gpt-academic",
+      "type": "Project"
+    },
+    {
+      "ref": "https://github.com/binary-husky/gpt_academic/tags",
+      "type": "Version"
+    }
+  ]
+}

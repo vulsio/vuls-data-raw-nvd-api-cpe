@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:h:aruba:cx_8325:-:*:*:*:*:*:*:*",
+  "cpeNameId": "F31DC73F-F565-46F4-A765-91E5F117F1C1",
+  "created": "2020-10-16T18:02:53.483",
+  "lastModified": "2020-10-16T18:02:53.483",
+  "titles": [
+    {
+      "title": "Aruba CX 8325",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2020-009.txt",
+      "type": "Advisory"
+    }
+  ]
+}

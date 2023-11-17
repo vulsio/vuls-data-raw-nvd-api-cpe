@@ -1,0 +1,19 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:stormshield:network_security:4.3.8:*:*:*:*:*:*:*",
+  "cpeNameId": "6C375B79-33AD-4077-A348-D75177B8F408",
+  "created": "2022-05-18T16:34:37.560",
+  "lastModified": "2022-08-03T12:39:12.763",
+  "titles": [
+    {
+      "title": "Stormshield Network Security 4.3.8",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://advisories.stormshield.eu/2022-015/",
+      "type": "Advisory"
+    }
+  ]
+}

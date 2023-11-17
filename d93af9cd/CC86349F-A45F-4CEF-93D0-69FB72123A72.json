@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:nodejs:node.js:8.1.4:*:*:*:lts:*:*:*",
+  "cpeNameId": "CC86349F-A45F-4CEF-93D0-69FB72123A72",
+  "created": "2020-06-22T11:45:04.867",
+  "lastModified": "2020-06-22T11:45:04.867",
+  "titles": [
+    {
+      "title": "Nodejs Node.js 8.1.4 LTS Edition",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://nodejs.org/en/about/releases/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://nodejs.org/download/release/",
+      "type": "Change Log"
+    }
+  ]
+}

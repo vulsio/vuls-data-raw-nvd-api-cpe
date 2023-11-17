@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:adobe:experience_manager:6.2.1.13:*:*:*:*:*:*:*",
+  "cpeNameId": "34F02843-4857-49DC-A35A-501A57CED2F3",
+  "created": "2018-11-19T16:01:36.763",
+  "lastModified": "2018-11-19T16:01:36.763",
+  "titles": [
+    {
+      "title": "Adobe Experience Manager 6.2.1.13",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://helpx.adobe.com/experience-manager/release-notes--aem-6-2-cumulative-fix-pack.html",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://www.adobe.com/marketing/experience-manager.html",
+      "type": "Product"
+    }
+  ]
+}

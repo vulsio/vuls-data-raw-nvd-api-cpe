@@ -1,0 +1,27 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.6.2:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "7F1232BE-5177-4A14-BC47-0CCF01A3658C",
+  "created": "2019-07-16T17:46:44.573",
+  "lastModified": "2019-07-16T17:46:44.573",
+  "titles": [
+    {
+      "title": "WooCommerce 3.6.2 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://github.com/woocommerce/woocommerce/",
+      "type": "Version"
+    },
+    {
+      "ref": "https://woocommerce.com/",
+      "type": "Vendor"
+    },
+    {
+      "ref": "https://wordpress.org/plugins/woocommerce/#developers",
+      "type": "Version"
+    }
+  ]
+}

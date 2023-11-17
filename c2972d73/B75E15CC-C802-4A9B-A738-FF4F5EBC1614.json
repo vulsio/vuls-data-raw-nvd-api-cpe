@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:o:qnap:qts:4.3.3.1693:*:*:*:*:*:*:*",
+  "cpeNameId": "B75E15CC-C802-4A9B-A738-FF4F5EBC1614",
+  "created": "2021-09-15T18:18:03.980",
+  "lastModified": "2021-09-23T19:38:09.143",
+  "titles": [
+    {
+      "title": "QNAP QTS 4.3.3.1693",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://www.qnap.com/en/security-advisory/qsa-21-33",
+      "type": "Advisory"
+    },
+    {
+      "ref": "https://www.qnap.com/en-us/release-notes/qts/5.0.0.1716/20210701",
+      "type": "Change Log"
+    }
+  ]
+}

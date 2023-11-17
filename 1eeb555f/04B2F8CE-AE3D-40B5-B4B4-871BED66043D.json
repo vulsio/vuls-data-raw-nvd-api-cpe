@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:pmb_project:pmb:7.3:rc0:*:*:*:*:*:*",
+  "cpeNameId": "04B2F8CE-AE3D-40B5-B4B4-871BED66043D",
+  "created": "2022-06-29T17:59:52.470",
+  "lastModified": "2022-07-01T00:25:46.010",
+  "titles": [
+    {
+      "title": "PMB Project PMB 7.3 Release Candidate 0",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://forge.sigb.net/projects/pmb",
+      "type": "Product"
+    },
+    {
+      "ref": "https://forge.sigb.net/projects/pmb/files",
+      "type": "Version"
+    }
+  ]
+}

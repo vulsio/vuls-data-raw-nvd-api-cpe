@@ -1,0 +1,23 @@
+{
+  "deprecated": false,
+  "cpeName": "cpe:2.3:a:icegram:icegram:1.10.7:*:*:*:*:wordpress:*:*",
+  "cpeNameId": "411E3B15-F5AB-4CB9-9A7E-8E3922112377",
+  "created": "2019-09-04T12:02:34.057",
+  "lastModified": "2019-09-04T12:02:34.057",
+  "titles": [
+    {
+      "title": "Icegram 1.10.7 for WordPress",
+      "lang": "en"
+    }
+  ],
+  "refs": [
+    {
+      "ref": "https://wordpress.org/plugins/icegram/#developers",
+      "type": "Change Log"
+    },
+    {
+      "ref": "https://www.icegram.com/",
+      "type": "Vendor"
+    }
+  ]
+}
