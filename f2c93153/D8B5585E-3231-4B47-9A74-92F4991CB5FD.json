@@ -1,21 +1,21 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:facebook:suriname_radio:1.5:*:*:*:*:android:*:*",
-  "cpeNameId": "D8B5585E-3231-4B47-9A74-92F4991CB5FD",
-  "created": "2014-11-10T16:17:37.800",
-  "lastModified": "2014-11-10T16:57:11.900",
-  "titles": [
-    {
-      "title": "facebook Suriname Radio (aka com.wordbox.surinameRadio) for android 1.5",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://play.google.com/store/apps/details?id=com.wordbox.surinameRadio"
-    },
-    {
-      "ref": "https://www.facebook.com/WordBoxApps"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:facebook:suriname_radio:1.5:*:*:*:*:android:*:*",
+	"cpeNameId": "D8B5585E-3231-4B47-9A74-92F4991CB5FD",
+	"created": "2014-11-10T16:17:37.800",
+	"lastModified": "2014-11-10T16:57:11.900",
+	"titles": [
+		{
+			"title": "facebook Suriname Radio (aka com.wordbox.surinameRadio) for android 1.5",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://play.google.com/store/apps/details?id=com.wordbox.surinameRadio"
+		},
+		{
+			"ref": "https://www.facebook.com/WordBoxApps"
+		}
+	]
 }

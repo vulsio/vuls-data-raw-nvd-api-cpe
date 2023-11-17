@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:ctrip:apollo:0.6.2:*:*:*:*:*:*:*",
-  "cpeNameId": "2AA8CBFC-A474-4B28-9738-8752D88CCC7D",
-  "created": "2019-04-24T15:48:41.367",
-  "lastModified": "2019-04-24T15:48:41.367",
-  "titles": [
-    {
-      "title": "Ctrip Apollo 0.6.2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/ctripcorp/apollo",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:ctrip:apollo:0.6.2:*:*:*:*:*:*:*",
+	"cpeNameId": "2AA8CBFC-A474-4B28-9738-8752D88CCC7D",
+	"created": "2019-04-24T15:48:41.367",
+	"lastModified": "2019-04-24T15:48:41.367",
+	"titles": [
+		{
+			"title": "Ctrip Apollo 0.6.2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/ctripcorp/apollo",
+			"type": "Version"
+		}
+	]
 }

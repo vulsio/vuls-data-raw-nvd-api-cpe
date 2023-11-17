@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:synology:video_station:2.4.2-1561:*:*:*:*:*:*:*",
-  "cpeNameId": "E45748AE-C1A3-4D10-9E0E-65A54454228B",
-  "created": "2019-06-10T13:28:29.500",
-  "lastModified": "2019-06-10T13:28:29.500",
-  "titles": [
-    {
-      "title": "Synology Video Station 2.4.2-1561",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.synology.com/en-us/releaseNote/VideoStation?model=DS1517%2B",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:synology:video_station:2.4.2-1561:*:*:*:*:*:*:*",
+	"cpeNameId": "E45748AE-C1A3-4D10-9E0E-65A54454228B",
+	"created": "2019-06-10T13:28:29.500",
+	"lastModified": "2019-06-10T13:28:29.500",
+	"titles": [
+		{
+			"title": "Synology Video Station 2.4.2-1561",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.synology.com/en-us/releaseNote/VideoStation?model=DS1517%2B",
+			"type": "Version"
+		}
+	]
 }

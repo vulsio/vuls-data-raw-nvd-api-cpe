@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:nextscripts:social_networks_auto_poster:3.7.14:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "AA011FC7-F71A-4329-AB14-9A701CD716AA",
-  "created": "2019-07-16T11:58:49.907",
-  "lastModified": "2019-07-16T11:58:49.907",
-  "titles": [
-    {
-      "title": "NextScripts Social Networks Auto Poster 3.7.14 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.nextscripts.com/snap-wp-changelog.txt",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://www.nextscripts.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:nextscripts:social_networks_auto_poster:3.7.14:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "AA011FC7-F71A-4329-AB14-9A701CD716AA",
+	"created": "2019-07-16T11:58:49.907",
+	"lastModified": "2019-07-16T11:58:49.907",
+	"titles": [
+		{
+			"title": "NextScripts Social Networks Auto Poster 3.7.14 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.nextscripts.com/snap-wp-changelog.txt",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://www.nextscripts.com/",
+			"type": "Vendor"
+		}
+	]
 }

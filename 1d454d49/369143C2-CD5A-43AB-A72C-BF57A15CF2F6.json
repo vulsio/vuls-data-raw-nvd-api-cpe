@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:vim:vim:8.0.0932:*:*:*:*:*:*:*",
-  "cpeNameId": "369143C2-CD5A-43AB-A72C-BF57A15CF2F6",
-  "created": "2018-05-24T20:06:51.970",
-  "lastModified": "2018-05-24T20:06:51.970",
-  "titles": [
-    {
-      "title": "Vim 8.0.0932",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.vim.org/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/vim/vim/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:vim:vim:8.0.0932:*:*:*:*:*:*:*",
+	"cpeNameId": "369143C2-CD5A-43AB-A72C-BF57A15CF2F6",
+	"created": "2018-05-24T20:06:51.970",
+	"lastModified": "2018-05-24T20:06:51.970",
+	"titles": [
+		{
+			"title": "Vim 8.0.0932",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.vim.org/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/vim/vim/releases",
+			"type": "Change Log"
+		}
+	]
 }

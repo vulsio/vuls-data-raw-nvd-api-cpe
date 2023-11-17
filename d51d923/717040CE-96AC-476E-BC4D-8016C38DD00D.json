@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:nps_project:nps:0.23.2:*:*:*:*:*:*:*",
-  "cpeNameId": "717040CE-96AC-476E-BC4D-8016C38DD00D",
-  "created": "2019-11-05T13:11:57.260",
-  "lastModified": "2019-11-05T13:11:57.260",
-  "titles": [
-    {
-      "title": "nps Project nps 0.23.2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/cnlh/nps/releases",
-      "type": "Project"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:nps_project:nps:0.23.2:*:*:*:*:*:*:*",
+	"cpeNameId": "717040CE-96AC-476E-BC4D-8016C38DD00D",
+	"created": "2019-11-05T13:11:57.260",
+	"lastModified": "2019-11-05T13:11:57.260",
+	"titles": [
+		{
+			"title": "nps Project nps 0.23.2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/cnlh/nps/releases",
+			"type": "Project"
+		}
+	]
 }

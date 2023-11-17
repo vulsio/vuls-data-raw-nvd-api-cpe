@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:synel:synergy\\/x:-:*:*:*:*:*:*:*",
-  "cpeNameId": "A0CB1CBA-5226-4B87-AF0A-054DF31AAA5F",
-  "created": "2023-09-07T14:50:01.540",
-  "lastModified": "2023-09-07T18:11:23.160",
-  "titles": [
-    {
-      "title": "Synel SYnergy/X",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://synel-americas.com/hardware-solutions/synergya20-2/",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:synel:synergy\\/x:-:*:*:*:*:*:*:*",
+	"cpeNameId": "A0CB1CBA-5226-4B87-AF0A-054DF31AAA5F",
+	"created": "2023-09-07T14:50:01.540",
+	"lastModified": "2023-09-07T18:11:23.160",
+	"titles": [
+		{
+			"title": "Synel SYnergy/X",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://synel-americas.com/hardware-solutions/synergya20-2/",
+			"type": "Product"
+		}
+	]
 }

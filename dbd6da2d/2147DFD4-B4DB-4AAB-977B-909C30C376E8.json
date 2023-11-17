@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:ibm:rational_doors:9.5.2.7:*:*:*:*:*:*:*",
-  "cpeNameId": "2147DFD4-B4DB-4AAB-977B-909C30C376E8",
-  "created": "2019-05-13T12:58:20.673",
-  "lastModified": "2019-05-13T12:58:20.673",
-  "titles": [
-    {
-      "title": "IBM Rational DOORS 9.5.2.7",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.ibm.com/us-en/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://www-01.ibm.com/support/docview.wss?uid=swg27036720",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:ibm:rational_doors:9.5.2.7:*:*:*:*:*:*:*",
+	"cpeNameId": "2147DFD4-B4DB-4AAB-977B-909C30C376E8",
+	"created": "2019-05-13T12:58:20.673",
+	"lastModified": "2019-05-13T12:58:20.673",
+	"titles": [
+		{
+			"title": "IBM Rational DOORS 9.5.2.7",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.ibm.com/us-en/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://www-01.ibm.com/support/docview.wss?uid=swg27036720",
+			"type": "Version"
+		}
+	]
 }

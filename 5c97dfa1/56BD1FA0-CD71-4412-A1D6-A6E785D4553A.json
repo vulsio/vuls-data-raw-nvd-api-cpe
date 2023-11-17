@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:froxlor:froxlor:0.10.23.1:*:*:*:*:*:*:*",
-  "cpeNameId": "56BD1FA0-CD71-4412-A1D6-A6E785D4553A",
-  "created": "2021-10-13T13:37:41.600",
-  "lastModified": "2021-10-13T13:46:58.210",
-  "titles": [
-    {
-      "title": "Froxlor 0.10.23.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.froxlor.org/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/Froxlor/Froxlor",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:froxlor:froxlor:0.10.23.1:*:*:*:*:*:*:*",
+	"cpeNameId": "56BD1FA0-CD71-4412-A1D6-A6E785D4553A",
+	"created": "2021-10-13T13:37:41.600",
+	"lastModified": "2021-10-13T13:46:58.210",
+	"titles": [
+		{
+			"title": "Froxlor 0.10.23.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.froxlor.org/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/Froxlor/Froxlor",
+			"type": "Version"
+		}
+	]
 }

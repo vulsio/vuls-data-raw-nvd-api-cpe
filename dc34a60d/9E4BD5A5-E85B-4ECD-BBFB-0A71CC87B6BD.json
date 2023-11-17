@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:realnetworks:realplayer:-:*:*:*:*:*:*:*",
-  "cpeNameId": "9E4BD5A5-E85B-4ECD-BBFB-0A71CC87B6BD",
-  "created": "2007-08-23T21:05:57.937",
-  "lastModified": "2009-11-25T18:27:18.340",
-  "titles": [
-    {
-      "title": "RealNetworks RealPlayer",
-      "lang": "en"
-    }
-  ],
-  "deprecates": [
-    {
-      "cpeName": "cpe:2.3:a:real:realplayer:-:*:*:*:*:*:*:*",
-      "cpeNameId": "19027753-6DB0-4F29-92F9-E21E87DD7206"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:realnetworks:realplayer:-:*:*:*:*:*:*:*",
+	"cpeNameId": "9E4BD5A5-E85B-4ECD-BBFB-0A71CC87B6BD",
+	"created": "2007-08-23T21:05:57.937",
+	"lastModified": "2009-11-25T18:27:18.340",
+	"titles": [
+		{
+			"title": "RealNetworks RealPlayer",
+			"lang": "en"
+		}
+	],
+	"deprecates": [
+		{
+			"cpeName": "cpe:2.3:a:real:realplayer:-:*:*:*:*:*:*:*",
+			"cpeNameId": "19027753-6DB0-4F29-92F9-E21E87DD7206"
+		}
+	]
 }

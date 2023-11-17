@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:aruba:cx_6300:-:*:*:*:*:*:*:*",
-  "cpeNameId": "145A6F86-3E30-49E8-921E-99C77B3F8AD9",
-  "created": "2020-10-16T18:02:52.513",
-  "lastModified": "2020-10-16T18:02:52.513",
-  "titles": [
-    {
-      "title": "Aruba CX 6300",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2020-009.txt",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:aruba:cx_6300:-:*:*:*:*:*:*:*",
+	"cpeNameId": "145A6F86-3E30-49E8-921E-99C77B3F8AD9",
+	"created": "2020-10-16T18:02:52.513",
+	"lastModified": "2020-10-16T18:02:52.513",
+	"titles": [
+		{
+			"title": "Aruba CX 6300",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2020-009.txt",
+			"type": "Advisory"
+		}
+	]
 }

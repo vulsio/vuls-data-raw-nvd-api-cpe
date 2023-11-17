@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:hotosm:tasking_manager:3.1.2:*:*:*:*:*:*:*",
-  "cpeNameId": "80062252-1651-4E26-A9E8-E8327D2B951C",
-  "created": "2019-09-06T18:05:57.307",
-  "lastModified": "2019-09-06T18:05:57.307",
-  "titles": [
-    {
-      "title": "Hotosm Tasking Manager 3.1.2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/hotosm/tasking-manager/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:hotosm:tasking_manager:3.1.2:*:*:*:*:*:*:*",
+	"cpeNameId": "80062252-1651-4E26-A9E8-E8327D2B951C",
+	"created": "2019-09-06T18:05:57.307",
+	"lastModified": "2019-09-06T18:05:57.307",
+	"titles": [
+		{
+			"title": "Hotosm Tasking Manager 3.1.2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/hotosm/tasking-manager/releases",
+			"type": "Change Log"
+		}
+	]
 }

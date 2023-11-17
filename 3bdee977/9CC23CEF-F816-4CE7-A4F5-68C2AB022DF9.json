@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:sparklabs:viscosity:1.3.3:*:*:*:*:*:*:*",
-  "cpeNameId": "9CC23CEF-F816-4CE7-A4F5-68C2AB022DF9",
-  "created": "2020-01-22T12:28:19.020",
-  "lastModified": "2020-01-22T12:28:19.020",
-  "titles": [
-    {
-      "title": "SparkLabs Viscosity 1.3.3",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.sparklabs.com/viscosity/download/",
-      "type": "Version"
-    },
-    {
-      "ref": "https://www.sparklabs.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:sparklabs:viscosity:1.3.3:*:*:*:*:*:*:*",
+	"cpeNameId": "9CC23CEF-F816-4CE7-A4F5-68C2AB022DF9",
+	"created": "2020-01-22T12:28:19.020",
+	"lastModified": "2020-01-22T12:28:19.020",
+	"titles": [
+		{
+			"title": "SparkLabs Viscosity 1.3.3",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.sparklabs.com/viscosity/download/",
+			"type": "Version"
+		},
+		{
+			"ref": "https://www.sparklabs.com/",
+			"type": "Vendor"
+		}
+	]
 }

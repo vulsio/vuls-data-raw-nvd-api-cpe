@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:graphite_project:graphite:0.9.5:*:*:*:*:*:*:*",
-  "cpeNameId": "D504ECB6-3609-4530-90D3-A323016B406F",
-  "created": "2013-09-24T13:43:08.340",
-  "lastModified": "2013-09-24T13:47:26.830",
-  "titles": [
-    {
-      "title": "Graphite Project Graphite 0.9.5",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/graphite-project/graphite-web/tree/master/docs/releases"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:graphite_project:graphite:0.9.5:*:*:*:*:*:*:*",
+	"cpeNameId": "D504ECB6-3609-4530-90D3-A323016B406F",
+	"created": "2013-09-24T13:43:08.340",
+	"lastModified": "2013-09-24T13:47:26.830",
+	"titles": [
+		{
+			"title": "Graphite Project Graphite 0.9.5",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/graphite-project/graphite-web/tree/master/docs/releases"
+		}
+	]
 }

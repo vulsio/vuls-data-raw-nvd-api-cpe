@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:sendmail:sendmail:8.13.4:*:*:*:*:*:*:*",
-  "cpeNameId": "0D98AC36-8B51-4E72-83EF-0EC0F35981F9",
-  "created": "2007-08-23T21:16:59.567",
-  "lastModified": "2014-06-24T18:28:04.703",
-  "titles": [
-    {
-      "title": "Sendmail Sendmail 8.13.4",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "ftp://ftp.sendmail.org/pub/sendmail/RELEASE_NOTES"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:sendmail:sendmail:8.13.4:*:*:*:*:*:*:*",
+	"cpeNameId": "0D98AC36-8B51-4E72-83EF-0EC0F35981F9",
+	"created": "2007-08-23T21:16:59.567",
+	"lastModified": "2014-06-24T18:28:04.703",
+	"titles": [
+		{
+			"title": "Sendmail Sendmail 8.13.4",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "ftp://ftp.sendmail.org/pub/sendmail/RELEASE_NOTES"
+		}
+	]
 }

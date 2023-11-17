@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:streamlit:streamlit:0.85.2:dev20210727:*:*:*:*:*:*",
-  "cpeNameId": "07839BD9-4BFC-4403-8B47-F4E3D9A72AE7",
-  "created": "2023-03-06T23:38:57.557",
-  "lastModified": "2023-03-07T14:08:26.197",
-  "titles": [
-    {
-      "title": "Streamlit 0.85.2 Dev20210727",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/streamlit/streamlit",
-      "type": "Product"
-    },
-    {
-      "ref": "https://streamlit.io/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:streamlit:streamlit:0.85.2:dev20210727:*:*:*:*:*:*",
+	"cpeNameId": "07839BD9-4BFC-4403-8B47-F4E3D9A72AE7",
+	"created": "2023-03-06T23:38:57.557",
+	"lastModified": "2023-03-07T14:08:26.197",
+	"titles": [
+		{
+			"title": "Streamlit 0.85.2 Dev20210727",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/streamlit/streamlit",
+			"type": "Product"
+		},
+		{
+			"ref": "https://streamlit.io/",
+			"type": "Vendor"
+		}
+	]
 }

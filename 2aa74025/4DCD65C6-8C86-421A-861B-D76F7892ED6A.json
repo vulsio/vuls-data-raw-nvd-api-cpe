@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:pengutronix:barebox:2017.07.1:*:*:*:*:*:*:*",
-  "cpeNameId": "4DCD65C6-8C86-421A-861B-D76F7892ED6A",
-  "created": "2019-09-05T17:49:49.843",
-  "lastModified": "2019-09-05T17:49:49.843",
-  "titles": [
-    {
-      "title": "Pengutronix Barebox 2017.07.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.barebox.org/download/",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:pengutronix:barebox:2017.07.1:*:*:*:*:*:*:*",
+	"cpeNameId": "4DCD65C6-8C86-421A-861B-D76F7892ED6A",
+	"created": "2019-09-05T17:49:49.843",
+	"lastModified": "2019-09-05T17:49:49.843",
+	"titles": [
+		{
+			"title": "Pengutronix Barebox 2017.07.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.barebox.org/download/",
+			"type": "Version"
+		}
+	]
 }

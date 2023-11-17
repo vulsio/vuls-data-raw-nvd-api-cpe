@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:synology:diskstation_manager:4.3-3810:*:*:*:*:*:*:*",
-  "cpeNameId": "D2A5FD8D-E517-42F2-8C8A-6530DB079A9E",
-  "created": "2014-01-02T16:09:21.323",
-  "lastModified": "2014-01-02T16:11:27.763",
-  "titles": [
-    {
-      "title": "Synology Diskstation Manager 4.3-3810",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www.synology.com/en-global/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:synology:diskstation_manager:4.3-3810:*:*:*:*:*:*:*",
+	"cpeNameId": "D2A5FD8D-E517-42F2-8C8A-6530DB079A9E",
+	"created": "2014-01-02T16:09:21.323",
+	"lastModified": "2014-01-02T16:11:27.763",
+	"titles": [
+		{
+			"title": "Synology Diskstation Manager 4.3-3810",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.synology.com/en-global/",
+			"type": "Vendor"
+		}
+	]
 }

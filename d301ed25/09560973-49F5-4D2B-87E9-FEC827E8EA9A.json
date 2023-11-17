@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:chef:chef:10.16.4:*:*:*:*:*:*:*",
-  "cpeNameId": "09560973-49F5-4D2B-87E9-FEC827E8EA9A",
-  "created": "2019-11-18T20:15:41.023",
-  "lastModified": "2019-11-18T20:15:41.023",
-  "titles": [
-    {
-      "title": "Chef 10.16.4",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/chef/chef/releases",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:chef:chef:10.16.4:*:*:*:*:*:*:*",
+	"cpeNameId": "09560973-49F5-4D2B-87E9-FEC827E8EA9A",
+	"created": "2019-11-18T20:15:41.023",
+	"lastModified": "2019-11-18T20:15:41.023",
+	"titles": [
+		{
+			"title": "Chef 10.16.4",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/chef/chef/releases",
+			"type": "Version"
+		}
+	]
 }

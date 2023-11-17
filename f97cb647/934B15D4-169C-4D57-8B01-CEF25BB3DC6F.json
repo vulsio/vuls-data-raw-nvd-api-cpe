@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:openscad:openscad:2013.01:*:*:*:*:*:*:*",
-  "cpeNameId": "934B15D4-169C-4D57-8B01-CEF25BB3DC6F",
-  "created": "2021-02-26T19:28:04.163",
-  "lastModified": "2021-03-09T14:02:18.677",
-  "titles": [
-    {
-      "title": "OpenSCAD 2013.01",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.openscad.org/news.html",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:openscad:openscad:2013.01:*:*:*:*:*:*:*",
+	"cpeNameId": "934B15D4-169C-4D57-8B01-CEF25BB3DC6F",
+	"created": "2021-02-26T19:28:04.163",
+	"lastModified": "2021-03-09T14:02:18.677",
+	"titles": [
+		{
+			"title": "OpenSCAD 2013.01",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.openscad.org/news.html",
+			"type": "Version"
+		}
+	]
 }

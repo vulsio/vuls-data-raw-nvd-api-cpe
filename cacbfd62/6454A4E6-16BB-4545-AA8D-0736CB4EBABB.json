@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:gnome:pango:1.44.4:*:*:*:*:*:*:*",
-  "cpeNameId": "6454A4E6-16BB-4545-AA8D-0736CB4EBABB",
-  "created": "2021-07-14T15:33:04.307",
-  "lastModified": "2021-07-14T15:39:28.117",
-  "titles": [
-    {
-      "title": "GNOME Pango 1.44.4",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://pango.gnome.org/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://github.com/GNOME/pango/releases",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:gnome:pango:1.44.4:*:*:*:*:*:*:*",
+	"cpeNameId": "6454A4E6-16BB-4545-AA8D-0736CB4EBABB",
+	"created": "2021-07-14T15:33:04.307",
+	"lastModified": "2021-07-14T15:39:28.117",
+	"titles": [
+		{
+			"title": "GNOME Pango 1.44.4",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://pango.gnome.org/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://github.com/GNOME/pango/releases",
+			"type": "Version"
+		}
+	]
 }

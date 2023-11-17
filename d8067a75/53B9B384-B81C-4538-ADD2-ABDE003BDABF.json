@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:saltos:saltos:3.7:8947:*:*:*:*:*:*",
-  "cpeNameId": "53B9B384-B81C-4538-ADD2-ABDE003BDABF",
-  "created": "2020-05-20T13:02:38.897",
-  "lastModified": "2020-05-20T13:02:38.897",
-  "titles": [
-    {
-      "title": "SaltOS 3.7 8947",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.saltos.org/portal/en/home",
-      "type": "Product"
-    },
-    {
-      "ref": "https://sourceforge.net/projects/saltos/files/nightly/",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:saltos:saltos:3.7:8947:*:*:*:*:*:*",
+	"cpeNameId": "53B9B384-B81C-4538-ADD2-ABDE003BDABF",
+	"created": "2020-05-20T13:02:38.897",
+	"lastModified": "2020-05-20T13:02:38.897",
+	"titles": [
+		{
+			"title": "SaltOS 3.7 8947",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.saltos.org/portal/en/home",
+			"type": "Product"
+		},
+		{
+			"ref": "https://sourceforge.net/projects/saltos/files/nightly/",
+			"type": "Version"
+		}
+	]
 }

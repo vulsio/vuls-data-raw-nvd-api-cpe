@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:stormshield:network_security:4.3.17:*:*:*:ltsb:*:*:*",
-  "cpeNameId": "6CA08EF7-35C3-48C5-B144-90DEDA2C4D6B",
-  "created": "2023-08-31T15:04:50.127",
-  "lastModified": "2023-08-31T17:58:33.267",
-  "titles": [
-    {
-      "title": "Stormshield Network Security 4.3.17 Long-Term Support Branch Edition",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://documentation.stormshield.eu/SNS/v4/en/Content/Release_Notes_SNS_LTSB/Previous-Versions.htm",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:stormshield:network_security:4.3.17:*:*:*:ltsb:*:*:*",
+	"cpeNameId": "6CA08EF7-35C3-48C5-B144-90DEDA2C4D6B",
+	"created": "2023-08-31T15:04:50.127",
+	"lastModified": "2023-08-31T17:58:33.267",
+	"titles": [
+		{
+			"title": "Stormshield Network Security 4.3.17 Long-Term Support Branch Edition",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://documentation.stormshield.eu/SNS/v4/en/Content/Release_Notes_SNS_LTSB/Previous-Versions.htm",
+			"type": "Change Log"
+		}
+	]
 }

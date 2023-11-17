@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:wp-members_project:wp-members:3.3.3:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "9AEABAAF-4C7F-4202-AEBA-D1FA31F923D0",
-  "created": "2020-04-22T16:41:56.623",
-  "lastModified": "2020-04-22T16:41:56.623",
-  "titles": [
-    {
-      "title": "WP-Members Project WP-Members 3.3.3 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wordpress.org/plugins/wp-members/#developers",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:wp-members_project:wp-members:3.3.3:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "9AEABAAF-4C7F-4202-AEBA-D1FA31F923D0",
+	"created": "2020-04-22T16:41:56.623",
+	"lastModified": "2020-04-22T16:41:56.623",
+	"titles": [
+		{
+			"title": "WP-Members Project WP-Members 3.3.3 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/wp-members/#developers",
+			"type": "Version"
+		}
+	]
 }

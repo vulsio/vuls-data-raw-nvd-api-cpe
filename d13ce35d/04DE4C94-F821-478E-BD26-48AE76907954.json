@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:beyondgrep:ack:2.02:*:*:*:*:*:*:*",
-  "cpeNameId": "04DE4C94-F821-478E-BD26-48AE76907954",
-  "created": "2013-12-16T22:46:30.080",
-  "lastModified": "2013-12-16T22:50:59.787",
-  "titles": [
-    {
-      "title": "beyondgrep ack 2.02",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://beyondgrep.com/changes.txt"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:beyondgrep:ack:2.02:*:*:*:*:*:*:*",
+	"cpeNameId": "04DE4C94-F821-478E-BD26-48AE76907954",
+	"created": "2013-12-16T22:46:30.080",
+	"lastModified": "2013-12-16T22:50:59.787",
+	"titles": [
+		{
+			"title": "beyondgrep ack 2.02",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://beyondgrep.com/changes.txt"
+		}
+	]
 }

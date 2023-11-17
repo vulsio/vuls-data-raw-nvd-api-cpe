@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:voxmedia:coral_talk:4.6.11:*:*:*:*:*:*:*",
-  "cpeNameId": "562486D8-A7F7-4D6E-9B86-2AD104475D4A",
-  "created": "2021-07-06T13:54:36.077",
-  "lastModified": "2021-07-08T14:23:59.510",
-  "titles": [
-    {
-      "title": "Vox Media Coral Talk 4.6.11",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://corp.voxmedia.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://coralproject.net/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://github.com/coralproject/talk",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:voxmedia:coral_talk:4.6.11:*:*:*:*:*:*:*",
+	"cpeNameId": "562486D8-A7F7-4D6E-9B86-2AD104475D4A",
+	"created": "2021-07-06T13:54:36.077",
+	"lastModified": "2021-07-08T14:23:59.510",
+	"titles": [
+		{
+			"title": "Vox Media Coral Talk 4.6.11",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://corp.voxmedia.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://coralproject.net/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://github.com/coralproject/talk",
+			"type": "Version"
+		}
+	]
 }

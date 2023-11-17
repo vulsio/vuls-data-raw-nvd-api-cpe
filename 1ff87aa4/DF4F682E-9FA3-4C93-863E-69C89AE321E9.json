@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:antoine_beaupre:hostmaster:6.x-1.6:*:*:*:*:*:*:*",
-  "cpeNameId": "DF4F682E-9FA3-4C93-863E-69C89AE321E9",
-  "created": "2012-06-27T14:39:53.173",
-  "lastModified": "2012-07-30T15:19:20.940",
-  "titles": [
-    {
-      "title": "Antoine Beaupré Hostmaster 6.x-1.6",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:antoine_beaupre:hostmaster:6.x-1.6:*:*:*:*:*:*:*",
+	"cpeNameId": "DF4F682E-9FA3-4C93-863E-69C89AE321E9",
+	"created": "2012-06-27T14:39:53.173",
+	"lastModified": "2012-07-30T15:19:20.940",
+	"titles": [
+		{
+			"title": "Antoine Beaupré Hostmaster 6.x-1.6",
+			"lang": "en"
+		}
+	]
 }

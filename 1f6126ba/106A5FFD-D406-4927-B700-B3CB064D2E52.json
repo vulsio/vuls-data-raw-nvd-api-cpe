@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:automattic:crowdsignal_dashboard:2.2.4:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "106A5FFD-D406-4927-B700-B3CB064D2E52",
-  "created": "2022-08-10T14:06:14.947",
-  "lastModified": "2022-08-10T14:10:25.807",
-  "titles": [
-    {
-      "title": "Automattic Crowdsignal Dashboard 2.2.4 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://automattic.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://wordpress.org/plugins/polldaddy/#developers",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:automattic:crowdsignal_dashboard:2.2.4:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "106A5FFD-D406-4927-B700-B3CB064D2E52",
+	"created": "2022-08-10T14:06:14.947",
+	"lastModified": "2022-08-10T14:10:25.807",
+	"titles": [
+		{
+			"title": "Automattic Crowdsignal Dashboard 2.2.4 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://automattic.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/polldaddy/#developers",
+			"type": "Change Log"
+		}
+	]
 }

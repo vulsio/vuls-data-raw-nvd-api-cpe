@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:rubyonrails:rails_html_sanitizers:-:*:*:*:*:rails:*:*",
-  "cpeNameId": "472F7D29-144F-43CA-B51B-45340538F9A1",
-  "created": "2022-07-05T15:38:53.637",
-  "lastModified": "2022-07-06T04:13:22.360",
-  "titles": [
-    {
-      "title": "Rubyonrails Rails HTML Sanitizers - for Rails",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/rails/rails-html-sanitizer/releases",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://hackerone.com/reports/1530898",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:rubyonrails:rails_html_sanitizers:-:*:*:*:*:rails:*:*",
+	"cpeNameId": "472F7D29-144F-43CA-B51B-45340538F9A1",
+	"created": "2022-07-05T15:38:53.637",
+	"lastModified": "2022-07-06T04:13:22.360",
+	"titles": [
+		{
+			"title": "Rubyonrails Rails HTML Sanitizers - for Rails",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/rails/rails-html-sanitizer/releases",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://hackerone.com/reports/1530898",
+			"type": "Advisory"
+		}
+	]
 }

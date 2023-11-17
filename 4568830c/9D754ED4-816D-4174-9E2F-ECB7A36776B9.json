@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:fortinet:fortivoice:5.0.5:*:*:*:entreprise:*:*:*",
-  "cpeNameId": "9D754ED4-816D-4174-9E2F-ECB7A36776B9",
-  "created": "2020-05-04T13:30:22.717",
-  "lastModified": "2020-05-04T13:30:22.717",
-  "titles": [
-    {
-      "title": "Fortinet FortiVoice 5.0.5 Entreprise Edition",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://docs.fortinet.com/product/fortivoice-enterprise/6.0",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:fortinet:fortivoice:5.0.5:*:*:*:entreprise:*:*:*",
+	"cpeNameId": "9D754ED4-816D-4174-9E2F-ECB7A36776B9",
+	"created": "2020-05-04T13:30:22.717",
+	"lastModified": "2020-05-04T13:30:22.717",
+	"titles": [
+		{
+			"title": "Fortinet FortiVoice 5.0.5 Entreprise Edition",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://docs.fortinet.com/product/fortivoice-enterprise/6.0",
+			"type": "Change Log"
+		}
+	]
 }

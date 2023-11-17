@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:supsystic:photo_gallery:1.6.2:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "F28940C4-67CF-4981-953B-02BBAFFFDF4E",
-  "created": "2019-09-03T16:12:14.707",
-  "lastModified": "2019-09-03T16:12:14.707",
-  "titles": [
-    {
-      "title": "Supsystic Photo Gallery 1.6.2 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wordpress.org/plugins/gallery-by-supsystic/#developers",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:supsystic:photo_gallery:1.6.2:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "F28940C4-67CF-4981-953B-02BBAFFFDF4E",
+	"created": "2019-09-03T16:12:14.707",
+	"lastModified": "2019-09-03T16:12:14.707",
+	"titles": [
+		{
+			"title": "Supsystic Photo Gallery 1.6.2 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/gallery-by-supsystic/#developers",
+			"type": "Change Log"
+		}
+	]
 }

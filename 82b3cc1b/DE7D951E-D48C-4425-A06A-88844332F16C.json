@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:apache:libcloud:0.4.2:*:*:*:*:*:*:*",
-  "cpeNameId": "DE7D951E-D48C-4425-A06A-88844332F16C",
-  "created": "2012-11-05T17:03:34.827",
-  "lastModified": "2012-11-13T18:58:55.483",
-  "titles": [
-    {
-      "title": "Apache Software Foundation libcloud 0.4.2",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:apache:libcloud:0.4.2:*:*:*:*:*:*:*",
+	"cpeNameId": "DE7D951E-D48C-4425-A06A-88844332F16C",
+	"created": "2012-11-05T17:03:34.827",
+	"lastModified": "2012-11-13T18:58:55.483",
+	"titles": [
+		{
+			"title": "Apache Software Foundation libcloud 0.4.2",
+			"lang": "en"
+		}
+	]
 }

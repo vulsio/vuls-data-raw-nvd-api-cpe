@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:mozilla:firefox:105.0:*:*:*:*:-:*:*",
-  "cpeNameId": "B649601D-9C21-4662-8FA2-FEE1CA43C390",
-  "created": "2022-12-27T17:58:55.423",
-  "lastModified": "2022-12-28T15:54:12.120",
-  "titles": [
-    {
-      "title": "Mozilla Firefox 105.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.mozilla.org/en-US/firefox/105.0/releasenotes/",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:mozilla:firefox:105.0:*:*:*:*:-:*:*",
+	"cpeNameId": "B649601D-9C21-4662-8FA2-FEE1CA43C390",
+	"created": "2022-12-27T17:58:55.423",
+	"lastModified": "2022-12-28T15:54:12.120",
+	"titles": [
+		{
+			"title": "Mozilla Firefox 105.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.mozilla.org/en-US/firefox/105.0/releasenotes/",
+			"type": "Change Log"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:fortinet:fortiweb:5.1.4:*:*:*:*:*:*:*",
-  "cpeNameId": "C0AAC35D-2C4F-49FC-9C58-0EE1A22AE1F4",
-  "created": "2014-05-08T15:00:37.597",
-  "lastModified": "2014-05-13T14:07:51.567",
-  "titles": [
-    {
-      "title": "Fortinet Fortiweb 5.1.4",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://docs.fortinet.com/fortiweb/admin-guides",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:fortinet:fortiweb:5.1.4:*:*:*:*:*:*:*",
+	"cpeNameId": "C0AAC35D-2C4F-49FC-9C58-0EE1A22AE1F4",
+	"created": "2014-05-08T15:00:37.597",
+	"lastModified": "2014-05-13T14:07:51.567",
+	"titles": [
+		{
+			"title": "Fortinet Fortiweb 5.1.4",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://docs.fortinet.com/fortiweb/admin-guides",
+			"type": "Version"
+		}
+	]
 }

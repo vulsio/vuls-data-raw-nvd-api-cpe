@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:strongswan:strongswan:2.5.1:*:*:*:*:*:*:*",
-  "cpeNameId": "4ECC71B9-F92F-4F73-A9BE-0EF03DF9A045",
-  "created": "2008-10-15T13:49:27.520",
-  "lastModified": "2013-07-18T16:35:20.600",
-  "titles": [
-    {
-      "title": "StrongSwan strongSwan 2.5.1",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:strongswan:strongswan:2.5.1:*:*:*:*:*:*:*",
+	"cpeNameId": "4ECC71B9-F92F-4F73-A9BE-0EF03DF9A045",
+	"created": "2008-10-15T13:49:27.520",
+	"lastModified": "2013-07-18T16:35:20.600",
+	"titles": [
+		{
+			"title": "StrongSwan strongSwan 2.5.1",
+			"lang": "en"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:meltytech:shotcut:16.07:*:*:*:*:*:*:*",
-  "cpeNameId": "87D3CE8F-89A2-49F1-8F8D-750544F3E1AC",
-  "created": "2020-10-27T14:31:45.787",
-  "lastModified": "2020-10-27T14:31:45.787",
-  "titles": [
-    {
-      "title": "Meltytech Shotcut 16.07",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/mltframework/shotcut/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:meltytech:shotcut:16.07:*:*:*:*:*:*:*",
+	"cpeNameId": "87D3CE8F-89A2-49F1-8F8D-750544F3E1AC",
+	"created": "2020-10-27T14:31:45.787",
+	"lastModified": "2020-10-27T14:31:45.787",
+	"titles": [
+		{
+			"title": "Meltytech Shotcut 16.07",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/mltframework/shotcut/releases",
+			"type": "Change Log"
+		}
+	]
 }

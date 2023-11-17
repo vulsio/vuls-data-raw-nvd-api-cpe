@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:typemoon:fate\\/hollow_ataraxia:-:*:*:*:*:*:*:*",
-  "cpeNameId": "A5E9D55B-9ED9-4E59-AE1A-1F71C29BCF67",
-  "created": "2015-11-06T14:53:41.663",
-  "lastModified": "2015-11-09T18:17:28.747",
-  "titles": [
-    {
-      "title": "TypeMoon Fate/Hollow Ataraxia",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://typemoon.com/"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:typemoon:fate\\/hollow_ataraxia:-:*:*:*:*:*:*:*",
+	"cpeNameId": "A5E9D55B-9ED9-4E59-AE1A-1F71C29BCF67",
+	"created": "2015-11-06T14:53:41.663",
+	"lastModified": "2015-11-09T18:17:28.747",
+	"titles": [
+		{
+			"title": "TypeMoon Fate/Hollow Ataraxia",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://typemoon.com/"
+		}
+	]
 }

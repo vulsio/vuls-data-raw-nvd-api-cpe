@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:oisf:suricata:5.0.1:*:*:*:*:*:*:*",
-  "cpeNameId": "DB1C4DC8-E3AB-4AC6-8831-12194C9E0AF5",
-  "created": "2021-07-28T19:57:51.300",
-  "lastModified": "2021-07-29T12:10:31.893",
-  "titles": [
-    {
-      "title": "OISF (The Open Information Security Foundation) Suricata 5.0.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/OISF/suricata/releases",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://bugzilla.redhat.com/show_bug.cgi?id=1980453",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://exchange.xforce.ibmcloud.com/vulnerabilities/206315",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:oisf:suricata:5.0.1:*:*:*:*:*:*:*",
+	"cpeNameId": "DB1C4DC8-E3AB-4AC6-8831-12194C9E0AF5",
+	"created": "2021-07-28T19:57:51.300",
+	"lastModified": "2021-07-29T12:10:31.893",
+	"titles": [
+		{
+			"title": "OISF (The Open Information Security Foundation) Suricata 5.0.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/OISF/suricata/releases",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://bugzilla.redhat.com/show_bug.cgi?id=1980453",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://exchange.xforce.ibmcloud.com/vulnerabilities/206315",
+			"type": "Advisory"
+		}
+	]
 }

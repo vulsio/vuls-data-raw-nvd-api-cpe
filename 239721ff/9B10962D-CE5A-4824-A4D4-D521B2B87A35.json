@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:nixos:nix:1.6:*:*:*:*:*:*:*",
-  "cpeNameId": "9B10962D-CE5A-4824-A4D4-D521B2B87A35",
-  "created": "2019-10-11T13:23:48.317",
-  "lastModified": "2019-10-11T13:23:48.317",
-  "titles": [
-    {
-      "title": "NixOS Nix 1.6",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://nixos.org/",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:nixos:nix:1.6:*:*:*:*:*:*:*",
+	"cpeNameId": "9B10962D-CE5A-4824-A4D4-D521B2B87A35",
+	"created": "2019-10-11T13:23:48.317",
+	"lastModified": "2019-10-11T13:23:48.317",
+	"titles": [
+		{
+			"title": "NixOS Nix 1.6",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://nixos.org/",
+			"type": "Change Log"
+		}
+	]
 }

@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:korenix:jetnet5428g-2g-2fx:-:*:*:*:*:*:*:*",
-  "cpeNameId": "AA3EE6E4-19FB-4A51-B751-957E365ED80E",
-  "created": "2017-11-22T19:27:55.813",
-  "lastModified": "2021-06-07T14:13:07.093",
-  "titles": [
-    {
-      "title": "Korenix JetNet5428G-2G-2FX",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://ics-cert.us-cert.gov/advisories/ICSA-17-299-01",
-      "type": "Advisory"
-    },
-    {
-      "ref": "http://www.korenix.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:korenix:jetnet5428g-2g-2fx:-:*:*:*:*:*:*:*",
+	"cpeNameId": "AA3EE6E4-19FB-4A51-B751-957E365ED80E",
+	"created": "2017-11-22T19:27:55.813",
+	"lastModified": "2021-06-07T14:13:07.093",
+	"titles": [
+		{
+			"title": "Korenix JetNet5428G-2G-2FX",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://ics-cert.us-cert.gov/advisories/ICSA-17-299-01",
+			"type": "Advisory"
+		},
+		{
+			"ref": "http://www.korenix.com/",
+			"type": "Vendor"
+		}
+	]
 }

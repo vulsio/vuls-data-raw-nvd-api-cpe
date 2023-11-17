@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:keepalived:keepalived:1.1.9:*:*:*:*:*:*:*",
-  "cpeNameId": "773AFED5-E591-413C-9EAA-3180C2BB40AA",
-  "created": "2019-07-23T13:52:20.133",
-  "lastModified": "2019-07-23T13:52:20.133",
-  "titles": [
-    {
-      "title": "Keepalived 1.1.9",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www.keepalived.org/download.html",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:keepalived:keepalived:1.1.9:*:*:*:*:*:*:*",
+	"cpeNameId": "773AFED5-E591-413C-9EAA-3180C2BB40AA",
+	"created": "2019-07-23T13:52:20.133",
+	"lastModified": "2019-07-23T13:52:20.133",
+	"titles": [
+		{
+			"title": "Keepalived 1.1.9",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.keepalived.org/download.html",
+			"type": "Version"
+		}
+	]
 }

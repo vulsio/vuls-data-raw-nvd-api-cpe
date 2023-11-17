@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:tribe29:checkmk:1.2.5:i2:*:*:*:*:*:*",
-  "cpeNameId": "3A37F10A-9BBE-44CE-B49C-2708B4EC50C3",
-  "created": "2019-10-17T12:12:34.673",
-  "lastModified": "2019-10-17T12:12:34.673",
-  "titles": [
-    {
-      "title": "tribe29 checkmk 1.2.5 i2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://checkmk.com/check_mk-werks.php?edition_id=raw&all_versions=1",
-      "type": "Version"
-    },
-    {
-      "ref": "https://checkmk.com/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://tribe29.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:tribe29:checkmk:1.2.5:i2:*:*:*:*:*:*",
+	"cpeNameId": "3A37F10A-9BBE-44CE-B49C-2708B4EC50C3",
+	"created": "2019-10-17T12:12:34.673",
+	"lastModified": "2019-10-17T12:12:34.673",
+	"titles": [
+		{
+			"title": "tribe29 checkmk 1.2.5 i2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://checkmk.com/check_mk-werks.php?edition_id=raw&all_versions=1",
+			"type": "Version"
+		},
+		{
+			"ref": "https://checkmk.com/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://tribe29.com/",
+			"type": "Vendor"
+		}
+	]
 }

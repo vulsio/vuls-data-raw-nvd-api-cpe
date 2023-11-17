@@ -1,33 +1,33 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:sandhillsdev:easy_digital_downloads:1.0.8.4:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "66D12191-95B3-430C-9B89-B1DDCE3E0047",
-  "created": "2021-10-26T16:08:12.350",
-  "lastModified": "2021-10-26T16:24:48.820",
-  "titles": [
-    {
-      "title": "Sandhills Development Easy Digital Downloads 1.0.8.4 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wordpress.org/plugins/easy-digital-downloads/#developers",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://easydigitaldownloads.com/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://sandhillsdev.com/",
-      "type": "Vendor"
-    }
-  ],
-  "deprecates": [
-    {
-      "cpeName": "cpe:2.3:a:easydigitaldownloads:easy_digital_downloads:1.0.8.4:*:*:*:*:wordpress:*:*",
-      "cpeNameId": "651579D6-8C89-4A02-BFE5-A6D427917D61"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:sandhillsdev:easy_digital_downloads:1.0.8.4:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "66D12191-95B3-430C-9B89-B1DDCE3E0047",
+	"created": "2021-10-26T16:08:12.350",
+	"lastModified": "2021-10-26T16:24:48.820",
+	"titles": [
+		{
+			"title": "Sandhills Development Easy Digital Downloads 1.0.8.4 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/easy-digital-downloads/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://easydigitaldownloads.com/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://sandhillsdev.com/",
+			"type": "Vendor"
+		}
+	],
+	"deprecates": [
+		{
+			"cpeName": "cpe:2.3:a:easydigitaldownloads:easy_digital_downloads:1.0.8.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "651579D6-8C89-4A02-BFE5-A6D427917D61"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:micromathematics_project:micromathematics:2.17.4:*:*:*:*:*:*:*",
-  "cpeNameId": "4ADDFB91-0EAA-4993-B3C9-36DA469CD91D",
-  "created": "2019-09-24T12:26:21.700",
-  "lastModified": "2019-09-24T12:26:21.700",
-  "titles": [
-    {
-      "title": "microMathematics Project microMathematics 2.17.4",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/mkulesh/microMathematics/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:micromathematics_project:micromathematics:2.17.4:*:*:*:*:*:*:*",
+	"cpeNameId": "4ADDFB91-0EAA-4993-B3C9-36DA469CD91D",
+	"created": "2019-09-24T12:26:21.700",
+	"lastModified": "2019-09-24T12:26:21.700",
+	"titles": [
+		{
+			"title": "microMathematics Project microMathematics 2.17.4",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/mkulesh/microMathematics/releases",
+			"type": "Change Log"
+		}
+	]
 }

@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:intel:server_board_s5000xvn:-:*:*:*:*:*:*:*",
-  "cpeNameId": "8A4CA9CF-FCFA-4613-87E9-38470A70654C",
-  "created": "2007-08-23T21:16:59.567",
-  "lastModified": "2008-04-07T14:14:47.063",
-  "titles": [
-    {
-      "title": "Intel Server Boards S5000XVN",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:intel:server_board_s5000xvn:-:*:*:*:*:*:*:*",
+	"cpeNameId": "8A4CA9CF-FCFA-4613-87E9-38470A70654C",
+	"created": "2007-08-23T21:16:59.567",
+	"lastModified": "2008-04-07T14:14:47.063",
+	"titles": [
+		{
+			"title": "Intel Server Boards S5000XVN",
+			"lang": "en"
+		}
+	]
 }

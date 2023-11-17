@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:nextcloud:nextcloud_mail:3.0.0:alaph1:*:*:*:*:*:*",
-  "cpeNameId": "34F6D2AF-940C-421A-85E4-1E46BFFF3DA9",
-  "created": "2023-06-02T14:34:32.770",
-  "lastModified": "2023-07-06T15:33:43.940",
-  "titles": [
-    {
-      "title": "Nextcloud Mail 3.0.0 Alaph1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/nextcloud/security-advisories/security/advisories/GHSA-8gph-9895-w564",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://github.com/nextcloud/mail/tags",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:nextcloud:nextcloud_mail:3.0.0:alaph1:*:*:*:*:*:*",
+	"cpeNameId": "34F6D2AF-940C-421A-85E4-1E46BFFF3DA9",
+	"created": "2023-06-02T14:34:32.770",
+	"lastModified": "2023-07-06T15:33:43.940",
+	"titles": [
+		{
+			"title": "Nextcloud Mail 3.0.0 Alaph1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/nextcloud/security-advisories/security/advisories/GHSA-8gph-9895-w564",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://github.com/nextcloud/mail/tags",
+			"type": "Version"
+		}
+	]
 }

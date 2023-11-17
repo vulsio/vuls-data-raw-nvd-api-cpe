@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:silverwaregames:silverwaregames:1.3.7:*:*:*:*:*:*:*",
-  "cpeNameId": "7C21968D-74EB-4A2B-978B-CDEB07C09669",
-  "created": "2023-08-30T14:53:34.640",
-  "lastModified": "2023-08-30T15:54:05.173",
-  "titles": [
-    {
-      "title": "SilverwareGames 1.3.7",
-      "lang": "en"
-    },
-    {
-      "title": "SilverwareGames 1.3.7",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://silverwaregames.io/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:silverwaregames:silverwaregames:1.3.7:*:*:*:*:*:*:*",
+	"cpeNameId": "7C21968D-74EB-4A2B-978B-CDEB07C09669",
+	"created": "2023-08-30T14:53:34.640",
+	"lastModified": "2023-08-30T15:54:05.173",
+	"titles": [
+		{
+			"title": "SilverwareGames 1.3.7",
+			"lang": "en"
+		},
+		{
+			"title": "SilverwareGames 1.3.7",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://silverwaregames.io/",
+			"type": "Vendor"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:synology:drive:1.1.0-10544:*:*:*:*:*:*:*",
-  "cpeNameId": "D4828115-AFF5-408F-A7F3-D57A9AAE41E0",
-  "created": "2018-08-09T13:58:09.937",
-  "lastModified": "2018-08-09T13:58:09.937",
-  "titles": [
-    {
-      "title": "Synology Drive 1.1.0-10544",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.synology.com/en-us/releaseNote/SynologyDrive?model=DS115j",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:synology:drive:1.1.0-10544:*:*:*:*:*:*:*",
+	"cpeNameId": "D4828115-AFF5-408F-A7F3-D57A9AAE41E0",
+	"created": "2018-08-09T13:58:09.937",
+	"lastModified": "2018-08-09T13:58:09.937",
+	"titles": [
+		{
+			"title": "Synology Drive 1.1.0-10544",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.synology.com/en-us/releaseNote/SynologyDrive?model=DS115j",
+			"type": "Change Log"
+		}
+	]
 }

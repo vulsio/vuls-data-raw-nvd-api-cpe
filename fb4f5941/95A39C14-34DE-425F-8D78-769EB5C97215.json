@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:fatfreecrm:fat_free_crm:0.12.1:*:*:*:*:*:*:*",
-  "cpeNameId": "95A39C14-34DE-425F-8D78-769EB5C97215",
-  "created": "2014-01-02T21:18:30.497",
-  "lastModified": "2014-01-02T21:21:46.063",
-  "titles": [
-    {
-      "title": "Fat Free CRM 0.12.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/fatfreecrm/fat_free_crm/wiki/Release-Notes"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:fatfreecrm:fat_free_crm:0.12.1:*:*:*:*:*:*:*",
+	"cpeNameId": "95A39C14-34DE-425F-8D78-769EB5C97215",
+	"created": "2014-01-02T21:18:30.497",
+	"lastModified": "2014-01-02T21:21:46.063",
+	"titles": [
+		{
+			"title": "Fat Free CRM 0.12.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/fatfreecrm/fat_free_crm/wiki/Release-Notes"
+		}
+	]
 }

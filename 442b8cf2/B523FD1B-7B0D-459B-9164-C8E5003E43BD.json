@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:sap:openui5:1.30.8:*:*:*:*:*:*:*",
-  "cpeNameId": "B523FD1B-7B0D-459B-9164-C8E5003E43BD",
-  "created": "2019-07-15T11:21:44.437",
-  "lastModified": "2019-07-15T11:21:44.437",
-  "titles": [
-    {
-      "title": "SAP OpenUI5 1.30.8",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/SAP/openui5",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:sap:openui5:1.30.8:*:*:*:*:*:*:*",
+	"cpeNameId": "B523FD1B-7B0D-459B-9164-C8E5003E43BD",
+	"created": "2019-07-15T11:21:44.437",
+	"lastModified": "2019-07-15T11:21:44.437",
+	"titles": [
+		{
+			"title": "SAP OpenUI5 1.30.8",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/SAP/openui5",
+			"type": "Version"
+		}
+	]
 }

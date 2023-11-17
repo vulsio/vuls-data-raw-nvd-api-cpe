@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:cisco:firepower_management_center:2.9.13.4:*:*:*:*:*:*:*",
-  "cpeNameId": "741EFD35-39BB-4FB1-9F09-D08BFB98BA98",
-  "created": "2019-12-06T19:14:45.973",
-  "lastModified": "2019-12-06T19:14:45.973",
-  "titles": [
-    {
-      "title": "Cisco Firepower Management Center 2.9.13.4",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190816-ftd-null",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://www.cisco.com/c/en/us/support/security/defense-center/products-release-notes-list.html",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:cisco:firepower_management_center:2.9.13.4:*:*:*:*:*:*:*",
+	"cpeNameId": "741EFD35-39BB-4FB1-9F09-D08BFB98BA98",
+	"created": "2019-12-06T19:14:45.973",
+	"lastModified": "2019-12-06T19:14:45.973",
+	"titles": [
+		{
+			"title": "Cisco Firepower Management Center 2.9.13.4",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190816-ftd-null",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://www.cisco.com/c/en/us/support/security/defense-center/products-release-notes-list.html",
+			"type": "Version"
+		}
+	]
 }

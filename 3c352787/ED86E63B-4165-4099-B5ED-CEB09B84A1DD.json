@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:encodable:filechucker:2.0:*:*:*:*:*:*:*",
-  "cpeNameId": "ED86E63B-4165-4099-B5ED-CEB09B84A1DD",
-  "created": "2021-06-01T18:07:31.473",
-  "lastModified": "2021-06-01T18:09:15.080",
-  "titles": [
-    {
-      "title": "Encodable FileChucker 2.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://encodable.com/filechucker/changelog_old/",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://encodable.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:encodable:filechucker:2.0:*:*:*:*:*:*:*",
+	"cpeNameId": "ED86E63B-4165-4099-B5ED-CEB09B84A1DD",
+	"created": "2021-06-01T18:07:31.473",
+	"lastModified": "2021-06-01T18:09:15.080",
+	"titles": [
+		{
+			"title": "Encodable FileChucker 2.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://encodable.com/filechucker/changelog_old/",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://encodable.com/",
+			"type": "Vendor"
+		}
+	]
 }

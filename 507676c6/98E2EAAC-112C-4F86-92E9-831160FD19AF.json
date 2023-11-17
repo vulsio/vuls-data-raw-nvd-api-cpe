@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:intel:computer_vision_annotation_tool:1.0.0:beta1:*:*:*:*:*:*",
-  "cpeNameId": "98E2EAAC-112C-4F86-92E9-831160FD19AF",
-  "created": "2023-03-06T14:38:28.823",
-  "lastModified": "2023-03-06T16:08:24.793",
-  "titles": [
-    {
-      "title": "Intel Computer Vision Annotation Tool (CVAT) 1.0.0 Beta 1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00762.html",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://github.com/opencv/cvat/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:intel:computer_vision_annotation_tool:1.0.0:beta1:*:*:*:*:*:*",
+	"cpeNameId": "98E2EAAC-112C-4F86-92E9-831160FD19AF",
+	"created": "2023-03-06T14:38:28.823",
+	"lastModified": "2023-03-06T16:08:24.793",
+	"titles": [
+		{
+			"title": "Intel Computer Vision Annotation Tool (CVAT) 1.0.0 Beta 1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00762.html",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://github.com/opencv/cvat/releases",
+			"type": "Change Log"
+		}
+	]
 }

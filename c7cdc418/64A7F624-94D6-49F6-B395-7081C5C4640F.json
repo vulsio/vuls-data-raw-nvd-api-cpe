@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:shaosina:sina_extension_for_elementor:2.2.0:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "64A7F624-94D6-49F6-B395-7081C5C4640F",
-  "created": "2019-09-03T14:36:59.867",
-  "lastModified": "2019-09-03T14:36:59.867",
-  "titles": [
-    {
-      "title": "Shaosina Sina Extension for Elementor 2.2.0 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wordpress.org/plugins/sina-extension-for-elementor/#developers",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:shaosina:sina_extension_for_elementor:2.2.0:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "64A7F624-94D6-49F6-B395-7081C5C4640F",
+	"created": "2019-09-03T14:36:59.867",
+	"lastModified": "2019-09-03T14:36:59.867",
+	"titles": [
+		{
+			"title": "Shaosina Sina Extension for Elementor 2.2.0 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/sina-extension-for-elementor/#developers",
+			"type": "Change Log"
+		}
+	]
 }

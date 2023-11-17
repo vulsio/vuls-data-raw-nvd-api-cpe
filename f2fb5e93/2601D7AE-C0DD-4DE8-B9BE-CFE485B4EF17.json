@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:ajax_search_project:ajax_search:1.2:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "2601D7AE-C0DD-4DE8-B9BE-CFE485B4EF17",
-  "created": "2019-06-24T17:19:19.143",
-  "lastModified": "2019-06-24T17:19:19.143",
-  "titles": [
-    {
-      "title": "AJAX Search Project AJAX 1.2 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/wp-plugins/cardoza-ajax-search/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:ajax_search_project:ajax_search:1.2:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "2601D7AE-C0DD-4DE8-B9BE-CFE485B4EF17",
+	"created": "2019-06-24T17:19:19.143",
+	"lastModified": "2019-06-24T17:19:19.143",
+	"titles": [
+		{
+			"title": "AJAX Search Project AJAX 1.2 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/wp-plugins/cardoza-ajax-search/releases",
+			"type": "Change Log"
+		}
+	]
 }

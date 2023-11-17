@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:intel:computer_vision_annotation_tool:-:*:*:*:*:*:*:*",
-  "cpeNameId": "911507B9-973B-46FB-84FF-89D436190996",
-  "created": "2021-12-16T19:46:12.630",
-  "lastModified": "2022-02-25T19:54:34.767",
-  "titles": [
-    {
-      "title": "Intel Computer Vision Annotation Tool",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00646.html",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:intel:computer_vision_annotation_tool:-:*:*:*:*:*:*:*",
+	"cpeNameId": "911507B9-973B-46FB-84FF-89D436190996",
+	"created": "2021-12-16T19:46:12.630",
+	"lastModified": "2022-02-25T19:54:34.767",
+	"titles": [
+		{
+			"title": "Intel Computer Vision Annotation Tool",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00646.html",
+			"type": "Advisory"
+		}
+	]
 }

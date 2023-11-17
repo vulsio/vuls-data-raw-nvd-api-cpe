@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:semantic-release_project:semantic-release:15.9.7:*:*:*:*:*:*:*",
-  "cpeNameId": "556FBC6C-E410-4217-A123-903A01F8D886",
-  "created": "2020-11-30T17:05:20.627",
-  "lastModified": "2020-11-30T17:05:20.627",
-  "titles": [
-    {
-      "title": "semantic-release Project semantic-release 15.9.7",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/semantic-release/semantic-release/tags",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:semantic-release_project:semantic-release:15.9.7:*:*:*:*:*:*:*",
+	"cpeNameId": "556FBC6C-E410-4217-A123-903A01F8D886",
+	"created": "2020-11-30T17:05:20.627",
+	"lastModified": "2020-11-30T17:05:20.627",
+	"titles": [
+		{
+			"title": "semantic-release Project semantic-release 15.9.7",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/semantic-release/semantic-release/tags",
+			"type": "Change Log"
+		}
+	]
 }

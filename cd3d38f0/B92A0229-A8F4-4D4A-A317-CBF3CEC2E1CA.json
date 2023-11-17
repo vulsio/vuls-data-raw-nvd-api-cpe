@@ -1,29 +1,29 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:collne:welcart:1.4.10:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "B92A0229-A8F4-4D4A-A317-CBF3CEC2E1CA",
-  "created": "2021-06-24T15:50:07.337",
-  "lastModified": "2021-06-24T15:59:01.227",
-  "titles": [
-    {
-      "title": "Collne Welcart 1.4.10 for Wordpress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.welcart.com/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://www.collne.com/",
-      "type": "Vendor"
-    }
-  ],
-  "deprecates": [
-    {
-      "cpeName": "cpe:2.3:a:welcart:welcart:1.4.10:*:*:*:*:wordpress:*:*",
-      "cpeNameId": "3CE30EB6-AAC3-4EB8-8DFB-EFC9357C24B8"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:collne:welcart:1.4.10:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "B92A0229-A8F4-4D4A-A317-CBF3CEC2E1CA",
+	"created": "2021-06-24T15:50:07.337",
+	"lastModified": "2021-06-24T15:59:01.227",
+	"titles": [
+		{
+			"title": "Collne Welcart 1.4.10 for Wordpress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.welcart.com/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://www.collne.com/",
+			"type": "Vendor"
+		}
+	],
+	"deprecates": [
+		{
+			"cpeName": "cpe:2.3:a:welcart:welcart:1.4.10:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3CE30EB6-AAC3-4EB8-8DFB-EFC9357C24B8"
+		}
+	]
 }

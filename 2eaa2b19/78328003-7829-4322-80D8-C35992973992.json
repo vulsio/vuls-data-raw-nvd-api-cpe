@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:zbar_project:zbar:0.23.91:*:*:*:*:*:*:*",
-  "cpeNameId": "78328003-7829-4322-80D8-C35992973992",
-  "created": "2023-08-30T16:38:47.183",
-  "lastModified": "2023-08-31T16:10:14.110",
-  "titles": [
-    {
-      "title": "ZBar Project ZBar 0.23.91",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://hackmd.io/@cspl/B1ZkFZv23",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://github.com/mchehab/zbar/tags",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:zbar_project:zbar:0.23.91:*:*:*:*:*:*:*",
+	"cpeNameId": "78328003-7829-4322-80D8-C35992973992",
+	"created": "2023-08-30T16:38:47.183",
+	"lastModified": "2023-08-31T16:10:14.110",
+	"titles": [
+		{
+			"title": "ZBar Project ZBar 0.23.91",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://hackmd.io/@cspl/B1ZkFZv23",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://github.com/mchehab/zbar/tags",
+			"type": "Change Log"
+		}
+	]
 }

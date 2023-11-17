@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:getpostman:postman:4.9.3:*:*:*:*:*:*:*",
-  "cpeNameId": "0309C095-ACDE-4F39-942C-6F39AD4BE714",
-  "created": "2019-06-24T20:40:54.843",
-  "lastModified": "2019-06-24T20:40:54.843",
-  "titles": [
-    {
-      "title": "GetPostman Postman 4.9.3",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.getpostman.com/apps",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:getpostman:postman:4.9.3:*:*:*:*:*:*:*",
+	"cpeNameId": "0309C095-ACDE-4F39-942C-6F39AD4BE714",
+	"created": "2019-06-24T20:40:54.843",
+	"lastModified": "2019-06-24T20:40:54.843",
+	"titles": [
+		{
+			"title": "GetPostman Postman 4.9.3",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.getpostman.com/apps",
+			"type": "Change Log"
+		}
+	]
 }

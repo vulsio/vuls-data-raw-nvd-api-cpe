@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:inmedias:statistics:1.2.0:*:*:*:*:typo3:*:*",
-  "cpeNameId": "99A492F5-DB12-4D61-A361-4975B010262F",
-  "created": "2019-03-12T14:21:03.470",
-  "lastModified": "2019-03-12T14:21:03.470",
-  "titles": [
-    {
-      "title": "Inmedias Statistics 1.2.0 for Typo3",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://extensions.typo3.org/extension/ke_stats/",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://www.inmedias.de/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:inmedias:statistics:1.2.0:*:*:*:*:typo3:*:*",
+	"cpeNameId": "99A492F5-DB12-4D61-A361-4975B010262F",
+	"created": "2019-03-12T14:21:03.470",
+	"lastModified": "2019-03-12T14:21:03.470",
+	"titles": [
+		{
+			"title": "Inmedias Statistics 1.2.0 for Typo3",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://extensions.typo3.org/extension/ke_stats/",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://www.inmedias.de/",
+			"type": "Vendor"
+		}
+	]
 }

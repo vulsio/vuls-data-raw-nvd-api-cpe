@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:openharmony:openharmony:3.1.4:*:*:*:-:*:*:*",
-  "cpeNameId": "3DACFF1B-00ED-4C17-B2F2-EAA06D5E42A7",
-  "created": "2022-12-12T14:43:31.393",
-  "lastModified": "2023-01-09T21:16:58.570",
-  "titles": [
-    {
-      "title": "OpenHarmony 3.1.4",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://gitee.com/openharmony/security/blob/master/en/security-disclosure/2022/2022-12.md",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:openharmony:openharmony:3.1.4:*:*:*:-:*:*:*",
+	"cpeNameId": "3DACFF1B-00ED-4C17-B2F2-EAA06D5E42A7",
+	"created": "2022-12-12T14:43:31.393",
+	"lastModified": "2023-01-09T21:16:58.570",
+	"titles": [
+		{
+			"title": "OpenHarmony 3.1.4",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://gitee.com/openharmony/security/blob/master/en/security-disclosure/2022/2022-12.md",
+			"type": "Advisory"
+		}
+	]
 }

@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:impresscms:impresscms:1.2:beta:*:*:*:*:*:*",
-  "cpeNameId": "4AEB15C6-DC87-4574-A1C2-5921AF26DD8D",
-  "created": "2010-11-17T20:24:38.123",
-  "lastModified": "2010-11-19T18:33:53.187",
-  "titles": [
-    {
-      "title": "ImpressCMS 1.2 Beta",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:impresscms:impresscms:1.2:beta:*:*:*:*:*:*",
+	"cpeNameId": "4AEB15C6-DC87-4574-A1C2-5921AF26DD8D",
+	"created": "2010-11-17T20:24:38.123",
+	"lastModified": "2010-11-19T18:33:53.187",
+	"titles": [
+		{
+			"title": "ImpressCMS 1.2 Beta",
+			"lang": "en"
+		}
+	]
 }

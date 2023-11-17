@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:ge:workstationst:-:*:*:*:*:*:*:*",
-  "cpeNameId": "9514B7D5-C0FA-48F0-AD5D-32BB0C2F2816",
-  "created": "2022-08-29T12:26:37.217",
-  "lastModified": "2022-08-29T13:11:52.410",
-  "titles": [
-    {
-      "title": "General Electric WorkstationST",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.ge.com/content/dam/cyber_security/global/en_US/pdfs/2022-08-23_WorkstationST_Reflected_XSS.pdf",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:ge:workstationst:-:*:*:*:*:*:*:*",
+	"cpeNameId": "9514B7D5-C0FA-48F0-AD5D-32BB0C2F2816",
+	"created": "2022-08-29T12:26:37.217",
+	"lastModified": "2022-08-29T13:11:52.410",
+	"titles": [
+		{
+			"title": "General Electric WorkstationST",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.ge.com/content/dam/cyber_security/global/en_US/pdfs/2022-08-23_WorkstationST_Reflected_XSS.pdf",
+			"type": "Advisory"
+		}
+	]
 }

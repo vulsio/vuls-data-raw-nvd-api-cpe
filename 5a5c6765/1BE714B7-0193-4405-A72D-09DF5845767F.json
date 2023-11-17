@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:citrix:workspace:1903:*:*:*:*:windows:*:*",
-  "cpeNameId": "1BE714B7-0193-4405-A72D-09DF5845767F",
-  "created": "2019-05-22T18:36:18.540",
-  "lastModified": "2021-05-13T15:15:01.127",
-  "titles": [
-    {
-      "title": "Citrix Workspace 1903 for Windows",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.citrix.com/downloads/workspace-app/",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:citrix:workspace:1903:*:*:*:*:windows:*:*",
+	"cpeNameId": "1BE714B7-0193-4405-A72D-09DF5845767F",
+	"created": "2019-05-22T18:36:18.540",
+	"lastModified": "2021-05-13T15:15:01.127",
+	"titles": [
+		{
+			"title": "Citrix Workspace 1903 for Windows",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.citrix.com/downloads/workspace-app/",
+			"type": "Version"
+		}
+	]
 }

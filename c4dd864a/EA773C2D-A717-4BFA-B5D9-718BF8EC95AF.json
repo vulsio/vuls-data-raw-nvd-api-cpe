@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:blinkwebeffects:social-media-widget:1.2.6:*:*:*:*:*:*:*",
-  "cpeNameId": "EA773C2D-A717-4BFA-B5D9-718BF8EC95AF",
-  "created": "2013-04-26T17:14:19.053",
-  "lastModified": "2013-05-01T01:45:10.203",
-  "titles": [
-    {
-      "title": "blinkwebeffects Social Media Widget (social-media-widget) plugin 1.2.6",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:blinkwebeffects:social-media-widget:1.2.6:*:*:*:*:*:*:*",
+	"cpeNameId": "EA773C2D-A717-4BFA-B5D9-718BF8EC95AF",
+	"created": "2013-04-26T17:14:19.053",
+	"lastModified": "2013-05-01T01:45:10.203",
+	"titles": [
+		{
+			"title": "blinkwebeffects Social Media Widget (social-media-widget) plugin 1.2.6",
+			"lang": "en"
+		}
+	]
 }

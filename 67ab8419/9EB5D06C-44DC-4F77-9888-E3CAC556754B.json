@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:gnome:gtk:4.11.3:*:*:*:*:*:*:*",
-  "cpeNameId": "9EB5D06C-44DC-4F77-9888-E3CAC556754B",
-  "created": "2023-08-03T14:02:55.883",
-  "lastModified": "2023-08-03T15:07:16.233",
-  "titles": [
-    {
-      "title": "GNOME GIMP Toolkit (GTK) 4.11.3",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.gtk.org/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://github.com/GNOME/gtk/tags",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:gnome:gtk:4.11.3:*:*:*:*:*:*:*",
+	"cpeNameId": "9EB5D06C-44DC-4F77-9888-E3CAC556754B",
+	"created": "2023-08-03T14:02:55.883",
+	"lastModified": "2023-08-03T15:07:16.233",
+	"titles": [
+		{
+			"title": "GNOME GIMP Toolkit (GTK) 4.11.3",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.gtk.org/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://github.com/GNOME/gtk/tags",
+			"type": "Version"
+		}
+	]
 }

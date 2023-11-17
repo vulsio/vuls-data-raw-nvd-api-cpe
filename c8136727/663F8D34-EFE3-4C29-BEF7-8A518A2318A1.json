@@ -1,25 +1,25 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:pulsesecure:pulse_connect_secure:8.0:r8.1:*:*:*:*:*:*",
-  "cpeNameId": "663F8D34-EFE3-4C29-BEF7-8A518A2318A1",
-  "created": "2020-04-29T17:47:43.847",
-  "lastModified": "2020-04-29T17:47:43.847",
-  "titles": [
-    {
-      "title": "PulseSecure Pulse Connect Secure (PCS) 8.0 R8.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www-prev.pulsesecure.net/techpubs/pulse-connect-secure/pcs/8.0rx",
-      "type": "Change Log"
-    }
-  ],
-  "deprecates": [
-    {
-      "cpeName": "cpe:2.3:a:pulsesecure:pulse_connect_secure:8.0r8.1:*:*:*:*:*:*:*",
-      "cpeNameId": "C0DE7F25-A346-45A5-944D-EEB5CC85488E"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:pulsesecure:pulse_connect_secure:8.0:r8.1:*:*:*:*:*:*",
+	"cpeNameId": "663F8D34-EFE3-4C29-BEF7-8A518A2318A1",
+	"created": "2020-04-29T17:47:43.847",
+	"lastModified": "2020-04-29T17:47:43.847",
+	"titles": [
+		{
+			"title": "PulseSecure Pulse Connect Secure (PCS) 8.0 R8.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www-prev.pulsesecure.net/techpubs/pulse-connect-secure/pcs/8.0rx",
+			"type": "Change Log"
+		}
+	],
+	"deprecates": [
+		{
+			"cpeName": "cpe:2.3:a:pulsesecure:pulse_connect_secure:8.0r8.1:*:*:*:*:*:*:*",
+			"cpeNameId": "C0DE7F25-A346-45A5-944D-EEB5CC85488E"
+		}
+	]
 }

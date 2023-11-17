@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:combodo:itop:3.0.0:-:*:*:*:*:*:*",
-  "cpeNameId": "48EA93A6-0E05-454E-B38A-BD4213CAF0DA",
-  "created": "2022-05-23T16:57:01.343",
-  "lastModified": "2022-05-26T02:43:59.833",
-  "titles": [
-    {
-      "title": "Combodo iTop (aka IT Operations Portal) 3.0.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.combodo.com/itop",
-      "type": "Product"
-    },
-    {
-      "ref": "https://github.com/Combodo/iTop/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:combodo:itop:3.0.0:-:*:*:*:*:*:*",
+	"cpeNameId": "48EA93A6-0E05-454E-B38A-BD4213CAF0DA",
+	"created": "2022-05-23T16:57:01.343",
+	"lastModified": "2022-05-26T02:43:59.833",
+	"titles": [
+		{
+			"title": "Combodo iTop (aka IT Operations Portal) 3.0.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.combodo.com/itop",
+			"type": "Product"
+		},
+		{
+			"ref": "https://github.com/Combodo/iTop/releases",
+			"type": "Change Log"
+		}
+	]
 }

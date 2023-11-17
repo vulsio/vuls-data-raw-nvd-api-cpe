@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:python:python:3.9.0:-:*:*:*:*:*:*",
-  "cpeNameId": "4A58916D-1729-4442-A3E3-559D89F808A7",
-  "created": "2020-10-28T19:02:10.483",
-  "lastModified": "2020-10-28T19:02:10.483",
-  "titles": [
-    {
-      "title": "Python 3.9.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/python/cpython/tags",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:python:python:3.9.0:-:*:*:*:*:*:*",
+	"cpeNameId": "4A58916D-1729-4442-A3E3-559D89F808A7",
+	"created": "2020-10-28T19:02:10.483",
+	"lastModified": "2020-10-28T19:02:10.483",
+	"titles": [
+		{
+			"title": "Python 3.9.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/python/cpython/tags",
+			"type": "Change Log"
+		}
+	]
 }

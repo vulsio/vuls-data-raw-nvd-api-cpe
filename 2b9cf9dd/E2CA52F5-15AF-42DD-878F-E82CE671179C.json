@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:southrivertech:titan_ftp_server:10.40:*:*:*:*:*:*:*",
-  "cpeNameId": "E2CA52F5-15AF-42DD-878F-E82CE671179C",
-  "created": "2014-04-29T14:52:10.213",
-  "lastModified": "2014-04-29T14:56:44.613",
-  "titles": [
-    {
-      "title": "southrivertech Titan FTP Server 10.40",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www.webdrive.com/product-support/titan-ftp-server/"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:southrivertech:titan_ftp_server:10.40:*:*:*:*:*:*:*",
+	"cpeNameId": "E2CA52F5-15AF-42DD-878F-E82CE671179C",
+	"created": "2014-04-29T14:52:10.213",
+	"lastModified": "2014-04-29T14:56:44.613",
+	"titles": [
+		{
+			"title": "southrivertech Titan FTP Server 10.40",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.webdrive.com/product-support/titan-ftp-server/"
+		}
+	]
 }

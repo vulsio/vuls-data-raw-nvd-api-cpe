@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:bestwebsoft:post_to_csv:1.4.0:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "56334022-293E-4E68-914E-66273AEBD7DC",
-  "created": "2022-10-26T00:48:21.360",
-  "lastModified": "2022-10-26T16:24:02.880",
-  "titles": [
-    {
-      "title": "BestWebSoft Post To Csv 1.4.0 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wordpress.org/plugins/post-to-csv/#developers",
-      "type": "Product"
-    },
-    {
-      "ref": "https://bestwebsoft.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:bestwebsoft:post_to_csv:1.4.0:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "56334022-293E-4E68-914E-66273AEBD7DC",
+	"created": "2022-10-26T00:48:21.360",
+	"lastModified": "2022-10-26T16:24:02.880",
+	"titles": [
+		{
+			"title": "BestWebSoft Post To Csv 1.4.0 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/post-to-csv/#developers",
+			"type": "Product"
+		},
+		{
+			"ref": "https://bestwebsoft.com/",
+			"type": "Vendor"
+		}
+	]
 }

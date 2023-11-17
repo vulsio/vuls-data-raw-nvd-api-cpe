@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:cmscout:cmscout:1.23:*:*:*:*:*:*:*",
-  "cpeNameId": "CA895BA5-3590-4C06-9B10-8C9C0C8DDDC5",
-  "created": "2007-08-23T21:16:59.567",
-  "lastModified": "2007-09-14T17:36:49.090",
-  "titles": [
-    {
-      "title": "CMScout CMScout 1.23",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:cmscout:cmscout:1.23:*:*:*:*:*:*:*",
+	"cpeNameId": "CA895BA5-3590-4C06-9B10-8C9C0C8DDDC5",
+	"created": "2007-08-23T21:16:59.567",
+	"lastModified": "2007-09-14T17:36:49.090",
+	"titles": [
+		{
+			"title": "CMScout CMScout 1.23",
+			"lang": "en"
+		}
+	]
 }

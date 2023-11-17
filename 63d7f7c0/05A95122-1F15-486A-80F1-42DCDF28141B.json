@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:wolfcms:wolf_cms:0.6.0:*:*:*:*:*:*:*",
-  "cpeNameId": "05A95122-1F15-486A-80F1-42DCDF28141B",
-  "created": "2012-10-04T18:07:35.947",
-  "lastModified": "2012-10-05T18:25:16.193",
-  "titles": [
-    {
-      "title": "Wolf CMS 0.6.0",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:wolfcms:wolf_cms:0.6.0:*:*:*:*:*:*:*",
+	"cpeNameId": "05A95122-1F15-486A-80F1-42DCDF28141B",
+	"created": "2012-10-04T18:07:35.947",
+	"lastModified": "2012-10-05T18:25:16.193",
+	"titles": [
+		{
+			"title": "Wolf CMS 0.6.0",
+			"lang": "en"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:freedesktop:dbus:1.9.2:*:*:*:*:*:*:*",
-  "cpeNameId": "98C86C61-5A16-45D5-8DDD-2BB5C97A7FDC",
-  "created": "2019-07-12T17:24:35.043",
-  "lastModified": "2019-07-12T17:24:35.043",
-  "titles": [
-    {
-      "title": "Freedesktop dbus 1.9.2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://gitlab.freedesktop.org/dbus/dbus/-/tags",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:freedesktop:dbus:1.9.2:*:*:*:*:*:*:*",
+	"cpeNameId": "98C86C61-5A16-45D5-8DDD-2BB5C97A7FDC",
+	"created": "2019-07-12T17:24:35.043",
+	"lastModified": "2019-07-12T17:24:35.043",
+	"titles": [
+		{
+			"title": "Freedesktop dbus 1.9.2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://gitlab.freedesktop.org/dbus/dbus/-/tags",
+			"type": "Version"
+		}
+	]
 }

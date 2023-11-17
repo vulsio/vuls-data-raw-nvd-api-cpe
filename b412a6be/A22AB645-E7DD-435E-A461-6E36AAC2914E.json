@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:mxlinux:mx_linux:-:*:*:*:*:*:*:*",
-  "cpeNameId": "A22AB645-E7DD-435E-A461-6E36AAC2914E",
-  "created": "2020-03-17T17:33:33.347",
-  "lastModified": "2021-06-24T17:45:42.623",
-  "titles": [
-    {
-      "title": "MX Linux",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://mxlinux.org/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://mxlinux.org/download-links/",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:mxlinux:mx_linux:-:*:*:*:*:*:*:*",
+	"cpeNameId": "A22AB645-E7DD-435E-A461-6E36AAC2914E",
+	"created": "2020-03-17T17:33:33.347",
+	"lastModified": "2021-06-24T17:45:42.623",
+	"titles": [
+		{
+			"title": "MX Linux",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://mxlinux.org/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://mxlinux.org/download-links/",
+			"type": "Product"
+		}
+	]
 }

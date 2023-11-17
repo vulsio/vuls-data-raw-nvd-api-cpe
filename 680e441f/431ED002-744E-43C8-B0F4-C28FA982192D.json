@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:fusetalk:fusetalk:2.0:-:standard:*:*:*:*:*",
-  "cpeNameId": "431ED002-744E-43C8-B0F4-C28FA982192D",
-  "created": "2012-10-05T16:18:55.597",
-  "lastModified": "2012-10-05T18:30:09.270",
-  "titles": [
-    {
-      "title": "FuseTalk Inc. FuseTalk 2.0 Standard",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:fusetalk:fusetalk:2.0:-:standard:*:*:*:*:*",
+	"cpeNameId": "431ED002-744E-43C8-B0F4-C28FA982192D",
+	"created": "2012-10-05T16:18:55.597",
+	"lastModified": "2012-10-05T18:30:09.270",
+	"titles": [
+		{
+			"title": "FuseTalk Inc. FuseTalk 2.0 Standard",
+			"lang": "en"
+		}
+	]
 }

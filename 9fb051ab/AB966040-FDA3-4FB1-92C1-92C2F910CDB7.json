@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:cisco:ios:15.2\\\\(4\\\\)jb3s:*:*:*:*:*:*:*",
-  "cpeNameId": "AB966040-FDA3-4FB1-92C1-92C2F910CDB7",
-  "created": "2020-05-11T11:57:07.317",
-  "lastModified": "2020-05-11T11:57:07.317",
-  "titles": [
-    {
-      "title": "Cisco IOS 15.2\\(4\\)JB3S",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://software.cisco.com/download/find/ios",
-      "type": "Version"
-    },
-    {
-      "ref": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160323-l4f",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:cisco:ios:15.2\\\\(4\\\\)jb3s:*:*:*:*:*:*:*",
+	"cpeNameId": "AB966040-FDA3-4FB1-92C1-92C2F910CDB7",
+	"created": "2020-05-11T11:57:07.317",
+	"lastModified": "2020-05-11T11:57:07.317",
+	"titles": [
+		{
+			"title": "Cisco IOS 15.2\\(4\\)JB3S",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://software.cisco.com/download/find/ios",
+			"type": "Version"
+		},
+		{
+			"ref": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160323-l4f",
+			"type": "Advisory"
+		}
+	]
 }

@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:getshortcodes:shortcodes_ultimate:4.0:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "01C0DBBA-7463-4D01-A2AD-4A9C51804A79",
-  "created": "2019-09-03T17:31:49.270",
-  "lastModified": "2019-09-03T17:31:49.270",
-  "titles": [
-    {
-      "title": "Getshortcodes Shortcodes Ultimate 4.0 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wordpress.org/plugins/shortcodes-ultimate/#developers",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://getshortcodes.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:getshortcodes:shortcodes_ultimate:4.0:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "01C0DBBA-7463-4D01-A2AD-4A9C51804A79",
+	"created": "2019-09-03T17:31:49.270",
+	"lastModified": "2019-09-03T17:31:49.270",
+	"titles": [
+		{
+			"title": "Getshortcodes Shortcodes Ultimate 4.0 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/shortcodes-ultimate/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://getshortcodes.com/",
+			"type": "Vendor"
+		}
+	]
 }

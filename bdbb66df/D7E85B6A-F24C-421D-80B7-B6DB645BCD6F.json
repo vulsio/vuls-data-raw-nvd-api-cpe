@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:llvm:compiler:1.9:*:*:*:*:*:*:*",
-  "cpeNameId": "D7E85B6A-F24C-421D-80B7-B6DB645BCD6F",
-  "created": "2019-09-19T17:31:01.107",
-  "lastModified": "2019-09-19T17:31:01.107",
-  "titles": [
-    {
-      "title": "LLVM Compiler 1.9",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://releases.llvm.org/download.html",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:llvm:compiler:1.9:*:*:*:*:*:*:*",
+	"cpeNameId": "D7E85B6A-F24C-421D-80B7-B6DB645BCD6F",
+	"created": "2019-09-19T17:31:01.107",
+	"lastModified": "2019-09-19T17:31:01.107",
+	"titles": [
+		{
+			"title": "LLVM Compiler 1.9",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://releases.llvm.org/download.html",
+			"type": "Change Log"
+		}
+	]
 }

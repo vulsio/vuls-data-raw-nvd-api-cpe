@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:gnome:anjuta:3.13.90:*:*:*:*:*:*:*",
-  "cpeNameId": "09FB38EB-9A9C-4453-9786-297A1E60A39A",
-  "created": "2022-08-29T15:01:13.820",
-  "lastModified": "2022-08-29T15:04:00.160",
-  "titles": [
-    {
-      "title": "GNOME anjuta 3.13.90",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://gitlab.gnome.org/Archive/anjuta/-/tags",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:gnome:anjuta:3.13.90:*:*:*:*:*:*:*",
+	"cpeNameId": "09FB38EB-9A9C-4453-9786-297A1E60A39A",
+	"created": "2022-08-29T15:01:13.820",
+	"lastModified": "2022-08-29T15:04:00.160",
+	"titles": [
+		{
+			"title": "GNOME anjuta 3.13.90",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://gitlab.gnome.org/Archive/anjuta/-/tags",
+			"type": "Version"
+		}
+	]
 }

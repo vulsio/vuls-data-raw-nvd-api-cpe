@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:mozilla:firefox_esr:115.1:*:*:*:*:*:*:*",
-  "cpeNameId": "1B5745EB-130C-4367-B127-FD5F8B1ACC67",
-  "created": "2023-08-03T16:14:08.777",
-  "lastModified": "2023-08-11T23:44:56.230",
-  "titles": [
-    {
-      "title": "Mozilla Firefox ESR 115.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.mozilla.org/en-US/security/advisories/mfsa2023-31/",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:mozilla:firefox_esr:115.1:*:*:*:*:*:*:*",
+	"cpeNameId": "1B5745EB-130C-4367-B127-FD5F8B1ACC67",
+	"created": "2023-08-03T16:14:08.777",
+	"lastModified": "2023-08-11T23:44:56.230",
+	"titles": [
+		{
+			"title": "Mozilla Firefox ESR 115.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.mozilla.org/en-US/security/advisories/mfsa2023-31/",
+			"type": "Advisory"
+		}
+	]
 }

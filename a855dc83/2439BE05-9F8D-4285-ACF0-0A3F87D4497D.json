@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:onap:holmes:-:*:*:*:*:*:*:*",
-  "cpeNameId": "2439BE05-9F8D-4285-ACF0-0A3F87D4497D",
-  "created": "2020-03-19T14:36:46.303",
-  "lastModified": "2021-06-30T14:53:04.833",
-  "titles": [
-    {
-      "title": "ONAP HOLMES",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://jira.onap.org/browse/OJSI-10",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://wiki.onap.org/display/DW/Holmes+Project",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:onap:holmes:-:*:*:*:*:*:*:*",
+	"cpeNameId": "2439BE05-9F8D-4285-ACF0-0A3F87D4497D",
+	"created": "2020-03-19T14:36:46.303",
+	"lastModified": "2021-06-30T14:53:04.833",
+	"titles": [
+		{
+			"title": "ONAP HOLMES",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://jira.onap.org/browse/OJSI-10",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://wiki.onap.org/display/DW/Holmes+Project",
+			"type": "Product"
+		}
+	]
 }

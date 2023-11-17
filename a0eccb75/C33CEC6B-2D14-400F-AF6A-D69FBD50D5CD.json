@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:openvpn:openvpn:2.3.13:*:*:*:*:*:*:*",
-  "cpeNameId": "C33CEC6B-2D14-400F-AF6A-D69FBD50D5CD",
-  "created": "2017-05-25T15:45:27.647",
-  "lastModified": "2017-05-25T15:45:27.647",
-  "titles": [
-    {
-      "title": "OpenVPN 2.3.13",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://openvpn.net/index.php/open-source/documentation/change-log.html",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:openvpn:openvpn:2.3.13:*:*:*:*:*:*:*",
+	"cpeNameId": "C33CEC6B-2D14-400F-AF6A-D69FBD50D5CD",
+	"created": "2017-05-25T15:45:27.647",
+	"lastModified": "2017-05-25T15:45:27.647",
+	"titles": [
+		{
+			"title": "OpenVPN 2.3.13",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://openvpn.net/index.php/open-source/documentation/change-log.html",
+			"type": "Change Log"
+		}
+	]
 }

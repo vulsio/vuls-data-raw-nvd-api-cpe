@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:mysqldumper:mysqldumper:1.24.4:*:*:*:*:*:*:*",
-  "cpeNameId": "4DE8395A-B6FB-4AE0-9163-4AC586BF9188",
-  "created": "2012-08-14T14:08:28.050",
-  "lastModified": "2012-08-24T19:58:23.163",
-  "titles": [
-    {
-      "title": "MysqlDumper 1.24.4",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:mysqldumper:mysqldumper:1.24.4:*:*:*:*:*:*:*",
+	"cpeNameId": "4DE8395A-B6FB-4AE0-9163-4AC586BF9188",
+	"created": "2012-08-14T14:08:28.050",
+	"lastModified": "2012-08-24T19:58:23.163",
+	"titles": [
+		{
+			"title": "MysqlDumper 1.24.4",
+			"lang": "en"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:hbgk:hb9604x3:-:*:*:*:*:*:*:*",
-  "cpeNameId": "6393CF93-F50D-4F66-AC0D-B5E23B37682A",
-  "created": "2017-09-27T19:22:10.557",
-  "lastModified": "2021-04-19T12:45:10.247",
-  "titles": [
-    {
-      "title": "HanBang Digital Technology HB9604X3",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www.hbgk.net/en/Products.aspx",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:hbgk:hb9604x3:-:*:*:*:*:*:*:*",
+	"cpeNameId": "6393CF93-F50D-4F66-AC0D-B5E23B37682A",
+	"created": "2017-09-27T19:22:10.557",
+	"lastModified": "2021-04-19T12:45:10.247",
+	"titles": [
+		{
+			"title": "HanBang Digital Technology HB9604X3",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.hbgk.net/en/Products.aspx",
+			"type": "Product"
+		}
+	]
 }

@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:cakefoundation:cakephp:3.0.14:*:*:*:*:*:*:*",
-  "cpeNameId": "A474C2FC-2D67-42CB-89EB-2CF84E217C57",
-  "created": "2019-09-10T16:29:05.107",
-  "lastModified": "2019-09-10T16:29:05.107",
-  "titles": [
-    {
-      "title": "Cake Software Foundation CakePHP 3.0.14",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/cakephp/cakephp/",
-      "type": "Version"
-    },
-    {
-      "ref": "https://cakefoundation.org/old",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:cakefoundation:cakephp:3.0.14:*:*:*:*:*:*:*",
+	"cpeNameId": "A474C2FC-2D67-42CB-89EB-2CF84E217C57",
+	"created": "2019-09-10T16:29:05.107",
+	"lastModified": "2019-09-10T16:29:05.107",
+	"titles": [
+		{
+			"title": "Cake Software Foundation CakePHP 3.0.14",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/cakephp/cakephp/",
+			"type": "Version"
+		},
+		{
+			"ref": "https://cakefoundation.org/old",
+			"type": "Vendor"
+		}
+	]
 }

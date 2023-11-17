@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:sourcetreesolutions:mojoportal:2.3.1.5:*:*:*:*:*:*:*",
-  "cpeNameId": "5BEFA5FC-D35B-4F6F-BA1A-F38C4EE7444D",
-  "created": "2013-08-21T14:16:08.827",
-  "lastModified": "2013-08-21T15:35:13.760",
-  "titles": [
-    {
-      "title": "sourcetreesolutions mojoPortal 2.3.1.5",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.mojoportal.com/release-history.aspx"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:sourcetreesolutions:mojoportal:2.3.1.5:*:*:*:*:*:*:*",
+	"cpeNameId": "5BEFA5FC-D35B-4F6F-BA1A-F38C4EE7444D",
+	"created": "2013-08-21T14:16:08.827",
+	"lastModified": "2013-08-21T15:35:13.760",
+	"titles": [
+		{
+			"title": "sourcetreesolutions mojoPortal 2.3.1.5",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.mojoportal.com/release-history.aspx"
+		}
+	]
 }

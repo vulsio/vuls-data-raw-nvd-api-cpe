@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:nodejs:node.js:14.13.1:*:*:*:-:*:*:*",
-  "cpeNameId": "ABBC3E60-21B6-48D9-A1BC-043CB29A10FC",
-  "created": "2022-07-26T19:05:28.933",
-  "lastModified": "2022-07-26T19:06:19.463",
-  "titles": [
-    {
-      "title": "Nodejs Node.js 14.13.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://nodejs.org/en/download/releases/",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:nodejs:node.js:14.13.1:*:*:*:-:*:*:*",
+	"cpeNameId": "ABBC3E60-21B6-48D9-A1BC-043CB29A10FC",
+	"created": "2022-07-26T19:05:28.933",
+	"lastModified": "2022-07-26T19:06:19.463",
+	"titles": [
+		{
+			"title": "Nodejs Node.js 14.13.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://nodejs.org/en/download/releases/",
+			"type": "Version"
+		}
+	]
 }

@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:jolokia:webarchive_agent:1.2.1:*:*:*:*:*:*:*",
-  "cpeNameId": "1B875296-767E-45BC-9145-0C7462D03B1F",
-  "created": "2020-12-09T17:34:56.160",
-  "lastModified": "2020-12-09T17:34:56.160",
-  "titles": [
-    {
-      "title": "Jolokia Webarchive (WAR) Agent 1.2.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://jolokia.org/agent/war.html",
-      "type": "Product"
-    },
-    {
-      "ref": "https://github.com/rhuss/jolokia/tags",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:jolokia:webarchive_agent:1.2.1:*:*:*:*:*:*:*",
+	"cpeNameId": "1B875296-767E-45BC-9145-0C7462D03B1F",
+	"created": "2020-12-09T17:34:56.160",
+	"lastModified": "2020-12-09T17:34:56.160",
+	"titles": [
+		{
+			"title": "Jolokia Webarchive (WAR) Agent 1.2.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://jolokia.org/agent/war.html",
+			"type": "Product"
+		},
+		{
+			"ref": "https://github.com/rhuss/jolokia/tags",
+			"type": "Change Log"
+		}
+	]
 }

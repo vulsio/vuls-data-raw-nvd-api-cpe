@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:zemana:antimalware:2.70.2.576:*:*:*:*:*:*:*",
-  "cpeNameId": "FD04A595-9ADF-49C4-842B-BECCC98CE05A",
-  "created": "2019-03-20T14:00:53.947",
-  "lastModified": "2019-03-20T14:00:53.947",
-  "titles": [
-    {
-      "title": "Zemana AntiMalware 2.70.2.576",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.zemana.com/whats-new?ProductID=2",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:zemana:antimalware:2.70.2.576:*:*:*:*:*:*:*",
+	"cpeNameId": "FD04A595-9ADF-49C4-842B-BECCC98CE05A",
+	"created": "2019-03-20T14:00:53.947",
+	"lastModified": "2019-03-20T14:00:53.947",
+	"titles": [
+		{
+			"title": "Zemana AntiMalware 2.70.2.576",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.zemana.com/whats-new?ProductID=2",
+			"type": "Change Log"
+		}
+	]
 }

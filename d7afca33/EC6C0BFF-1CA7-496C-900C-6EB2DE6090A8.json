@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:owncloud:owncloud:6.0.8:*:*:*:*:*:*:*",
-  "cpeNameId": "EC6C0BFF-1CA7-496C-900C-6EB2DE6090A8",
-  "created": "2020-03-04T19:40:22.100",
-  "lastModified": "2020-03-04T19:40:22.100",
-  "titles": [
-    {
-      "title": "ownCloud 6.0.8",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/owncloud/core",
-      "type": "Version"
-    },
-    {
-      "ref": "https://owncloud.org/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:owncloud:owncloud:6.0.8:*:*:*:*:*:*:*",
+	"cpeNameId": "EC6C0BFF-1CA7-496C-900C-6EB2DE6090A8",
+	"created": "2020-03-04T19:40:22.100",
+	"lastModified": "2020-03-04T19:40:22.100",
+	"titles": [
+		{
+			"title": "ownCloud 6.0.8",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/owncloud/core",
+			"type": "Version"
+		},
+		{
+			"ref": "https://owncloud.org/",
+			"type": "Vendor"
+		}
+	]
 }

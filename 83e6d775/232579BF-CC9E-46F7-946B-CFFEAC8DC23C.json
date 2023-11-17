@@ -1,19 +1,19 @@
 {
-  "deprecated": true,
-  "cpeName": "cpe:2.3:a:mysql:mysql:5.0.85:*:*:*:*:*:*:*",
-  "cpeNameId": "232579BF-CC9E-46F7-946B-CFFEAC8DC23C",
-  "created": "2010-05-24T13:30:31.327",
-  "lastModified": "2019-12-17T20:16:29.450",
-  "titles": [
-    {
-      "title": "MySQL5.0.85",
-      "lang": "en"
-    }
-  ],
-  "deprecatedBy": [
-    {
-      "cpeName": "cpe:2.3:a:oracle:mysql:5.0.85:*:*:*:*:*:*:*",
-      "cpeNameId": "0B517DA4-640D-4957-BE28-3AAE6E12E958"
-    }
-  ]
+	"deprecated": true,
+	"cpeName": "cpe:2.3:a:mysql:mysql:5.0.85:*:*:*:*:*:*:*",
+	"cpeNameId": "232579BF-CC9E-46F7-946B-CFFEAC8DC23C",
+	"created": "2010-05-24T13:30:31.327",
+	"lastModified": "2019-12-17T20:16:29.450",
+	"titles": [
+		{
+			"title": "MySQL5.0.85",
+			"lang": "en"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:oracle:mysql:5.0.85:*:*:*:*:*:*:*",
+			"cpeNameId": "0B517DA4-640D-4957-BE28-3AAE6E12E958"
+		}
+	]
 }

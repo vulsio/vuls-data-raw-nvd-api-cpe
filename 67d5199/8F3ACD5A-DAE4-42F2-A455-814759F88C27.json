@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:elementor:website_builder:3.4.0:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "8F3ACD5A-DAE4-42F2-A455-814759F88C27",
-  "created": "2022-06-15T12:35:56.557",
-  "lastModified": "2022-06-15T12:37:53.973",
-  "titles": [
-    {
-      "title": "Elementor Website Builder 3.4.0 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wordpress.org/plugins/elementor/#developers",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://elementor.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:elementor:website_builder:3.4.0:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "8F3ACD5A-DAE4-42F2-A455-814759F88C27",
+	"created": "2022-06-15T12:35:56.557",
+	"lastModified": "2022-06-15T12:37:53.973",
+	"titles": [
+		{
+			"title": "Elementor Website Builder 3.4.0 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/elementor/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://elementor.com/",
+			"type": "Vendor"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:tp-link:tl-wvr450l:-:*:*:*:*:*:*:*",
-  "cpeNameId": "9E828956-EDE9-4A8E-9017-2C8DFD749ACF",
-  "created": "2020-08-12T13:49:41.377",
-  "lastModified": "2020-08-12T13:49:41.377",
-  "titles": [
-    {
-      "title": "TP-Link TL-WVR450L",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/coincoin7/Wireless-Router-Vulnerability/blob/master/TplinkInterfaceAuthenticatedRCE.txt",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:tp-link:tl-wvr450l:-:*:*:*:*:*:*:*",
+	"cpeNameId": "9E828956-EDE9-4A8E-9017-2C8DFD749ACF",
+	"created": "2020-08-12T13:49:41.377",
+	"lastModified": "2020-08-12T13:49:41.377",
+	"titles": [
+		{
+			"title": "TP-Link TL-WVR450L",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/coincoin7/Wireless-Router-Vulnerability/blob/master/TplinkInterfaceAuthenticatedRCE.txt",
+			"type": "Advisory"
+		}
+	]
 }

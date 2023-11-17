@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:nextcloud:mail:2.2.7:*:*:*:*:*:*:*",
-  "cpeNameId": "E3CD8EE2-B4AC-42C4-A926-DD6C6C9D1632",
-  "created": "2023-10-19T17:41:35.307",
-  "lastModified": "2023-10-19T17:41:35.307",
-  "titles": [
-    {
-      "title": "Nextcloud Mail 2.2.7",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/nextcloud/security-advisories/security/advisories/GHSA-8j9x-fmww-qr37",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://github.com/nextcloud/mail/blob/main/CHANGELOG.md",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:nextcloud:mail:2.2.7:*:*:*:*:*:*:*",
+	"cpeNameId": "E3CD8EE2-B4AC-42C4-A926-DD6C6C9D1632",
+	"created": "2023-10-19T17:41:35.307",
+	"lastModified": "2023-10-19T17:41:35.307",
+	"titles": [
+		{
+			"title": "Nextcloud Mail 2.2.7",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/nextcloud/security-advisories/security/advisories/GHSA-8j9x-fmww-qr37",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://github.com/nextcloud/mail/blob/main/CHANGELOG.md",
+			"type": "Change Log"
+		}
+	]
 }

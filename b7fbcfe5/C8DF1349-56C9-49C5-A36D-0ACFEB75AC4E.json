@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:nmap:nmap:2.54:beta25:*:*:*:*:*:*",
-  "cpeNameId": "C8DF1349-56C9-49C5-A36D-0ACFEB75AC4E",
-  "created": "2018-05-22T17:26:15.260",
-  "lastModified": "2018-05-22T17:26:15.260",
-  "titles": [
-    {
-      "title": "Nmap 2.54 Beta 25",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://nmap.org/changelog.html"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:nmap:nmap:2.54:beta25:*:*:*:*:*:*",
+	"cpeNameId": "C8DF1349-56C9-49C5-A36D-0ACFEB75AC4E",
+	"created": "2018-05-22T17:26:15.260",
+	"lastModified": "2018-05-22T17:26:15.260",
+	"titles": [
+		{
+			"title": "Nmap 2.54 Beta 25",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://nmap.org/changelog.html"
+		}
+	]
 }

@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:debian:postgresql-common:10:*:*:*:*:*:*:*",
-  "cpeNameId": "F95639D3-EB2F-44B0-8758-B070901B42CA",
-  "created": "2017-12-20T20:12:37.680",
-  "lastModified": "2021-04-27T17:49:19.090",
-  "titles": [
-    {
-      "title": "Debian postgresql-common 10",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://metadata.ftp-master.debian.org/changelogs/main/p/postgresql-common/postgresql-common_189_changelog",
-      "type": "Version"
-    },
-    {
-      "ref": "https://www.debian.org/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:debian:postgresql-common:10:*:*:*:*:*:*:*",
+	"cpeNameId": "F95639D3-EB2F-44B0-8758-B070901B42CA",
+	"created": "2017-12-20T20:12:37.680",
+	"lastModified": "2021-04-27T17:49:19.090",
+	"titles": [
+		{
+			"title": "Debian postgresql-common 10",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://metadata.ftp-master.debian.org/changelogs/main/p/postgresql-common/postgresql-common_189_changelog",
+			"type": "Version"
+		},
+		{
+			"ref": "https://www.debian.org/",
+			"type": "Vendor"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:tribe29:checkmk:2.2.0:p2:*:*:*:*:*:*",
-  "cpeNameId": "F792A7CD-F54A-4534-BD41-AA19308371A8",
-  "created": "2023-07-03T16:39:29.533",
-  "lastModified": "2023-07-05T15:18:30.983",
-  "titles": [
-    {
-      "title": "tribe29 checkmk 2.2.0 Patch 2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://checkmk.com/werks?search=&product=cmk&cmk_version%5B%5D=2.2&level%5B%5D=1&level%5B%5D=2&level%5B%5D=3&class%5B%5D=feature&class%5B%5D=fix&class%5B%5D=security&edition%5B%5D=cre&edition%5B%5D=cee&edition%5B%5D=cce&edition%5B%5D=cme",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:tribe29:checkmk:2.2.0:p2:*:*:*:*:*:*",
+	"cpeNameId": "F792A7CD-F54A-4534-BD41-AA19308371A8",
+	"created": "2023-07-03T16:39:29.533",
+	"lastModified": "2023-07-05T15:18:30.983",
+	"titles": [
+		{
+			"title": "tribe29 checkmk 2.2.0 Patch 2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://checkmk.com/werks?search=&product=cmk&cmk_version%5B%5D=2.2&level%5B%5D=1&level%5B%5D=2&level%5B%5D=3&class%5B%5D=feature&class%5B%5D=fix&class%5B%5D=security&edition%5B%5D=cre&edition%5B%5D=cee&edition%5B%5D=cce&edition%5B%5D=cme",
+			"type": "Version"
+		}
+	]
 }

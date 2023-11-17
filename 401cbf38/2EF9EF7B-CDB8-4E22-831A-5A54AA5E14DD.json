@@ -1,29 +1,29 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:suricata-ids:suricata:1.3:-:*:*:*:*:*:*",
-  "cpeNameId": "2EF9EF7B-CDB8-4E22-831A-5A54AA5E14DD",
-  "created": "2019-12-17T14:59:14.553",
-  "lastModified": "2019-12-17T14:59:14.553",
-  "titles": [
-    {
-      "title": "Suricata-IDS Suricata 1.3",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://suricata-ids.org",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/OISF/suricata",
-      "type": "Version"
-    }
-  ],
-  "deprecates": [
-    {
-      "cpeName": "cpe:2.3:a:suricata-ids:suricata:1.3:*:*:*:*:*:*:*",
-      "cpeNameId": "21877644-F322-4000-AD5C-7192FF0D0A0D"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:suricata-ids:suricata:1.3:-:*:*:*:*:*:*",
+	"cpeNameId": "2EF9EF7B-CDB8-4E22-831A-5A54AA5E14DD",
+	"created": "2019-12-17T14:59:14.553",
+	"lastModified": "2019-12-17T14:59:14.553",
+	"titles": [
+		{
+			"title": "Suricata-IDS Suricata 1.3",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://suricata-ids.org",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/OISF/suricata",
+			"type": "Version"
+		}
+	],
+	"deprecates": [
+		{
+			"cpeName": "cpe:2.3:a:suricata-ids:suricata:1.3:*:*:*:*:*:*:*",
+			"cpeNameId": "21877644-F322-4000-AD5C-7192FF0D0A0D"
+		}
+	]
 }

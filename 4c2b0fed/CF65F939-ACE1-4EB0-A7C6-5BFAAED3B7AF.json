@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:kerio:connect:8.2.0:*:*:*:*:*:*:*",
-  "cpeNameId": "CF65F939-ACE1-4EB0-A7C6-5BFAAED3B7AF",
-  "created": "2017-05-13T03:06:19.847",
-  "lastModified": "2021-03-02T14:44:59.780",
-  "titles": [
-    {
-      "title": "Kerio Connect 8.2.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www.kerio.com/support/kerio-connect",
-      "type": "Product"
-    },
-    {
-      "ref": "http://download.kerio.com/archive/",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:kerio:connect:8.2.0:*:*:*:*:*:*:*",
+	"cpeNameId": "CF65F939-ACE1-4EB0-A7C6-5BFAAED3B7AF",
+	"created": "2017-05-13T03:06:19.847",
+	"lastModified": "2021-03-02T14:44:59.780",
+	"titles": [
+		{
+			"title": "Kerio Connect 8.2.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.kerio.com/support/kerio-connect",
+			"type": "Product"
+		},
+		{
+			"ref": "http://download.kerio.com/archive/",
+			"type": "Version"
+		}
+	]
 }

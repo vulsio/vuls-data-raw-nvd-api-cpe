@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:livetecs:timeline:6.2.1:*:*:*:*:*:*:*",
-  "cpeNameId": "329893F9-5EF1-4D42-BD0C-251555369E2C",
-  "created": "2014-04-29T12:00:50.583",
-  "lastModified": "2014-04-29T16:09:53.057",
-  "titles": [
-    {
-      "title": "Livetecs Timeline 6.2.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www.livetecs.com/Home/ReleaseNotes.aspx"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:livetecs:timeline:6.2.1:*:*:*:*:*:*:*",
+	"cpeNameId": "329893F9-5EF1-4D42-BD0C-251555369E2C",
+	"created": "2014-04-29T12:00:50.583",
+	"lastModified": "2014-04-29T16:09:53.057",
+	"titles": [
+		{
+			"title": "Livetecs Timeline 6.2.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.livetecs.com/Home/ReleaseNotes.aspx"
+		}
+	]
 }

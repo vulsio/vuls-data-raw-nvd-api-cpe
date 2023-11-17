@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:2.8.0:*:*:*:*:*:*:*",
-  "cpeNameId": "BBD8D681-F7E4-476D-B8BA-14A187F9EE2B",
-  "created": "2019-07-08T12:49:27.627",
-  "lastModified": "2019-07-08T12:49:27.627",
-  "titles": [
-    {
-      "title": "Stormshield Network Security 2.8.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://documentation.stormshield.eu/SNS/v2/en/Content/Release_Notes_SNS/Getting_Started_RNO.htm",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:2.8.0:*:*:*:*:*:*:*",
+	"cpeNameId": "BBD8D681-F7E4-476D-B8BA-14A187F9EE2B",
+	"created": "2019-07-08T12:49:27.627",
+	"lastModified": "2019-07-08T12:49:27.627",
+	"titles": [
+		{
+			"title": "Stormshield Network Security 2.8.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://documentation.stormshield.eu/SNS/v2/en/Content/Release_Notes_SNS/Getting_Started_RNO.htm",
+			"type": "Version"
+		}
+	]
 }

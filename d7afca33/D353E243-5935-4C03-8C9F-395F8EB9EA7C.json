@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:owncloud:owncloud:10.7.0:-:*:*:*:*:*:*",
-  "cpeNameId": "D353E243-5935-4C03-8C9F-395F8EB9EA7C",
-  "created": "2021-04-09T18:43:56.480",
-  "lastModified": "2021-05-19T15:25:36.327",
-  "titles": [
-    {
-      "title": "ownCloud 10.7.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://owncloud.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://owncloud.com/changelog/server/",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://github.com/owncloud/core/releases",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:owncloud:owncloud:10.7.0:-:*:*:*:*:*:*",
+	"cpeNameId": "D353E243-5935-4C03-8C9F-395F8EB9EA7C",
+	"created": "2021-04-09T18:43:56.480",
+	"lastModified": "2021-05-19T15:25:36.327",
+	"titles": [
+		{
+			"title": "ownCloud 10.7.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://owncloud.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://owncloud.com/changelog/server/",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://github.com/owncloud/core/releases",
+			"type": "Version"
+		}
+	]
 }

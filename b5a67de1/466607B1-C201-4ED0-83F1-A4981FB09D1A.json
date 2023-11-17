@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:pgbouncer:pgbouncer:1.16.1:*:*:*:*:*:*:*",
-  "cpeNameId": "466607B1-C201-4ED0-83F1-A4981FB09D1A",
-  "created": "2021-11-26T13:54:30.167",
-  "lastModified": "2021-11-26T13:56:41.930",
-  "titles": [
-    {
-      "title": "PgBouncer 1.16.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www.pgbouncer.org/changelog.html#pgbouncer-115x",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:pgbouncer:pgbouncer:1.16.1:*:*:*:*:*:*:*",
+	"cpeNameId": "466607B1-C201-4ED0-83F1-A4981FB09D1A",
+	"created": "2021-11-26T13:54:30.167",
+	"lastModified": "2021-11-26T13:56:41.930",
+	"titles": [
+		{
+			"title": "PgBouncer 1.16.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.pgbouncer.org/changelog.html#pgbouncer-115x",
+			"type": "Change Log"
+		}
+	]
 }

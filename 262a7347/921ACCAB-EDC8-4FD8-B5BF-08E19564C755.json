@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:flask-appbuilder_project:flask-appbuilder:3.1.0:*:*:*:*:*:*:*",
-  "cpeNameId": "921ACCAB-EDC8-4FD8-B5BF-08E19564C755",
-  "created": "2021-06-10T17:46:33.047",
-  "lastModified": "2021-06-14T18:47:42.590",
-  "titles": [
-    {
-      "title": "Flask-AppBuilder Project Flask-AppBuilder 3.1.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/dpgaspar/Flask-AppBuilder",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:flask-appbuilder_project:flask-appbuilder:3.1.0:*:*:*:*:*:*:*",
+	"cpeNameId": "921ACCAB-EDC8-4FD8-B5BF-08E19564C755",
+	"created": "2021-06-10T17:46:33.047",
+	"lastModified": "2021-06-14T18:47:42.590",
+	"titles": [
+		{
+			"title": "Flask-AppBuilder Project Flask-AppBuilder 3.1.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/dpgaspar/Flask-AppBuilder",
+			"type": "Version"
+		}
+	]
 }

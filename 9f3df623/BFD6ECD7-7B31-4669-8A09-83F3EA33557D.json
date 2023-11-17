@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:ibm:db2:9.7.0.5:*:*:*:*:*:*:*",
-  "cpeNameId": "BFD6ECD7-7B31-4669-8A09-83F3EA33557D",
-  "created": "2012-06-20T19:27:26.010",
-  "lastModified": "2012-06-21T20:43:29.787",
-  "titles": [
-    {
-      "title": "IBM DB2 9.7.0.5 (Fix Pack 5)",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:ibm:db2:9.7.0.5:*:*:*:*:*:*:*",
+	"cpeNameId": "BFD6ECD7-7B31-4669-8A09-83F3EA33557D",
+	"created": "2012-06-20T19:27:26.010",
+	"lastModified": "2012-06-21T20:43:29.787",
+	"titles": [
+		{
+			"title": "IBM DB2 9.7.0.5 (Fix Pack 5)",
+			"lang": "en"
+		}
+	]
 }

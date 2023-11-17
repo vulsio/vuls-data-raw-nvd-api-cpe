@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:hp:h3c_router:msr_3016_poe:*:*:*:*:*:*:*",
-  "cpeNameId": "3F51C9FE-806A-4E23-8F33-43FA118D1981",
-  "created": "2013-07-08T18:02:05.423",
-  "lastModified": "2013-07-12T17:50:54.780",
-  "titles": [
-    {
-      "title": "HP H3C Router MSR 30-16 POE",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:hp:h3c_router:msr_3016_poe:*:*:*:*:*:*:*",
+	"cpeNameId": "3F51C9FE-806A-4E23-8F33-43FA118D1981",
+	"created": "2013-07-08T18:02:05.423",
+	"lastModified": "2013-07-12T17:50:54.780",
+	"titles": [
+		{
+			"title": "HP H3C Router MSR 30-16 POE",
+			"lang": "en"
+		}
+	]
 }

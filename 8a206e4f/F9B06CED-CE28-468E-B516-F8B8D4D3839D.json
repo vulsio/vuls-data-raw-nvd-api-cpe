@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:reviews_module_project:reviews_module:2019-06-09:*:*:*:*:*:*:*",
-  "cpeNameId": "F9B06CED-CE28-468E-B516-F8B8D4D3839D",
-  "created": "2019-09-11T13:35:58.267",
-  "lastModified": "2019-09-11T13:35:58.267",
-  "titles": [
-    {
-      "title": "Reviews Module Project Reviews Module 2019-06-09",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/opensource-table/reviews-module",
-      "type": "Project"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:reviews_module_project:reviews_module:2019-06-09:*:*:*:*:*:*:*",
+	"cpeNameId": "F9B06CED-CE28-468E-B516-F8B8D4D3839D",
+	"created": "2019-09-11T13:35:58.267",
+	"lastModified": "2019-09-11T13:35:58.267",
+	"titles": [
+		{
+			"title": "Reviews Module Project Reviews Module 2019-06-09",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/opensource-table/reviews-module",
+			"type": "Project"
+		}
+	]
 }

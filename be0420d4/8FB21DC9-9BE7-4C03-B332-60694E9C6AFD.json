@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:wpdeveloper:essential_addons_for_elementor:4.8.1:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "8FB21DC9-9BE7-4C03-B332-60694E9C6AFD",
-  "created": "2023-05-22T16:58:44.393",
-  "lastModified": "2023-06-05T18:03:29.617",
-  "titles": [
-    {
-      "title": "WPDeveloper Download Essential Addons for Elementor 4.8.1 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wordpress.org/plugins/essential-addons-for-elementor-lite/#developers",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://wpdeveloper.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://patchstack.com/articles/critical-privilege-escalation-in-essential-addons-for-elementor-plugin-affecting-1-million-sites?_s_id=cve",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:wpdeveloper:essential_addons_for_elementor:4.8.1:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "8FB21DC9-9BE7-4C03-B332-60694E9C6AFD",
+	"created": "2023-05-22T16:58:44.393",
+	"lastModified": "2023-06-05T18:03:29.617",
+	"titles": [
+		{
+			"title": "WPDeveloper Download Essential Addons for Elementor 4.8.1 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/essential-addons-for-elementor-lite/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://wpdeveloper.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://patchstack.com/articles/critical-privilege-escalation-in-essential-addons-for-elementor-plugin-affecting-1-million-sites?_s_id=cve",
+			"type": "Advisory"
+		}
+	]
 }

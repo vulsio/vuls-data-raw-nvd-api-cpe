@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:juniper:junose:11.3.2:*:*:*:*:*:*:*",
-  "cpeNameId": "B6540A7E-0B6A-4C04-BD29-D2C219BAC02D",
-  "created": "2019-06-27T14:27:02.367",
-  "lastModified": "2019-06-27T14:27:02.367",
-  "titles": [
-    {
-      "title": "Juniper JUNOSe 11.3.2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.juniper.net/us/en/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://www.juniper.net/support/downloads/?p=junose#sw",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:juniper:junose:11.3.2:*:*:*:*:*:*:*",
+	"cpeNameId": "B6540A7E-0B6A-4C04-BD29-D2C219BAC02D",
+	"created": "2019-06-27T14:27:02.367",
+	"lastModified": "2019-06-27T14:27:02.367",
+	"titles": [
+		{
+			"title": "Juniper JUNOSe 11.3.2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.juniper.net/us/en/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://www.juniper.net/support/downloads/?p=junose#sw",
+			"type": "Version"
+		}
+	]
 }

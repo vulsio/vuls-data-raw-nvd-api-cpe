@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:nagios:remote_plug_in_executor:2.13:*:*:*:*:*:*:*",
-  "cpeNameId": "034FD886-A82F-4EB5-ADC3-29F0699BADEA",
-  "created": "2013-07-10T13:20:34.927",
-  "lastModified": "2013-07-18T16:33:04.963",
-  "titles": [
-    {
-      "title": "Nagios Remote Plug-In Executor (NRPE) 2.13",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:nagios:remote_plug_in_executor:2.13:*:*:*:*:*:*:*",
+	"cpeNameId": "034FD886-A82F-4EB5-ADC3-29F0699BADEA",
+	"created": "2013-07-10T13:20:34.927",
+	"lastModified": "2013-07-18T16:33:04.963",
+	"titles": [
+		{
+			"title": "Nagios Remote Plug-In Executor (NRPE) 2.13",
+			"lang": "en"
+		}
+	]
 }

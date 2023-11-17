@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:stormshield:network_security:4.3.7:*:*:*:*:*:*:*",
-  "cpeNameId": "42100714-AAE1-40F5-9342-65FC776CFBC9",
-  "created": "2022-05-18T16:34:37.560",
-  "lastModified": "2022-08-03T12:39:12.763",
-  "titles": [
-    {
-      "title": "Stormshield Network Security 4.3.7",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://advisories.stormshield.eu/2022-015/",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:stormshield:network_security:4.3.7:*:*:*:*:*:*:*",
+	"cpeNameId": "42100714-AAE1-40F5-9342-65FC776CFBC9",
+	"created": "2022-05-18T16:34:37.560",
+	"lastModified": "2022-08-03T12:39:12.763",
+	"titles": [
+		{
+			"title": "Stormshield Network Security 4.3.7",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://advisories.stormshield.eu/2022-015/",
+			"type": "Advisory"
+		}
+	]
 }

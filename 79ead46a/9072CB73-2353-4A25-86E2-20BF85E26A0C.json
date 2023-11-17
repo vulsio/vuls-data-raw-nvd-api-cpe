@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:tribe29:checkmk:2.2.0:i1:*:*:*:*:*:*",
-  "cpeNameId": "9072CB73-2353-4A25-86E2-20BF85E26A0C",
-  "created": "2022-06-25T00:21:11.467",
-  "lastModified": "2022-09-12T13:51:26.700",
-  "titles": [
-    {
-      "title": "tribe29 checkmk 2.2.0 I1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://checkmk.com/download/archive",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:tribe29:checkmk:2.2.0:i1:*:*:*:*:*:*",
+	"cpeNameId": "9072CB73-2353-4A25-86E2-20BF85E26A0C",
+	"created": "2022-06-25T00:21:11.467",
+	"lastModified": "2022-09-12T13:51:26.700",
+	"titles": [
+		{
+			"title": "tribe29 checkmk 2.2.0 I1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://checkmk.com/download/archive",
+			"type": "Change Log"
+		}
+	]
 }

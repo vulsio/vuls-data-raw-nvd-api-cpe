@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:torproject:tor:0.0.2:pre23:*:*:*:*:*:*",
-  "cpeNameId": "D40472DA-D55A-4FE8-8089-BE406A92DE11",
-  "created": "2012-09-17T13:27:13.487",
-  "lastModified": "2012-09-21T20:26:18.247",
-  "titles": [
-    {
-      "title": "Torproject Tor 0.0.2pre23",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:torproject:tor:0.0.2:pre23:*:*:*:*:*:*",
+	"cpeNameId": "D40472DA-D55A-4FE8-8089-BE406A92DE11",
+	"created": "2012-09-17T13:27:13.487",
+	"lastModified": "2012-09-21T20:26:18.247",
+	"titles": [
+		{
+			"title": "Torproject Tor 0.0.2pre23",
+			"lang": "en"
+		}
+	]
 }

@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:sir:gnuboard:5.4.5:*:*:*:*:*:*:*",
-  "cpeNameId": "E5F70D7D-38FE-47DC-A45B-22BFFEFA5BE9",
-  "created": "2023-02-28T11:22:06.480",
-  "lastModified": "2023-02-28T11:24:40.883",
-  "titles": [
-    {
-      "title": "SIR GNUBoard 5.4.5",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/gnuboard/gnuboard5/tags",
-      "type": "Version"
-    },
-    {
-      "ref": "https://sir.kr/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:sir:gnuboard:5.4.5:*:*:*:*:*:*:*",
+	"cpeNameId": "E5F70D7D-38FE-47DC-A45B-22BFFEFA5BE9",
+	"created": "2023-02-28T11:22:06.480",
+	"lastModified": "2023-02-28T11:24:40.883",
+	"titles": [
+		{
+			"title": "SIR GNUBoard 5.4.5",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/gnuboard/gnuboard5/tags",
+			"type": "Version"
+		},
+		{
+			"ref": "https://sir.kr/",
+			"type": "Vendor"
+		}
+	]
 }

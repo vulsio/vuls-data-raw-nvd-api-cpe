@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:herry:sfpagent:0.1.9:*:*:*:*:ruby:*:*",
-  "cpeNameId": "FEE71206-942B-4BB3-9404-CA5180C5E9CE",
-  "created": "2014-04-24T17:07:49.607",
-  "lastModified": "2014-04-29T20:33:18.687",
-  "titles": [
-    {
-      "title": "Herry sfpagent gem for Ruby 0.1.9",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://rubygems.org/gems/sfpagent/versions"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:herry:sfpagent:0.1.9:*:*:*:*:ruby:*:*",
+	"cpeNameId": "FEE71206-942B-4BB3-9404-CA5180C5E9CE",
+	"created": "2014-04-24T17:07:49.607",
+	"lastModified": "2014-04-29T20:33:18.687",
+	"titles": [
+		{
+			"title": "Herry sfpagent gem for Ruby 0.1.9",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://rubygems.org/gems/sfpagent/versions"
+		}
+	]
 }

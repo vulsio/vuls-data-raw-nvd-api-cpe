@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:kingsoft:office_2013:9.1.0.4256:*:*:*:*:*:*:*",
-  "cpeNameId": "8766B907-A41A-4AFC-A286-29B3FF20FA4F",
-  "created": "2013-09-10T22:48:27.667",
-  "lastModified": "2013-09-10T23:05:20.997",
-  "titles": [
-    {
-      "title": "KingSoft Office 2013 9.1.0.4256",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www.kingsoftstore.com/writer-free.html"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:kingsoft:office_2013:9.1.0.4256:*:*:*:*:*:*:*",
+	"cpeNameId": "8766B907-A41A-4AFC-A286-29B3FF20FA4F",
+	"created": "2013-09-10T22:48:27.667",
+	"lastModified": "2013-09-10T23:05:20.997",
+	"titles": [
+		{
+			"title": "KingSoft Office 2013 9.1.0.4256",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.kingsoftstore.com/writer-free.html"
+		}
+	]
 }

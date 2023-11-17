@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:yithemes:yith_woocommerce_gift_cards:2.0.13:*:*:*:free:woocommerce:*:*",
-  "cpeNameId": "8D139C22-ADC2-4F1F-9451-E794346D1E1D",
-  "created": "2022-12-07T19:38:36.840",
-  "lastModified": "2022-12-07T19:41:36.973",
-  "titles": [
-    {
-      "title": "Yithemes YITH WooCommerce Gift Cards 2.0.13 Free Edition for WooCommerce",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://docs.yithemes.com/yith-woocommerce-gift-cards/changelog/changelog-free-version/",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:yithemes:yith_woocommerce_gift_cards:2.0.13:*:*:*:free:woocommerce:*:*",
+	"cpeNameId": "8D139C22-ADC2-4F1F-9451-E794346D1E1D",
+	"created": "2022-12-07T19:38:36.840",
+	"lastModified": "2022-12-07T19:41:36.973",
+	"titles": [
+		{
+			"title": "Yithemes YITH WooCommerce Gift Cards 2.0.13 Free Edition for WooCommerce",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://docs.yithemes.com/yith-woocommerce-gift-cards/changelog/changelog-free-version/",
+			"type": "Version"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:gym_management_system_project:gym_management_system:1.0:*:*:*:*:*:*:*",
-  "cpeNameId": "BB8D9765-AA8D-4358-81C6-AC7C436C6875",
-  "created": "2020-11-23T23:21:12.700",
-  "lastModified": "2020-11-23T23:21:12.700",
-  "titles": [
-    {
-      "title": "Gym Management System Project Gym Management System 1.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.sourcecodester.com/php/14541/gym-management-system-using-phpmysqli-source-code.html",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:gym_management_system_project:gym_management_system:1.0:*:*:*:*:*:*:*",
+	"cpeNameId": "BB8D9765-AA8D-4358-81C6-AC7C436C6875",
+	"created": "2020-11-23T23:21:12.700",
+	"lastModified": "2020-11-23T23:21:12.700",
+	"titles": [
+		{
+			"title": "Gym Management System Project Gym Management System 1.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.sourcecodester.com/php/14541/gym-management-system-using-phpmysqli-source-code.html",
+			"type": "Product"
+		}
+	]
 }

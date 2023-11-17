@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:gnome:gdk-pixbuf:2.18.9:*:*:*:*:*:*:*",
-  "cpeNameId": "251DCCE2-4C50-4A79-B861-C81A876DDDD0",
-  "created": "2020-08-03T13:44:33.247",
-  "lastModified": "2020-08-03T13:44:33.247",
-  "titles": [
-    {
-      "title": "GNOME GDK-PixBuf 2.18.9",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/GNOME/gdk-pixbuf",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:gnome:gdk-pixbuf:2.18.9:*:*:*:*:*:*:*",
+	"cpeNameId": "251DCCE2-4C50-4A79-B861-C81A876DDDD0",
+	"created": "2020-08-03T13:44:33.247",
+	"lastModified": "2020-08-03T13:44:33.247",
+	"titles": [
+		{
+			"title": "GNOME GDK-PixBuf 2.18.9",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/GNOME/gdk-pixbuf",
+			"type": "Version"
+		}
+	]
 }

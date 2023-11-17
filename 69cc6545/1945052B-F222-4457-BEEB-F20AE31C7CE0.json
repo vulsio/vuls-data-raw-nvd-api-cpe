@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:htslib:htslib:1.10.1:*:*:*:*:*:*:*",
-  "cpeNameId": "1945052B-F222-4457-BEEB-F20AE31C7CE0",
-  "created": "2021-07-20T18:26:36.640",
-  "lastModified": "2021-07-21T16:09:54.050",
-  "titles": [
-    {
-      "title": "HTSlib 1.10.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www.htslib.org/download/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://github.com/samtools/htslib",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:htslib:htslib:1.10.1:*:*:*:*:*:*:*",
+	"cpeNameId": "1945052B-F222-4457-BEEB-F20AE31C7CE0",
+	"created": "2021-07-20T18:26:36.640",
+	"lastModified": "2021-07-21T16:09:54.050",
+	"titles": [
+		{
+			"title": "HTSlib 1.10.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.htslib.org/download/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://github.com/samtools/htslib",
+			"type": "Product"
+		}
+	]
 }

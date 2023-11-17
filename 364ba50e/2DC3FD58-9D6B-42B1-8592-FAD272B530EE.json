@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:intel:software_guard_extensions_sdk:2.3:*:*:*:*:*:*:*",
-  "cpeNameId": "2DC3FD58-9D6B-42B1-8592-FAD272B530EE",
-  "created": "2019-12-10T16:46:04.107",
-  "lastModified": "2019-12-10T16:46:04.107",
-  "titles": [
-    {
-      "title": "Intel Software Guard Extensions SDK 2.3",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://software.intel.com/en-us/sgx/sdk",
-      "type": "Product"
-    },
-    {
-      "ref": "https://github.com/intel/linux-sgx/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:intel:software_guard_extensions_sdk:2.3:*:*:*:*:*:*:*",
+	"cpeNameId": "2DC3FD58-9D6B-42B1-8592-FAD272B530EE",
+	"created": "2019-12-10T16:46:04.107",
+	"lastModified": "2019-12-10T16:46:04.107",
+	"titles": [
+		{
+			"title": "Intel Software Guard Extensions SDK 2.3",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://software.intel.com/en-us/sgx/sdk",
+			"type": "Product"
+		},
+		{
+			"ref": "https://github.com/intel/linux-sgx/releases",
+			"type": "Change Log"
+		}
+	]
 }

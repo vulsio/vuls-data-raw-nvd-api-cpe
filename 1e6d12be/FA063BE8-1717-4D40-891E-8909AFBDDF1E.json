@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:bouncycastle:legion-of-the-bouncy-castle-c\\#-cryptography-api:1.29:*:*:*:*:*:*:*",
-  "cpeNameId": "FA063BE8-1717-4D40-891E-8909AFBDDF1E",
-  "created": "2013-03-20T13:08:18.467",
-  "lastModified": "2013-03-20T13:08:18.467",
-  "titles": [
-    {
-      "title": "Legion of the Bouncy Castle C# Cryptography API 1.29",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:bouncycastle:legion-of-the-bouncy-castle-c\\#-cryptography-api:1.29:*:*:*:*:*:*:*",
+	"cpeNameId": "FA063BE8-1717-4D40-891E-8909AFBDDF1E",
+	"created": "2013-03-20T13:08:18.467",
+	"lastModified": "2013-03-20T13:08:18.467",
+	"titles": [
+		{
+			"title": "Legion of the Bouncy Castle C# Cryptography API 1.29",
+			"lang": "en"
+		}
+	]
 }

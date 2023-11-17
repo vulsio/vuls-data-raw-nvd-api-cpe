@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:jsreport:jsreport:0.0.56:*:*:*:*:node.js:*:*",
-  "cpeNameId": "18EEAB46-42C6-4F6F-BD41-E2C5AD0AF0D0",
-  "created": "2020-02-20T20:12:04.227",
-  "lastModified": "2020-02-20T20:12:04.227",
-  "titles": [
-    {
-      "title": "jsreport 0.0.56 for Node.JS",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.npmjs.com/package/jsreport",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://jsreport.net/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:jsreport:jsreport:0.0.56:*:*:*:*:node.js:*:*",
+	"cpeNameId": "18EEAB46-42C6-4F6F-BD41-E2C5AD0AF0D0",
+	"created": "2020-02-20T20:12:04.227",
+	"lastModified": "2020-02-20T20:12:04.227",
+	"titles": [
+		{
+			"title": "jsreport 0.0.56 for Node.JS",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.npmjs.com/package/jsreport",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://jsreport.net/",
+			"type": "Vendor"
+		}
+	]
 }

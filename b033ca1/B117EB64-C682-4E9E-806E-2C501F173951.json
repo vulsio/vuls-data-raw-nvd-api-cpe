@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:python:python:3.10:*:*:*:*:*:*:*",
-  "cpeNameId": "B117EB64-C682-4E9E-806E-2C501F173951",
-  "created": "2023-02-24T20:33:21.437",
-  "lastModified": "2023-03-21T16:27:21.170",
-  "titles": [
-    {
-      "title": "Python 3.10",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.python.org/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/python/cpython",
-      "type": "Version"
-    },
-    {
-      "ref": "https://www.python.org/downloads/",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:python:python:3.10:*:*:*:*:*:*:*",
+	"cpeNameId": "B117EB64-C682-4E9E-806E-2C501F173951",
+	"created": "2023-02-24T20:33:21.437",
+	"lastModified": "2023-03-21T16:27:21.170",
+	"titles": [
+		{
+			"title": "Python 3.10",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.python.org/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/python/cpython",
+			"type": "Version"
+		},
+		{
+			"ref": "https://www.python.org/downloads/",
+			"type": "Version"
+		}
+	]
 }

@@ -1,17 +1,17 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:iij:seil\\/turbo_firmware:-:*:*:*:*:*:*:*",
-  "cpeNameId": "E5AF8428-6227-451E-A527-80A8E807412B",
-  "created": "2011-03-08T20:44:10.903",
-  "lastModified": "2011-03-23T22:04:26.650",
-  "titles": [
-    {
-      "title": "インターネットイニシアティブ SEIL/Trubo ファームウェア",
-      "lang": "ja"
-    },
-    {
-      "title": "IIJ SEIL/Turbo Firmware",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:iij:seil\\/turbo_firmware:-:*:*:*:*:*:*:*",
+	"cpeNameId": "E5AF8428-6227-451E-A527-80A8E807412B",
+	"created": "2011-03-08T20:44:10.903",
+	"lastModified": "2011-03-23T22:04:26.650",
+	"titles": [
+		{
+			"title": "インターネットイニシアティブ SEIL/Trubo ファームウェア",
+			"lang": "ja"
+		},
+		{
+			"title": "IIJ SEIL/Turbo Firmware",
+			"lang": "en"
+		}
+	]
 }

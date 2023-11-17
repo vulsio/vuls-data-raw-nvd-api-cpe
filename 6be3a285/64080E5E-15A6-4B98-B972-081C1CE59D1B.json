@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:openssl:openssl:0.9.8w:*:*:*:*:*:*:*",
-  "cpeNameId": "64080E5E-15A6-4B98-B972-081C1CE59D1B",
-  "created": "2012-05-15T14:52:32.480",
-  "lastModified": "2012-06-15T16:26:36.810",
-  "titles": [
-    {
-      "title": "OpenSSL Project OpenSSL 0.9.8w",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:openssl:openssl:0.9.8w:*:*:*:*:*:*:*",
+	"cpeNameId": "64080E5E-15A6-4B98-B972-081C1CE59D1B",
+	"created": "2012-05-15T14:52:32.480",
+	"lastModified": "2012-06-15T16:26:36.810",
+	"titles": [
+		{
+			"title": "OpenSSL Project OpenSSL 0.9.8w",
+			"lang": "en"
+		}
+	]
 }

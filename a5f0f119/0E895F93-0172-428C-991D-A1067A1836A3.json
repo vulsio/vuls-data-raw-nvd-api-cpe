@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:wpdownloadmanager:wordpress_download_manager:3.2.71:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "0E895F93-0172-428C-991D-A1067A1836A3",
-  "created": "2023-06-15T16:33:24.277",
-  "lastModified": "2023-06-15T18:19:59.717",
-  "titles": [
-    {
-      "title": "WordPress Download Manager 3.2.71 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wordpress.org/plugins/download-manager/#developers",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://www.wpdownloadmanager.com/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/download-manager/download-manager-3270-authenticated-contributor-stored-cross-site-scripting-via-shortcode",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:wpdownloadmanager:wordpress_download_manager:3.2.71:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "0E895F93-0172-428C-991D-A1067A1836A3",
+	"created": "2023-06-15T16:33:24.277",
+	"lastModified": "2023-06-15T18:19:59.717",
+	"titles": [
+		{
+			"title": "WordPress Download Manager 3.2.71 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/download-manager/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://www.wpdownloadmanager.com/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/download-manager/download-manager-3270-authenticated-contributor-stored-cross-site-scripting-via-shortcode",
+			"type": "Advisory"
+		}
+	]
 }

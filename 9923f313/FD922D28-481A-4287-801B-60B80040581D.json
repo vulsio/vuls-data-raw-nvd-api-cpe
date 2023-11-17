@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:synology:antivirus_essential:1.4.3-2748:*:*:*:*:*:*:*",
-  "cpeNameId": "FD922D28-481A-4287-801B-60B80040581D",
-  "created": "2021-05-04T14:09:54.143",
-  "lastModified": "2021-05-28T17:53:26.627",
-  "titles": [
-    {
-      "title": "Synology Antivirus Essential 1.4.3-2748",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.synology.com/en-us/releaseNote/AntiVirus?model=DS115j",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://www.synology.com/en-us",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:synology:antivirus_essential:1.4.3-2748:*:*:*:*:*:*:*",
+	"cpeNameId": "FD922D28-481A-4287-801B-60B80040581D",
+	"created": "2021-05-04T14:09:54.143",
+	"lastModified": "2021-05-28T17:53:26.627",
+	"titles": [
+		{
+			"title": "Synology Antivirus Essential 1.4.3-2748",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.synology.com/en-us/releaseNote/AntiVirus?model=DS115j",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://www.synology.com/en-us",
+			"type": "Vendor"
+		}
+	]
 }

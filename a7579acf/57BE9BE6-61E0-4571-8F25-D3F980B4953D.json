@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:redash:redash:5.0.0:*:*:*:*:*:*:*",
-  "cpeNameId": "57BE9BE6-61E0-4571-8F25-D3F980B4953D",
-  "created": "2020-06-22T20:04:02.143",
-  "lastModified": "2020-06-22T20:04:02.143",
-  "titles": [
-    {
-      "title": "Redash 5.0.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/getredash/redash/releases",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:redash:redash:5.0.0:*:*:*:*:*:*:*",
+	"cpeNameId": "57BE9BE6-61E0-4571-8F25-D3F980B4953D",
+	"created": "2020-06-22T20:04:02.143",
+	"lastModified": "2020-06-22T20:04:02.143",
+	"titles": [
+		{
+			"title": "Redash 5.0.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/getredash/redash/releases",
+			"type": "Version"
+		}
+	]
 }

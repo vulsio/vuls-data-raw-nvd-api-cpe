@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:tincan:phplist:2.10.6:*:*:*:*:*:*:*",
-  "cpeNameId": "187BDD69-EE39-402C-B93D-AF8C2876224A",
-  "created": "2011-04-13T17:04:51.267",
-  "lastModified": "2011-05-06T20:16:37.293",
-  "titles": [
-    {
-      "title": "Tincan PHPList 2.10.6",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:tincan:phplist:2.10.6:*:*:*:*:*:*:*",
+	"cpeNameId": "187BDD69-EE39-402C-B93D-AF8C2876224A",
+	"created": "2011-04-13T17:04:51.267",
+	"lastModified": "2011-05-06T20:16:37.293",
+	"titles": [
+		{
+			"title": "Tincan PHPList 2.10.6",
+			"lang": "en"
+		}
+	]
 }

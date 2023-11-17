@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:maykinmedia:open_forms:1.10:-:*:*:*:*:*:*",
-  "cpeNameId": "1DDE6A72-87BF-4155-AF8A-D813D084B9AC",
-  "created": "2022-06-15T16:12:13.800",
-  "lastModified": "2022-06-16T14:36:34.920",
-  "titles": [
-    {
-      "title": "Maykinmedia Open Forms 1.10 -",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/open-formulieren/open-forms/tags",
-      "type": "Version"
-    },
-    {
-      "ref": "https://github.com/open-formulieren/open-forms/security/advisories/GHSA-c97h-m5qf-j8mf",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://www.maykinmedia.nl/en/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:maykinmedia:open_forms:1.10:-:*:*:*:*:*:*",
+	"cpeNameId": "1DDE6A72-87BF-4155-AF8A-D813D084B9AC",
+	"created": "2022-06-15T16:12:13.800",
+	"lastModified": "2022-06-16T14:36:34.920",
+	"titles": [
+		{
+			"title": "Maykinmedia Open Forms 1.10 -",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/open-formulieren/open-forms/tags",
+			"type": "Version"
+		},
+		{
+			"ref": "https://github.com/open-formulieren/open-forms/security/advisories/GHSA-c97h-m5qf-j8mf",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://www.maykinmedia.nl/en/",
+			"type": "Vendor"
+		}
+	]
 }

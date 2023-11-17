@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:nodejs:node.js:19.6.0:*:*:*:-:*:*:*",
-  "cpeNameId": "18133E83-17F0-44E5-837C-7B69A2912821",
-  "created": "2023-02-23T20:26:06.197",
-  "lastModified": "2023-02-24T15:28:03.860",
-  "titles": [
-    {
-      "title": "Nodejs Node.js 19.6.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/nodejs/node/tags",
-      "type": "Version"
-    },
-    {
-      "ref": "https://nodejs.org/en/blog/vulnerability/february-2023-security-releases/",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:nodejs:node.js:19.6.0:*:*:*:-:*:*:*",
+	"cpeNameId": "18133E83-17F0-44E5-837C-7B69A2912821",
+	"created": "2023-02-23T20:26:06.197",
+	"lastModified": "2023-02-24T15:28:03.860",
+	"titles": [
+		{
+			"title": "Nodejs Node.js 19.6.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/nodejs/node/tags",
+			"type": "Version"
+		},
+		{
+			"ref": "https://nodejs.org/en/blog/vulnerability/february-2023-security-releases/",
+			"type": "Advisory"
+		}
+	]
 }

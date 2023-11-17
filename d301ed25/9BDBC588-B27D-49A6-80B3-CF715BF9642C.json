@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:chef:chef:15.1.51:*:*:*:*:*:*:*",
-  "cpeNameId": "9BDBC588-B27D-49A6-80B3-CF715BF9642C",
-  "created": "2019-11-18T14:18:35.737",
-  "lastModified": "2019-11-18T14:18:35.737",
-  "titles": [
-    {
-      "title": "Chef 15.1.51",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/chef/chef/releases",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:chef:chef:15.1.51:*:*:*:*:*:*:*",
+	"cpeNameId": "9BDBC588-B27D-49A6-80B3-CF715BF9642C",
+	"created": "2019-11-18T14:18:35.737",
+	"lastModified": "2019-11-18T14:18:35.737",
+	"titles": [
+		{
+			"title": "Chef 15.1.51",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/chef/chef/releases",
+			"type": "Version"
+		}
+	]
 }

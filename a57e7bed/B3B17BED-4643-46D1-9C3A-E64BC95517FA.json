@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:grpc:grpc:1.41.0:*:*:*:*:dart:*:*",
-  "cpeNameId": "B3B17BED-4643-46D1-9C3A-E64BC95517FA",
-  "created": "2022-02-03T14:57:18.537",
-  "lastModified": "2022-02-03T15:10:05.563",
-  "titles": [
-    {
-      "title": "gRPC 1.41.0 for Dart",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/grpc/grpc-dart/releases",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:grpc:grpc:1.41.0:*:*:*:*:dart:*:*",
+	"cpeNameId": "B3B17BED-4643-46D1-9C3A-E64BC95517FA",
+	"created": "2022-02-03T14:57:18.537",
+	"lastModified": "2022-02-03T15:10:05.563",
+	"titles": [
+		{
+			"title": "gRPC 1.41.0 for Dart",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/grpc/grpc-dart/releases",
+			"type": "Version"
+		}
+	]
 }

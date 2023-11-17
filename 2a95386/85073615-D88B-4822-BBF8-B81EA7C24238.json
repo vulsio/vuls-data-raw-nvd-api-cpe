@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:samsung:livewallpaperservice:-:*:*:*:*:*:*:*",
-  "cpeNameId": "85073615-D88B-4822-BBF8-B81EA7C24238",
-  "created": "2022-02-16T16:29:28.880",
-  "lastModified": "2022-04-29T13:23:12.767",
-  "titles": [
-    {
-      "title": "Samsung LiveWallpaperService",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://security.samsungmobile.com/serviceWeb.smsb?year=2022&month=2",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:samsung:livewallpaperservice:-:*:*:*:*:*:*:*",
+	"cpeNameId": "85073615-D88B-4822-BBF8-B81EA7C24238",
+	"created": "2022-02-16T16:29:28.880",
+	"lastModified": "2022-04-29T13:23:12.767",
+	"titles": [
+		{
+			"title": "Samsung LiveWallpaperService",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://security.samsungmobile.com/serviceWeb.smsb?year=2022&month=2",
+			"type": "Advisory"
+		}
+	]
 }

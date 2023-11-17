@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:kubernetes:ingress-nginx:1.0.3:*:*:*:*:*:*:*",
-  "cpeNameId": "390C452A-A30B-49A5-8E20-60158A498C48",
-  "created": "2021-11-03T13:21:43.047",
-  "lastModified": "2021-11-03T16:24:03.413",
-  "titles": [
-    {
-      "title": "Kubernetes Ingress-nginx 1.0.3",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/kubernetes/ingress-nginx/blob/main/Changelog.md",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:kubernetes:ingress-nginx:1.0.3:*:*:*:*:*:*:*",
+	"cpeNameId": "390C452A-A30B-49A5-8E20-60158A498C48",
+	"created": "2021-11-03T13:21:43.047",
+	"lastModified": "2021-11-03T16:24:03.413",
+	"titles": [
+		{
+			"title": "Kubernetes Ingress-nginx 1.0.3",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/kubernetes/ingress-nginx/blob/main/Changelog.md",
+			"type": "Change Log"
+		}
+	]
 }

@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:algolplus:advanced_order_export:3.1.7:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "D5232AD9-CDAA-43A1-A46E-0B1A0AA12C5B",
-  "created": "2021-04-02T16:48:46.457",
-  "lastModified": "2021-04-05T13:48:23.250",
-  "titles": [
-    {
-      "title": "Algolplus Advanced Order Export 3.1.7 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wordpress.org/plugins/woo-order-export-lite/#developers",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://algolplus.com/plugins/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:algolplus:advanced_order_export:3.1.7:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "D5232AD9-CDAA-43A1-A46E-0B1A0AA12C5B",
+	"created": "2021-04-02T16:48:46.457",
+	"lastModified": "2021-04-05T13:48:23.250",
+	"titles": [
+		{
+			"title": "Algolplus Advanced Order Export 3.1.7 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/woo-order-export-lite/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://algolplus.com/plugins/",
+			"type": "Vendor"
+		}
+	]
 }

@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:pimcore:customer_management_framework:3.2.12:*:*:*:*:pimcore:*:*",
-  "cpeNameId": "31677FFA-2DDD-4E89-AA09-7F4EC0F67B2F",
-  "created": "2023-05-22T13:18:40.430",
-  "lastModified": "2023-05-24T16:57:02.057",
-  "titles": [
-    {
-      "title": "Pimcore Customer Management Framework 3.2.12 for Pimcore",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://pimcore.com/en",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/pimcore/customer-data-framework/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:pimcore:customer_management_framework:3.2.12:*:*:*:*:pimcore:*:*",
+	"cpeNameId": "31677FFA-2DDD-4E89-AA09-7F4EC0F67B2F",
+	"created": "2023-05-22T13:18:40.430",
+	"lastModified": "2023-05-24T16:57:02.057",
+	"titles": [
+		{
+			"title": "Pimcore Customer Management Framework 3.2.12 for Pimcore",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://pimcore.com/en",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/pimcore/customer-data-framework/releases",
+			"type": "Change Log"
+		}
+	]
 }

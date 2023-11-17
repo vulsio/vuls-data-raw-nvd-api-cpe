@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:synology:diskstation_manager:6.1.4-15217-3:*:*:*:*:*:*:*",
-  "cpeNameId": "E78DBEEA-7284-4932-9A08-BE490739F94E",
-  "created": "2019-06-10T12:44:38.207",
-  "lastModified": "2019-06-10T12:44:38.207",
-  "titles": [
-    {
-      "title": "Synology Diskstation Manager 6.1.4-15217-3",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.synology.com/en-us/releaseNote/DS218+",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:synology:diskstation_manager:6.1.4-15217-3:*:*:*:*:*:*:*",
+	"cpeNameId": "E78DBEEA-7284-4932-9A08-BE490739F94E",
+	"created": "2019-06-10T12:44:38.207",
+	"lastModified": "2019-06-10T12:44:38.207",
+	"titles": [
+		{
+			"title": "Synology Diskstation Manager 6.1.4-15217-3",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.synology.com/en-us/releaseNote/DS218+",
+			"type": "Version"
+		}
+	]
 }

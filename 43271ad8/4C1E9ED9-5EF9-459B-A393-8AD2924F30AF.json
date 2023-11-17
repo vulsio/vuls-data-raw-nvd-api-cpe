@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:dell:resource_cd:1.0.0:*:*:*:*:*:*:*",
-  "cpeNameId": "4C1E9ED9-5EF9-459B-A393-8AD2924F30AF",
-  "created": "2012-05-08T13:53:15.817",
-  "lastModified": "2012-05-08T13:53:15.817",
-  "titles": [
-    {
-      "title": "Dell Resource Cd 1.0.0",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:dell:resource_cd:1.0.0:*:*:*:*:*:*:*",
+	"cpeNameId": "4C1E9ED9-5EF9-459B-A393-8AD2924F30AF",
+	"created": "2012-05-08T13:53:15.817",
+	"lastModified": "2012-05-08T13:53:15.817",
+	"titles": [
+		{
+			"title": "Dell Resource Cd 1.0.0",
+			"lang": "en"
+		}
+	]
 }

@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:opensvc:multipath-tools:0.8.4:*:*:*:*:*:*:*",
-  "cpeNameId": "4D0D35F9-A636-4CDE-88D3-8E4D01A349CD",
-  "created": "2022-10-31T14:11:55.477",
-  "lastModified": "2022-10-31T14:13:48.200",
-  "titles": [
-    {
-      "title": "OpenSVC multipath-tools 0.8.4",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.opensvc.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/opensvc/multipath-tools/tags",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:opensvc:multipath-tools:0.8.4:*:*:*:*:*:*:*",
+	"cpeNameId": "4D0D35F9-A636-4CDE-88D3-8E4D01A349CD",
+	"created": "2022-10-31T14:11:55.477",
+	"lastModified": "2022-10-31T14:13:48.200",
+	"titles": [
+		{
+			"title": "OpenSVC multipath-tools 0.8.4",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.opensvc.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/opensvc/multipath-tools/tags",
+			"type": "Version"
+		}
+	]
 }

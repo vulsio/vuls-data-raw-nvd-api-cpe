@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:ikiwiki:ikiwiki:3.08:*:*:*:*:*:*:*",
-  "cpeNameId": "4B4020FD-7AAA-4F17-9162-60322FA4333A",
-  "created": "2009-09-01T15:53:24.640",
-  "lastModified": "2012-01-05T19:27:24.657",
-  "titles": [
-    {
-      "title": "Ikiwiki 3.08",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:ikiwiki:ikiwiki:3.08:*:*:*:*:*:*:*",
+	"cpeNameId": "4B4020FD-7AAA-4F17-9162-60322FA4333A",
+	"created": "2009-09-01T15:53:24.640",
+	"lastModified": "2012-01-05T19:27:24.657",
+	"titles": [
+		{
+			"title": "Ikiwiki 3.08",
+			"lang": "en"
+		}
+	]
 }

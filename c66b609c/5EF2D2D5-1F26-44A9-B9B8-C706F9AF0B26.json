@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:schneider-electric:bmxp342020_firmware:3.40:*:*:*:*:*:*:*",
-  "cpeNameId": "5EF2D2D5-1F26-44A9-B9B8-C706F9AF0B26",
-  "created": "2022-02-23T13:55:42.047",
-  "lastModified": "2022-06-27T18:30:06.060",
-  "titles": [
-    {
-      "title": "Schneider-Electric BMXP342020 FIRMWARE 3.40",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2021-257-02",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:schneider-electric:bmxp342020_firmware:3.40:*:*:*:*:*:*:*",
+	"cpeNameId": "5EF2D2D5-1F26-44A9-B9B8-C706F9AF0B26",
+	"created": "2022-02-23T13:55:42.047",
+	"lastModified": "2022-06-27T18:30:06.060",
+	"titles": [
+		{
+			"title": "Schneider-Electric BMXP342020 FIRMWARE 3.40",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2021-257-02",
+			"type": "Advisory"
+		}
+	]
 }

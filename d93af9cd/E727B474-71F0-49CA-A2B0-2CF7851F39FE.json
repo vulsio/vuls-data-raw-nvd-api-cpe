@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:nodejs:node.js:11.2.0:*:*:*:lts:*:*:*",
-  "cpeNameId": "E727B474-71F0-49CA-A2B0-2CF7851F39FE",
-  "created": "2020-06-22T11:45:09.257",
-  "lastModified": "2020-06-22T11:45:09.257",
-  "titles": [
-    {
-      "title": "Nodejs Node.js 11.2.0 LTS Edition",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://nodejs.org/en/about/releases/",
-      "type": "Version"
-    },
-    {
-      "ref": "https://nodejs.org/download/release/",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:nodejs:node.js:11.2.0:*:*:*:lts:*:*:*",
+	"cpeNameId": "E727B474-71F0-49CA-A2B0-2CF7851F39FE",
+	"created": "2020-06-22T11:45:09.257",
+	"lastModified": "2020-06-22T11:45:09.257",
+	"titles": [
+		{
+			"title": "Nodejs Node.js 11.2.0 LTS Edition",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://nodejs.org/en/about/releases/",
+			"type": "Version"
+		},
+		{
+			"ref": "https://nodejs.org/download/release/",
+			"type": "Change Log"
+		}
+	]
 }

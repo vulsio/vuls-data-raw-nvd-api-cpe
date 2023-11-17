@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:redhat:zanata:1.7.3:*:*:*:*:*:*:*",
-  "cpeNameId": "61A6DC22-09B5-40B9-94D2-BC90393F9ED6",
-  "created": "2019-12-06T15:21:45.177",
-  "lastModified": "2019-12-06T15:21:45.177",
-  "titles": [
-    {
-      "title": "Red Hat Zanata 1.7.3",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/zanata/zanata-server/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:redhat:zanata:1.7.3:*:*:*:*:*:*:*",
+	"cpeNameId": "61A6DC22-09B5-40B9-94D2-BC90393F9ED6",
+	"created": "2019-12-06T15:21:45.177",
+	"lastModified": "2019-12-06T15:21:45.177",
+	"titles": [
+		{
+			"title": "Red Hat Zanata 1.7.3",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/zanata/zanata-server/releases",
+			"type": "Change Log"
+		}
+	]
 }

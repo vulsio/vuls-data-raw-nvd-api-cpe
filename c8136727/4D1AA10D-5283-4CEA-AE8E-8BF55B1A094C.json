@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:pulsesecure:pulse_connect_secure:9.1:r10.2:*:*:*:*:*:*",
-  "cpeNameId": "4D1AA10D-5283-4CEA-AE8E-8BF55B1A094C",
-  "created": "2021-04-28T17:44:52.423",
-  "lastModified": "2021-05-07T13:38:51.503",
-  "titles": [
-    {
-      "title": "PulseSecure Pulse Connect Secure (PCS) 9.1 R10.2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www-prev.pulsesecure.net/techpubs/pulse-connect-secure/pcs/9.1rx",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:pulsesecure:pulse_connect_secure:9.1:r10.2:*:*:*:*:*:*",
+	"cpeNameId": "4D1AA10D-5283-4CEA-AE8E-8BF55B1A094C",
+	"created": "2021-04-28T17:44:52.423",
+	"lastModified": "2021-05-07T13:38:51.503",
+	"titles": [
+		{
+			"title": "PulseSecure Pulse Connect Secure (PCS) 9.1 R10.2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www-prev.pulsesecure.net/techpubs/pulse-connect-secure/pcs/9.1rx",
+			"type": "Change Log"
+		}
+	]
 }

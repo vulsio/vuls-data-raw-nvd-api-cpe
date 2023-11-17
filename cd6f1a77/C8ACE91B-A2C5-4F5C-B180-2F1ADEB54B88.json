@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:python:setuptools:3.5.1:*:*:*:*:*:*:*",
-  "cpeNameId": "C8ACE91B-A2C5-4F5C-B180-2F1ADEB54B88",
-  "created": "2019-02-27T16:53:30.113",
-  "lastModified": "2019-02-27T16:53:30.113",
-  "titles": [
-    {
-      "title": "Python Setuptools 3.5.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://pypi.python.org/pypi/setuptools/",
-      "type": "Project"
-    },
-    {
-      "ref": "https://pypi.org/project/setuptools/#history",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:python:setuptools:3.5.1:*:*:*:*:*:*:*",
+	"cpeNameId": "C8ACE91B-A2C5-4F5C-B180-2F1ADEB54B88",
+	"created": "2019-02-27T16:53:30.113",
+	"lastModified": "2019-02-27T16:53:30.113",
+	"titles": [
+		{
+			"title": "Python Setuptools 3.5.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://pypi.python.org/pypi/setuptools/",
+			"type": "Project"
+		},
+		{
+			"ref": "https://pypi.org/project/setuptools/#history",
+			"type": "Version"
+		}
+	]
 }

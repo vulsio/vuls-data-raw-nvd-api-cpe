@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:keepass:keepass:1.38:*:*:*:*:*:*:*",
-  "cpeNameId": "72A24035-6359-41B1-B151-6150C34254AD",
-  "created": "2022-03-14T19:11:47.823",
-  "lastModified": "2022-03-15T15:07:53.247",
-  "titles": [
-    {
-      "title": "KeePass 1.38",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://keepass.info/news/news_all.html",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:keepass:keepass:1.38:*:*:*:*:*:*:*",
+	"cpeNameId": "72A24035-6359-41B1-B151-6150C34254AD",
+	"created": "2022-03-14T19:11:47.823",
+	"lastModified": "2022-03-15T15:07:53.247",
+	"titles": [
+		{
+			"title": "KeePass 1.38",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://keepass.info/news/news_all.html",
+			"type": "Change Log"
+		}
+	]
 }

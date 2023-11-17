@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:oracle:jdk:10:*:*:*:*:*:*:*",
-  "cpeNameId": "C435F0F3-4CC6-4514-A73E-ACABB6E6B79D",
-  "created": "2020-03-19T13:00:24.280",
-  "lastModified": "2020-03-19T13:00:24.280",
-  "titles": [
-    {
-      "title": "Oracle JDK 10",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.oracle.com/technetwork/java/javase/10u-relnotes-4108739.html",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:oracle:jdk:10:*:*:*:*:*:*:*",
+	"cpeNameId": "C435F0F3-4CC6-4514-A73E-ACABB6E6B79D",
+	"created": "2020-03-19T13:00:24.280",
+	"lastModified": "2020-03-19T13:00:24.280",
+	"titles": [
+		{
+			"title": "Oracle JDK 10",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.oracle.com/technetwork/java/javase/10u-relnotes-4108739.html",
+			"type": "Version"
+		}
+	]
 }

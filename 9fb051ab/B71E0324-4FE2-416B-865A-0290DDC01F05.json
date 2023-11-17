@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:cisco:ios:12.2\\\\(60\\\\)ez6:*:*:*:*:*:*:*",
-  "cpeNameId": "B71E0324-4FE2-416B-865A-0290DDC01F05",
-  "created": "2020-05-11T12:09:29.400",
-  "lastModified": "2020-05-11T12:09:29.400",
-  "titles": [
-    {
-      "title": "Cisco IOS 12.2\\(60\\)EZ6",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://software.cisco.com/download/home/281458045",
-      "type": "Version"
-    },
-    {
-      "ref": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCuv45410",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160323-smi",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:cisco:ios:12.2\\\\(60\\\\)ez6:*:*:*:*:*:*:*",
+	"cpeNameId": "B71E0324-4FE2-416B-865A-0290DDC01F05",
+	"created": "2020-05-11T12:09:29.400",
+	"lastModified": "2020-05-11T12:09:29.400",
+	"titles": [
+		{
+			"title": "Cisco IOS 12.2\\(60\\)EZ6",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://software.cisco.com/download/home/281458045",
+			"type": "Version"
+		},
+		{
+			"ref": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCuv45410",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160323-smi",
+			"type": "Advisory"
+		}
+	]
 }

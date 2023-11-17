@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:jenkins:warnings:2.6:*:*:*:*:jenkins:*:*",
-  "cpeNameId": "776850A7-9340-4DAA-BADE-FBEB406D94EE",
-  "created": "2019-03-15T19:23:10.907",
-  "lastModified": "2019-03-15T19:23:10.907",
-  "titles": [
-    {
-      "title": "Jenkins Warnings 2.6 for Jenkins",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/jenkinsci/warnings-plugin",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:jenkins:warnings:2.6:*:*:*:*:jenkins:*:*",
+	"cpeNameId": "776850A7-9340-4DAA-BADE-FBEB406D94EE",
+	"created": "2019-03-15T19:23:10.907",
+	"lastModified": "2019-03-15T19:23:10.907",
+	"titles": [
+		{
+			"title": "Jenkins Warnings 2.6 for Jenkins",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/jenkinsci/warnings-plugin",
+			"type": "Version"
+		}
+	]
 }

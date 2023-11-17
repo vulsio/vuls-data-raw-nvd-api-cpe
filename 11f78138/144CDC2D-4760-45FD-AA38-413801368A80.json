@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:yokogawa:stardom_fcn\\/fcj_simulator_firmware:r4.20:*:*:*:*:*:*:*",
-  "cpeNameId": "144CDC2D-4760-45FD-AA38-413801368A80",
-  "created": "2019-01-15T16:43:27.417",
-  "lastModified": "2021-07-01T18:42:44.833",
-  "titles": [
-    {
-      "title": "Yokogawa Stardom FCN/FCJ Simulator Firmware R4.20",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.yokogawa.com/solutions/products-platforms/control-system/process-control-plc-rtu/",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:yokogawa:stardom_fcn\\/fcj_simulator_firmware:r4.20:*:*:*:*:*:*:*",
+	"cpeNameId": "144CDC2D-4760-45FD-AA38-413801368A80",
+	"created": "2019-01-15T16:43:27.417",
+	"lastModified": "2021-07-01T18:42:44.833",
+	"titles": [
+		{
+			"title": "Yokogawa Stardom FCN/FCJ Simulator Firmware R4.20",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.yokogawa.com/solutions/products-platforms/control-system/process-control-plc-rtu/",
+			"type": "Product"
+		}
+	]
 }

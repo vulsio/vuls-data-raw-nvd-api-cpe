@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:omnitauth-saml_project:omnitauth-saml:1.8.0:*:*:*:*:*:*:*",
-  "cpeNameId": "ACE31735-83BC-4B55-B39E-D84AC4ED46B9",
-  "created": "2019-09-30T13:44:11.180",
-  "lastModified": "2019-09-30T13:44:11.180",
-  "titles": [
-    {
-      "title": "OmnitAuth-SAML Project OmnitAuth-SAML 1.8.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/omniauth/omniauth-saml",
-      "type": "Project"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:omnitauth-saml_project:omnitauth-saml:1.8.0:*:*:*:*:*:*:*",
+	"cpeNameId": "ACE31735-83BC-4B55-B39E-D84AC4ED46B9",
+	"created": "2019-09-30T13:44:11.180",
+	"lastModified": "2019-09-30T13:44:11.180",
+	"titles": [
+		{
+			"title": "OmnitAuth-SAML Project OmnitAuth-SAML 1.8.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/omniauth/omniauth-saml",
+			"type": "Project"
+		}
+	]
 }

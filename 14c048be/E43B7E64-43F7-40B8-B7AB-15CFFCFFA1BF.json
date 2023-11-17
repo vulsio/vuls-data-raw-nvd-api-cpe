@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:apache:sling:-:*:*:*:*:*:*:*",
-  "cpeNameId": "E43B7E64-43F7-40B8-B7AB-15CFFCFFA1BF",
-  "created": "2012-07-10T15:20:31.040",
-  "lastModified": "2012-07-28T13:42:57.447",
-  "titles": [
-    {
-      "title": "Apache Software Foundation Sling",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:apache:sling:-:*:*:*:*:*:*:*",
+	"cpeNameId": "E43B7E64-43F7-40B8-B7AB-15CFFCFFA1BF",
+	"created": "2012-07-10T15:20:31.040",
+	"lastModified": "2012-07-28T13:42:57.447",
+	"titles": [
+		{
+			"title": "Apache Software Foundation Sling",
+			"lang": "en"
+		}
+	]
 }

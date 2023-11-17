@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:phpspreadsheet_project:phpspreadsheet:1.2.1:*:*:*:*:*:*:*",
-  "cpeNameId": "78508651-3DCF-4FEB-B36B-6221AD1B1DDC",
-  "created": "2020-04-13T16:52:43.127",
-  "lastModified": "2020-04-13T16:52:43.127",
-  "titles": [
-    {
-      "title": "PhpSpreadsheet Project PhpSpreadsheet 1.2.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/PHPOffice/PhpSpreadsheet/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:phpspreadsheet_project:phpspreadsheet:1.2.1:*:*:*:*:*:*:*",
+	"cpeNameId": "78508651-3DCF-4FEB-B36B-6221AD1B1DDC",
+	"created": "2020-04-13T16:52:43.127",
+	"lastModified": "2020-04-13T16:52:43.127",
+	"titles": [
+		{
+			"title": "PhpSpreadsheet Project PhpSpreadsheet 1.2.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/PHPOffice/PhpSpreadsheet/releases",
+			"type": "Change Log"
+		}
+	]
 }

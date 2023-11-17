@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:faronics:deep_freeze:5.40.020.1248:-:std:*:*:*:*:*",
-  "cpeNameId": "1C3859B6-67F9-477D-80C7-EEF89FE7149C",
-  "created": "2012-03-16T15:01:33.050",
-  "lastModified": "2012-03-16T15:01:33.050",
-  "titles": [
-    {
-      "title": "Faronics Deep Freeze 5.40.020.1248 Standard",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:faronics:deep_freeze:5.40.020.1248:-:std:*:*:*:*:*",
+	"cpeNameId": "1C3859B6-67F9-477D-80C7-EEF89FE7149C",
+	"created": "2012-03-16T15:01:33.050",
+	"lastModified": "2012-03-16T15:01:33.050",
+	"titles": [
+		{
+			"title": "Faronics Deep Freeze 5.40.020.1248 Standard",
+			"lang": "en"
+		}
+	]
 }

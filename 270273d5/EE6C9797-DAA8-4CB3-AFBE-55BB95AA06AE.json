@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:apcupsd:apcupsd:3.14.13:*:*:*:*:*:*:*",
-  "cpeNameId": "EE6C9797-DAA8-4CB3-AFBE-55BB95AA06AE",
-  "created": "2019-09-17T14:40:17.287",
-  "lastModified": "2019-09-17T14:40:17.287",
-  "titles": [
-    {
-      "title": "APC UPS Daemon (apcupsd) 3.14.13",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://sourceforge.net/projects/apcupsd/files/apcupsd%20-%20Stable/",
-      "type": "Change Log"
-    },
-    {
-      "ref": "http://www.apcupsd.org/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:apcupsd:apcupsd:3.14.13:*:*:*:*:*:*:*",
+	"cpeNameId": "EE6C9797-DAA8-4CB3-AFBE-55BB95AA06AE",
+	"created": "2019-09-17T14:40:17.287",
+	"lastModified": "2019-09-17T14:40:17.287",
+	"titles": [
+		{
+			"title": "APC UPS Daemon (apcupsd) 3.14.13",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://sourceforge.net/projects/apcupsd/files/apcupsd%20-%20Stable/",
+			"type": "Change Log"
+		},
+		{
+			"ref": "http://www.apcupsd.org/",
+			"type": "Vendor"
+		}
+	]
 }

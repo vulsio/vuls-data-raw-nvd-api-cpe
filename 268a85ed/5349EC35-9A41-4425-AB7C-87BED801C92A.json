@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:paramiko:paramiko:2.9.2:*:*:*:*:*:*:*",
-  "cpeNameId": "5349EC35-9A41-4425-AB7C-87BED801C92A",
-  "created": "2022-03-24T14:41:50.177",
-  "lastModified": "2022-03-24T18:17:03.230",
-  "titles": [
-    {
-      "title": "Paramiko Paramiko 2.9.2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/paramiko/paramiko/tags",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:paramiko:paramiko:2.9.2:*:*:*:*:*:*:*",
+	"cpeNameId": "5349EC35-9A41-4425-AB7C-87BED801C92A",
+	"created": "2022-03-24T14:41:50.177",
+	"lastModified": "2022-03-24T18:17:03.230",
+	"titles": [
+		{
+			"title": "Paramiko Paramiko 2.9.2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/paramiko/paramiko/tags",
+			"type": "Version"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:entity_api_project:entity_api:7.x-1.8:*:*:*:*:drupal:*:*",
-  "cpeNameId": "B7A8CB39-1B54-434E-AA33-91B63A9041DB",
-  "created": "2019-06-28T15:09:33.467",
-  "lastModified": "2019-06-28T15:09:33.467",
-  "titles": [
-    {
-      "title": "Entity API Project Entity API 7.x-1.8 for Drupal",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.drupal.org/project/entity/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:entity_api_project:entity_api:7.x-1.8:*:*:*:*:drupal:*:*",
+	"cpeNameId": "B7A8CB39-1B54-434E-AA33-91B63A9041DB",
+	"created": "2019-06-28T15:09:33.467",
+	"lastModified": "2019-06-28T15:09:33.467",
+	"titles": [
+		{
+			"title": "Entity API Project Entity API 7.x-1.8 for Drupal",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.drupal.org/project/entity/releases",
+			"type": "Change Log"
+		}
+	]
 }

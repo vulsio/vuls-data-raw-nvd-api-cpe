@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:cryptography.io:cryptography:2.0.3:*:*:*:*:*:*:*",
-  "cpeNameId": "BD25A5DD-EF85-420D-A516-10D02695DDCF",
-  "created": "2020-07-06T16:27:44.983",
-  "lastModified": "2020-07-06T16:27:44.983",
-  "titles": [
-    {
-      "title": "Cryptography 2.0.3",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://cryptography.io/en/latest/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:cryptography.io:cryptography:2.0.3:*:*:*:*:*:*:*",
+	"cpeNameId": "BD25A5DD-EF85-420D-A516-10D02695DDCF",
+	"created": "2020-07-06T16:27:44.983",
+	"lastModified": "2020-07-06T16:27:44.983",
+	"titles": [
+		{
+			"title": "Cryptography 2.0.3",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://cryptography.io/en/latest/",
+			"type": "Vendor"
+		}
+	]
 }

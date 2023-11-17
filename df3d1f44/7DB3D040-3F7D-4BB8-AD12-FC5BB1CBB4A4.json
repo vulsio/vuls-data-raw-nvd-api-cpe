@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:google:chrome:37.0.2062.89:*:*:*:*:*:*:*",
-  "cpeNameId": "7DB3D040-3F7D-4BB8-AD12-FC5BB1CBB4A4",
-  "created": "2014-08-27T17:20:46.267",
-  "lastModified": "2014-08-27T17:37:58.043",
-  "titles": [
-    {
-      "title": "Google Chrome 37.0.2062.89",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://src.chromium.org/viewvc/chrome/releases/",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:google:chrome:37.0.2062.89:*:*:*:*:*:*:*",
+	"cpeNameId": "7DB3D040-3F7D-4BB8-AD12-FC5BB1CBB4A4",
+	"created": "2014-08-27T17:20:46.267",
+	"lastModified": "2014-08-27T17:37:58.043",
+	"titles": [
+		{
+			"title": "Google Chrome 37.0.2062.89",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://src.chromium.org/viewvc/chrome/releases/",
+			"type": "Product"
+		}
+	]
 }

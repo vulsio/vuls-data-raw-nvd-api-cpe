@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:cisco:wide_area_application_services:4.0.19:*:*:*:*:*:*:*",
-  "cpeNameId": "0538497D-E135-47A8-8886-DB6A12D453DA",
-  "created": "2013-08-01T16:56:00.780",
-  "lastModified": "2014-06-24T17:49:37.157",
-  "titles": [
-    {
-      "title": "Cisco Wide Area Application Services (WAAS) 4.0.19",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www.cisco.com/c/en/us/products/routers/application-content-networking-system-acns-software/index.html"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:cisco:wide_area_application_services:4.0.19:*:*:*:*:*:*:*",
+	"cpeNameId": "0538497D-E135-47A8-8886-DB6A12D453DA",
+	"created": "2013-08-01T16:56:00.780",
+	"lastModified": "2014-06-24T17:49:37.157",
+	"titles": [
+		{
+			"title": "Cisco Wide Area Application Services (WAAS) 4.0.19",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.cisco.com/c/en/us/products/routers/application-content-networking-system-acns-software/index.html"
+		}
+	]
 }

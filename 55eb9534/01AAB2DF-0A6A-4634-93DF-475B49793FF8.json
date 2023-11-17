@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:linuxfoundation:yocto:2.3.3:*:*:*:*:*:*:*",
-  "cpeNameId": "01AAB2DF-0A6A-4634-93DF-475B49793FF8",
-  "created": "2023-05-23T15:48:21.290",
-  "lastModified": "2023-05-24T17:51:52.920",
-  "titles": [
-    {
-      "title": "Linux Foundation Yocto 2.3.3",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.yoctoproject.org/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://docs.yoctoproject.org/releases.html",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:linuxfoundation:yocto:2.3.3:*:*:*:*:*:*:*",
+	"cpeNameId": "01AAB2DF-0A6A-4634-93DF-475B49793FF8",
+	"created": "2023-05-23T15:48:21.290",
+	"lastModified": "2023-05-24T17:51:52.920",
+	"titles": [
+		{
+			"title": "Linux Foundation Yocto 2.3.3",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.yoctoproject.org/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://docs.yoctoproject.org/releases.html",
+			"type": "Version"
+		}
+	]
 }

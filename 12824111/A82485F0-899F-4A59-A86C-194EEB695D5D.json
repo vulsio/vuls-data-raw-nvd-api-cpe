@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:microsoft:sql_server:2017:*:*:*:*:*:*:*",
-  "cpeNameId": "A82485F0-899F-4A59-A86C-194EEB695D5D",
-  "created": "2019-11-07T13:21:58.720",
-  "lastModified": "2019-11-07T13:21:58.720",
-  "titles": [
-    {
-      "title": "Microsoft SQL Server 2017",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.microsoft.com/en-us/sql-server/sql-server-2017",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:microsoft:sql_server:2017:*:*:*:*:*:*:*",
+	"cpeNameId": "A82485F0-899F-4A59-A86C-194EEB695D5D",
+	"created": "2019-11-07T13:21:58.720",
+	"lastModified": "2019-11-07T13:21:58.720",
+	"titles": [
+		{
+			"title": "Microsoft SQL Server 2017",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.microsoft.com/en-us/sql-server/sql-server-2017",
+			"type": "Product"
+		}
+	]
 }

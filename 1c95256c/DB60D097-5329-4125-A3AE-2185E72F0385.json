@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:fortinet:fortianalyzer-3000d:-:*:*:*:*:*:*:*",
-  "cpeNameId": "DB60D097-5329-4125-A3AE-2185E72F0385",
-  "created": "2013-11-20T17:06:33.373",
-  "lastModified": "2013-11-20T17:10:27.113",
-  "titles": [
-    {
-      "title": "Fortinet Fortianalyzer-3000D",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www.fortinet.com/products/fortianalyzer/"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:fortinet:fortianalyzer-3000d:-:*:*:*:*:*:*:*",
+	"cpeNameId": "DB60D097-5329-4125-A3AE-2185E72F0385",
+	"created": "2013-11-20T17:06:33.373",
+	"lastModified": "2013-11-20T17:10:27.113",
+	"titles": [
+		{
+			"title": "Fortinet Fortianalyzer-3000D",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.fortinet.com/products/fortianalyzer/"
+		}
+	]
 }

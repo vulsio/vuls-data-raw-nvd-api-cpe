@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:icinga:icinga:1.8.1:*:*:*:*:*:*:*",
-  "cpeNameId": "63128FA3-C6C3-4ADF-BD2B-992A51D00F4F",
-  "created": "2013-01-23T15:52:16.753",
-  "lastModified": "2013-01-23T20:04:47.963",
-  "titles": [
-    {
-      "title": "Icinga 1.8.1",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:icinga:icinga:1.8.1:*:*:*:*:*:*:*",
+	"cpeNameId": "63128FA3-C6C3-4ADF-BD2B-992A51D00F4F",
+	"created": "2013-01-23T15:52:16.753",
+	"lastModified": "2013-01-23T20:04:47.963",
+	"titles": [
+		{
+			"title": "Icinga 1.8.1",
+			"lang": "en"
+		}
+	]
 }

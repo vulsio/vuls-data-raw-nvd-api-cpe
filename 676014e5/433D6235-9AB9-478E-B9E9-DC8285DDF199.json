@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:google:api_search:1.3.1:*:*:*:*:*:*:*",
-  "cpeNameId": "433D6235-9AB9-478E-B9E9-DC8285DDF199",
-  "created": "2007-08-23T21:16:59.567",
-  "lastModified": "2008-04-01T16:10:00.593",
-  "titles": [
-    {
-      "title": "Google Google API Search 1.3.1",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:google:api_search:1.3.1:*:*:*:*:*:*:*",
+	"cpeNameId": "433D6235-9AB9-478E-B9E9-DC8285DDF199",
+	"created": "2007-08-23T21:16:59.567",
+	"lastModified": "2008-04-01T16:10:00.593",
+	"titles": [
+		{
+			"title": "Google Google API Search 1.3.1",
+			"lang": "en"
+		}
+	]
 }

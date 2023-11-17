@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:perl:dbi:0.64:*:*:*:*:*:*:*",
-  "cpeNameId": "B140DFB3-47CB-4FA8-BBDF-11D7653D930B",
-  "created": "2021-02-17T17:32:34.410",
-  "lastModified": "2021-04-12T17:29:55.307",
-  "titles": [
-    {
-      "title": "Perl DBI 0.64",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://metacpan.org/changes/distribution/DBI",
-      "type": "Version"
-    },
-    {
-      "ref": "https://dbi.perl.org/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:perl:dbi:0.64:*:*:*:*:*:*:*",
+	"cpeNameId": "B140DFB3-47CB-4FA8-BBDF-11D7653D930B",
+	"created": "2021-02-17T17:32:34.410",
+	"lastModified": "2021-04-12T17:29:55.307",
+	"titles": [
+		{
+			"title": "Perl DBI 0.64",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://metacpan.org/changes/distribution/DBI",
+			"type": "Version"
+		},
+		{
+			"ref": "https://dbi.perl.org/",
+			"type": "Vendor"
+		}
+	]
 }

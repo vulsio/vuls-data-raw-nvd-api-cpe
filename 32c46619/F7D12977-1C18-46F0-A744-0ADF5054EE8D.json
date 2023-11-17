@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:directadmin:directadmin:1.27:*:*:*:*:*:*:*",
-  "cpeNameId": "F7D12977-1C18-46F0-A744-0ADF5054EE8D",
-  "created": "2019-10-09T17:52:12.337",
-  "lastModified": "2019-10-09T17:52:12.337",
-  "titles": [
-    {
-      "title": "JBMC Software DirectAdmin 1.27",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.directadmin.com/versions.php",
-      "type": "Version"
-    },
-    {
-      "ref": "https://www.directadmin.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://www.directadmin.com/versions.php?action=allversions",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:directadmin:directadmin:1.27:*:*:*:*:*:*:*",
+	"cpeNameId": "F7D12977-1C18-46F0-A744-0ADF5054EE8D",
+	"created": "2019-10-09T17:52:12.337",
+	"lastModified": "2019-10-09T17:52:12.337",
+	"titles": [
+		{
+			"title": "JBMC Software DirectAdmin 1.27",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.directadmin.com/versions.php",
+			"type": "Version"
+		},
+		{
+			"ref": "https://www.directadmin.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://www.directadmin.com/versions.php?action=allversions",
+			"type": "Version"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:i18next:i18next:19.0.0:*:*:*:*:node.js:*:*",
-  "cpeNameId": "CCA94AAC-C02B-4146-9E6C-11A9ECE9D77B",
-  "created": "2021-09-07T15:53:38.003",
-  "lastModified": "2021-09-07T15:55:55.970",
-  "titles": [
-    {
-      "title": "i18next 19.0.0 for Node.js",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/i18next/i18next/releases",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:i18next:i18next:19.0.0:*:*:*:*:node.js:*:*",
+	"cpeNameId": "CCA94AAC-C02B-4146-9E6C-11A9ECE9D77B",
+	"created": "2021-09-07T15:53:38.003",
+	"lastModified": "2021-09-07T15:55:55.970",
+	"titles": [
+		{
+			"title": "i18next 19.0.0 for Node.js",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/i18next/i18next/releases",
+			"type": "Version"
+		}
+	]
 }

@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:openstack:pycadf:0.3.1:*:*:*:*:*:*:*",
-  "cpeNameId": "56DA8B98-2944-40E4-82C0-ACD840452DDC",
-  "created": "2014-08-20T16:22:09.933",
-  "lastModified": "2014-08-28T00:44:33.277",
-  "titles": [
-    {
-      "title": "OpenStack PyCADF 0.3.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/openstack/pycadf/releases"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:openstack:pycadf:0.3.1:*:*:*:*:*:*:*",
+	"cpeNameId": "56DA8B98-2944-40E4-82C0-ACD840452DDC",
+	"created": "2014-08-20T16:22:09.933",
+	"lastModified": "2014-08-28T00:44:33.277",
+	"titles": [
+		{
+			"title": "OpenStack PyCADF 0.3.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/openstack/pycadf/releases"
+		}
+	]
 }

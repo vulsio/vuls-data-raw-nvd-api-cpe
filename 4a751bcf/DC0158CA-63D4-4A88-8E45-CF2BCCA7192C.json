@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:share_this_image_project:share_this_image:1.12:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "DC0158CA-63D4-4A88-8E45-CF2BCCA7192C",
-  "created": "2019-07-23T15:30:53.647",
-  "lastModified": "2019-07-23T15:30:53.647",
-  "titles": [
-    {
-      "title": "Share This Image Project Share This Image 1.12 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wordpress.org/plugins/share-this-image/#description",
-      "type": "Project"
-    },
-    {
-      "ref": "https://wordpress.org/plugins/share-this-image/#developers",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:share_this_image_project:share_this_image:1.12:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "DC0158CA-63D4-4A88-8E45-CF2BCCA7192C",
+	"created": "2019-07-23T15:30:53.647",
+	"lastModified": "2019-07-23T15:30:53.647",
+	"titles": [
+		{
+			"title": "Share This Image Project Share This Image 1.12 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/share-this-image/#description",
+			"type": "Project"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/share-this-image/#developers",
+			"type": "Change Log"
+		}
+	]
 }

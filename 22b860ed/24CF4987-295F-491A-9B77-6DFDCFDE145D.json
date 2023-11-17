@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:arm:valhall_gpu_kernel_driver:r38p0:*:*:*:*:*:*:*",
-  "cpeNameId": "24CF4987-295F-491A-9B77-6DFDCFDE145D",
-  "created": "2022-08-08T14:45:59.540",
-  "lastModified": "2022-09-12T13:41:30.647",
-  "titles": [
-    {
-      "title": "ARM Valhall GPU Kernel Driver r38p0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://developer.arm.com/Arm%20Security%20Center/Mali%20GPU%20Driver%20Vulnerabilities",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:arm:valhall_gpu_kernel_driver:r38p0:*:*:*:*:*:*:*",
+	"cpeNameId": "24CF4987-295F-491A-9B77-6DFDCFDE145D",
+	"created": "2022-08-08T14:45:59.540",
+	"lastModified": "2022-09-12T13:41:30.647",
+	"titles": [
+		{
+			"title": "ARM Valhall GPU Kernel Driver r38p0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://developer.arm.com/Arm%20Security%20Center/Mali%20GPU%20Driver%20Vulnerabilities",
+			"type": "Advisory"
+		}
+	]
 }

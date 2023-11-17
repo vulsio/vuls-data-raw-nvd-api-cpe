@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.5.2:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "310A90BF-31D3-4390-A98F-3B42CA4F0118",
-  "created": "2021-01-04T14:00:46.320",
-  "lastModified": "2021-01-04T14:00:46.320",
-  "titles": [
-    {
-      "title": "WooCommerce 4.5.2 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://raw.githubusercontent.com/woocommerce/woocommerce/master/CHANGELOG.txt",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://github.com/Ko-kn3t/CVE-2020-29156",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://wordpress.org/plugins/woocommerce/",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.5.2:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "310A90BF-31D3-4390-A98F-3B42CA4F0118",
+	"created": "2021-01-04T14:00:46.320",
+	"lastModified": "2021-01-04T14:00:46.320",
+	"titles": [
+		{
+			"title": "WooCommerce 4.5.2 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://raw.githubusercontent.com/woocommerce/woocommerce/master/CHANGELOG.txt",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://github.com/Ko-kn3t/CVE-2020-29156",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/woocommerce/",
+			"type": "Product"
+		}
+	]
 }

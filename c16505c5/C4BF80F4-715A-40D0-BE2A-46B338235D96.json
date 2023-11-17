@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:kentico:kentico:6.0.32:*:*:*:*:*:*:*",
-  "cpeNameId": "C4BF80F4-715A-40D0-BE2A-46B338235D96",
-  "created": "2019-04-08T17:57:11.560",
-  "lastModified": "2019-04-08T17:57:11.560",
-  "titles": [
-    {
-      "title": "Kentico 6.0.32",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.kentico.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://devnet.kentico.com/download/hotfixes/hotfixes-for-older-versions",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:kentico:kentico:6.0.32:*:*:*:*:*:*:*",
+	"cpeNameId": "C4BF80F4-715A-40D0-BE2A-46B338235D96",
+	"created": "2019-04-08T17:57:11.560",
+	"lastModified": "2019-04-08T17:57:11.560",
+	"titles": [
+		{
+			"title": "Kentico 6.0.32",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.kentico.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://devnet.kentico.com/download/hotfixes/hotfixes-for-older-versions",
+			"type": "Version"
+		}
+	]
 }

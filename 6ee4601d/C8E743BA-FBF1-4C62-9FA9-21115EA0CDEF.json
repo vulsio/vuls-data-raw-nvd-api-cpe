@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:wpdeveloper:essential_blocks:2.0.1:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "C8E743BA-FBF1-4C62-9FA9-21115EA0CDEF",
-  "created": "2023-06-14T19:59:43.540",
-  "lastModified": "2023-06-14T20:01:57.967",
-  "titles": [
-    {
-      "title": "WPDeveloper Essential Blocks 2.0.1 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wpdeveloper.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://wordpress.org/plugins/essential-blocks/#developers",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:wpdeveloper:essential_blocks:2.0.1:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "C8E743BA-FBF1-4C62-9FA9-21115EA0CDEF",
+	"created": "2023-06-14T19:59:43.540",
+	"lastModified": "2023-06-14T20:01:57.967",
+	"titles": [
+		{
+			"title": "WPDeveloper Essential Blocks 2.0.1 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wpdeveloper.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/essential-blocks/#developers",
+			"type": "Change Log"
+		}
+	]
 }

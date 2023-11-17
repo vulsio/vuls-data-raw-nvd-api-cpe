@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:qnap:qts:5.1.0.2348:*:*:*:*:*:*:*",
-  "cpeNameId": "889A72F2-A951-4CFC-8469-7F334E6DA16A",
-  "created": "2023-08-31T11:09:54.740",
-  "lastModified": "2023-09-01T03:42:36.997",
-  "titles": [
-    {
-      "title": "QNAP QTS 5.1.0.2348",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.qnap.com/en/security-advisory/qsa-23-60",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://www.qnap.com/en/release-notes/qts/overview/5.1.0",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:qnap:qts:5.1.0.2348:*:*:*:*:*:*:*",
+	"cpeNameId": "889A72F2-A951-4CFC-8469-7F334E6DA16A",
+	"created": "2023-08-31T11:09:54.740",
+	"lastModified": "2023-09-01T03:42:36.997",
+	"titles": [
+		{
+			"title": "QNAP QTS 5.1.0.2348",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.qnap.com/en/security-advisory/qsa-23-60",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://www.qnap.com/en/release-notes/qts/overview/5.1.0",
+			"type": "Version"
+		}
+	]
 }

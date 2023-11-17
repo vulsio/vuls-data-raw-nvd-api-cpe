@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:esri:arcgis_insights:2022.1:*:*:*:*:arcgis_enterprise:*:*",
-  "cpeNameId": "768B1DA7-BFCD-4AA5-9644-FF72B4B173F1",
-  "created": "2023-07-26T19:12:39.550",
-  "lastModified": "2023-08-19T02:38:52.163",
-  "titles": [
-    {
-      "title": "Esri Arcgis Insights 2022.1 for Arcgis Enterprise",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.esri.com/en-us/arcgis/products/arcgis-insights/overview",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:esri:arcgis_insights:2022.1:*:*:*:*:arcgis_enterprise:*:*",
+	"cpeNameId": "768B1DA7-BFCD-4AA5-9644-FF72B4B173F1",
+	"created": "2023-07-26T19:12:39.550",
+	"lastModified": "2023-08-19T02:38:52.163",
+	"titles": [
+		{
+			"title": "Esri Arcgis Insights 2022.1 for Arcgis Enterprise",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.esri.com/en-us/arcgis/products/arcgis-insights/overview",
+			"type": "Product"
+		}
+	]
 }

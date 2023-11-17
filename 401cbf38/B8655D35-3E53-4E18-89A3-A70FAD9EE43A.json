@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:suricata-ids:suricata:2.0.2:*:*:*:*:*:*:*",
-  "cpeNameId": "B8655D35-3E53-4E18-89A3-A70FAD9EE43A",
-  "created": "2018-06-07T13:26:51.953",
-  "lastModified": "2018-06-07T13:26:51.953",
-  "titles": [
-    {
-      "title": "Suricata-IDS Suricata 2.0.2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/OISF/suricata/releases",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://suricata-ids.org",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:suricata-ids:suricata:2.0.2:*:*:*:*:*:*:*",
+	"cpeNameId": "B8655D35-3E53-4E18-89A3-A70FAD9EE43A",
+	"created": "2018-06-07T13:26:51.953",
+	"lastModified": "2018-06-07T13:26:51.953",
+	"titles": [
+		{
+			"title": "Suricata-IDS Suricata 2.0.2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/OISF/suricata/releases",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://suricata-ids.org",
+			"type": "Vendor"
+		}
+	]
 }

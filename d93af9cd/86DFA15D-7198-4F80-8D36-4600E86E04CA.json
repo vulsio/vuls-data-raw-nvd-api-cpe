@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:nodejs:node.js:10.14.1:*:*:*:lts:*:*:*",
-  "cpeNameId": "86DFA15D-7198-4F80-8D36-4600E86E04CA",
-  "created": "2019-02-11T16:39:24.017",
-  "lastModified": "2019-02-11T16:39:24.017",
-  "titles": [
-    {
-      "title": "Nodejs Node.js 10.14.1 LTS Edition",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/nodejs/node",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:nodejs:node.js:10.14.1:*:*:*:lts:*:*:*",
+	"cpeNameId": "86DFA15D-7198-4F80-8D36-4600E86E04CA",
+	"created": "2019-02-11T16:39:24.017",
+	"lastModified": "2019-02-11T16:39:24.017",
+	"titles": [
+		{
+			"title": "Nodejs Node.js 10.14.1 LTS Edition",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/nodejs/node",
+			"type": "Version"
+		}
+	]
 }

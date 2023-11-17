@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:sprockets_project:sprockets:2.4.5:*:*:*:*:*:*:*",
-  "cpeNameId": "3B8F2A55-4F52-445C-B74B-74180323CDFA",
-  "created": "2014-11-10T16:04:58.410",
-  "lastModified": "2014-11-13T22:11:57.433",
-  "titles": [
-    {
-      "title": "Sprockets project Sprockets 2.4.5",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://rubygems.org/gems/sprockets-rails/versions"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:sprockets_project:sprockets:2.4.5:*:*:*:*:*:*:*",
+	"cpeNameId": "3B8F2A55-4F52-445C-B74B-74180323CDFA",
+	"created": "2014-11-10T16:04:58.410",
+	"lastModified": "2014-11-13T22:11:57.433",
+	"titles": [
+		{
+			"title": "Sprockets project Sprockets 2.4.5",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://rubygems.org/gems/sprockets-rails/versions"
+		}
+	]
 }

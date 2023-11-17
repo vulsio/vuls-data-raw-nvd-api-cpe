@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:amazon:firecracker:0.21.3:*:*:*:*:*:*:*",
-  "cpeNameId": "C656760B-DE24-4643-85C8-3A2E0318943E",
-  "created": "2020-11-19T16:16:01.423",
-  "lastModified": "2020-11-19T16:16:01.423",
-  "titles": [
-    {
-      "title": "Amazon Firecracker 0.21.3",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/firecracker-microvm/firecracker/tags",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:amazon:firecracker:0.21.3:*:*:*:*:*:*:*",
+	"cpeNameId": "C656760B-DE24-4643-85C8-3A2E0318943E",
+	"created": "2020-11-19T16:16:01.423",
+	"lastModified": "2020-11-19T16:16:01.423",
+	"titles": [
+		{
+			"title": "Amazon Firecracker 0.21.3",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/firecracker-microvm/firecracker/tags",
+			"type": "Change Log"
+		}
+	]
 }

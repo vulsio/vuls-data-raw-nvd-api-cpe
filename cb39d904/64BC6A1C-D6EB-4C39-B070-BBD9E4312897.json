@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:adobe:experience_manager:6.5.0.0:*:*:*:*:*:*:*",
-  "cpeNameId": "64BC6A1C-D6EB-4C39-B070-BBD9E4312897",
-  "created": "2020-09-16T10:55:20.660",
-  "lastModified": "2020-09-16T10:55:20.660",
-  "titles": [
-    {
-      "title": "Adobe Experience Manager 6.5.0.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://helpx.adobe.com/experience-manager/aem-previous-versions.html",
-      "type": "Version"
-    },
-    {
-      "ref": "https://www.adobe.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://helpx.adobe.com/experience-manager/aem-releases-updates.html",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:adobe:experience_manager:6.5.0.0:*:*:*:*:*:*:*",
+	"cpeNameId": "64BC6A1C-D6EB-4C39-B070-BBD9E4312897",
+	"created": "2020-09-16T10:55:20.660",
+	"lastModified": "2020-09-16T10:55:20.660",
+	"titles": [
+		{
+			"title": "Adobe Experience Manager 6.5.0.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://helpx.adobe.com/experience-manager/aem-previous-versions.html",
+			"type": "Version"
+		},
+		{
+			"ref": "https://www.adobe.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://helpx.adobe.com/experience-manager/aem-releases-updates.html",
+			"type": "Change Log"
+		}
+	]
 }

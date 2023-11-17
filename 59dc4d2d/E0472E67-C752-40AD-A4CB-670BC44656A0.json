@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:autodesk:autocad_advance_steel:2023:*:*:*:*:*:*:*",
-  "cpeNameId": "E0472E67-C752-40AD-A4CB-670BC44656A0",
-  "created": "2022-06-28T13:06:04.950",
-  "lastModified": "2022-06-29T11:16:48.783",
-  "titles": [
-    {
-      "title": "Autodesk AutoCAD Advance Steel 2023",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.autodesk.com/trust/security-advisories/adsk-sa-2022-0005",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:autodesk:autocad_advance_steel:2023:*:*:*:*:*:*:*",
+	"cpeNameId": "E0472E67-C752-40AD-A4CB-670BC44656A0",
+	"created": "2022-06-28T13:06:04.950",
+	"lastModified": "2022-06-29T11:16:48.783",
+	"titles": [
+		{
+			"title": "Autodesk AutoCAD Advance Steel 2023",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.autodesk.com/trust/security-advisories/adsk-sa-2022-0005",
+			"type": "Advisory"
+		}
+	]
 }

@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:gnu:glibc:2.34:*:*:*:*:*:*:*",
-  "cpeNameId": "E2364EEB-0860-4CAE-9DF5-0649A80E9644",
-  "created": "2021-08-20T17:30:02.473",
-  "lastModified": "2021-08-23T17:58:50.310",
-  "titles": [
-    {
-      "title": "GNU glibc 2.34",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://sourceware.org/bugzilla/show_bug.cgi?id=28213",
-      "type": "Advisory"
-    },
-    {
-      "ref": "http://ftp.gnu.org/gnu/libc/",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:gnu:glibc:2.34:*:*:*:*:*:*:*",
+	"cpeNameId": "E2364EEB-0860-4CAE-9DF5-0649A80E9644",
+	"created": "2021-08-20T17:30:02.473",
+	"lastModified": "2021-08-23T17:58:50.310",
+	"titles": [
+		{
+			"title": "GNU glibc 2.34",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://sourceware.org/bugzilla/show_bug.cgi?id=28213",
+			"type": "Advisory"
+		},
+		{
+			"ref": "http://ftp.gnu.org/gnu/libc/",
+			"type": "Version"
+		}
+	]
 }

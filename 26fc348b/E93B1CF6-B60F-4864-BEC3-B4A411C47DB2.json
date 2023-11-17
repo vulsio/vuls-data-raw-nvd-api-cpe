@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:form:form.io:1.9.5:*:*:*:*:*:*:*",
-  "cpeNameId": "E93B1CF6-B60F-4864-BEC3-B4A411C47DB2",
-  "created": "2022-10-28T14:57:05.160",
-  "lastModified": "2022-10-28T17:54:55.163",
-  "titles": [
-    {
-      "title": "Form.IO 1.9.5",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.form.io/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/formio/formio/tags",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:form:form.io:1.9.5:*:*:*:*:*:*:*",
+	"cpeNameId": "E93B1CF6-B60F-4864-BEC3-B4A411C47DB2",
+	"created": "2022-10-28T14:57:05.160",
+	"lastModified": "2022-10-28T17:54:55.163",
+	"titles": [
+		{
+			"title": "Form.IO 1.9.5",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.form.io/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/formio/formio/tags",
+			"type": "Version"
+		}
+	]
 }

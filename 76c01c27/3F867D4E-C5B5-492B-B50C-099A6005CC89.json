@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:simple_subscription_website_project:simple_subscription_website:1.0:*:*:*:*:*:*:*",
-  "cpeNameId": "3F867D4E-C5B5-492B-B50C-099A6005CC89",
-  "created": "2021-11-04T14:03:20.937",
-  "lastModified": "2021-11-19T13:01:58.817",
-  "titles": [
-    {
-      "title": "Simple Subscription Website Project Simple Subscription Website 1.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.sourcecodester.com/php/15013/simple-subscription-website-admin-panel-php-and-sqlite-source-code.html",
-      "type": "Project"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:simple_subscription_website_project:simple_subscription_website:1.0:*:*:*:*:*:*:*",
+	"cpeNameId": "3F867D4E-C5B5-492B-B50C-099A6005CC89",
+	"created": "2021-11-04T14:03:20.937",
+	"lastModified": "2021-11-19T13:01:58.817",
+	"titles": [
+		{
+			"title": "Simple Subscription Website Project Simple Subscription Website 1.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.sourcecodester.com/php/15013/simple-subscription-website-admin-panel-php-and-sqlite-source-code.html",
+			"type": "Project"
+		}
+	]
 }

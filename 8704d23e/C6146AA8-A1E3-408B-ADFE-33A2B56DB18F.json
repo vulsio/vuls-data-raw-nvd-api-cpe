@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:redhat:tectonic:1.4.7-tectonic.1:*:*:*:*:*:*:*",
-  "cpeNameId": "C6146AA8-A1E3-408B-ADFE-33A2B56DB18F",
-  "created": "2019-09-18T12:02:51.107",
-  "lastModified": "2019-09-18T12:02:51.107",
-  "titles": [
-    {
-      "title": "Red Hat Tectonic 1.4.7-tectonic.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://coreos.com/tectonic/releases/",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:redhat:tectonic:1.4.7-tectonic.1:*:*:*:*:*:*:*",
+	"cpeNameId": "C6146AA8-A1E3-408B-ADFE-33A2B56DB18F",
+	"created": "2019-09-18T12:02:51.107",
+	"lastModified": "2019-09-18T12:02:51.107",
+	"titles": [
+		{
+			"title": "Red Hat Tectonic 1.4.7-tectonic.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://coreos.com/tectonic/releases/",
+			"type": "Change Log"
+		}
+	]
 }

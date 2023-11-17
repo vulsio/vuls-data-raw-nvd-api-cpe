@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:digium:asterisk:1.4.27:rc2:*:*:*:*:*:*",
-  "cpeNameId": "886292E2-825C-4468-B389-1C707914DB83",
-  "created": "2009-11-11T14:57:11.593",
-  "lastModified": "2012-07-03T18:47:40.193",
-  "titles": [
-    {
-      "title": "Digium Asterisk 1.4.27 release candidate 2",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:digium:asterisk:1.4.27:rc2:*:*:*:*:*:*",
+	"cpeNameId": "886292E2-825C-4468-B389-1C707914DB83",
+	"created": "2009-11-11T14:57:11.593",
+	"lastModified": "2012-07-03T18:47:40.193",
+	"titles": [
+		{
+			"title": "Digium Asterisk 1.4.27 release candidate 2",
+			"lang": "en"
+		}
+	]
 }

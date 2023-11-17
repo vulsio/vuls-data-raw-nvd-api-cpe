@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:codeaurora:android-msm:3.13.11:*:*:*:*:*:*:*",
-  "cpeNameId": "7855F347-A1A0-4E48-ADB1-4EF9296EEF1D",
-  "created": "2014-09-02T18:26:41.233",
-  "lastModified": "2014-09-04T21:29:47.827",
-  "titles": [
-    {
-      "title": "codeaurora android-msm 3.13.11",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.codeaurora.org/cgit/quic/la/kernel/msm/"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:codeaurora:android-msm:3.13.11:*:*:*:*:*:*:*",
+	"cpeNameId": "7855F347-A1A0-4E48-ADB1-4EF9296EEF1D",
+	"created": "2014-09-02T18:26:41.233",
+	"lastModified": "2014-09-04T21:29:47.827",
+	"titles": [
+		{
+			"title": "codeaurora android-msm 3.13.11",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.codeaurora.org/cgit/quic/la/kernel/msm/"
+		}
+	]
 }

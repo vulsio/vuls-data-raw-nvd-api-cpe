@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:nodejs:node.js:18.0.0:*:*:*:-:*:*:*",
-  "cpeNameId": "8BA3E055-35B9-4461-A416-E37D37B58536",
-  "created": "2022-07-26T18:43:27.860",
-  "lastModified": "2022-07-26T18:58:13.137",
-  "titles": [
-    {
-      "title": "Nodejs Node.js 18.0.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://nodejs.org/en/download/releases/",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:nodejs:node.js:18.0.0:*:*:*:-:*:*:*",
+	"cpeNameId": "8BA3E055-35B9-4461-A416-E37D37B58536",
+	"created": "2022-07-26T18:43:27.860",
+	"lastModified": "2022-07-26T18:58:13.137",
+	"titles": [
+		{
+			"title": "Nodejs Node.js 18.0.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://nodejs.org/en/download/releases/",
+			"type": "Version"
+		}
+	]
 }

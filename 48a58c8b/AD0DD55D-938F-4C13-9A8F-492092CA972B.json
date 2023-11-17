@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:sabberworm:php_css_parser:5.2.1:*:*:*:*:*:*:*",
-  "cpeNameId": "AD0DD55D-938F-4C13-9A8F-492092CA972B",
-  "created": "2020-06-04T18:38:21.350",
-  "lastModified": "2020-06-04T18:38:21.350",
-  "titles": [
-    {
-      "title": "Sabberworm PHP CSS Parser 5.2.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/sabberworm/PHP-CSS-Parser",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:sabberworm:php_css_parser:5.2.1:*:*:*:*:*:*:*",
+	"cpeNameId": "AD0DD55D-938F-4C13-9A8F-492092CA972B",
+	"created": "2020-06-04T18:38:21.350",
+	"lastModified": "2020-06-04T18:38:21.350",
+	"titles": [
+		{
+			"title": "Sabberworm PHP CSS Parser 5.2.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/sabberworm/PHP-CSS-Parser",
+			"type": "Change Log"
+		}
+	]
 }

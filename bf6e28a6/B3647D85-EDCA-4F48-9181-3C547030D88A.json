@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:apache:mesos:0.13.1:*:*:*:*:jenkins:*:*",
-  "cpeNameId": "B3647D85-EDCA-4F48-9181-3C547030D88A",
-  "created": "2019-01-23T17:17:58.337",
-  "lastModified": "2019-01-23T17:17:58.337",
-  "titles": [
-    {
-      "title": "Apache Software Foundation Mesos 0.13.1 for Jenkins",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/jenkinsci/mesos-plugin",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:apache:mesos:0.13.1:*:*:*:*:jenkins:*:*",
+	"cpeNameId": "B3647D85-EDCA-4F48-9181-3C547030D88A",
+	"created": "2019-01-23T17:17:58.337",
+	"lastModified": "2019-01-23T17:17:58.337",
+	"titles": [
+		{
+			"title": "Apache Software Foundation Mesos 0.13.1 for Jenkins",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/jenkinsci/mesos-plugin",
+			"type": "Version"
+		}
+	]
 }

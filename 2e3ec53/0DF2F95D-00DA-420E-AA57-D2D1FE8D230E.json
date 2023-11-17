@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:hp:officejet_pro_8725_m9l80a:-:*:*:*:*:*:*:*",
-  "cpeNameId": "0DF2F95D-00DA-420E-AA57-D2D1FE8D230E",
-  "created": "2021-11-12T12:33:09.120",
-  "lastModified": "2021-11-15T19:04:40.130",
-  "titles": [
-    {
-      "title": "HP OfficeJet Pro 8725 M9L80A",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://support.hp.com/us-en/document/c07051163",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:hp:officejet_pro_8725_m9l80a:-:*:*:*:*:*:*:*",
+	"cpeNameId": "0DF2F95D-00DA-420E-AA57-D2D1FE8D230E",
+	"created": "2021-11-12T12:33:09.120",
+	"lastModified": "2021-11-15T19:04:40.130",
+	"titles": [
+		{
+			"title": "HP OfficeJet Pro 8725 M9L80A",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://support.hp.com/us-en/document/c07051163",
+			"type": "Advisory"
+		}
+	]
 }

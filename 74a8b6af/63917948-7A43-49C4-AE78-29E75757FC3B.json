@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:redhat:libvirt:5.0.0:*:*:*:*:*:*:*",
-  "cpeNameId": "63917948-7A43-49C4-AE78-29E75757FC3B",
-  "created": "2019-03-28T13:47:44.403",
-  "lastModified": "2019-03-28T13:47:44.403",
-  "titles": [
-    {
-      "title": "Red Hat libvirt 5.0.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://libvirt.org/news.html",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:redhat:libvirt:5.0.0:*:*:*:*:*:*:*",
+	"cpeNameId": "63917948-7A43-49C4-AE78-29E75757FC3B",
+	"created": "2019-03-28T13:47:44.403",
+	"lastModified": "2019-03-28T13:47:44.403",
+	"titles": [
+		{
+			"title": "Red Hat libvirt 5.0.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://libvirt.org/news.html",
+			"type": "Change Log"
+		}
+	]
 }

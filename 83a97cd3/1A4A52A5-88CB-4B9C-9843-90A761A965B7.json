@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:autohotkey:autohotkey:1.1.22.06:*:*:*:*:*:*:*",
-  "cpeNameId": "1A4A52A5-88CB-4B9C-9843-90A761A965B7",
-  "created": "2021-08-02T12:27:41.763",
-  "lastModified": "2021-08-02T16:29:50.983",
-  "titles": [
-    {
-      "title": "AutoHotkey 1.1.22.06",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.autohotkey.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://www.autohotkey.com/docs/AHKL_ChangeLog.htm",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:autohotkey:autohotkey:1.1.22.06:*:*:*:*:*:*:*",
+	"cpeNameId": "1A4A52A5-88CB-4B9C-9843-90A761A965B7",
+	"created": "2021-08-02T12:27:41.763",
+	"lastModified": "2021-08-02T16:29:50.983",
+	"titles": [
+		{
+			"title": "AutoHotkey 1.1.22.06",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.autohotkey.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://www.autohotkey.com/docs/AHKL_ChangeLog.htm",
+			"type": "Change Log"
+		}
+	]
 }

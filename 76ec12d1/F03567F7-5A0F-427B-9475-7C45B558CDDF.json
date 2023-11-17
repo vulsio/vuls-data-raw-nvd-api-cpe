@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:crawlability:vbseo:3.6.0:beta1:*:*:*:*:*:*",
-  "cpeNameId": "F03567F7-5A0F-427B-9475-7C45B558CDDF",
-  "created": "2012-10-02T17:41:44.207",
-  "lastModified": "2012-10-05T18:28:09.583",
-  "titles": [
-    {
-      "title": "Crawlability vBSEO 3.6.0 beta1",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:crawlability:vbseo:3.6.0:beta1:*:*:*:*:*:*",
+	"cpeNameId": "F03567F7-5A0F-427B-9475-7C45B558CDDF",
+	"created": "2012-10-02T17:41:44.207",
+	"lastModified": "2012-10-05T18:28:09.583",
+	"titles": [
+		{
+			"title": "Crawlability vBSEO 3.6.0 beta1",
+			"lang": "en"
+		}
+	]
 }

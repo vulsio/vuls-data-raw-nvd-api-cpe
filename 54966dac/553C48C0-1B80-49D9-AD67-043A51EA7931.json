@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:synology:diskstation_manager:6.0.2-8451-3:*:*:*:*:*:*:*",
-  "cpeNameId": "553C48C0-1B80-49D9-AD67-043A51EA7931",
-  "created": "2019-05-09T14:33:24.807",
-  "lastModified": "2019-05-09T14:33:24.807",
-  "titles": [
-    {
-      "title": "Synology Diskstation Manager 6.0.2-8451-3",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.synology.com/en-us/releaseNote/DS211j",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:synology:diskstation_manager:6.0.2-8451-3:*:*:*:*:*:*:*",
+	"cpeNameId": "553C48C0-1B80-49D9-AD67-043A51EA7931",
+	"created": "2019-05-09T14:33:24.807",
+	"lastModified": "2019-05-09T14:33:24.807",
+	"titles": [
+		{
+			"title": "Synology Diskstation Manager 6.0.2-8451-3",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.synology.com/en-us/releaseNote/DS211j",
+			"type": "Version"
+		}
+	]
 }

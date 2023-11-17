@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:elementor:website_builder:3.0.14:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "53D89E3E-9E48-417D-97F0-042A66F7D584",
-  "created": "2021-01-08T14:07:06.980",
-  "lastModified": "2021-01-08T14:07:06.980",
-  "titles": [
-    {
-      "title": "Elementor Website Builder 3.0.14 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wordpress.org/plugins/elementor/#developers",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://elementor.com/?utm_source=wp-plugins&utm_campaign=author-uri&utm_medium=wp-dash",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:elementor:website_builder:3.0.14:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "53D89E3E-9E48-417D-97F0-042A66F7D584",
+	"created": "2021-01-08T14:07:06.980",
+	"lastModified": "2021-01-08T14:07:06.980",
+	"titles": [
+		{
+			"title": "Elementor Website Builder 3.0.14 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/elementor/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://elementor.com/?utm_source=wp-plugins&utm_campaign=author-uri&utm_medium=wp-dash",
+			"type": "Product"
+		}
+	]
 }

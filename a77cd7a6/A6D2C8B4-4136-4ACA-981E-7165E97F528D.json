@@ -1,29 +1,29 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:wpulike:wp_ulike:3.1:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "A6D2C8B4-4136-4ACA-981E-7165E97F528D",
-  "created": "2022-11-30T19:44:15.057",
-  "lastModified": "2022-11-30T19:47:57.507",
-  "titles": [
-    {
-      "title": "WP ULike 3.1 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wpulike.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://wordpress.org/plugins/wp-ulike/#developers",
-      "type": "Change Log"
-    }
-  ],
-  "deprecates": [
-    {
-      "cpeName": "cpe:2.3:a:wp_ulike_project:wp_ulike:3.1:*:*:*:*:wordpress:*:*",
-      "cpeNameId": "4A9BC778-EE1A-4C5B-8B08-8C98B3055105"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:wpulike:wp_ulike:3.1:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "A6D2C8B4-4136-4ACA-981E-7165E97F528D",
+	"created": "2022-11-30T19:44:15.057",
+	"lastModified": "2022-11-30T19:47:57.507",
+	"titles": [
+		{
+			"title": "WP ULike 3.1 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wpulike.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/wp-ulike/#developers",
+			"type": "Change Log"
+		}
+	],
+	"deprecates": [
+		{
+			"cpeName": "cpe:2.3:a:wp_ulike_project:wp_ulike:3.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "4A9BC778-EE1A-4C5B-8B08-8C98B3055105"
+		}
+	]
 }

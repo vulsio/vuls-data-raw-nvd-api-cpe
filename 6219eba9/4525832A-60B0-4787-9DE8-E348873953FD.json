@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:domainmod:domainmod:0.33.2:*:*:*:*:*:*:*",
-  "cpeNameId": "4525832A-60B0-4787-9DE8-E348873953FD",
-  "created": "2019-06-15T20:35:24.997",
-  "lastModified": "2019-06-15T20:35:24.997",
-  "titles": [
-    {
-      "title": "DomainMod 0.33.2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/domainmod/domainmod",
-      "type": "Version"
-    },
-    {
-      "ref": "https://domainmod.org/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:domainmod:domainmod:0.33.2:*:*:*:*:*:*:*",
+	"cpeNameId": "4525832A-60B0-4787-9DE8-E348873953FD",
+	"created": "2019-06-15T20:35:24.997",
+	"lastModified": "2019-06-15T20:35:24.997",
+	"titles": [
+		{
+			"title": "DomainMod 0.33.2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/domainmod/domainmod",
+			"type": "Version"
+		},
+		{
+			"ref": "https://domainmod.org/",
+			"type": "Vendor"
+		}
+	]
 }

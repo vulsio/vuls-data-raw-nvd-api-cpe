@@ -1,17 +1,17 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:3com:webbngss3nbxnts:-:*:*:*:*:*:*:*",
-  "cpeNameId": "D76DE3F0-1884-4065-939F-DF41DFE1B08B",
-  "created": "2007-08-23T21:05:57.937",
-  "lastModified": "2011-01-12T14:36:10.007",
-  "titles": [
-    {
-      "title": "3Com 3Com SuperStack 3 NBX",
-      "lang": "en"
-    },
-    {
-      "title": "スリーコム 3Com SuperStack 3 NBX",
-      "lang": "ja"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:3com:webbngss3nbxnts:-:*:*:*:*:*:*:*",
+	"cpeNameId": "D76DE3F0-1884-4065-939F-DF41DFE1B08B",
+	"created": "2007-08-23T21:05:57.937",
+	"lastModified": "2011-01-12T14:36:10.007",
+	"titles": [
+		{
+			"title": "3Com 3Com SuperStack 3 NBX",
+			"lang": "en"
+		},
+		{
+			"title": "スリーコム 3Com SuperStack 3 NBX",
+			"lang": "ja"
+		}
+	]
 }

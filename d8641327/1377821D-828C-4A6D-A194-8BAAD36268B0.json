@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:f5:f5os-c:1.5.0:*:*:*:*:*:*:*",
-  "cpeNameId": "1377821D-828C-4A6D-A194-8BAAD36268B0",
-  "created": "2023-05-16T12:00:01.200",
-  "lastModified": "2023-07-21T17:32:34.973",
-  "titles": [
-    {
-      "title": "F5 F5os-c 1.5.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://my.f5.com/manage/s/article/K83120834",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:f5:f5os-c:1.5.0:*:*:*:*:*:*:*",
+	"cpeNameId": "1377821D-828C-4A6D-A194-8BAAD36268B0",
+	"created": "2023-05-16T12:00:01.200",
+	"lastModified": "2023-07-21T17:32:34.973",
+	"titles": [
+		{
+			"title": "F5 F5os-c 1.5.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://my.f5.com/manage/s/article/K83120834",
+			"type": "Advisory"
+		}
+	]
 }

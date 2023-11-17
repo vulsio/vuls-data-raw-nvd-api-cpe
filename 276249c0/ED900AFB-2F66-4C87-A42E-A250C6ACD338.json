@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:redhat:mod_cluster:1.2.9:*:*:*:*:*:*:*",
-  "cpeNameId": "ED900AFB-2F66-4C87-A42E-A250C6ACD338",
-  "created": "2020-06-16T13:32:52.453",
-  "lastModified": "2020-06-16T13:32:52.453",
-  "titles": [
-    {
-      "title": "Red Hat mod_cluster 1.2.9",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://access.redhat.com/solutions/1270103",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:redhat:mod_cluster:1.2.9:*:*:*:*:*:*:*",
+	"cpeNameId": "ED900AFB-2F66-4C87-A42E-A250C6ACD338",
+	"created": "2020-06-16T13:32:52.453",
+	"lastModified": "2020-06-16T13:32:52.453",
+	"titles": [
+		{
+			"title": "Red Hat mod_cluster 1.2.9",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://access.redhat.com/solutions/1270103",
+			"type": "Version"
+		}
+	]
 }

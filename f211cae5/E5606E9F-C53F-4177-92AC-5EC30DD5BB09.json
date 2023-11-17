@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:znote:znote:1.5.1:*:*:*:*:*:*:*",
-  "cpeNameId": "E5606E9F-C53F-4177-92AC-5EC30DD5BB09",
-  "created": "2022-12-21T11:57:26.223",
-  "lastModified": "2022-12-21T12:00:58.903",
-  "titles": [
-    {
-      "title": "Znote 1.5.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://znote.io/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/alagrede/znote-app/tags",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:znote:znote:1.5.1:*:*:*:*:*:*:*",
+	"cpeNameId": "E5606E9F-C53F-4177-92AC-5EC30DD5BB09",
+	"created": "2022-12-21T11:57:26.223",
+	"lastModified": "2022-12-21T12:00:58.903",
+	"titles": [
+		{
+			"title": "Znote 1.5.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://znote.io/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/alagrede/znote-app/tags",
+			"type": "Version"
+		}
+	]
 }

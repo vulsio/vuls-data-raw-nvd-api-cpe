@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:pagerduty:rundeck:4.1.0:rc3:*:*:community:*:*:*",
-  "cpeNameId": "9E72EDB8-0A6B-4100-834E-0ACD20098A99",
-  "created": "2022-06-06T16:07:18.227",
-  "lastModified": "2022-06-08T19:00:04.117",
-  "titles": [
-    {
-      "title": "Pagerduty Rundeck 4.1.0 Release Candidate 3 Community Edition",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/rundeck/rundeck/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:pagerduty:rundeck:4.1.0:rc3:*:*:community:*:*:*",
+	"cpeNameId": "9E72EDB8-0A6B-4100-834E-0ACD20098A99",
+	"created": "2022-06-06T16:07:18.227",
+	"lastModified": "2022-06-08T19:00:04.117",
+	"titles": [
+		{
+			"title": "Pagerduty Rundeck 4.1.0 Release Candidate 3 Community Edition",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/rundeck/rundeck/releases",
+			"type": "Change Log"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:mq-woocommerce-products-price-bulk-edit_project:mq-woocommerce-products-price-bulk-edit:-:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "E92AD641-2164-439F-80E3-D7AB6DF3504B",
-  "created": "2020-05-06T12:06:52.157",
-  "lastModified": "2020-05-06T12:06:52.157",
-  "titles": [
-    {
-      "title": "mq-woocommerce-products-price-bulk-edit Project mq-woocommerce-products-price-bulk-edit for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wordpress.org/plugins/mq-woocommerce-products-price-bulk-edit/#description",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:mq-woocommerce-products-price-bulk-edit_project:mq-woocommerce-products-price-bulk-edit:-:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "E92AD641-2164-439F-80E3-D7AB6DF3504B",
+	"created": "2020-05-06T12:06:52.157",
+	"lastModified": "2020-05-06T12:06:52.157",
+	"titles": [
+		{
+			"title": "mq-woocommerce-products-price-bulk-edit Project mq-woocommerce-products-price-bulk-edit for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/mq-woocommerce-products-price-bulk-edit/#description",
+			"type": "Product"
+		}
+	]
 }

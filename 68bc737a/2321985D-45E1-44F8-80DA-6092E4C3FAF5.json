@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:bitcoincore:bitcoin_core:0.8.6:*:*:*:*:*:*:*",
-  "cpeNameId": "2321985D-45E1-44F8-80DA-6092E4C3FAF5",
-  "created": "2018-08-25T12:12:00.297",
-  "lastModified": "2021-03-16T18:08:02.160",
-  "titles": [
-    {
-      "title": "Bitcoincore Bitcoin Core 0.8.6",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://bitcoin.org/en/version-history",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:bitcoincore:bitcoin_core:0.8.6:*:*:*:*:*:*:*",
+	"cpeNameId": "2321985D-45E1-44F8-80DA-6092E4C3FAF5",
+	"created": "2018-08-25T12:12:00.297",
+	"lastModified": "2021-03-16T18:08:02.160",
+	"titles": [
+		{
+			"title": "Bitcoincore Bitcoin Core 0.8.6",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://bitcoin.org/en/version-history",
+			"type": "Version"
+		}
+	]
 }

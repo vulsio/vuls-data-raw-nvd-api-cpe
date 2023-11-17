@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:apple:webobjects:5.1:*:*:*:*:*:*:*",
-  "cpeNameId": "D33B57FC-935F-4946-823B-49D46EF193AD",
-  "created": "2011-11-10T15:13:44.497",
-  "lastModified": "2011-11-17T21:09:25.313",
-  "titles": [
-    {
-      "title": "Apple WebObjects 5.1",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:apple:webobjects:5.1:*:*:*:*:*:*:*",
+	"cpeNameId": "D33B57FC-935F-4946-823B-49D46EF193AD",
+	"created": "2011-11-10T15:13:44.497",
+	"lastModified": "2011-11-17T21:09:25.313",
+	"titles": [
+		{
+			"title": "Apple WebObjects 5.1",
+			"lang": "en"
+		}
+	]
 }

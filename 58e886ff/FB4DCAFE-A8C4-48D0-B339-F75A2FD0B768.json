@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:transmissionbt:transmission:0.82:*:*:*:*:*:*:*",
-  "cpeNameId": "FB4DCAFE-A8C4-48D0-B339-F75A2FD0B768",
-  "created": "2010-05-10T18:00:57.907",
-  "lastModified": "2012-08-20T18:06:35.403",
-  "titles": [
-    {
-      "title": "transmissionbt Transmission 0.82",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:transmissionbt:transmission:0.82:*:*:*:*:*:*:*",
+	"cpeNameId": "FB4DCAFE-A8C4-48D0-B339-F75A2FD0B768",
+	"created": "2010-05-10T18:00:57.907",
+	"lastModified": "2012-08-20T18:06:35.403",
+	"titles": [
+		{
+			"title": "transmissionbt Transmission 0.82",
+			"lang": "en"
+		}
+	]
 }

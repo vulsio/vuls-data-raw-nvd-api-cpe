@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:gnu:glibc:2.25:*:*:*:*:*:*:*",
-  "cpeNameId": "8D376537-3BB6-4001-82F2-60A47142C03F",
-  "created": "2017-09-24T13:02:20.937",
-  "lastModified": "2017-09-24T13:02:20.937",
-  "titles": [
-    {
-      "title": "GNU glibc 2.25",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://sourceware.org/glibc/wiki/Release",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:gnu:glibc:2.25:*:*:*:*:*:*:*",
+	"cpeNameId": "8D376537-3BB6-4001-82F2-60A47142C03F",
+	"created": "2017-09-24T13:02:20.937",
+	"lastModified": "2017-09-24T13:02:20.937",
+	"titles": [
+		{
+			"title": "GNU glibc 2.25",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://sourceware.org/glibc/wiki/Release",
+			"type": "Version"
+		}
+	]
 }

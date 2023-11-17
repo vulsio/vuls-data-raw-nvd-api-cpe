@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:cyberlink:power2go:7.0:*:*:*:*:*:*:*",
-  "cpeNameId": "AC654C43-DB89-4A16-BB06-21A140651480",
-  "created": "2012-09-21T17:59:09.137",
-  "lastModified": "2012-09-21T20:03:36.400",
-  "titles": [
-    {
-      "title": "CyberLink Power2Go 7.0",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:cyberlink:power2go:7.0:*:*:*:*:*:*:*",
+	"cpeNameId": "AC654C43-DB89-4A16-BB06-21A140651480",
+	"created": "2012-09-21T17:59:09.137",
+	"lastModified": "2012-09-21T20:03:36.400",
+	"titles": [
+		{
+			"title": "CyberLink Power2Go 7.0",
+			"lang": "en"
+		}
+	]
 }

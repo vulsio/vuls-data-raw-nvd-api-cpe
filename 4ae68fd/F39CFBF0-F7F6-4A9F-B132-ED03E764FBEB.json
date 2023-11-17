@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:openafs:openafs:1.6.14.1:*:*:*:*:*:*:*",
-  "cpeNameId": "F39CFBF0-F7F6-4A9F-B132-ED03E764FBEB",
-  "created": "2015-11-09T15:26:42.770",
-  "lastModified": "2015-11-18T20:10:57.557",
-  "titles": [
-    {
-      "title": "OpenAFS 1.6.14.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.openafs.org/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:openafs:openafs:1.6.14.1:*:*:*:*:*:*:*",
+	"cpeNameId": "F39CFBF0-F7F6-4A9F-B132-ED03E764FBEB",
+	"created": "2015-11-09T15:26:42.770",
+	"lastModified": "2015-11-18T20:10:57.557",
+	"titles": [
+		{
+			"title": "OpenAFS 1.6.14.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.openafs.org/",
+			"type": "Vendor"
+		}
+	]
 }

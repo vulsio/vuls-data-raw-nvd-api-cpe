@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:juniper:junos:6.1:*:*:*:*:*:*:*",
-  "cpeNameId": "10E1BE69-8BC6-4ED3-AA6C-93650C17631F",
-  "created": "2007-08-23T21:16:59.567",
-  "lastModified": "2007-09-14T17:36:49.090",
-  "titles": [
-    {
-      "title": "Juniper JUNOS 6.1",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:juniper:junos:6.1:*:*:*:*:*:*:*",
+	"cpeNameId": "10E1BE69-8BC6-4ED3-AA6C-93650C17631F",
+	"created": "2007-08-23T21:16:59.567",
+	"lastModified": "2007-09-14T17:36:49.090",
+	"titles": [
+		{
+			"title": "Juniper JUNOS 6.1",
+			"lang": "en"
+		}
+	]
 }

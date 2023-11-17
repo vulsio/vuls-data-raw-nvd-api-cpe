@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:openssl:openssl:3.0.0:*:*:*:*:*:*:*",
-  "cpeNameId": "59209EE4-3B03-461B-B5C5-7E53F320C437",
-  "created": "2021-12-23T20:15:47.883",
-  "lastModified": "2023-06-06T14:46:22.300",
-  "titles": [
-    {
-      "title": "OpenSSL  OpenSSL 3.0.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/openssl/openssl/tags",
-      "type": "Version"
-    },
-    {
-      "ref": "https://www.openssl.org/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:openssl:openssl:3.0.0:*:*:*:*:*:*:*",
+	"cpeNameId": "59209EE4-3B03-461B-B5C5-7E53F320C437",
+	"created": "2021-12-23T20:15:47.883",
+	"lastModified": "2023-06-06T14:46:22.300",
+	"titles": [
+		{
+			"title": "OpenSSL  OpenSSL 3.0.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/openssl/openssl/tags",
+			"type": "Version"
+		},
+		{
+			"ref": "https://www.openssl.org/",
+			"type": "Vendor"
+		}
+	]
 }

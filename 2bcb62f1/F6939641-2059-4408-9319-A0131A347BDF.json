@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:redhat:ceph:0.9:*:*:*:*:*:*:*",
-  "cpeNameId": "F6939641-2059-4408-9319-A0131A347BDF",
-  "created": "2019-04-15T16:53:17.387",
-  "lastModified": "2019-04-15T16:53:17.387",
-  "titles": [
-    {
-      "title": "Red hat Ceph 0.9",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/ceph/ceph",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:redhat:ceph:0.9:*:*:*:*:*:*:*",
+	"cpeNameId": "F6939641-2059-4408-9319-A0131A347BDF",
+	"created": "2019-04-15T16:53:17.387",
+	"lastModified": "2019-04-15T16:53:17.387",
+	"titles": [
+		{
+			"title": "Red hat Ceph 0.9",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/ceph/ceph",
+			"type": "Version"
+		}
+	]
 }

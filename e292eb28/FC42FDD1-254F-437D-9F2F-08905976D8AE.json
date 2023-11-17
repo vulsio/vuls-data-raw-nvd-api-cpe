@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:arm:trusted_firmware-a:2.2:rc1:*:*:*:*:*:*",
-  "cpeNameId": "FC42FDD1-254F-437D-9F2F-08905976D8AE",
-  "created": "2020-11-19T13:25:44.323",
-  "lastModified": "2020-11-19T13:25:44.323",
-  "titles": [
-    {
-      "title": "Arm Trusted Firmware-A (TF-A) 2.2 Release Candidate 1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/ARM-software/arm-trusted-firmware",
-      "type": "Version"
-    },
-    {
-      "ref": "https://www.arm.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:arm:trusted_firmware-a:2.2:rc1:*:*:*:*:*:*",
+	"cpeNameId": "FC42FDD1-254F-437D-9F2F-08905976D8AE",
+	"created": "2020-11-19T13:25:44.323",
+	"lastModified": "2020-11-19T13:25:44.323",
+	"titles": [
+		{
+			"title": "Arm Trusted Firmware-A (TF-A) 2.2 Release Candidate 1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/ARM-software/arm-trusted-firmware",
+			"type": "Version"
+		},
+		{
+			"ref": "https://www.arm.com/",
+			"type": "Vendor"
+		}
+	]
 }

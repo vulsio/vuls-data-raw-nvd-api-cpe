@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:mendix:mendix:7.23.1:*:*:*:*:*:*:*",
-  "cpeNameId": "6AA4271B-5235-44BC-B403-50866458CE6D",
-  "created": "2019-09-11T14:39:05.947",
-  "lastModified": "2019-09-11T14:39:05.947",
-  "titles": [
-    {
-      "title": "Mendix 7.23.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://docs.mendix.com/releasenotes/studio-pro/7.23",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:mendix:mendix:7.23.1:*:*:*:*:*:*:*",
+	"cpeNameId": "6AA4271B-5235-44BC-B403-50866458CE6D",
+	"created": "2019-09-11T14:39:05.947",
+	"lastModified": "2019-09-11T14:39:05.947",
+	"titles": [
+		{
+			"title": "Mendix 7.23.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://docs.mendix.com/releasenotes/studio-pro/7.23",
+			"type": "Change Log"
+		}
+	]
 }

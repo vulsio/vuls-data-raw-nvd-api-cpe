@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:openstack:neutron:juno-1:*:*:*:*:*:*:*",
-  "cpeNameId": "759A7859-232D-41F6-9B4D-1F3E41ADE0AA",
-  "created": "2014-07-11T17:25:45.583",
-  "lastModified": "2014-07-15T22:02:15.087",
-  "titles": [
-    {
-      "title": "Openstack Neutron Juno-1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://launchpad.net/neutron/+series",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:openstack:neutron:juno-1:*:*:*:*:*:*:*",
+	"cpeNameId": "759A7859-232D-41F6-9B4D-1F3E41ADE0AA",
+	"created": "2014-07-11T17:25:45.583",
+	"lastModified": "2014-07-15T22:02:15.087",
+	"titles": [
+		{
+			"title": "Openstack Neutron Juno-1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://launchpad.net/neutron/+series",
+			"type": "Change Log"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:cyrus:imap:2.1.0:*:*:*:*:*:*:*",
-  "cpeNameId": "C59E716C-3CE7-4733-B56B-E589EB2614D7",
-  "created": "2021-05-24T19:19:47.370",
-  "lastModified": "2021-05-25T21:28:06.160",
-  "titles": [
-    {
-      "title": "Cyrus IMAP 2.1.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.cyrusimap.org/imap/download/release-notes/index.html#",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:cyrus:imap:2.1.0:*:*:*:*:*:*:*",
+	"cpeNameId": "C59E716C-3CE7-4733-B56B-E589EB2614D7",
+	"created": "2021-05-24T19:19:47.370",
+	"lastModified": "2021-05-25T21:28:06.160",
+	"titles": [
+		{
+			"title": "Cyrus IMAP 2.1.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.cyrusimap.org/imap/download/release-notes/index.html#",
+			"type": "Change Log"
+		}
+	]
 }

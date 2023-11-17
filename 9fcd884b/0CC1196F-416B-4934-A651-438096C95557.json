@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:online_class_and_exam_scheduling_system_project:online_class_and_exam_scheduling_system:1.0:*:*:*:*:*:*:*",
-  "cpeNameId": "0CC1196F-416B-4934-A651-438096C95557",
-  "created": "2022-08-09T15:12:27.367",
-  "lastModified": "2022-08-09T15:18:28.023",
-  "titles": [
-    {
-      "title": "Online Class and Exam Scheduling System Project Online Class and Exam Scheduling System 1.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.sourcecodester.com/php/11353/online-class-and-exam-scheduling-system.html",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:online_class_and_exam_scheduling_system_project:online_class_and_exam_scheduling_system:1.0:*:*:*:*:*:*:*",
+	"cpeNameId": "0CC1196F-416B-4934-A651-438096C95557",
+	"created": "2022-08-09T15:12:27.367",
+	"lastModified": "2022-08-09T15:18:28.023",
+	"titles": [
+		{
+			"title": "Online Class and Exam Scheduling System Project Online Class and Exam Scheduling System 1.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.sourcecodester.com/php/11353/online-class-and-exam-scheduling-system.html",
+			"type": "Product"
+		}
+	]
 }

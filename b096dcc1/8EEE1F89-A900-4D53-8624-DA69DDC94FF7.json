@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:typemill:typemill:1.4.8:*:*:*:*:*:*:*",
-  "cpeNameId": "8EEE1F89-A900-4D53-8624-DA69DDC94FF7",
-  "created": "2022-05-03T17:18:59.973",
-  "lastModified": "2022-05-05T01:11:44.147",
-  "titles": [
-    {
-      "title": "Typemill 1.4.8",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://typemill.net/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://typemill.net/news",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:typemill:typemill:1.4.8:*:*:*:*:*:*:*",
+	"cpeNameId": "8EEE1F89-A900-4D53-8624-DA69DDC94FF7",
+	"created": "2022-05-03T17:18:59.973",
+	"lastModified": "2022-05-05T01:11:44.147",
+	"titles": [
+		{
+			"title": "Typemill 1.4.8",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://typemill.net/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://typemill.net/news",
+			"type": "Change Log"
+		}
+	]
 }

@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:scala-js:scala.js:0.5.0:milestone1:*:*:*:*:*:*",
-  "cpeNameId": "B37B0803-90B9-4245-B261-4C06524D293A",
-  "created": "2022-04-11T16:44:27.980",
-  "lastModified": "2022-04-13T15:25:03.200",
-  "titles": [
-    {
-      "title": "Scala-js Scala.js 0.5.0 Milestone 1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.scala-js.org/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/scala-js/scala-js",
-      "type": "Product"
-    },
-    {
-      "ref": "https://github.com/scala-js/scala-js/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:scala-js:scala.js:0.5.0:milestone1:*:*:*:*:*:*",
+	"cpeNameId": "B37B0803-90B9-4245-B261-4C06524D293A",
+	"created": "2022-04-11T16:44:27.980",
+	"lastModified": "2022-04-13T15:25:03.200",
+	"titles": [
+		{
+			"title": "Scala-js Scala.js 0.5.0 Milestone 1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.scala-js.org/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/scala-js/scala-js",
+			"type": "Product"
+		},
+		{
+			"ref": "https://github.com/scala-js/scala-js/releases",
+			"type": "Change Log"
+		}
+	]
 }

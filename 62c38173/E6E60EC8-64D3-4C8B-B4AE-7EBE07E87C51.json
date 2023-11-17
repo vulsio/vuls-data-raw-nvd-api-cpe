@@ -1,17 +1,17 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:rocomotion:pplog_2:3.17:*:*:*:*:*:*:*",
-  "cpeNameId": "E6E60EC8-64D3-4C8B-B4AE-7EBE07E87C51",
-  "created": "2011-01-21T15:50:37.780",
-  "lastModified": "2011-02-08T13:54:44.587",
-  "titles": [
-    {
-      "title": "Rocomotion pplog2 3.17",
-      "lang": "en"
-    },
-    {
-      "title": "Rocomotion pplog2 3.17",
-      "lang": "ja"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:rocomotion:pplog_2:3.17:*:*:*:*:*:*:*",
+	"cpeNameId": "E6E60EC8-64D3-4C8B-B4AE-7EBE07E87C51",
+	"created": "2011-01-21T15:50:37.780",
+	"lastModified": "2011-02-08T13:54:44.587",
+	"titles": [
+		{
+			"title": "Rocomotion pplog2 3.17",
+			"lang": "en"
+		},
+		{
+			"title": "Rocomotion pplog2 3.17",
+			"lang": "ja"
+		}
+	]
 }

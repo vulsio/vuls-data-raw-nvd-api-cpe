@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:iced-x86_project:iced-x86:1.10.0:*:*:*:*:rust:*:*",
-  "cpeNameId": "2B106A54-F80E-48B3-ACC4-EE184FD42B91",
-  "created": "2021-08-20T11:54:39.840",
-  "lastModified": "2021-08-23T13:18:08.140",
-  "titles": [
-    {
-      "title": "iced-x86 Project iced-x86 1.10.0 for Rust",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://crates.io/crates/iced-x86/versions",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:iced-x86_project:iced-x86:1.10.0:*:*:*:*:rust:*:*",
+	"cpeNameId": "2B106A54-F80E-48B3-ACC4-EE184FD42B91",
+	"created": "2021-08-20T11:54:39.840",
+	"lastModified": "2021-08-23T13:18:08.140",
+	"titles": [
+		{
+			"title": "iced-x86 Project iced-x86 1.10.0 for Rust",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://crates.io/crates/iced-x86/versions",
+			"type": "Version"
+		}
+	]
 }

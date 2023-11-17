@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:canonical:multipass:1.6.1:*:*:*:*:*:*:*",
-  "cpeNameId": "E7B903CC-842F-409A-8A7E-65CEB78A451A",
-  "created": "2022-09-29T13:59:38.563",
-  "lastModified": "2022-09-29T14:04:05.353",
-  "titles": [
-    {
-      "title": "Canonical Multipass 1.6.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://canonical.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://multipass.run/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://github.com/canonical/multipass/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:canonical:multipass:1.6.1:*:*:*:*:*:*:*",
+	"cpeNameId": "E7B903CC-842F-409A-8A7E-65CEB78A451A",
+	"created": "2022-09-29T13:59:38.563",
+	"lastModified": "2022-09-29T14:04:05.353",
+	"titles": [
+		{
+			"title": "Canonical Multipass 1.6.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://canonical.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://multipass.run/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://github.com/canonical/multipass/releases",
+			"type": "Change Log"
+		}
+	]
 }

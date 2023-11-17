@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:systemtap:systemtap:1.6.7:*:*:*:*:*:*:*",
-  "cpeNameId": "D8DEC301-C221-4AA1-A454-0D0E04939261",
-  "created": "2014-02-05T16:55:24.983",
-  "lastModified": "2014-09-03T21:51:39.593",
-  "titles": [
-    {
-      "title": "SystemTap 1.6.7",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://sourceware.org/systemtap/wiki/SystemTapReleases"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:systemtap:systemtap:1.6.7:*:*:*:*:*:*:*",
+	"cpeNameId": "D8DEC301-C221-4AA1-A454-0D0E04939261",
+	"created": "2014-02-05T16:55:24.983",
+	"lastModified": "2014-09-03T21:51:39.593",
+	"titles": [
+		{
+			"title": "SystemTap 1.6.7",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://sourceware.org/systemtap/wiki/SystemTapReleases"
+		}
+	]
 }

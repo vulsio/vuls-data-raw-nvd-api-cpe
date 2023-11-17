@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:mediatek:mt8666:-:*:*:*:*:*:*:*",
-  "cpeNameId": "84E09531-6793-4D82-9030-25345F148E17",
-  "created": "2022-01-14T14:24:23.727",
-  "lastModified": "2022-04-01T18:10:22.650",
-  "titles": [
-    {
-      "title": "MediaTek MT8666",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://corp.mediatek.com/product-security-bulletin/January-2022",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:mediatek:mt8666:-:*:*:*:*:*:*:*",
+	"cpeNameId": "84E09531-6793-4D82-9030-25345F148E17",
+	"created": "2022-01-14T14:24:23.727",
+	"lastModified": "2022-04-01T18:10:22.650",
+	"titles": [
+		{
+			"title": "MediaTek MT8666",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://corp.mediatek.com/product-security-bulletin/January-2022",
+			"type": "Advisory"
+		}
+	]
 }

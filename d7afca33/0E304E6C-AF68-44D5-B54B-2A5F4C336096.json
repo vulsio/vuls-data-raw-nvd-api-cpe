@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:owncloud:owncloud:10.0.5:rc4:*:*:*:*:*:*",
-  "cpeNameId": "0E304E6C-AF68-44D5-B54B-2A5F4C336096",
-  "created": "2019-06-25T15:59:41.227",
-  "lastModified": "2019-06-25T15:59:41.243",
-  "titles": [
-    {
-      "title": "ownCloud 10.0.5 Release Candidate 4",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/owncloud/docs/tags",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:owncloud:owncloud:10.0.5:rc4:*:*:*:*:*:*",
+	"cpeNameId": "0E304E6C-AF68-44D5-B54B-2A5F4C336096",
+	"created": "2019-06-25T15:59:41.227",
+	"lastModified": "2019-06-25T15:59:41.243",
+	"titles": [
+		{
+			"title": "ownCloud 10.0.5 Release Candidate 4",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/owncloud/docs/tags",
+			"type": "Change Log"
+		}
+	]
 }

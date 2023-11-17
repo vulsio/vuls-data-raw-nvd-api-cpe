@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:cisco:nx-os:-:*:*:*:*:*:*:*",
-  "cpeNameId": "77723E20-BCF0-43F7-BA8C-79F68A0FC400",
-  "created": "2013-01-21T15:18:33.307",
-  "lastModified": "2013-02-27T17:42:13.620",
-  "titles": [
-    {
-      "title": "Cisco NX-OS",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:cisco:nx-os:-:*:*:*:*:*:*:*",
+	"cpeNameId": "77723E20-BCF0-43F7-BA8C-79F68A0FC400",
+	"created": "2013-01-21T15:18:33.307",
+	"lastModified": "2013-02-27T17:42:13.620",
+	"titles": [
+		{
+			"title": "Cisco NX-OS",
+			"lang": "en"
+		}
+	]
 }

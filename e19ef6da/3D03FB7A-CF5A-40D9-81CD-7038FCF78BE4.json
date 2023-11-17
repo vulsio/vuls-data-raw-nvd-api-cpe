@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:mappresspro:mappress_maps_for_wordpress:2.83.17:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "3D03FB7A-CF5A-40D9-81CD-7038FCF78BE4",
-  "created": "2023-11-07T20:40:51.173",
-  "lastModified": "2023-11-07T20:40:51.173",
-  "titles": [
-    {
-      "title": "MapPress Pro MapPress Maps for WordPress 2.83.17 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wordpress.org/plugins/mappress-google-maps-for-wordpress/#developers",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://mappresspro.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:mappresspro:mappress_maps_for_wordpress:2.83.17:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "3D03FB7A-CF5A-40D9-81CD-7038FCF78BE4",
+	"created": "2023-11-07T20:40:51.173",
+	"lastModified": "2023-11-07T20:40:51.173",
+	"titles": [
+		{
+			"title": "MapPress Pro MapPress Maps for WordPress 2.83.17 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/mappress-google-maps-for-wordpress/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://mappresspro.com/",
+			"type": "Vendor"
+		}
+	]
 }

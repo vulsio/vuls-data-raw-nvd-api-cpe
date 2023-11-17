@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:freebsd:freebsd:4.7:p6:*:*:*:*:*:*",
-  "cpeNameId": "B7F6351F-463B-4FCC-B543-142732EB87AD",
-  "created": "2019-03-18T17:28:11.977",
-  "lastModified": "2019-03-18T17:28:11.977",
-  "titles": [
-    {
-      "title": "FreeBSD 4.7 Patch 6",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.freebsd.org/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://www.freebsd.org/security/advisories.html",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:freebsd:freebsd:4.7:p6:*:*:*:*:*:*",
+	"cpeNameId": "B7F6351F-463B-4FCC-B543-142732EB87AD",
+	"created": "2019-03-18T17:28:11.977",
+	"lastModified": "2019-03-18T17:28:11.977",
+	"titles": [
+		{
+			"title": "FreeBSD 4.7 Patch 6",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.freebsd.org/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://www.freebsd.org/security/advisories.html",
+			"type": "Advisory"
+		}
+	]
 }

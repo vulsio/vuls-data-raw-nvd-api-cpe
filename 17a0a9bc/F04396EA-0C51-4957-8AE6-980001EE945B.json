@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:metagauss:eventprime:2.1.9:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "F04396EA-0C51-4957-8AE6-980001EE945B",
-  "created": "2023-06-01T17:48:03.933",
-  "lastModified": "2023-06-02T19:51:00.640",
-  "titles": [
-    {
-      "title": "Metagauss EventPrime 2.1.9 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wordpress.org/plugins/eventprime-event-calendar-management/#developers",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://theeventprime.com/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://metagauss.com/products/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:metagauss:eventprime:2.1.9:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "F04396EA-0C51-4957-8AE6-980001EE945B",
+	"created": "2023-06-01T17:48:03.933",
+	"lastModified": "2023-06-02T19:51:00.640",
+	"titles": [
+		{
+			"title": "Metagauss EventPrime 2.1.9 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/eventprime-event-calendar-management/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://theeventprime.com/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://metagauss.com/products/",
+			"type": "Vendor"
+		}
+	]
 }

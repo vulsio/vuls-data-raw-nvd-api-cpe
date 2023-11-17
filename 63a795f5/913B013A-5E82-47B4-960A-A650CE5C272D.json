@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:cisco:firepower_management_center:2.9.13:*:*:*:*:*:*:*",
-  "cpeNameId": "913B013A-5E82-47B4-960A-A650CE5C272D",
-  "created": "2019-09-10T18:14:54.053",
-  "lastModified": "2019-09-10T18:14:54.053",
-  "titles": [
-    {
-      "title": "Cisco Firepower Management Center 2.9.13",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvj91418",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:cisco:firepower_management_center:2.9.13:*:*:*:*:*:*:*",
+	"cpeNameId": "913B013A-5E82-47B4-960A-A650CE5C272D",
+	"created": "2019-09-10T18:14:54.053",
+	"lastModified": "2019-09-10T18:14:54.053",
+	"titles": [
+		{
+			"title": "Cisco Firepower Management Center 2.9.13",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvj91418",
+			"type": "Version"
+		}
+	]
 }

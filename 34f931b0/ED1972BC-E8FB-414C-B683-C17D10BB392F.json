@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:microsoft:powershell:6.1:preview1:*:*:*:*:*:*",
-  "cpeNameId": "ED1972BC-E8FB-414C-B683-C17D10BB392F",
-  "created": "2021-10-19T18:04:20.107",
-  "lastModified": "2021-10-20T18:21:12.303",
-  "titles": [
-    {
-      "title": "Microsoft PowerShell 6.1 Preview 1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/PowerShell/PowerShell/",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:microsoft:powershell:6.1:preview1:*:*:*:*:*:*",
+	"cpeNameId": "ED1972BC-E8FB-414C-B683-C17D10BB392F",
+	"created": "2021-10-19T18:04:20.107",
+	"lastModified": "2021-10-20T18:21:12.303",
+	"titles": [
+		{
+			"title": "Microsoft PowerShell 6.1 Preview 1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/PowerShell/PowerShell/",
+			"type": "Version"
+		}
+	]
 }

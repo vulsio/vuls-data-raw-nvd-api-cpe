@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:check-spelling:check-spelling:-:*:*:*:*:*:*:*",
-  "cpeNameId": "DD678FF2-8864-41E6-A106-828F5AC4341C",
-  "created": "2021-09-15T17:23:54.590",
-  "lastModified": "2021-09-16T16:29:32.027",
-  "titles": [
-    {
-      "title": "check-spelling",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.check-spelling.dev/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/check-spelling/check-spelling",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:check-spelling:check-spelling:-:*:*:*:*:*:*:*",
+	"cpeNameId": "DD678FF2-8864-41E6-A106-828F5AC4341C",
+	"created": "2021-09-15T17:23:54.590",
+	"lastModified": "2021-09-16T16:29:32.027",
+	"titles": [
+		{
+			"title": "check-spelling",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.check-spelling.dev/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/check-spelling/check-spelling",
+			"type": "Version"
+		}
+	]
 }

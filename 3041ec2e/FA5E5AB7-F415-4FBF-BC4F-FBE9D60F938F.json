@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:mozilla:firefox:85.0.2:*:*:*:*:*:*:*",
-  "cpeNameId": "FA5E5AB7-F415-4FBF-BC4F-FBE9D60F938F",
-  "created": "2021-03-10T19:13:16.087",
-  "lastModified": "2021-05-21T15:58:22.580",
-  "titles": [
-    {
-      "title": "Mozilla Firefox 85.0.2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.mozilla.org/en-US/firefox/85.0.2/releasenotes/",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:mozilla:firefox:85.0.2:*:*:*:*:*:*:*",
+	"cpeNameId": "FA5E5AB7-F415-4FBF-BC4F-FBE9D60F938F",
+	"created": "2021-03-10T19:13:16.087",
+	"lastModified": "2021-05-21T15:58:22.580",
+	"titles": [
+		{
+			"title": "Mozilla Firefox 85.0.2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.mozilla.org/en-US/firefox/85.0.2/releasenotes/",
+			"type": "Version"
+		}
+	]
 }

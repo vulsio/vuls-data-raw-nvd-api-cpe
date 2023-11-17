@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:pivx:pivx:0.9.5.3:*:*:*:*:*:*:*",
-  "cpeNameId": "A10A7A22-23EB-40AA-960D-B0D21442BEDD",
-  "created": "2019-11-12T19:38:30.520",
-  "lastModified": "2019-11-12T19:38:30.520",
-  "titles": [
-    {
-      "title": "PIVX 0.9.5.3",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://pivx.org/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/PIVX-Project/PIVX",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:pivx:pivx:0.9.5.3:*:*:*:*:*:*:*",
+	"cpeNameId": "A10A7A22-23EB-40AA-960D-B0D21442BEDD",
+	"created": "2019-11-12T19:38:30.520",
+	"lastModified": "2019-11-12T19:38:30.520",
+	"titles": [
+		{
+			"title": "PIVX 0.9.5.3",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://pivx.org/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/PIVX-Project/PIVX",
+			"type": "Version"
+		}
+	]
 }

@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:ibm:director_agent:3.11:*:*:*:*:*:*:*",
-  "cpeNameId": "B1AFB85D-4A97-49AA-8D3C-8B1DBFDE61EB",
-  "created": "2007-08-23T21:16:59.567",
-  "lastModified": "2007-09-14T17:36:49.090",
-  "titles": [
-    {
-      "title": "IBM Director Agent 3.11",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:ibm:director_agent:3.11:*:*:*:*:*:*:*",
+	"cpeNameId": "B1AFB85D-4A97-49AA-8D3C-8B1DBFDE61EB",
+	"created": "2007-08-23T21:16:59.567",
+	"lastModified": "2007-09-14T17:36:49.090",
+	"titles": [
+		{
+			"title": "IBM Director Agent 3.11",
+			"lang": "en"
+		}
+	]
 }

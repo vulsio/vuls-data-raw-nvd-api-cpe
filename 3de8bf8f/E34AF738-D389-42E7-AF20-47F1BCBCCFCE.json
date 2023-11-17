@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:link_library_project:link_library:7.3.2:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "E34AF738-D389-42E7-AF20-47F1BCBCCFCE",
-  "created": "2023-01-22T17:52:11.147",
-  "lastModified": "2023-01-22T17:53:58.940",
-  "titles": [
-    {
-      "title": "Link Library Project Link Library 7.3.2 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wordpress.org/plugins/link-library/#developers",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://wordpress.org/plugins/link-library/",
-      "type": "Project"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:link_library_project:link_library:7.3.2:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "E34AF738-D389-42E7-AF20-47F1BCBCCFCE",
+	"created": "2023-01-22T17:52:11.147",
+	"lastModified": "2023-01-22T17:53:58.940",
+	"titles": [
+		{
+			"title": "Link Library Project Link Library 7.3.2 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/link-library/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/link-library/",
+			"type": "Project"
+		}
+	]
 }

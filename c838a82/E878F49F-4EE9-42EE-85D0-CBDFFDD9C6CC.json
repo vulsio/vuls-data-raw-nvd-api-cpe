@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:craftcms:craft_cms:2.5.2762:*:*:*:*:*:*:*",
-  "cpeNameId": "E878F49F-4EE9-42EE-85D0-CBDFFDD9C6CC",
-  "created": "2019-06-24T19:35:29.727",
-  "lastModified": "2019-06-24T19:35:29.727",
-  "titles": [
-    {
-      "title": "Craftcms Craft Cms 2.5.2762",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/craftcms/cms/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:craftcms:craft_cms:2.5.2762:*:*:*:*:*:*:*",
+	"cpeNameId": "E878F49F-4EE9-42EE-85D0-CBDFFDD9C6CC",
+	"created": "2019-06-24T19:35:29.727",
+	"lastModified": "2019-06-24T19:35:29.727",
+	"titles": [
+		{
+			"title": "Craftcms Craft Cms 2.5.2762",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/craftcms/cms/releases",
+			"type": "Change Log"
+		}
+	]
 }

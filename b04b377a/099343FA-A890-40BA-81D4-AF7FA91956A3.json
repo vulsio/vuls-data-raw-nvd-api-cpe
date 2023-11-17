@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:twistedmatrix:twisted:22.10.0:rc1:*:*:*:*:*:*",
-  "cpeNameId": "099343FA-A890-40BA-81D4-AF7FA91956A3",
-  "created": "2022-10-28T14:51:02.503",
-  "lastModified": "2022-11-08T13:20:41.340",
-  "titles": [
-    {
-      "title": "Twisted Matrix Twisted 22.10.0 Release Candidate 1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.twistedmatrix.com/trac/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/twisted/twisted/security/advisories/GHSA-vg46-2rrj-3647",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://github.com/twisted/twisted/tags",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:twistedmatrix:twisted:22.10.0:rc1:*:*:*:*:*:*",
+	"cpeNameId": "099343FA-A890-40BA-81D4-AF7FA91956A3",
+	"created": "2022-10-28T14:51:02.503",
+	"lastModified": "2022-11-08T13:20:41.340",
+	"titles": [
+		{
+			"title": "Twisted Matrix Twisted 22.10.0 Release Candidate 1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.twistedmatrix.com/trac/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/twisted/twisted/security/advisories/GHSA-vg46-2rrj-3647",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://github.com/twisted/twisted/tags",
+			"type": "Change Log"
+		}
+	]
 }

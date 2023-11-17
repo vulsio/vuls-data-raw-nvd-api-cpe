@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:veeam:backup_\\&_replication:11.0.1.1261:p20220302:*:*:*:*:*:*",
-  "cpeNameId": "5A767CC3-9BF0-4BBB-8C88-705D948A6FDE",
-  "created": "2022-03-24T13:26:55.457",
-  "lastModified": "2022-03-25T14:51:28.573",
-  "titles": [
-    {
-      "title": "Veeam Backup & Replication 11.0.1.1261 Patch 20220302",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.veeam.com/kb2680",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:veeam:backup_\\&_replication:11.0.1.1261:p20220302:*:*:*:*:*:*",
+	"cpeNameId": "5A767CC3-9BF0-4BBB-8C88-705D948A6FDE",
+	"created": "2022-03-24T13:26:55.457",
+	"lastModified": "2022-03-25T14:51:28.573",
+	"titles": [
+		{
+			"title": "Veeam Backup & Replication 11.0.1.1261 Patch 20220302",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.veeam.com/kb2680",
+			"type": "Version"
+		}
+	]
 }

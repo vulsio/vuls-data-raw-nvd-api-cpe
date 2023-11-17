@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:pthread-win32_project:pthreads-win32:2.10.0:rc:*:*:*:*:*:*",
-  "cpeNameId": "47E15251-06C0-4109-AEE1-C19189443DDE",
-  "created": "2022-09-06T14:32:12.490",
-  "lastModified": "2022-09-06T14:33:51.633",
-  "titles": [
-    {
-      "title": "pthread-win32 Project pthread-win32 2.10.0 Release Candidate",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/GerHobbelt/pthread-win32",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:pthread-win32_project:pthreads-win32:2.10.0:rc:*:*:*:*:*:*",
+	"cpeNameId": "47E15251-06C0-4109-AEE1-C19189443DDE",
+	"created": "2022-09-06T14:32:12.490",
+	"lastModified": "2022-09-06T14:33:51.633",
+	"titles": [
+		{
+			"title": "pthread-win32 Project pthread-win32 2.10.0 Release Candidate",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/GerHobbelt/pthread-win32",
+			"type": "Version"
+		}
+	]
 }

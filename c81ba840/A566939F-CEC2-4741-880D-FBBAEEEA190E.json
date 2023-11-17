@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:lenovo:20g5_firmware:-:*:*:*:*:*:*:*",
-  "cpeNameId": "A566939F-CEC2-4741-880D-FBBAEEEA190E",
-  "created": "2020-04-06T19:27:17.533",
-  "lastModified": "2020-04-06T19:27:17.533",
-  "titles": [
-    {
-      "title": "Lenovo 20g5 Firmware -",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://support.lenovo.com/us/en/solutions/len-27764",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:lenovo:20g5_firmware:-:*:*:*:*:*:*:*",
+	"cpeNameId": "A566939F-CEC2-4741-880D-FBBAEEEA190E",
+	"created": "2020-04-06T19:27:17.533",
+	"lastModified": "2020-04-06T19:27:17.533",
+	"titles": [
+		{
+			"title": "Lenovo 20g5 Firmware -",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://support.lenovo.com/us/en/solutions/len-27764",
+			"type": "Advisory"
+		}
+	]
 }

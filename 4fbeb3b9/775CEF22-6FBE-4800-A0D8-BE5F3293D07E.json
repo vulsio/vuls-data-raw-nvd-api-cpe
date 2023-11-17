@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:woocommerce:woocommerce:1.0.6:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "775CEF22-6FBE-4800-A0D8-BE5F3293D07E",
-  "created": "2019-07-16T17:45:16.677",
-  "lastModified": "2019-07-16T17:45:16.677",
-  "titles": [
-    {
-      "title": "WooCommerce 1.0.6 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://labs.threatpress.com/stored-cross-site-scripting-xss-in-woocommerce-quick-reports-plugin/",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:woocommerce:woocommerce:1.0.6:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "775CEF22-6FBE-4800-A0D8-BE5F3293D07E",
+	"created": "2019-07-16T17:45:16.677",
+	"lastModified": "2019-07-16T17:45:16.677",
+	"titles": [
+		{
+			"title": "WooCommerce 1.0.6 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://labs.threatpress.com/stored-cross-site-scripting-xss-in-woocommerce-quick-reports-plugin/",
+			"type": "Advisory"
+		}
+	]
 }

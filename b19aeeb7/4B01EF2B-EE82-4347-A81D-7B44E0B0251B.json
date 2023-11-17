@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:emberjs:ember.js:2.8.1:*:*:*:*:*:*:*",
-  "cpeNameId": "4B01EF2B-EE82-4347-A81D-7B44E0B0251B",
-  "created": "2019-11-04T16:00:29.847",
-  "lastModified": "2019-11-04T16:00:29.847",
-  "titles": [
-    {
-      "title": "Ember.js 2.8.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://emberjs.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/emberjs/ember.js",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:emberjs:ember.js:2.8.1:*:*:*:*:*:*:*",
+	"cpeNameId": "4B01EF2B-EE82-4347-A81D-7B44E0B0251B",
+	"created": "2019-11-04T16:00:29.847",
+	"lastModified": "2019-11-04T16:00:29.847",
+	"titles": [
+		{
+			"title": "Ember.js 2.8.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://emberjs.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/emberjs/ember.js",
+			"type": "Version"
+		}
+	]
 }

@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:tedfelix:acpid2:2.0.3:*:*:*:*:*:*:*",
-  "cpeNameId": "85EA2444-D515-4E36-A3C1-110840DC550E",
-  "created": "2012-08-30T13:21:33.373",
-  "lastModified": "2012-11-29T03:42:19.047",
-  "titles": [
-    {
-      "title": "tedfelix acpid (aka acpid2) 2.0.3",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:tedfelix:acpid2:2.0.3:*:*:*:*:*:*:*",
+	"cpeNameId": "85EA2444-D515-4E36-A3C1-110840DC550E",
+	"created": "2012-08-30T13:21:33.373",
+	"lastModified": "2012-11-29T03:42:19.047",
+	"titles": [
+		{
+			"title": "tedfelix acpid (aka acpid2) 2.0.3",
+			"lang": "en"
+		}
+	]
 }

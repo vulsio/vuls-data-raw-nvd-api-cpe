@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:oisf:suricata:2.1:beta2:*:*:*:*:*:*",
-  "cpeNameId": "EFD44A03-5C19-4F65-BAF4-19120DBDA70D",
-  "created": "2019-07-22T11:24:30.053",
-  "lastModified": "2019-07-22T11:24:30.053",
-  "titles": [
-    {
-      "title": "OISF 2.1 Beta2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/OISF/suricata/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:oisf:suricata:2.1:beta2:*:*:*:*:*:*",
+	"cpeNameId": "EFD44A03-5C19-4F65-BAF4-19120DBDA70D",
+	"created": "2019-07-22T11:24:30.053",
+	"lastModified": "2019-07-22T11:24:30.053",
+	"titles": [
+		{
+			"title": "OISF 2.1 Beta2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/OISF/suricata/releases",
+			"type": "Change Log"
+		}
+	]
 }

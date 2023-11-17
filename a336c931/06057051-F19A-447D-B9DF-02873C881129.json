@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:cleversoft:clever_addons_for_elementor:2.0.2:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "06057051-F19A-447D-B9DF-02873C881129",
-  "created": "2021-07-27T14:49:14.140",
-  "lastModified": "2021-07-27T15:31:54.733",
-  "titles": [
-    {
-      "title": "CleverSoft Clever Addons for Elementor 2.0.2 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://cleversoft.co/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://cleveraddon.com/clever-addon-for-elementor/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://wordpress.org/plugins/cafe-lite/#description",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:cleversoft:clever_addons_for_elementor:2.0.2:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "06057051-F19A-447D-B9DF-02873C881129",
+	"created": "2021-07-27T14:49:14.140",
+	"lastModified": "2021-07-27T15:31:54.733",
+	"titles": [
+		{
+			"title": "CleverSoft Clever Addons for Elementor 2.0.2 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://cleversoft.co/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://cleveraddon.com/clever-addon-for-elementor/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/cafe-lite/#description",
+			"type": "Change Log"
+		}
+	]
 }

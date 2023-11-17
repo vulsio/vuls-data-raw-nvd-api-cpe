@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:spotipy_project:spotipy:2.6.3:*:*:*:*:*:*:*",
-  "cpeNameId": "A8DB0D85-732E-4094-B049-B8D8427AAB16",
-  "created": "2023-02-06T13:55:17.960",
-  "lastModified": "2023-02-08T05:42:16.777",
-  "titles": [
-    {
-      "title": "Spotipy Project Spotipy 2.6.3",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/spotipy-dev/spotipy/security/advisories/GHSA-q764-g6fm-555v",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://github.com/spotipy-dev/spotipy/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:spotipy_project:spotipy:2.6.3:*:*:*:*:*:*:*",
+	"cpeNameId": "A8DB0D85-732E-4094-B049-B8D8427AAB16",
+	"created": "2023-02-06T13:55:17.960",
+	"lastModified": "2023-02-08T05:42:16.777",
+	"titles": [
+		{
+			"title": "Spotipy Project Spotipy 2.6.3",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/spotipy-dev/spotipy/security/advisories/GHSA-q764-g6fm-555v",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://github.com/spotipy-dev/spotipy/releases",
+			"type": "Change Log"
+		}
+	]
 }

@@ -1,31 +1,31 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:progress:chef_infra_server:1.0.35:*:*:*:*:*:*:*",
-  "cpeNameId": "FAB8A179-FD3E-44A2-96B0-FC98A905AB0E",
-  "created": "2023-07-26T15:19:49.780",
-  "lastModified": "2023-07-26T17:34:00.307",
-  "titles": [
-    {
-      "title": "Progress Chef Infra Server 1.0.35",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://docs.chef.io/release_notes_server/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://github.com/chef/chef-server/tags",
-      "type": "Version"
-    },
-    {
-      "ref": "https://github.com/chef/chef-server",
-      "type": "Product"
-    },
-    {
-      "ref": "https://www.progress.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:progress:chef_infra_server:1.0.35:*:*:*:*:*:*:*",
+	"cpeNameId": "FAB8A179-FD3E-44A2-96B0-FC98A905AB0E",
+	"created": "2023-07-26T15:19:49.780",
+	"lastModified": "2023-07-26T17:34:00.307",
+	"titles": [
+		{
+			"title": "Progress Chef Infra Server 1.0.35",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://docs.chef.io/release_notes_server/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://github.com/chef/chef-server/tags",
+			"type": "Version"
+		},
+		{
+			"ref": "https://github.com/chef/chef-server",
+			"type": "Product"
+		},
+		{
+			"ref": "https://www.progress.com/",
+			"type": "Vendor"
+		}
+	]
 }

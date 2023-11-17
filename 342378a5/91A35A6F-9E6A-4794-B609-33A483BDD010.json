@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:octopussy:octopussy:0.9.9:*:*:*:*:*:*:*",
-  "cpeNameId": "91A35A6F-9E6A-4794-B609-33A483BDD010",
-  "created": "2022-08-29T19:43:10.827",
-  "lastModified": "2022-08-29T19:46:13.607",
-  "titles": [
-    {
-      "title": "Octopussy 0.9.9",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.octopussy.pm/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://github.com/Octopussy-Project/Octopussy",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:octopussy:octopussy:0.9.9:*:*:*:*:*:*:*",
+	"cpeNameId": "91A35A6F-9E6A-4794-B609-33A483BDD010",
+	"created": "2022-08-29T19:43:10.827",
+	"lastModified": "2022-08-29T19:46:13.607",
+	"titles": [
+		{
+			"title": "Octopussy 0.9.9",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.octopussy.pm/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://github.com/Octopussy-Project/Octopussy",
+			"type": "Product"
+		}
+	]
 }

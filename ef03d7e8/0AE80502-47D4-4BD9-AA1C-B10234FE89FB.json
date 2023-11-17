@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:juniper:ctpview:9.0:r1:*:*:*:*:*:*",
-  "cpeNameId": "0AE80502-47D4-4BD9-AA1C-B10234FE89FB",
-  "created": "2021-10-20T13:35:25.900",
-  "lastModified": "2021-10-20T14:09:32.973",
-  "titles": [
-    {
-      "title": "Juniper CTPView 9.0 R1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.juniper.net/documentation/product/us/en/ctpview/9.0#cat=release_notes",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:juniper:ctpview:9.0:r1:*:*:*:*:*:*",
+	"cpeNameId": "0AE80502-47D4-4BD9-AA1C-B10234FE89FB",
+	"created": "2021-10-20T13:35:25.900",
+	"lastModified": "2021-10-20T14:09:32.973",
+	"titles": [
+		{
+			"title": "Juniper CTPView 9.0 R1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.juniper.net/documentation/product/us/en/ctpview/9.0#cat=release_notes",
+			"type": "Version"
+		}
+	]
 }

@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:zohocorp:manageengine_sharepoint_manager_plus:-:build_4018:*:*:*:*:*:*",
-  "cpeNameId": "22B18F76-8844-4547-9F91-519EB4911E96",
-  "created": "2022-03-07T18:42:42.157",
-  "lastModified": "2022-03-07T19:13:07.860",
-  "titles": [
-    {
-      "title": "Zoho Corporation ManageEngine SharePoint Manager Plus Build 4018",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.zohocorp.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://www.manageengine.com/sharepoint-management-reporting/release-notes.html",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:zohocorp:manageengine_sharepoint_manager_plus:-:build_4018:*:*:*:*:*:*",
+	"cpeNameId": "22B18F76-8844-4547-9F91-519EB4911E96",
+	"created": "2022-03-07T18:42:42.157",
+	"lastModified": "2022-03-07T19:13:07.860",
+	"titles": [
+		{
+			"title": "Zoho Corporation ManageEngine SharePoint Manager Plus Build 4018",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.zohocorp.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://www.manageengine.com/sharepoint-management-reporting/release-notes.html",
+			"type": "Change Log"
+		}
+	]
 }

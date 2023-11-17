@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:cisco:telepresence_system_software:1.5.1\\(2082\\):*:*:*:*:*:*:*",
-  "cpeNameId": "6A30166D-15BE-46F0-9E18-8CFF8A58E04F",
-  "created": "2012-07-12T14:29:34.203",
-  "lastModified": "2012-07-25T18:29:53.023",
-  "titles": [
-    {
-      "title": "Cisco TelePresence System Software 1.5.1(2082)",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:cisco:telepresence_system_software:1.5.1\\(2082\\):*:*:*:*:*:*:*",
+	"cpeNameId": "6A30166D-15BE-46F0-9E18-8CFF8A58E04F",
+	"created": "2012-07-12T14:29:34.203",
+	"lastModified": "2012-07-25T18:29:53.023",
+	"titles": [
+		{
+			"title": "Cisco TelePresence System Software 1.5.1(2082)",
+			"lang": "en"
+		}
+	]
 }

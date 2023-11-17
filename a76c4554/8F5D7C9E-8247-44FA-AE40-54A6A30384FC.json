@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:sap:netweaver:7.31:*:*:*:*:*:*:*",
-  "cpeNameId": "8F5D7C9E-8247-44FA-AE40-54A6A30384FC",
-  "created": "2013-10-24T03:15:52.357",
-  "lastModified": "2013-10-25T15:42:22.927",
-  "titles": [
-    {
-      "title": "SAP Netweaver 7.31",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://scn.sap.com/docs/DOC-22268"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:sap:netweaver:7.31:*:*:*:*:*:*:*",
+	"cpeNameId": "8F5D7C9E-8247-44FA-AE40-54A6A30384FC",
+	"created": "2013-10-24T03:15:52.357",
+	"lastModified": "2013-10-25T15:42:22.927",
+	"titles": [
+		{
+			"title": "SAP Netweaver 7.31",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://scn.sap.com/docs/DOC-22268"
+		}
+	]
 }

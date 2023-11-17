@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:arm:valhall:r30p0:*:*:*:*:*:*:*",
-  "cpeNameId": "30BCB969-3AB3-44BE-A552-574BBB9D8305",
-  "created": "2021-06-02T15:42:01.790",
-  "lastModified": "2021-06-02T16:12:35.463",
-  "titles": [
-    {
-      "title": "ARM Valhall r30p0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://developer.arm.com/support/arm-security-updates/mali-gpu-kernel-driver",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:arm:valhall:r30p0:*:*:*:*:*:*:*",
+	"cpeNameId": "30BCB969-3AB3-44BE-A552-574BBB9D8305",
+	"created": "2021-06-02T15:42:01.790",
+	"lastModified": "2021-06-02T16:12:35.463",
+	"titles": [
+		{
+			"title": "ARM Valhall r30p0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://developer.arm.com/support/arm-security-updates/mali-gpu-kernel-driver",
+			"type": "Advisory"
+		}
+	]
 }

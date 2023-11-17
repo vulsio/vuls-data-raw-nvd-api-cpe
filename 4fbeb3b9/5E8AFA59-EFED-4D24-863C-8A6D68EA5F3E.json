@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.2.0:rc1:*:*:*:wordpress:*:*",
-  "cpeNameId": "5E8AFA59-EFED-4D24-863C-8A6D68EA5F3E",
-  "created": "2021-08-04T18:59:03.550",
-  "lastModified": "2021-08-05T18:08:14.110",
-  "titles": [
-    {
-      "title": "WooCommerce 4.2.0 Release Candidate 1 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/woocommerce/woocommerce",
-      "type": "Version"
-    },
-    {
-      "ref": "https://woocommerce.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.2.0:rc1:*:*:*:wordpress:*:*",
+	"cpeNameId": "5E8AFA59-EFED-4D24-863C-8A6D68EA5F3E",
+	"created": "2021-08-04T18:59:03.550",
+	"lastModified": "2021-08-05T18:08:14.110",
+	"titles": [
+		{
+			"title": "WooCommerce 4.2.0 Release Candidate 1 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/woocommerce/woocommerce",
+			"type": "Version"
+		},
+		{
+			"ref": "https://woocommerce.com/",
+			"type": "Vendor"
+		}
+	]
 }

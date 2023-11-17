@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:buildwoofunnels:autonami:2.0.7:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "B593918F-D2DF-4B68-9280-A246A0135BE5",
-  "created": "2022-08-24T15:10:57.220",
-  "lastModified": "2022-08-24T15:25:48.330",
-  "titles": [
-    {
-      "title": "BuildWooFunnels Autonami 2.0.7 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://buildwoofunnels.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://buildwoofunnels.com/wordpress-marketing-automation-autonami/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://wordpress.org/plugins/wp-marketing-automations/#developers",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:buildwoofunnels:autonami:2.0.7:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "B593918F-D2DF-4B68-9280-A246A0135BE5",
+	"created": "2022-08-24T15:10:57.220",
+	"lastModified": "2022-08-24T15:25:48.330",
+	"titles": [
+		{
+			"title": "BuildWooFunnels Autonami 2.0.7 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://buildwoofunnels.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://buildwoofunnels.com/wordpress-marketing-automation-autonami/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/wp-marketing-automations/#developers",
+			"type": "Change Log"
+		}
+	]
 }

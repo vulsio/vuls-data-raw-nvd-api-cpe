@@ -1,21 +1,21 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:jean-paul_calderone:pyopenssl:0.11:*:*:*:*:*:*:*",
-  "cpeNameId": "E8956FF1-5CAA-4564-AF0F-AF61801E701E",
-  "created": "2013-10-01T15:09:21.783",
-  "lastModified": "2013-10-01T15:15:13.150",
-  "titles": [
-    {
-      "title": "Jean-Paul Calderone pyOpenSSL 0.11",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://launchpad.net/pyopenssl/+series"
-    },
-    {
-      "ref": "https://pypi.python.org/pypi/pyOpenSSL"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:jean-paul_calderone:pyopenssl:0.11:*:*:*:*:*:*:*",
+	"cpeNameId": "E8956FF1-5CAA-4564-AF0F-AF61801E701E",
+	"created": "2013-10-01T15:09:21.783",
+	"lastModified": "2013-10-01T15:15:13.150",
+	"titles": [
+		{
+			"title": "Jean-Paul Calderone pyOpenSSL 0.11",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://launchpad.net/pyopenssl/+series"
+		},
+		{
+			"ref": "https://pypi.python.org/pypi/pyOpenSSL"
+		}
+	]
 }

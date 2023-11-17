@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:fortinet:fortiswitch:6.4.8:*:*:*:*:*:*:*",
-  "cpeNameId": "FD2DB3C2-DE8B-4106-B60E-B0C9086D1108",
-  "created": "2023-03-13T12:44:04.000",
-  "lastModified": "2023-03-13T12:46:22.027",
-  "titles": [
-    {
-      "title": "Fortinet FortiSwitch 6.4.8",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.fortiguard.com/psirt/FG-IR-18-232",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://www.fortinet.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:fortinet:fortiswitch:6.4.8:*:*:*:*:*:*:*",
+	"cpeNameId": "FD2DB3C2-DE8B-4106-B60E-B0C9086D1108",
+	"created": "2023-03-13T12:44:04.000",
+	"lastModified": "2023-03-13T12:46:22.027",
+	"titles": [
+		{
+			"title": "Fortinet FortiSwitch 6.4.8",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.fortiguard.com/psirt/FG-IR-18-232",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://www.fortinet.com/",
+			"type": "Vendor"
+		}
+	]
 }

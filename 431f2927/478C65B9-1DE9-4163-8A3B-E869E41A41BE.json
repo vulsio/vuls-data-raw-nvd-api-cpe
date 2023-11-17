@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:publify_project:publify:9.0.0:pre4:*:*:*:*:*:*",
-  "cpeNameId": "478C65B9-1DE9-4163-8A3B-E869E41A41BE",
-  "created": "2021-11-03T14:51:23.467",
-  "lastModified": "2021-11-03T16:25:58.990",
-  "titles": [
-    {
-      "title": "Publify Project Publify 9.0.0 Pre4",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/publify/publify/releases",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://publify.github.io/",
-      "type": "Project"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:publify_project:publify:9.0.0:pre4:*:*:*:*:*:*",
+	"cpeNameId": "478C65B9-1DE9-4163-8A3B-E869E41A41BE",
+	"created": "2021-11-03T14:51:23.467",
+	"lastModified": "2021-11-03T16:25:58.990",
+	"titles": [
+		{
+			"title": "Publify Project Publify 9.0.0 Pre4",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/publify/publify/releases",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://publify.github.io/",
+			"type": "Project"
+		}
+	]
 }

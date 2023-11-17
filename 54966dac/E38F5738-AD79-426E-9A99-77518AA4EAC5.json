@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:synology:diskstation_manager:6.2.3_25426:*:*:*:*:*:*:*",
-  "cpeNameId": "E38F5738-AD79-426E-9A99-77518AA4EAC5",
-  "created": "2020-11-02T12:46:40.163",
-  "lastModified": "2021-06-04T18:34:01.400",
-  "titles": [
-    {
-      "title": "Synology DiskStation Manager 6.2.3 25426",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://talosintelligence.com/vulnerability_reports/TALOS-2020-1061",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:synology:diskstation_manager:6.2.3_25426:*:*:*:*:*:*:*",
+	"cpeNameId": "E38F5738-AD79-426E-9A99-77518AA4EAC5",
+	"created": "2020-11-02T12:46:40.163",
+	"lastModified": "2021-06-04T18:34:01.400",
+	"titles": [
+		{
+			"title": "Synology DiskStation Manager 6.2.3 25426",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://talosintelligence.com/vulnerability_reports/TALOS-2020-1061",
+			"type": "Advisory"
+		}
+	]
 }

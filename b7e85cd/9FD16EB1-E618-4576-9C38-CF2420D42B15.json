@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:wouter_verhelst:nbd:3.5:*:*:*:*:*:*:*",
-  "cpeNameId": "9FD16EB1-E618-4576-9C38-CF2420D42B15",
-  "created": "2013-12-09T20:58:32.130",
-  "lastModified": "2013-12-09T21:05:14.810",
-  "titles": [
-    {
-      "title": "Wouter Verhelst Network Block Device (nbd) 3.5",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://sourceforge.net/projects/nbd/files/nbd/"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:wouter_verhelst:nbd:3.5:*:*:*:*:*:*:*",
+	"cpeNameId": "9FD16EB1-E618-4576-9C38-CF2420D42B15",
+	"created": "2013-12-09T20:58:32.130",
+	"lastModified": "2013-12-09T21:05:14.810",
+	"titles": [
+		{
+			"title": "Wouter Verhelst Network Block Device (nbd) 3.5",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://sourceforge.net/projects/nbd/files/nbd/"
+		}
+	]
 }

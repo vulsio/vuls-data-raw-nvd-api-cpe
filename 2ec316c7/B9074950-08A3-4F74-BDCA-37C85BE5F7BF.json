@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:schneider-electric:bmxp3420102_firmware:2.8:*:*:*:*:*:*:*",
-  "cpeNameId": "B9074950-08A3-4F74-BDCA-37C85BE5F7BF",
-  "created": "2018-10-29T16:52:08.003",
-  "lastModified": "2021-05-11T17:49:02.347",
-  "titles": [
-    {
-      "title": "Schneider-Electric BMXP3420102 Firmware  2.8",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://ics-cert.us-cert.gov/advisories/ICSA-17-054-03",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:schneider-electric:bmxp3420102_firmware:2.8:*:*:*:*:*:*:*",
+	"cpeNameId": "B9074950-08A3-4F74-BDCA-37C85BE5F7BF",
+	"created": "2018-10-29T16:52:08.003",
+	"lastModified": "2021-05-11T17:49:02.347",
+	"titles": [
+		{
+			"title": "Schneider-Electric BMXP3420102 Firmware  2.8",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://ics-cert.us-cert.gov/advisories/ICSA-17-054-03",
+			"type": "Advisory"
+		}
+	]
 }

@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:acra:acra_library:-:-:*:*:*:android:*:*",
-  "cpeNameId": "43F19547-33BF-42E4-BD31-F97E0697430E",
-  "created": "2012-11-05T19:09:58.373",
-  "lastModified": "2012-11-13T23:58:17.513",
-  "titles": [
-    {
-      "title": "acra ACRA library for Android",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:acra:acra_library:-:-:*:*:*:android:*:*",
+	"cpeNameId": "43F19547-33BF-42E4-BD31-F97E0697430E",
+	"created": "2012-11-05T19:09:58.373",
+	"lastModified": "2012-11-13T23:58:17.513",
+	"titles": [
+		{
+			"title": "acra ACRA library for Android",
+			"lang": "en"
+		}
+	]
 }

@@ -1,31 +1,31 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:schollz:croc:9.5.6:*:*:*:*:*:*:*",
-  "cpeNameId": "76A3C235-171A-4680-9406-A6A606C4D2C8",
-  "created": "2023-09-20T17:09:19.337",
-  "lastModified": "2023-09-20T17:09:19.337",
-  "titles": [
-    {
-      "title": "Schollz Croc 9.5.6",
-      "lang": "en"
-    },
-    {
-      "title": "Schollz Croc 9.5.6",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/schollz/croc",
-      "type": "Product"
-    },
-    {
-      "ref": "https://schollz.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/schollz/croc/tags",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:schollz:croc:9.5.6:*:*:*:*:*:*:*",
+	"cpeNameId": "76A3C235-171A-4680-9406-A6A606C4D2C8",
+	"created": "2023-09-20T17:09:19.337",
+	"lastModified": "2023-09-20T17:09:19.337",
+	"titles": [
+		{
+			"title": "Schollz Croc 9.5.6",
+			"lang": "en"
+		},
+		{
+			"title": "Schollz Croc 9.5.6",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/schollz/croc",
+			"type": "Product"
+		},
+		{
+			"ref": "https://schollz.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/schollz/croc/tags",
+			"type": "Version"
+		}
+	]
 }

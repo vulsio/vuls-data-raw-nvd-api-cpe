@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:valgrind:valgrind:3.2.2:*:*:*:*:*:*:*",
-  "cpeNameId": "74BC21F5-1564-4D21-9E87-822DFD4A894B",
-  "created": "2019-01-04T13:17:44.757",
-  "lastModified": "2019-01-04T13:17:44.757",
-  "titles": [
-    {
-      "title": "Valgrind 3.2.2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://valgrind.org/",
-      "type": "Product"
-    },
-    {
-      "ref": "ftp://sourceware.org/pub/valgrind",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:valgrind:valgrind:3.2.2:*:*:*:*:*:*:*",
+	"cpeNameId": "74BC21F5-1564-4D21-9E87-822DFD4A894B",
+	"created": "2019-01-04T13:17:44.757",
+	"lastModified": "2019-01-04T13:17:44.757",
+	"titles": [
+		{
+			"title": "Valgrind 3.2.2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://valgrind.org/",
+			"type": "Product"
+		},
+		{
+			"ref": "ftp://sourceware.org/pub/valgrind",
+			"type": "Version"
+		}
+	]
 }

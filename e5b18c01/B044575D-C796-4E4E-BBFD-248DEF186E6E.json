@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:netgear:rax70:-:*:*:*:*:*:*:*",
-  "cpeNameId": "B044575D-C796-4E4E-BBFD-248DEF186E6E",
-  "created": "2022-01-06T18:21:55.917",
-  "lastModified": "2022-01-06T18:24:39.137",
-  "titles": [
-    {
-      "title": "NETGEAR RAX70",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://kb.netgear.com/000064407/Security-Advisory-for-Post-Authentication-Command-Injection-Sensitive-Information-Disclosure-on-Multiple-Products-PSV-2021-0169-PSV-2021-0171",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://www.netgear.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:netgear:rax70:-:*:*:*:*:*:*:*",
+	"cpeNameId": "B044575D-C796-4E4E-BBFD-248DEF186E6E",
+	"created": "2022-01-06T18:21:55.917",
+	"lastModified": "2022-01-06T18:24:39.137",
+	"titles": [
+		{
+			"title": "NETGEAR RAX70",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://kb.netgear.com/000064407/Security-Advisory-for-Post-Authentication-Command-Injection-Sensitive-Information-Disclosure-on-Multiple-Products-PSV-2021-0169-PSV-2021-0171",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://www.netgear.com/",
+			"type": "Vendor"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:lenovo:20dj_firmware:-:*:*:*:*:*:*:*",
-  "cpeNameId": "30DE77F6-82A3-4FC5-AD7D-942EA227A2FB",
-  "created": "2020-04-06T19:27:01.737",
-  "lastModified": "2020-04-06T19:27:01.737",
-  "titles": [
-    {
-      "title": "Lenovo 20dj Firmware -",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://support.lenovo.com/us/en/solutions/len-27764",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:lenovo:20dj_firmware:-:*:*:*:*:*:*:*",
+	"cpeNameId": "30DE77F6-82A3-4FC5-AD7D-942EA227A2FB",
+	"created": "2020-04-06T19:27:01.737",
+	"lastModified": "2020-04-06T19:27:01.737",
+	"titles": [
+		{
+			"title": "Lenovo 20dj Firmware -",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://support.lenovo.com/us/en/solutions/len-27764",
+			"type": "Advisory"
+		}
+	]
 }

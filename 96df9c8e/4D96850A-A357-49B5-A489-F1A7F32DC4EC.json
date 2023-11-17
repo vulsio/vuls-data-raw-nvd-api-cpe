@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:oracle:database_recovery_manager:19c:*:*:*:*:*:*:*",
-  "cpeNameId": "4D96850A-A357-49B5-A489-F1A7F32DC4EC",
-  "created": "2023-04-19T20:37:11.443",
-  "lastModified": "2023-08-11T23:44:56.230",
-  "titles": [
-    {
-      "title": "Oracle Database Recovery Manager 19c",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.oracle.com/security-alerts/cpuapr2023.html",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:oracle:database_recovery_manager:19c:*:*:*:*:*:*:*",
+	"cpeNameId": "4D96850A-A357-49B5-A489-F1A7F32DC4EC",
+	"created": "2023-04-19T20:37:11.443",
+	"lastModified": "2023-08-11T23:44:56.230",
+	"titles": [
+		{
+			"title": "Oracle Database Recovery Manager 19c",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.oracle.com/security-alerts/cpuapr2023.html",
+			"type": "Advisory"
+		}
+	]
 }

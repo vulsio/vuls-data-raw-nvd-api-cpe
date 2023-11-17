@@ -1,31 +1,31 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:stormshield:network_security:2.7.8:*:*:*:*:*:*:*",
-  "cpeNameId": "EA5A8155-C421-47A5-8780-DE7F0112DC95",
-  "created": "2021-03-03T12:58:44.783",
-  "lastModified": "2021-04-21T18:26:30.430",
-  "titles": [
-    {
-      "title": "Stormshield Network Security 2.7.8",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://advisories.stormshield.eu/2020-049/",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://www.stormshield.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://www.stormshield.com/products-services/products/network-security/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://documentation.stormshield.eu/SNS/v2/en/Content/Release_Notes_SNS/Getting_Started_RNO.htm",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:stormshield:network_security:2.7.8:*:*:*:*:*:*:*",
+	"cpeNameId": "EA5A8155-C421-47A5-8780-DE7F0112DC95",
+	"created": "2021-03-03T12:58:44.783",
+	"lastModified": "2021-04-21T18:26:30.430",
+	"titles": [
+		{
+			"title": "Stormshield Network Security 2.7.8",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://advisories.stormshield.eu/2020-049/",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://www.stormshield.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://www.stormshield.com/products-services/products/network-security/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://documentation.stormshield.eu/SNS/v2/en/Content/Release_Notes_SNS/Getting_Started_RNO.htm",
+			"type": "Version"
+		}
+	]
 }

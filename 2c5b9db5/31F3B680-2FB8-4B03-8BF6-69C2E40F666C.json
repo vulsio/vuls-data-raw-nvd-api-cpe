@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:http-body_project:http-body:1.03:*:*:*:*:*:*:*",
-  "cpeNameId": "31F3B680-2FB8-4B03-8BF6-69C2E40F666C",
-  "created": "2013-11-25T18:53:50.980",
-  "lastModified": "2013-11-25T19:56:44.843",
-  "titles": [
-    {
-      "title": "HTTP-Body Project HTTP-Body 1.03",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://cpants.cpanauthors.org/dist/HTTP-Body-1.08/releases"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:http-body_project:http-body:1.03:*:*:*:*:*:*:*",
+	"cpeNameId": "31F3B680-2FB8-4B03-8BF6-69C2E40F666C",
+	"created": "2013-11-25T18:53:50.980",
+	"lastModified": "2013-11-25T19:56:44.843",
+	"titles": [
+		{
+			"title": "HTTP-Body Project HTTP-Body 1.03",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://cpants.cpanauthors.org/dist/HTTP-Body-1.08/releases"
+		}
+	]
 }

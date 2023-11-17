@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:novell:edirectory:85.20:*:*:*:*:*:*:*",
-  "cpeNameId": "7698F192-3BC8-4B98-9178-52786096D3ED",
-  "created": "2007-08-23T21:16:59.567",
-  "lastModified": "2008-04-01T16:40:16.597",
-  "titles": [
-    {
-      "title": "Novell eDirectory Database 85.20",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:novell:edirectory:85.20:*:*:*:*:*:*:*",
+	"cpeNameId": "7698F192-3BC8-4B98-9178-52786096D3ED",
+	"created": "2007-08-23T21:16:59.567",
+	"lastModified": "2008-04-01T16:40:16.597",
+	"titles": [
+		{
+			"title": "Novell eDirectory Database 85.20",
+			"lang": "en"
+		}
+	]
 }

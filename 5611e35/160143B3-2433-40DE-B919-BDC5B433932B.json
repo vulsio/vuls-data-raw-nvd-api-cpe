@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:logitech:sync:2.1.273:*:*:*:*:windows:*:*",
-  "cpeNameId": "160143B3-2433-40DE-B919-BDC5B433932B",
-  "created": "2022-04-19T15:32:12.057",
-  "lastModified": "2022-04-19T15:35:30.733",
-  "titles": [
-    {
-      "title": "Logitech Sync 2.1.273 for Windows",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://prosupport.logi.com/hc/en-us/articles/360040085114-Download-Logitech-Sync",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://prosupport.logi.com/hc/en-us/articles/360059187013",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:logitech:sync:2.1.273:*:*:*:*:windows:*:*",
+	"cpeNameId": "160143B3-2433-40DE-B919-BDC5B433932B",
+	"created": "2022-04-19T15:32:12.057",
+	"lastModified": "2022-04-19T15:35:30.733",
+	"titles": [
+		{
+			"title": "Logitech Sync 2.1.273 for Windows",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://prosupport.logi.com/hc/en-us/articles/360040085114-Download-Logitech-Sync",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://prosupport.logi.com/hc/en-us/articles/360059187013",
+			"type": "Change Log"
+		}
+	]
 }

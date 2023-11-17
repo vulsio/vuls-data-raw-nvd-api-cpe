@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:pyrocms:pyrocms:3.5.2:*:*:*:*:*:*:*",
-  "cpeNameId": "DE1F2615-7D6D-4837-95A8-2F9CE10FDC2D",
-  "created": "2020-10-13T11:24:56.413",
-  "lastModified": "2020-10-13T11:24:56.413",
-  "titles": [
-    {
-      "title": "PyroCMS 3.5.2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/pyrocms/pyrocms/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:pyrocms:pyrocms:3.5.2:*:*:*:*:*:*:*",
+	"cpeNameId": "DE1F2615-7D6D-4837-95A8-2F9CE10FDC2D",
+	"created": "2020-10-13T11:24:56.413",
+	"lastModified": "2020-10-13T11:24:56.413",
+	"titles": [
+		{
+			"title": "PyroCMS 3.5.2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/pyrocms/pyrocms/releases",
+			"type": "Change Log"
+		}
+	]
 }

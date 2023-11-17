@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:vim:vim:8.2.4304:*:*:*:*:*:*:*",
-  "cpeNameId": "0FE4A15B-1DEB-410C-BAEF-8B605EC8F93B",
-  "created": "2022-02-16T15:41:16.800",
-  "lastModified": "2022-02-16T15:43:43.697",
-  "titles": [
-    {
-      "title": "Vim 8.2.4304",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/vim/vim/tags",
-      "type": "Version"
-    },
-    {
-      "ref": "http://www.vim.org/",
-      "type": "Project"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:vim:vim:8.2.4304:*:*:*:*:*:*:*",
+	"cpeNameId": "0FE4A15B-1DEB-410C-BAEF-8B605EC8F93B",
+	"created": "2022-02-16T15:41:16.800",
+	"lastModified": "2022-02-16T15:43:43.697",
+	"titles": [
+		{
+			"title": "Vim 8.2.4304",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/vim/vim/tags",
+			"type": "Version"
+		},
+		{
+			"ref": "http://www.vim.org/",
+			"type": "Project"
+		}
+	]
 }

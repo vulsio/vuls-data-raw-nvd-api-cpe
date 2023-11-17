@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:joedolson:my_content_management:1.0.6:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "45C02065-3064-4EC4-8B62-EE912014C11C",
-  "created": "2023-08-07T18:25:56.647",
-  "lastModified": "2023-08-07T18:27:41.550",
-  "titles": [
-    {
-      "title": "Joe Dolson My Content Management 1.0.6 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wordpress.org/plugins/my-content-management/#developers",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://www.joedolson.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:joedolson:my_content_management:1.0.6:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "45C02065-3064-4EC4-8B62-EE912014C11C",
+	"created": "2023-08-07T18:25:56.647",
+	"lastModified": "2023-08-07T18:27:41.550",
+	"titles": [
+		{
+			"title": "Joe Dolson My Content Management 1.0.6 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/my-content-management/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://www.joedolson.com/",
+			"type": "Vendor"
+		}
+	]
 }

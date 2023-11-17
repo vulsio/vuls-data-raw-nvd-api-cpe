@@ -1,21 +1,21 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:xhanch:my_twitter:2.5.8:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "B15FE467-888E-44F8-870D-F71478B9890F",
-  "created": "2013-08-12T16:27:47.077",
-  "lastModified": "2013-08-12T17:01:30.560",
-  "titles": [
-    {
-      "title": "Xhance My Twitter Plugin for Wordpress 2.5.8",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://wordpress.org/plugins/xhanch-my-twitter/changelog/"
-    },
-    {
-      "ref": "http://xhanch.com/"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:xhanch:my_twitter:2.5.8:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "B15FE467-888E-44F8-870D-F71478B9890F",
+	"created": "2013-08-12T16:27:47.077",
+	"lastModified": "2013-08-12T17:01:30.560",
+	"titles": [
+		{
+			"title": "Xhance My Twitter Plugin for Wordpress 2.5.8",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://wordpress.org/plugins/xhanch-my-twitter/changelog/"
+		},
+		{
+			"ref": "http://xhanch.com/"
+		}
+	]
 }

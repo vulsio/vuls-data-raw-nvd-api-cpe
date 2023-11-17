@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:sailpoint:desktop_password_reset:7.1:*:*:*:*:*:*:*",
-  "cpeNameId": "09453801-5257-446F-8ACC-B87C4B473D5F",
-  "created": "2019-10-15T12:55:39.990",
-  "lastModified": "2019-10-15T12:55:39.990",
-  "titles": [
-    {
-      "title": "SailPoint Desktop Password Reset 7.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://sailpoint-desktop-password-reset.software.informer.com/versions/",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:sailpoint:desktop_password_reset:7.1:*:*:*:*:*:*:*",
+	"cpeNameId": "09453801-5257-446F-8ACC-B87C4B473D5F",
+	"created": "2019-10-15T12:55:39.990",
+	"lastModified": "2019-10-15T12:55:39.990",
+	"titles": [
+		{
+			"title": "SailPoint Desktop Password Reset 7.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://sailpoint-desktop-password-reset.software.informer.com/versions/",
+			"type": "Version"
+		}
+	]
 }

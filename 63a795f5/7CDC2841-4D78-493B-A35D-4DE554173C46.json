@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:cisco:firepower_management_center:4.10.3:*:*:*:*:*:*:*",
-  "cpeNameId": "7CDC2841-4D78-493B-A35D-4DE554173C46",
-  "created": "2021-01-05T15:06:45.237",
-  "lastModified": "2021-01-05T15:06:45.237",
-  "titles": [
-    {
-      "title": "Cisco Firepower Management Center 4.10.3",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www.cisco.com/c/en/us/support/security/defense-center/tsd-products-support-series-home.html",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:cisco:firepower_management_center:4.10.3:*:*:*:*:*:*:*",
+	"cpeNameId": "7CDC2841-4D78-493B-A35D-4DE554173C46",
+	"created": "2021-01-05T15:06:45.237",
+	"lastModified": "2021-01-05T15:06:45.237",
+	"titles": [
+		{
+			"title": "Cisco Firepower Management Center 4.10.3",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.cisco.com/c/en/us/support/security/defense-center/tsd-products-support-series-home.html",
+			"type": "Vendor"
+		}
+	]
 }

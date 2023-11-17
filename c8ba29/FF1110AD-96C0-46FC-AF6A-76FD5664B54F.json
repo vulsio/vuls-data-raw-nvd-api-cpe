@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:ibm:websphere_application_server:8.0.0.1:*:*:*:*:*:*:*",
-  "cpeNameId": "FF1110AD-96C0-46FC-AF6A-76FD5664B54F",
-  "created": "2012-01-19T19:43:32.037",
-  "lastModified": "2012-03-28T03:22:59.727",
-  "titles": [
-    {
-      "title": "IBM WebSphere Application Server 8.0.0.1",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:ibm:websphere_application_server:8.0.0.1:*:*:*:*:*:*:*",
+	"cpeNameId": "FF1110AD-96C0-46FC-AF6A-76FD5664B54F",
+	"created": "2012-01-19T19:43:32.037",
+	"lastModified": "2012-03-28T03:22:59.727",
+	"titles": [
+		{
+			"title": "IBM WebSphere Application Server 8.0.0.1",
+			"lang": "en"
+		}
+	]
 }

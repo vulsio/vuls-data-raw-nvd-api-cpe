@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:ui:usw-flex-xg:-:*:*:*:*:*:*:*",
-  "cpeNameId": "C42D765F-1619-4C02-8347-B2A5C93ECB51",
-  "created": "2023-08-17T14:05:23.913",
-  "lastModified": "2023-08-25T14:54:18.900",
-  "titles": [
-    {
-      "title": "Ubiquiti USW-FLEX-XG",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://ui.com/us/switching",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:ui:usw-flex-xg:-:*:*:*:*:*:*:*",
+	"cpeNameId": "C42D765F-1619-4C02-8347-B2A5C93ECB51",
+	"created": "2023-08-17T14:05:23.913",
+	"lastModified": "2023-08-25T14:54:18.900",
+	"titles": [
+		{
+			"title": "Ubiquiti USW-FLEX-XG",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://ui.com/us/switching",
+			"type": "Product"
+		}
+	]
 }

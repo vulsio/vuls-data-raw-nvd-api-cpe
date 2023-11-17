@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:tribe29:checkmk:1.6.0:p1:*:*:*:*:*:*",
-  "cpeNameId": "80454B5D-5766-451B-96DB-D846C47EFFA2",
-  "created": "2019-10-17T12:12:42.330",
-  "lastModified": "2019-10-17T12:12:42.330",
-  "titles": [
-    {
-      "title": "tribe29 checkmk 1.6.0 Patch 1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://checkmk.com/check_mk-werks.php?edition_id=raw&all_versions=1",
-      "type": "Version"
-    },
-    {
-      "ref": "https://checkmk.com/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://tribe29.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:tribe29:checkmk:1.6.0:p1:*:*:*:*:*:*",
+	"cpeNameId": "80454B5D-5766-451B-96DB-D846C47EFFA2",
+	"created": "2019-10-17T12:12:42.330",
+	"lastModified": "2019-10-17T12:12:42.330",
+	"titles": [
+		{
+			"title": "tribe29 checkmk 1.6.0 Patch 1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://checkmk.com/check_mk-werks.php?edition_id=raw&all_versions=1",
+			"type": "Version"
+		},
+		{
+			"ref": "https://checkmk.com/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://tribe29.com/",
+			"type": "Vendor"
+		}
+	]
 }

@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:robo-ftp:robo-ftp:3.7.2:*:*:*:*:*:*:*",
-  "cpeNameId": "A182EFFE-5879-4B59-BC66-3C71DB6CADAE",
-  "created": "2010-10-28T13:12:12.143",
-  "lastModified": "2010-10-28T17:45:35.153",
-  "titles": [
-    {
-      "title": "Robo-FTP 3.7.2",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:robo-ftp:robo-ftp:3.7.2:*:*:*:*:*:*:*",
+	"cpeNameId": "A182EFFE-5879-4B59-BC66-3C71DB6CADAE",
+	"created": "2010-10-28T13:12:12.143",
+	"lastModified": "2010-10-28T17:45:35.153",
+	"titles": [
+		{
+			"title": "Robo-FTP 3.7.2",
+			"lang": "en"
+		}
+	]
 }

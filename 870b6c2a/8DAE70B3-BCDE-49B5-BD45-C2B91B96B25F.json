@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:juniper:netscreen_screenos:2.7.1r3:*:*:*:*:*:*:*",
-  "cpeNameId": "8DAE70B3-BCDE-49B5-BD45-C2B91B96B25F",
-  "created": "2007-08-23T21:16:59.567",
-  "lastModified": "2008-04-07T14:15:24.720",
-  "titles": [
-    {
-      "title": "Juniper NetScreen ScreenOS 2.7.1 r3",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:juniper:netscreen_screenos:2.7.1r3:*:*:*:*:*:*:*",
+	"cpeNameId": "8DAE70B3-BCDE-49B5-BD45-C2B91B96B25F",
+	"created": "2007-08-23T21:16:59.567",
+	"lastModified": "2008-04-07T14:15:24.720",
+	"titles": [
+		{
+			"title": "Juniper NetScreen ScreenOS 2.7.1 r3",
+			"lang": "en"
+		}
+	]
 }

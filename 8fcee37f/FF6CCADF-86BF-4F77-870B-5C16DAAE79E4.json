@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:adaptiva:adaptiva_edge_platform:8.1.935.5:*:*:*:*:*:*:*",
-  "cpeNameId": "FF6CCADF-86BF-4F77-870B-5C16DAAE79E4",
-  "created": "2022-11-01T14:12:40.900",
-  "lastModified": "2022-11-01T14:13:20.387",
-  "titles": [
-    {
-      "title": "Adaptiva Edge Platform 8.1.935.5 ",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://adaptiva.com/release-history/",
-      "type": "Version"
-    },
-    {
-      "ref": "https://adaptiva.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:adaptiva:adaptiva_edge_platform:8.1.935.5:*:*:*:*:*:*:*",
+	"cpeNameId": "FF6CCADF-86BF-4F77-870B-5C16DAAE79E4",
+	"created": "2022-11-01T14:12:40.900",
+	"lastModified": "2022-11-01T14:13:20.387",
+	"titles": [
+		{
+			"title": "Adaptiva Edge Platform 8.1.935.5 ",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://adaptiva.com/release-history/",
+			"type": "Version"
+		},
+		{
+			"ref": "https://adaptiva.com/",
+			"type": "Vendor"
+		}
+	]
 }

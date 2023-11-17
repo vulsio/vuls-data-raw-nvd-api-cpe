@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:microsoft:excel_viewer:-:sp2:*:*:*:*:*:*",
-  "cpeNameId": "00166F5C-19E3-4BA3-AAFF-E7438FADB67D",
-  "created": "2013-01-15T13:51:47.477",
-  "lastModified": "2013-01-16T19:25:59.233",
-  "titles": [
-    {
-      "title": "Microsoft Excel Viewer Service Pack 2",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:microsoft:excel_viewer:-:sp2:*:*:*:*:*:*",
+	"cpeNameId": "00166F5C-19E3-4BA3-AAFF-E7438FADB67D",
+	"created": "2013-01-15T13:51:47.477",
+	"lastModified": "2013-01-16T19:25:59.233",
+	"titles": [
+		{
+			"title": "Microsoft Excel Viewer Service Pack 2",
+			"lang": "en"
+		}
+	]
 }

@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:plone:plone:3.0.3:*:*:*:*:*:*:*",
-  "cpeNameId": "0B893129-14F3-4051-90CE-0B24F4B84029",
-  "created": "2008-10-16T13:52:55.227",
-  "lastModified": "2011-06-30T15:08:07.910",
-  "titles": [
-    {
-      "title": "Plone 3.0.3",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:plone:plone:3.0.3:*:*:*:*:*:*:*",
+	"cpeNameId": "0B893129-14F3-4051-90CE-0B24F4B84029",
+	"created": "2008-10-16T13:52:55.227",
+	"lastModified": "2011-06-30T15:08:07.910",
+	"titles": [
+		{
+			"title": "Plone 3.0.3",
+			"lang": "en"
+		}
+	]
 }

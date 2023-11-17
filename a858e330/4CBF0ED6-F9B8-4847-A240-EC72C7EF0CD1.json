@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:schneider-electric:bmxp3420102cl_firmware:3.30:*:*:*:*:*:*:*",
-  "cpeNameId": "4CBF0ED6-F9B8-4847-A240-EC72C7EF0CD1",
-  "created": "2020-12-14T14:58:15.767",
-  "lastModified": "2021-03-15T18:24:43.387",
-  "titles": [
-    {
-      "title": "Schneider Electric BMXP3420102CL Firmware 3.30",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://download.schneider-electric.com/files?p_enDocType=Technical+leaflet&p_File_Name=SEVD-2020-343-05+_Web_Server_Modicon_M340_Premium_Quantum_Communication_Modules_Security_Notification.pdf&p_Doc_Ref=SEVD-2020-343-05",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:schneider-electric:bmxp3420102cl_firmware:3.30:*:*:*:*:*:*:*",
+	"cpeNameId": "4CBF0ED6-F9B8-4847-A240-EC72C7EF0CD1",
+	"created": "2020-12-14T14:58:15.767",
+	"lastModified": "2021-03-15T18:24:43.387",
+	"titles": [
+		{
+			"title": "Schneider Electric BMXP3420102CL Firmware 3.30",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://download.schneider-electric.com/files?p_enDocType=Technical+leaflet&p_File_Name=SEVD-2020-343-05+_Web_Server_Modicon_M340_Premium_Quantum_Communication_Modules_Security_Notification.pdf&p_Doc_Ref=SEVD-2020-343-05",
+			"type": "Advisory"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:hbgk:hb9904:-:*:*:*:*:*:*:*",
-  "cpeNameId": "92211D0D-8C0E-4945-ADB1-A81D7CE3C619",
-  "created": "2017-09-27T19:22:10.557",
-  "lastModified": "2021-04-19T12:45:10.247",
-  "titles": [
-    {
-      "title": "HanBang Digital Technology HB9904",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www.hbgk.net/en/Products.aspx",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:hbgk:hb9904:-:*:*:*:*:*:*:*",
+	"cpeNameId": "92211D0D-8C0E-4945-ADB1-A81D7CE3C619",
+	"created": "2017-09-27T19:22:10.557",
+	"lastModified": "2021-04-19T12:45:10.247",
+	"titles": [
+		{
+			"title": "HanBang Digital Technology HB9904",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.hbgk.net/en/Products.aspx",
+			"type": "Product"
+		}
+	]
 }

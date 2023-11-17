@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:qurl:dynamic_widgets:1.0.1:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "98A368C3-39B7-4DB2-BF01-321A0FE18577",
-  "created": "2019-09-26T13:41:23.010",
-  "lastModified": "2019-09-26T13:41:23.010",
-  "titles": [
-    {
-      "title": "QURL Dynamic Widgets 1.0.1 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wordpress.org/plugins/dynamic-widgets/#developers",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:qurl:dynamic_widgets:1.0.1:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "98A368C3-39B7-4DB2-BF01-321A0FE18577",
+	"created": "2019-09-26T13:41:23.010",
+	"lastModified": "2019-09-26T13:41:23.010",
+	"titles": [
+		{
+			"title": "QURL Dynamic Widgets 1.0.1 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/dynamic-widgets/#developers",
+			"type": "Change Log"
+		}
+	]
 }

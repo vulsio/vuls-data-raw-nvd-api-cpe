@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:pizzashack:rssh:2.2.3:*:*:*:*:*:*:*",
-  "cpeNameId": "9CBB704B-D3E4-49F3-9BFB-FBC31E5F6246",
-  "created": "2013-01-11T19:20:06.477",
-  "lastModified": "2013-01-16T19:26:05.187",
-  "titles": [
-    {
-      "title": "pizzashack rssh 2.2.3",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:pizzashack:rssh:2.2.3:*:*:*:*:*:*:*",
+	"cpeNameId": "9CBB704B-D3E4-49F3-9BFB-FBC31E5F6246",
+	"created": "2013-01-11T19:20:06.477",
+	"lastModified": "2013-01-16T19:26:05.187",
+	"titles": [
+		{
+			"title": "pizzashack rssh 2.2.3",
+			"lang": "en"
+		}
+	]
 }

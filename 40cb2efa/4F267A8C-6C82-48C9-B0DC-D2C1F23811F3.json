@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:djangoproject:django:1.5.8:*:*:*:*:*:*:*",
-  "cpeNameId": "4F267A8C-6C82-48C9-B0DC-D2C1F23811F3",
-  "created": "2014-05-16T17:59:49.183",
-  "lastModified": "2014-05-16T18:48:19.773",
-  "titles": [
-    {
-      "title": "Django Project Django 1.5.8",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://docs.djangoproject.com/en/1.5/releases/"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:djangoproject:django:1.5.8:*:*:*:*:*:*:*",
+	"cpeNameId": "4F267A8C-6C82-48C9-B0DC-D2C1F23811F3",
+	"created": "2014-05-16T17:59:49.183",
+	"lastModified": "2014-05-16T18:48:19.773",
+	"titles": [
+		{
+			"title": "Django Project Django 1.5.8",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://docs.djangoproject.com/en/1.5/releases/"
+		}
+	]
 }

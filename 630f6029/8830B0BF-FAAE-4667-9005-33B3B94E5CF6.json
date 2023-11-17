@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:pixelyoursite:pixelyoursite:7.1.1:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "8830B0BF-FAAE-4667-9005-33B3B94E5CF6",
-  "created": "2023-03-15T17:30:23.950",
-  "lastModified": "2023-03-16T18:51:07.947",
-  "titles": [
-    {
-      "title": "PixelYourSite 7.1.1 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www.pixelyoursite.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://wordpress.org/plugins/pixelyoursite/#developers",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:pixelyoursite:pixelyoursite:7.1.1:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "8830B0BF-FAAE-4667-9005-33B3B94E5CF6",
+	"created": "2023-03-15T17:30:23.950",
+	"lastModified": "2023-03-16T18:51:07.947",
+	"titles": [
+		{
+			"title": "PixelYourSite 7.1.1 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.pixelyoursite.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/pixelyoursite/#developers",
+			"type": "Change Log"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:google:bazel:5.3.2:*:*:*:*:visual_studio:*:*",
-  "cpeNameId": "E3FDF829-6589-4AD4-A562-A0E0B1737826",
-  "created": "2022-10-27T15:07:40.420",
-  "lastModified": "2023-07-29T03:09:51.237",
-  "titles": [
-    {
-      "title": "Google Bazel 5.3.2 for Visual Studio",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/bazelbuild/vscode-bazel/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:google:bazel:5.3.2:*:*:*:*:visual_studio:*:*",
+	"cpeNameId": "E3FDF829-6589-4AD4-A562-A0E0B1737826",
+	"created": "2022-10-27T15:07:40.420",
+	"lastModified": "2023-07-29T03:09:51.237",
+	"titles": [
+		{
+			"title": "Google Bazel 5.3.2 for Visual Studio",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/bazelbuild/vscode-bazel/releases",
+			"type": "Change Log"
+		}
+	]
 }

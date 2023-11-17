@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:python:python:3.7.7:-:*:*:*:*:*:*",
-  "cpeNameId": "7A7754AC-125E-4D04-BC80-EDFF2C45A674",
-  "created": "2022-05-20T13:47:26.407",
-  "lastModified": "2022-05-20T13:51:00.430",
-  "titles": [
-    {
-      "title": "Python 3.7.7",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.python.org/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://www.python.org/doc/versions/",
-      "type": "Version"
-    },
-    {
-      "ref": "https://github.com/python/cpython",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:python:python:3.7.7:-:*:*:*:*:*:*",
+	"cpeNameId": "7A7754AC-125E-4D04-BC80-EDFF2C45A674",
+	"created": "2022-05-20T13:47:26.407",
+	"lastModified": "2022-05-20T13:51:00.430",
+	"titles": [
+		{
+			"title": "Python 3.7.7",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.python.org/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://www.python.org/doc/versions/",
+			"type": "Version"
+		},
+		{
+			"ref": "https://github.com/python/cpython",
+			"type": "Version"
+		}
+	]
 }

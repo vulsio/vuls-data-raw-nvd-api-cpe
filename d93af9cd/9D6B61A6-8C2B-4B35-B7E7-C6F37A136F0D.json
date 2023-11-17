@@ -1,31 +1,31 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:nodejs:node.js:12.16.2:*:*:*:-:*:*:*",
-  "cpeNameId": "9D6B61A6-8C2B-4B35-B7E7-C6F37A136F0D",
-  "created": "2020-08-14T13:32:58.457",
-  "lastModified": "2021-04-14T19:55:58.503",
-  "titles": [
-    {
-      "title": "Nodejs Node.js 12.16.2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/nodejs/node",
-      "type": "Version"
-    },
-    {
-      "ref": "https://github.com/nodejs/node/blob/master/CHANGELOG.md",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://nodejs.org/en/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://nodejs.org/docs/",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:nodejs:node.js:12.16.2:*:*:*:-:*:*:*",
+	"cpeNameId": "9D6B61A6-8C2B-4B35-B7E7-C6F37A136F0D",
+	"created": "2020-08-14T13:32:58.457",
+	"lastModified": "2021-04-14T19:55:58.503",
+	"titles": [
+		{
+			"title": "Nodejs Node.js 12.16.2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/nodejs/node",
+			"type": "Version"
+		},
+		{
+			"ref": "https://github.com/nodejs/node/blob/master/CHANGELOG.md",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://nodejs.org/en/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://nodejs.org/docs/",
+			"type": "Version"
+		}
+	]
 }

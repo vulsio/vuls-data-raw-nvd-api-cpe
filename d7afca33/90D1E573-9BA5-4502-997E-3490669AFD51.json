@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:owncloud:owncloud:11.7.0:*:*:*:*:iphone_os:*:*",
-  "cpeNameId": "90D1E573-9BA5-4502-997E-3490669AFD51",
-  "created": "2021-09-10T13:28:57.303",
-  "lastModified": "2021-09-10T13:41:58.420",
-  "titles": [
-    {
-      "title": "ownCloud 11.7.0 for iPhoneOS",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://owncloud.com/changelog/ios-app/",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://github.com/owncloud/ios-app",
-      "type": "Version"
-    },
-    {
-      "ref": "https://apps.apple.com/app/id1359583808",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:owncloud:owncloud:11.7.0:*:*:*:*:iphone_os:*:*",
+	"cpeNameId": "90D1E573-9BA5-4502-997E-3490669AFD51",
+	"created": "2021-09-10T13:28:57.303",
+	"lastModified": "2021-09-10T13:41:58.420",
+	"titles": [
+		{
+			"title": "ownCloud 11.7.0 for iPhoneOS",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://owncloud.com/changelog/ios-app/",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://github.com/owncloud/ios-app",
+			"type": "Version"
+		},
+		{
+			"ref": "https://apps.apple.com/app/id1359583808",
+			"type": "Product"
+		}
+	]
 }

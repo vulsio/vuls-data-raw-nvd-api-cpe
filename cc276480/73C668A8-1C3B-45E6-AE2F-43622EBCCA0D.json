@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:jenkins:icescrum:1.0.5.8:*:*:*:*:jenkins:*:*",
-  "cpeNameId": "73C668A8-1C3B-45E6-AE2F-43622EBCCA0D",
-  "created": "2019-10-21T12:20:09.567",
-  "lastModified": "2019-10-21T12:20:09.567",
-  "titles": [
-    {
-      "title": "Jenkins iceScrum 1.0.5.8 for Jenkins",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/jenkinsci/icescrum-plugin/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:jenkins:icescrum:1.0.5.8:*:*:*:*:jenkins:*:*",
+	"cpeNameId": "73C668A8-1C3B-45E6-AE2F-43622EBCCA0D",
+	"created": "2019-10-21T12:20:09.567",
+	"lastModified": "2019-10-21T12:20:09.567",
+	"titles": [
+		{
+			"title": "Jenkins iceScrum 1.0.5.8 for Jenkins",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/jenkinsci/icescrum-plugin/releases",
+			"type": "Change Log"
+		}
+	]
 }

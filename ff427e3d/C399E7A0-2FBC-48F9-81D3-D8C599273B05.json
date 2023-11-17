@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:cisco:nx-os:6.2\\\\(22\\\\):*:*:*:*:*:*:*",
-  "cpeNameId": "C399E7A0-2FBC-48F9-81D3-D8C599273B05",
-  "created": "2019-09-04T17:56:00.430",
-  "lastModified": "2021-04-13T14:30:47.297",
-  "titles": [
-    {
-      "title": "Cisco NX-OS 6.2\\(22\\)",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190828-fxnxos-snmp-dos",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://www.cisco.com/c/en/us/products/collateral/ios-nx-os-software/nx-os-software/data_sheet_c78-652063.html",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:cisco:nx-os:6.2\\\\(22\\\\):*:*:*:*:*:*:*",
+	"cpeNameId": "C399E7A0-2FBC-48F9-81D3-D8C599273B05",
+	"created": "2019-09-04T17:56:00.430",
+	"lastModified": "2021-04-13T14:30:47.297",
+	"titles": [
+		{
+			"title": "Cisco NX-OS 6.2\\(22\\)",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190828-fxnxos-snmp-dos",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://www.cisco.com/c/en/us/products/collateral/ios-nx-os-software/nx-os-software/data_sheet_c78-652063.html",
+			"type": "Product"
+		}
+	]
 }

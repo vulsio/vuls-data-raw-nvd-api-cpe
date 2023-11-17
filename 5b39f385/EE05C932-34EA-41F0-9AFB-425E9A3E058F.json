@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:codepeople:sell_downloads:1.0.20:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "EE05C932-34EA-41F0-9AFB-425E9A3E058F",
-  "created": "2019-08-28T17:38:53.057",
-  "lastModified": "2019-08-28T17:38:53.057",
-  "titles": [
-    {
-      "title": "CodePeople Sell Downloads 1.0.20 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wordpress.org/plugins/sell-downloads/#developers",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:codepeople:sell_downloads:1.0.20:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "EE05C932-34EA-41F0-9AFB-425E9A3E058F",
+	"created": "2019-08-28T17:38:53.057",
+	"lastModified": "2019-08-28T17:38:53.057",
+	"titles": [
+		{
+			"title": "CodePeople Sell Downloads 1.0.20 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/sell-downloads/#developers",
+			"type": "Change Log"
+		}
+	]
 }

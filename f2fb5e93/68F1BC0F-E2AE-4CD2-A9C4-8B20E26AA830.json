@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:ajax_search_project:ajax_search:4.11.1:*:*:*:lite:wordpress:*:*",
-  "cpeNameId": "68F1BC0F-E2AE-4CD2-A9C4-8B20E26AA830",
-  "created": "2023-04-28T13:44:39.087",
-  "lastModified": "2023-08-22T06:59:14.143",
-  "titles": [
-    {
-      "title": "AJAX Search Project AJAX Search 4.11.1 Lite Edition for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wordpress.org/plugins/ajax-search-lite/",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:ajax_search_project:ajax_search:4.11.1:*:*:*:lite:wordpress:*:*",
+	"cpeNameId": "68F1BC0F-E2AE-4CD2-A9C4-8B20E26AA830",
+	"created": "2023-04-28T13:44:39.087",
+	"lastModified": "2023-08-22T06:59:14.143",
+	"titles": [
+		{
+			"title": "AJAX Search Project AJAX Search 4.11.1 Lite Edition for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/ajax-search-lite/",
+			"type": "Product"
+		}
+	]
 }

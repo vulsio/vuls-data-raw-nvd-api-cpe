@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:radiustheme:the_post_grid:6.0.0:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "8A1035B6-DDE1-4E6F-B153-C36D14E312D9",
-  "created": "2023-10-05T11:01:09.973",
-  "lastModified": "2023-10-05T11:01:09.973",
-  "titles": [
-    {
-      "title": "RadiusTheme The Post Grid 6.0.0 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wordpress.org/plugins/the-post-grid/#developers",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://radiustheme.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:radiustheme:the_post_grid:6.0.0:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "8A1035B6-DDE1-4E6F-B153-C36D14E312D9",
+	"created": "2023-10-05T11:01:09.973",
+	"lastModified": "2023-10-05T11:01:09.973",
+	"titles": [
+		{
+			"title": "RadiusTheme The Post Grid 6.0.0 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/the-post-grid/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://radiustheme.com/",
+			"type": "Vendor"
+		}
+	]
 }

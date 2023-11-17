@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:lexmark:e450:-:*:*:*:*:*:*:*",
-  "cpeNameId": "B74A6DD9-C724-4ECA-A55C-18304F3CEC72",
-  "created": "2010-05-04T18:42:14.890",
-  "lastModified": "2010-05-07T17:58:45.193",
-  "titles": [
-    {
-      "title": "Lexmark E450 Network Printer",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:lexmark:e450:-:*:*:*:*:*:*:*",
+	"cpeNameId": "B74A6DD9-C724-4ECA-A55C-18304F3CEC72",
+	"created": "2010-05-04T18:42:14.890",
+	"lastModified": "2010-05-07T17:58:45.193",
+	"titles": [
+		{
+			"title": "Lexmark E450 Network Printer",
+			"lang": "en"
+		}
+	]
 }

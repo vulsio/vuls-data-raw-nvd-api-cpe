@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:xt-commerce:xt\\:commerce:6.2.2:*:*:*:*:*:*:*",
-  "cpeNameId": "E262D532-F9C4-465B-9228-6030055E9C8B",
-  "created": "2020-05-04T17:41:11.803",
-  "lastModified": "2020-05-04T17:41:11.803",
-  "titles": [
-    {
-      "title": "xt:Commerce 6.2.2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://xtcommerce.atlassian.net/wiki/spaces/MANUAL/pages/767197185/xt+Commerce+6.x+Changelogs",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://www.xt-commerce.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:xt-commerce:xt\\:commerce:6.2.2:*:*:*:*:*:*:*",
+	"cpeNameId": "E262D532-F9C4-465B-9228-6030055E9C8B",
+	"created": "2020-05-04T17:41:11.803",
+	"lastModified": "2020-05-04T17:41:11.803",
+	"titles": [
+		{
+			"title": "xt:Commerce 6.2.2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://xtcommerce.atlassian.net/wiki/spaces/MANUAL/pages/767197185/xt+Commerce+6.x+Changelogs",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://www.xt-commerce.com/",
+			"type": "Vendor"
+		}
+	]
 }

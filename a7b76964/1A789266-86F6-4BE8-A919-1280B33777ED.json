@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:gnome:nautilus:1.1.4:*:*:*:*:*:*:*",
-  "cpeNameId": "1A789266-86F6-4BE8-A919-1280B33777ED",
-  "created": "2019-09-19T11:44:29.457",
-  "lastModified": "2019-09-19T11:44:29.457",
-  "titles": [
-    {
-      "title": "GNOME Nautilus 1.1.4",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/GNOME/nautilus/blob/master/NEWS",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:gnome:nautilus:1.1.4:*:*:*:*:*:*:*",
+	"cpeNameId": "1A789266-86F6-4BE8-A919-1280B33777ED",
+	"created": "2019-09-19T11:44:29.457",
+	"lastModified": "2019-09-19T11:44:29.457",
+	"titles": [
+		{
+			"title": "GNOME Nautilus 1.1.4",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/GNOME/nautilus/blob/master/NEWS",
+			"type": "Change Log"
+		}
+	]
 }

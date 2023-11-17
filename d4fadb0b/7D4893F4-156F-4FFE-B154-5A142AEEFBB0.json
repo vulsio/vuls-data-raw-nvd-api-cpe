@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:openprinting:cups:1.7.0:rc1:*:*:*:*:*:*",
-  "cpeNameId": "7D4893F4-156F-4FFE-B154-5A142AEEFBB0",
-  "created": "2022-06-17T13:17:53.257",
-  "lastModified": "2022-06-17T13:22:42.473",
-  "titles": [
-    {
-      "title": "OpenPrinting CUPS 1.7.0 Release Candidate 1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://openprinting.github.io/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/OpenPrinting/cups",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:openprinting:cups:1.7.0:rc1:*:*:*:*:*:*",
+	"cpeNameId": "7D4893F4-156F-4FFE-B154-5A142AEEFBB0",
+	"created": "2022-06-17T13:17:53.257",
+	"lastModified": "2022-06-17T13:22:42.473",
+	"titles": [
+		{
+			"title": "OpenPrinting CUPS 1.7.0 Release Candidate 1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://openprinting.github.io/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/OpenPrinting/cups",
+			"type": "Version"
+		}
+	]
 }

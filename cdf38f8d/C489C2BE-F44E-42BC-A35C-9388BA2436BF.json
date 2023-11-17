@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:home-assistant:supervisor:160:*:*:*:*:*:*:*",
-  "cpeNameId": "C489C2BE-F44E-42BC-A35C-9388BA2436BF",
-  "created": "2023-03-14T15:45:37.367",
-  "lastModified": "2023-03-14T16:00:45.860",
-  "titles": [
-    {
-      "title": "Home Assistant Supervisor 160",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.home-assistant.io/blog/2023/03/08/supervisor-security-disclosure/",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://github.com/home-assistant/supervisor/releases",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://www.home-assistant.io/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:home-assistant:supervisor:160:*:*:*:*:*:*:*",
+	"cpeNameId": "C489C2BE-F44E-42BC-A35C-9388BA2436BF",
+	"created": "2023-03-14T15:45:37.367",
+	"lastModified": "2023-03-14T16:00:45.860",
+	"titles": [
+		{
+			"title": "Home Assistant Supervisor 160",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.home-assistant.io/blog/2023/03/08/supervisor-security-disclosure/",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://github.com/home-assistant/supervisor/releases",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://www.home-assistant.io/",
+			"type": "Vendor"
+		}
+	]
 }

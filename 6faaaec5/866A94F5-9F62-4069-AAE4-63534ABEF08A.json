@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:mozilla:firefox_esr:102.10:*:*:*:*:*:*:*",
-  "cpeNameId": "866A94F5-9F62-4069-AAE4-63534ABEF08A",
-  "created": "2023-06-26T11:23:34.637",
-  "lastModified": "2023-07-14T17:42:13.247",
-  "titles": [
-    {
-      "title": "Mozilla Firefox ESR 102.10",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.mozilla.org/en-US/security/advisories/mfsa2023-14/",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://www.mozilla.org/en-US/firefox/102.10.0/releasenotes/",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:mozilla:firefox_esr:102.10:*:*:*:*:*:*:*",
+	"cpeNameId": "866A94F5-9F62-4069-AAE4-63534ABEF08A",
+	"created": "2023-06-26T11:23:34.637",
+	"lastModified": "2023-07-14T17:42:13.247",
+	"titles": [
+		{
+			"title": "Mozilla Firefox ESR 102.10",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.mozilla.org/en-US/security/advisories/mfsa2023-14/",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://www.mozilla.org/en-US/firefox/102.10.0/releasenotes/",
+			"type": "Version"
+		}
+	]
 }

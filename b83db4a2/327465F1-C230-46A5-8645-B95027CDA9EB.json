@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:liulishuo:filedownloader:0.2.7:*:*:*:*:*:*:*",
-  "cpeNameId": "327465F1-C230-46A5-8645-B95027CDA9EB",
-  "created": "2019-09-30T17:43:26.620",
-  "lastModified": "2019-09-30T17:43:26.620",
-  "titles": [
-    {
-      "title": "Liulishuo FileDownloader 0.2.7",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.liulishuo.com/en/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/lingochamp/FileDownloader/releases",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:liulishuo:filedownloader:0.2.7:*:*:*:*:*:*:*",
+	"cpeNameId": "327465F1-C230-46A5-8645-B95027CDA9EB",
+	"created": "2019-09-30T17:43:26.620",
+	"lastModified": "2019-09-30T17:43:26.620",
+	"titles": [
+		{
+			"title": "Liulishuo FileDownloader 0.2.7",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.liulishuo.com/en/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/lingochamp/FileDownloader/releases",
+			"type": "Version"
+		}
+	]
 }

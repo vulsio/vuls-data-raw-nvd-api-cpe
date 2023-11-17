@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:bigbluebutton:bigbluebutton:2.2.1:*:*:*:*:*:*:*",
-  "cpeNameId": "CCDBA26D-92B9-44FE-A86F-D9A538ADF31F",
-  "created": "2020-04-28T19:41:35.857",
-  "lastModified": "2020-04-28T19:41:35.857",
-  "titles": [
-    {
-      "title": "BigBlueButton BigBlueButton 2.2.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/bigbluebutton/bigbluebutton/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:bigbluebutton:bigbluebutton:2.2.1:*:*:*:*:*:*:*",
+	"cpeNameId": "CCDBA26D-92B9-44FE-A86F-D9A538ADF31F",
+	"created": "2020-04-28T19:41:35.857",
+	"lastModified": "2020-04-28T19:41:35.857",
+	"titles": [
+		{
+			"title": "BigBlueButton BigBlueButton 2.2.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/bigbluebutton/bigbluebutton/releases",
+			"type": "Change Log"
+		}
+	]
 }

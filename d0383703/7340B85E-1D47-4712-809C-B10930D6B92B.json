@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:ibm:engineering_lifecycle_optimization_publishing:2.0.1:*:*:*:*:*:*:*",
-  "cpeNameId": "7340B85E-1D47-4712-809C-B10930D6B92B",
-  "created": "2022-10-05T16:40:52.330",
-  "lastModified": "2022-10-05T16:42:40.270",
-  "titles": [
-    {
-      "title": "IBM Engineering Lifecycle Optimization Publishing 2.0.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.ibm.com/docs/en/elo-p/7.0.2?topic=installing-release-notes-engineering-publishing-702",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:ibm:engineering_lifecycle_optimization_publishing:2.0.1:*:*:*:*:*:*:*",
+	"cpeNameId": "7340B85E-1D47-4712-809C-B10930D6B92B",
+	"created": "2022-10-05T16:40:52.330",
+	"lastModified": "2022-10-05T16:42:40.270",
+	"titles": [
+		{
+			"title": "IBM Engineering Lifecycle Optimization Publishing 2.0.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.ibm.com/docs/en/elo-p/7.0.2?topic=installing-release-notes-engineering-publishing-702",
+			"type": "Version"
+		}
+	]
 }

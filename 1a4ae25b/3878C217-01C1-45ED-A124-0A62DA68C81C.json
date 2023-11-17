@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:aveva:aveva_edge:6.1.6.3:*:*:*:*:*:*:*",
-  "cpeNameId": "3878C217-01C1-45ED-A124-0A62DA68C81C",
-  "created": "2018-09-24T18:19:37.753",
-  "lastModified": "2021-05-11T13:54:50.107",
-  "titles": [
-    {
-      "title": "AVEVA Edge 6.1.6.3",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.aveva.com/en/products/edge/",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:aveva:aveva_edge:6.1.6.3:*:*:*:*:*:*:*",
+	"cpeNameId": "3878C217-01C1-45ED-A124-0A62DA68C81C",
+	"created": "2018-09-24T18:19:37.753",
+	"lastModified": "2021-05-11T13:54:50.107",
+	"titles": [
+		{
+			"title": "AVEVA Edge 6.1.6.3",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.aveva.com/en/products/edge/",
+			"type": "Product"
+		}
+	]
 }

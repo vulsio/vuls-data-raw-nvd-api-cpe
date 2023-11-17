@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:dalbum:dalbum:1.31:*:*:*:*:*:*:*",
-  "cpeNameId": "6E498B8D-8F72-4CE3-8DAD-63923A500C21",
-  "created": "2013-01-15T12:53:05.617",
-  "lastModified": "2013-01-15T12:53:05.617",
-  "titles": [
-    {
-      "title": "DAlbum 1.31",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:dalbum:dalbum:1.31:*:*:*:*:*:*:*",
+	"cpeNameId": "6E498B8D-8F72-4CE3-8DAD-63923A500C21",
+	"created": "2013-01-15T12:53:05.617",
+	"lastModified": "2013-01-15T12:53:05.617",
+	"titles": [
+		{
+			"title": "DAlbum 1.31",
+			"lang": "en"
+		}
+	]
 }

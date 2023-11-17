@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:pytorchlightning:pytorch_lightning:0.4.7:*:*:*:*:python:*:*",
-  "cpeNameId": "E268EA6E-CF74-4B19-91B5-06309B823D49",
-  "created": "2021-12-30T16:35:58.690",
-  "lastModified": "2021-12-30T18:21:56.827",
-  "titles": [
-    {
-      "title": "PyTorch Lightning 0.4.7 for Python",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://pytorchlightning.ai/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/PyTorchLightning/pytorch-lightning",
-      "type": "Product"
-    },
-    {
-      "ref": "https://pypi.org/project/pytorch-lightning/#history",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:pytorchlightning:pytorch_lightning:0.4.7:*:*:*:*:python:*:*",
+	"cpeNameId": "E268EA6E-CF74-4B19-91B5-06309B823D49",
+	"created": "2021-12-30T16:35:58.690",
+	"lastModified": "2021-12-30T18:21:56.827",
+	"titles": [
+		{
+			"title": "PyTorch Lightning 0.4.7 for Python",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://pytorchlightning.ai/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/PyTorchLightning/pytorch-lightning",
+			"type": "Product"
+		},
+		{
+			"ref": "https://pypi.org/project/pytorch-lightning/#history",
+			"type": "Version"
+		}
+	]
 }

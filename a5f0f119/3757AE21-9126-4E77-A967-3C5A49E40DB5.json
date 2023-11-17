@@ -1,33 +1,33 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:wpdownloadmanager:wordpress_download_manager:2.9.83:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "3757AE21-9126-4E77-A967-3C5A49E40DB5",
-  "created": "2020-05-05T12:20:55.647",
-  "lastModified": "2020-05-05T12:20:55.647",
-  "titles": [
-    {
-      "title": "WordPress Download Manager 2.9.83 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.wpdownloadmanager.com/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://wordpress.org/plugins/download-manager/#developers",
-      "type": "Change Log"
-    }
-  ],
-  "deprecates": [
-    {
-      "cpeName": "cpe:2.3:a:download_manager_project:download_manager:2.9.83:*:*:*:*:wordpress:*:*",
-      "cpeNameId": "2F1E9AD2-825A-4921-9C15-7E680D593503"
-    },
-    {
-      "cpeName": "cpe:2.3:a:wpdownloadmanager:download_manager:2.9.83:*:*:*:*:wordpress:*:*",
-      "cpeNameId": "72B26EE5-4DE1-4A36-A25B-CAE702458038"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:wpdownloadmanager:wordpress_download_manager:2.9.83:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "3757AE21-9126-4E77-A967-3C5A49E40DB5",
+	"created": "2020-05-05T12:20:55.647",
+	"lastModified": "2020-05-05T12:20:55.647",
+	"titles": [
+		{
+			"title": "WordPress Download Manager 2.9.83 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.wpdownloadmanager.com/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/download-manager/#developers",
+			"type": "Change Log"
+		}
+	],
+	"deprecates": [
+		{
+			"cpeName": "cpe:2.3:a:download_manager_project:download_manager:2.9.83:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "2F1E9AD2-825A-4921-9C15-7E680D593503"
+		},
+		{
+			"cpeName": "cpe:2.3:a:wpdownloadmanager:download_manager:2.9.83:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "72B26EE5-4DE1-4A36-A25B-CAE702458038"
+		}
+	]
 }

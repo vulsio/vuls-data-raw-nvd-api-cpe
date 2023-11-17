@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:python:python:3.8.2:*:*:*:*:*:*:*",
-  "cpeNameId": "EFF30DAC-40E2-4535-A393-90B83F194E30",
-  "created": "2020-06-23T18:20:53.933",
-  "lastModified": "2020-06-23T18:20:53.933",
-  "titles": [
-    {
-      "title": "Python Python 3.8.2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.python.org/downloads/",
-      "type": "Version"
-    },
-    {
-      "ref": "https://www.python.org/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:python:python:3.8.2:*:*:*:*:*:*:*",
+	"cpeNameId": "EFF30DAC-40E2-4535-A393-90B83F194E30",
+	"created": "2020-06-23T18:20:53.933",
+	"lastModified": "2020-06-23T18:20:53.933",
+	"titles": [
+		{
+			"title": "Python Python 3.8.2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.python.org/downloads/",
+			"type": "Version"
+		},
+		{
+			"ref": "https://www.python.org/",
+			"type": "Vendor"
+		}
+	]
 }

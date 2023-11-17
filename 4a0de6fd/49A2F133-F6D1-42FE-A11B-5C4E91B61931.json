@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:rack_project:rack:1.6.12:*:*:*:*:ruby:*:*",
-  "cpeNameId": "49A2F133-F6D1-42FE-A11B-5C4E91B61931",
-  "created": "2019-12-30T12:13:13.197",
-  "lastModified": "2019-12-30T12:13:13.197",
-  "titles": [
-    {
-      "title": "Rack Project Rack 1.6.12 for Ruby",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/rack/rack/releases",
-      "type": "Version"
-    },
-    {
-      "ref": "https://github.com/rack/rack/security/advisories/GHSA-hrqr-hxpp-chr3",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:rack_project:rack:1.6.12:*:*:*:*:ruby:*:*",
+	"cpeNameId": "49A2F133-F6D1-42FE-A11B-5C4E91B61931",
+	"created": "2019-12-30T12:13:13.197",
+	"lastModified": "2019-12-30T12:13:13.197",
+	"titles": [
+		{
+			"title": "Rack Project Rack 1.6.12 for Ruby",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/rack/rack/releases",
+			"type": "Version"
+		},
+		{
+			"ref": "https://github.com/rack/rack/security/advisories/GHSA-hrqr-hxpp-chr3",
+			"type": "Advisory"
+		}
+	]
 }

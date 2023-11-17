@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:florian_heidenreich:mp3tag:v2.46a:*:*:*:*:*:*:*",
-  "cpeNameId": "87D7ED5E-97E8-4B9D-976F-654314CD1A82",
-  "created": "2012-05-14T23:29:05.407",
-  "lastModified": "2012-05-14T23:29:05.407",
-  "titles": [
-    {
-      "title": "Florian Heidenreich Mp3tag V2.46a",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:florian_heidenreich:mp3tag:v2.46a:*:*:*:*:*:*:*",
+	"cpeNameId": "87D7ED5E-97E8-4B9D-976F-654314CD1A82",
+	"created": "2012-05-14T23:29:05.407",
+	"lastModified": "2012-05-14T23:29:05.407",
+	"titles": [
+		{
+			"title": "Florian Heidenreich Mp3tag V2.46a",
+			"lang": "en"
+		}
+	]
 }

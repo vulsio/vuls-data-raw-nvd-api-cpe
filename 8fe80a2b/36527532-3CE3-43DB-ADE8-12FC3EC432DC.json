@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:microsoft:works:4.0a:*:*:*:*:*:*:*",
-  "cpeNameId": "36527532-3CE3-43DB-ADE8-12FC3EC432DC",
-  "created": "2007-08-23T21:16:59.567",
-  "lastModified": "2007-09-14T17:36:49.090",
-  "titles": [
-    {
-      "title": "Microsoft Works 4.0a",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:microsoft:works:4.0a:*:*:*:*:*:*:*",
+	"cpeNameId": "36527532-3CE3-43DB-ADE8-12FC3EC432DC",
+	"created": "2007-08-23T21:16:59.567",
+	"lastModified": "2007-09-14T17:36:49.090",
+	"titles": [
+		{
+			"title": "Microsoft Works 4.0a",
+			"lang": "en"
+		}
+	]
 }

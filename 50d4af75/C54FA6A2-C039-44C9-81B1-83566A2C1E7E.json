@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:davical:davical:0.9.5:*:*:*:*:*:*:*",
-  "cpeNameId": "C54FA6A2-C039-44C9-81B1-83566A2C1E7E",
-  "created": "2019-12-12T16:39:53.057",
-  "lastModified": "2019-12-12T16:39:53.057",
-  "titles": [
-    {
-      "title": "DAViCal DAViCal 0.9.5",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.davical.org/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://gitlab.com/davical-project/davical/blob/master/ChangeLog",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:davical:davical:0.9.5:*:*:*:*:*:*:*",
+	"cpeNameId": "C54FA6A2-C039-44C9-81B1-83566A2C1E7E",
+	"created": "2019-12-12T16:39:53.057",
+	"lastModified": "2019-12-12T16:39:53.057",
+	"titles": [
+		{
+			"title": "DAViCal DAViCal 0.9.5",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.davical.org/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://gitlab.com/davical-project/davical/blob/master/ChangeLog",
+			"type": "Change Log"
+		}
+	]
 }

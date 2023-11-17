@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:mozilla:firefox_esr:68.0.2:*:*:*:*:*:*:*",
-  "cpeNameId": "7D651C3B-2291-4D51-9891-8AA94317308B",
-  "created": "2020-03-04T16:54:58.880",
-  "lastModified": "2020-03-04T16:54:58.880",
-  "titles": [
-    {
-      "title": "Mozilla Firefox ESR 68.0.2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.mozilla.org/en-US/firefox/68.0.2esr/releasenotes/",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:mozilla:firefox_esr:68.0.2:*:*:*:*:*:*:*",
+	"cpeNameId": "7D651C3B-2291-4D51-9891-8AA94317308B",
+	"created": "2020-03-04T16:54:58.880",
+	"lastModified": "2020-03-04T16:54:58.880",
+	"titles": [
+		{
+			"title": "Mozilla Firefox ESR 68.0.2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.mozilla.org/en-US/firefox/68.0.2esr/releasenotes/",
+			"type": "Change Log"
+		}
+	]
 }

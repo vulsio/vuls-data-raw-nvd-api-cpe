@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:opera:opera_browser:12.01:*:*:*:*:*:*:*",
-  "cpeNameId": "B91DC33E-501D-4299-BA9E-584A574648BF",
-  "created": "2012-08-07T18:28:55.670",
-  "lastModified": "2012-08-10T17:21:03.437",
-  "titles": [
-    {
-      "title": "Opera Browser 12.01",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:opera:opera_browser:12.01:*:*:*:*:*:*:*",
+	"cpeNameId": "B91DC33E-501D-4299-BA9E-584A574648BF",
+	"created": "2012-08-07T18:28:55.670",
+	"lastModified": "2012-08-10T17:21:03.437",
+	"titles": [
+		{
+			"title": "Opera Browser 12.01",
+			"lang": "en"
+		}
+	]
 }

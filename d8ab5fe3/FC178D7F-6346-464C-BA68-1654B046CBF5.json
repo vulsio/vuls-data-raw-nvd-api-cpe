@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:whmcs:whmcompletesolution:4.5.2:*:*:*:*:*:*:*",
-  "cpeNameId": "FC178D7F-6346-464C-BA68-1654B046CBF5",
-  "created": "2011-12-14T21:23:50.450",
-  "lastModified": "2011-12-19T20:05:58.267",
-  "titles": [
-    {
-      "title": "whmcs WHMCompleteSolution (WHMCS) 4.5.2",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:whmcs:whmcompletesolution:4.5.2:*:*:*:*:*:*:*",
+	"cpeNameId": "FC178D7F-6346-464C-BA68-1654B046CBF5",
+	"created": "2011-12-14T21:23:50.450",
+	"lastModified": "2011-12-19T20:05:58.267",
+	"titles": [
+		{
+			"title": "whmcs WHMCompleteSolution (WHMCS) 4.5.2",
+			"lang": "en"
+		}
+	]
 }

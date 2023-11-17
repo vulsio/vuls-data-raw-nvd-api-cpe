@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:python:python:3.8.1:-:*:*:*:*:*:*",
-  "cpeNameId": "288E4674-935E-48BE-8D93-47C8A178D6A6",
-  "created": "2022-05-20T13:47:26.407",
-  "lastModified": "2022-05-20T13:51:00.430",
-  "titles": [
-    {
-      "title": "Python 3.8.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.python.org/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://www.python.org/doc/versions/",
-      "type": "Version"
-    },
-    {
-      "ref": "https://github.com/python/cpython",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:python:python:3.8.1:-:*:*:*:*:*:*",
+	"cpeNameId": "288E4674-935E-48BE-8D93-47C8A178D6A6",
+	"created": "2022-05-20T13:47:26.407",
+	"lastModified": "2022-05-20T13:51:00.430",
+	"titles": [
+		{
+			"title": "Python 3.8.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.python.org/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://www.python.org/doc/versions/",
+			"type": "Version"
+		},
+		{
+			"ref": "https://github.com/python/cpython",
+			"type": "Version"
+		}
+	]
 }

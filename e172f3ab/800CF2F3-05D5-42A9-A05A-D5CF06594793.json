@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:phorum:phorum:5.2.13:*:*:*:*:*:*:*",
-  "cpeNameId": "800CF2F3-05D5-42A9-A05A-D5CF06594793",
-  "created": "2010-05-20T19:36:17.047",
-  "lastModified": "2012-02-10T18:53:07.187",
-  "titles": [
-    {
-      "title": "Phorum 5.2.13",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:phorum:phorum:5.2.13:*:*:*:*:*:*:*",
+	"cpeNameId": "800CF2F3-05D5-42A9-A05A-D5CF06594793",
+	"created": "2010-05-20T19:36:17.047",
+	"lastModified": "2012-02-10T18:53:07.187",
+	"titles": [
+		{
+			"title": "Phorum 5.2.13",
+			"lang": "en"
+		}
+	]
 }

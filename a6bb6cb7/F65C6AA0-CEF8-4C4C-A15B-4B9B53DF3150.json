@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:paidmembershipspro:paid_memberships_pro:2.5:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "F65C6AA0-CEF8-4C4C-A15B-4B9B53DF3150",
-  "created": "2021-03-18T13:09:31.320",
-  "lastModified": "2021-03-23T16:26:42.667",
-  "titles": [
-    {
-      "title": "PaidMembershipsPro Paid Memberships Pro 2.5 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wordpress.org/plugins/paid-memberships-pro/#developers",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://www.paidmembershipspro.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:paidmembershipspro:paid_memberships_pro:2.5:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "F65C6AA0-CEF8-4C4C-A15B-4B9B53DF3150",
+	"created": "2021-03-18T13:09:31.320",
+	"lastModified": "2021-03-23T16:26:42.667",
+	"titles": [
+		{
+			"title": "PaidMembershipsPro Paid Memberships Pro 2.5 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/paid-memberships-pro/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://www.paidmembershipspro.com/",
+			"type": "Vendor"
+		}
+	]
 }

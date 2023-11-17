@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:gnome:librsvg:2.42.4:*:*:*:*:*:*:*",
-  "cpeNameId": "70ECD38F-2A27-4B5F-9CD5-5B17469CEFEC",
-  "created": "2019-10-21T16:17:00.263",
-  "lastModified": "2019-10-21T16:17:00.263",
-  "titles": [
-    {
-      "title": "GNOME librsvg 2.42.4",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/GNOME/librsvg",
-      "type": "Product"
-    },
-    {
-      "ref": "https://github.com/GNOME/librsvg/releases",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:gnome:librsvg:2.42.4:*:*:*:*:*:*:*",
+	"cpeNameId": "70ECD38F-2A27-4B5F-9CD5-5B17469CEFEC",
+	"created": "2019-10-21T16:17:00.263",
+	"lastModified": "2019-10-21T16:17:00.263",
+	"titles": [
+		{
+			"title": "GNOME librsvg 2.42.4",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/GNOME/librsvg",
+			"type": "Product"
+		},
+		{
+			"ref": "https://github.com/GNOME/librsvg/releases",
+			"type": "Version"
+		}
+	]
 }

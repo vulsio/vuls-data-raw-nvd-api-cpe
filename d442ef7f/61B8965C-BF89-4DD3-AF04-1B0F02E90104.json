@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:wp-events-plugin:events_manager:5.8.1.2:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "61B8965C-BF89-4DD3-AF04-1B0F02E90104",
-  "created": "2018-08-16T14:11:33.820",
-  "lastModified": "2018-08-16T14:11:33.820",
-  "titles": [
-    {
-      "title": "wp-events-plugin Events Manager 5.8.1.2 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wordpress.org/plugins/events-manager/#developers",
-      "type": "Change Log"
-    },
-    {
-      "ref": "http://wp-events-plugin.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:wp-events-plugin:events_manager:5.8.1.2:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "61B8965C-BF89-4DD3-AF04-1B0F02E90104",
+	"created": "2018-08-16T14:11:33.820",
+	"lastModified": "2018-08-16T14:11:33.820",
+	"titles": [
+		{
+			"title": "wp-events-plugin Events Manager 5.8.1.2 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/events-manager/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "http://wp-events-plugin.com/",
+			"type": "Vendor"
+		}
+	]
 }

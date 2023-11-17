@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:jenkins:openid_connect_authentication:1.4:*:*:*:*:jenkins:*:*",
-  "cpeNameId": "2958EE1C-E5B9-4C55-9E58-52DD393A86ED",
-  "created": "2019-03-21T18:49:58.327",
-  "lastModified": "2019-03-21T18:49:58.327",
-  "titles": [
-    {
-      "title": "Jenkins OpenId Connect Authentication 1.4 for Jenkins",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wiki.jenkins.io/display/JENKINS/Openid+Connect+Authentication+Plugin",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:jenkins:openid_connect_authentication:1.4:*:*:*:*:jenkins:*:*",
+	"cpeNameId": "2958EE1C-E5B9-4C55-9E58-52DD393A86ED",
+	"created": "2019-03-21T18:49:58.327",
+	"lastModified": "2019-03-21T18:49:58.327",
+	"titles": [
+		{
+			"title": "Jenkins OpenId Connect Authentication 1.4 for Jenkins",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wiki.jenkins.io/display/JENKINS/Openid+Connect+Authentication+Plugin",
+			"type": "Version"
+		}
+	]
 }

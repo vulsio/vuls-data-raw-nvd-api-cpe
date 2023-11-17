@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:cisco:ios:15.1\\\\(2\\\\)sy2:*:*:*:*:*:*:*",
-  "cpeNameId": "B8B50D52-F496-4ACD-8DA5-8EEEA138BB83",
-  "created": "2020-05-11T12:01:35.437",
-  "lastModified": "2020-05-11T12:01:35.437",
-  "titles": [
-    {
-      "title": "Cisco IOS 15.1\\(2\\)SY2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://software.cisco.com/download/find/ios",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:cisco:ios:15.1\\\\(2\\\\)sy2:*:*:*:*:*:*:*",
+	"cpeNameId": "B8B50D52-F496-4ACD-8DA5-8EEEA138BB83",
+	"created": "2020-05-11T12:01:35.437",
+	"lastModified": "2020-05-11T12:01:35.437",
+	"titles": [
+		{
+			"title": "Cisco IOS 15.1\\(2\\)SY2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://software.cisco.com/download/find/ios",
+			"type": "Version"
+		}
+	]
 }

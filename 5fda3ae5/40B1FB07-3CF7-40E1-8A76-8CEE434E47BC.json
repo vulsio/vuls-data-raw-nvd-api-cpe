@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:adobe:extendscript_toolkit_cs4:3.0.0:*:*:*:*:*:*:*",
-  "cpeNameId": "40B1FB07-3CF7-40E1-8A76-8CEE434E47BC",
-  "created": "2012-04-24T23:21:10.307",
-  "lastModified": "2012-04-24T23:21:10.307",
-  "titles": [
-    {
-      "title": "Adobe Extendscript Toolkit (ESTK) CS4 3.0.0",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:adobe:extendscript_toolkit_cs4:3.0.0:*:*:*:*:*:*:*",
+	"cpeNameId": "40B1FB07-3CF7-40E1-8A76-8CEE434E47BC",
+	"created": "2012-04-24T23:21:10.307",
+	"lastModified": "2012-04-24T23:21:10.307",
+	"titles": [
+		{
+			"title": "Adobe Extendscript Toolkit (ESTK) CS4 3.0.0",
+			"lang": "en"
+		}
+	]
 }

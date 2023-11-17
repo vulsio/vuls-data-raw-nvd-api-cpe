@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:jose_project:jose:4.1.2:*:*:*:*:node.js:*:*",
-  "cpeNameId": "E06C2433-2D99-4D47-A32F-4CEF4E166ACE",
-  "created": "2022-09-12T13:36:05.207",
-  "lastModified": "2022-09-12T13:41:30.647",
-  "titles": [
-    {
-      "title": "Jose Project Jose 4.1.2 for Node.js",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/panva/jose/security/advisories/GHSA-jv3g-j58f-9mq9",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://github.com/panva/jose/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:jose_project:jose:4.1.2:*:*:*:*:node.js:*:*",
+	"cpeNameId": "E06C2433-2D99-4D47-A32F-4CEF4E166ACE",
+	"created": "2022-09-12T13:36:05.207",
+	"lastModified": "2022-09-12T13:41:30.647",
+	"titles": [
+		{
+			"title": "Jose Project Jose 4.1.2 for Node.js",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/panva/jose/security/advisories/GHSA-jv3g-j58f-9mq9",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://github.com/panva/jose/releases",
+			"type": "Change Log"
+		}
+	]
 }

@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:quarkus:quarkus:2.5.4:*:*:*:*:*:*:*",
-  "cpeNameId": "627ED343-BAFA-4D0B-814D-7E806092ECBD",
-  "created": "2022-01-27T15:22:56.923",
-  "lastModified": "2022-01-27T15:26:24.467",
-  "titles": [
-    {
-      "title": "Quarkus 2.5.4",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/quarkusio/quarkus",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://quarkus.io/",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:quarkus:quarkus:2.5.4:*:*:*:*:*:*:*",
+	"cpeNameId": "627ED343-BAFA-4D0B-814D-7E806092ECBD",
+	"created": "2022-01-27T15:22:56.923",
+	"lastModified": "2022-01-27T15:26:24.467",
+	"titles": [
+		{
+			"title": "Quarkus 2.5.4",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/quarkusio/quarkus",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://quarkus.io/",
+			"type": "Product"
+		}
+	]
 }

@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:bluecoat:cacheos:4.1.6:*:*:*:*:*:*:*",
-  "cpeNameId": "5BB83243-0D82-41DA-8BFC-368F0D160AFE",
-  "created": "2007-08-23T21:16:59.567",
-  "lastModified": "2008-04-01T16:09:40.497",
-  "titles": [
-    {
-      "title": "Blue Coat Systems CacheOS 4.1.6",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:bluecoat:cacheos:4.1.6:*:*:*:*:*:*:*",
+	"cpeNameId": "5BB83243-0D82-41DA-8BFC-368F0D160AFE",
+	"created": "2007-08-23T21:16:59.567",
+	"lastModified": "2008-04-01T16:09:40.497",
+	"titles": [
+		{
+			"title": "Blue Coat Systems CacheOS 4.1.6",
+			"lang": "en"
+		}
+	]
 }

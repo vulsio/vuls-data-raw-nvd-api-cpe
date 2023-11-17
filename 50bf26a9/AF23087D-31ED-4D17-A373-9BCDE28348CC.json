@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:wp-advanced-search_project:wp-advanced-search:2.6.1:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "AF23087D-31ED-4D17-A373-9BCDE28348CC",
-  "created": "2020-05-06T13:41:07.373",
-  "lastModified": "2020-05-06T13:41:07.373",
-  "titles": [
-    {
-      "title": "WP-Advanced-Search Project WP-Advanced-Search 2.6.1 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://plugins.trac.wordpress.org/browser/wp-advanced-search/#tags",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:wp-advanced-search_project:wp-advanced-search:2.6.1:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "AF23087D-31ED-4D17-A373-9BCDE28348CC",
+	"created": "2020-05-06T13:41:07.373",
+	"lastModified": "2020-05-06T13:41:07.373",
+	"titles": [
+		{
+			"title": "WP-Advanced-Search Project WP-Advanced-Search 2.6.1 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://plugins.trac.wordpress.org/browser/wp-advanced-search/#tags",
+			"type": "Version"
+		}
+	]
 }

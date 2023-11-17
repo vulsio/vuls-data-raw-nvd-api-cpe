@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:microsoft:powershell:7.1:preview3:*:*:*:*:*:*",
-  "cpeNameId": "B03AFD06-1DD0-4EAB-85E0-40112DC89CFC",
-  "created": "2021-10-19T18:04:20.107",
-  "lastModified": "2021-10-20T18:21:12.303",
-  "titles": [
-    {
-      "title": "Microsoft PowerShell 7.1 Preview 3",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/PowerShell/PowerShell/",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:microsoft:powershell:7.1:preview3:*:*:*:*:*:*",
+	"cpeNameId": "B03AFD06-1DD0-4EAB-85E0-40112DC89CFC",
+	"created": "2021-10-19T18:04:20.107",
+	"lastModified": "2021-10-20T18:21:12.303",
+	"titles": [
+		{
+			"title": "Microsoft PowerShell 7.1 Preview 3",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/PowerShell/PowerShell/",
+			"type": "Version"
+		}
+	]
 }

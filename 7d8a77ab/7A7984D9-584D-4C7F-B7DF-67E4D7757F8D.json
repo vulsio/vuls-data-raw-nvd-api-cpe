@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:lru-cache_project:lru-cache:0.0.7:*:*:*:*:rust:*:*",
-  "cpeNameId": "7A7984D9-584D-4C7F-B7DF-67E4D7757F8D",
-  "created": "2022-02-09T13:55:46.027",
-  "lastModified": "2022-02-09T13:56:55.677",
-  "titles": [
-    {
-      "title": "lru-cache Project lru-cache 0.0.7 for Rust",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://crates.io/crates/lru-cache",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:lru-cache_project:lru-cache:0.0.7:*:*:*:*:rust:*:*",
+	"cpeNameId": "7A7984D9-584D-4C7F-B7DF-67E4D7757F8D",
+	"created": "2022-02-09T13:55:46.027",
+	"lastModified": "2022-02-09T13:56:55.677",
+	"titles": [
+		{
+			"title": "lru-cache Project lru-cache 0.0.7 for Rust",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://crates.io/crates/lru-cache",
+			"type": "Version"
+		}
+	]
 }

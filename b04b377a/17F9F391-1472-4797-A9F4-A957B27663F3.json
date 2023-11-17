@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:twistedmatrix:twisted:16.3.1:*:*:*:*:*:*:*",
-  "cpeNameId": "17F9F391-1472-4797-A9F4-A957B27663F3",
-  "created": "2019-06-18T12:24:22.380",
-  "lastModified": "2019-06-18T12:24:22.380",
-  "titles": [
-    {
-      "title": "Twisted Matrix Twisted 16.3.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/twisted/twisted",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:twistedmatrix:twisted:16.3.1:*:*:*:*:*:*:*",
+	"cpeNameId": "17F9F391-1472-4797-A9F4-A957B27663F3",
+	"created": "2019-06-18T12:24:22.380",
+	"lastModified": "2019-06-18T12:24:22.380",
+	"titles": [
+		{
+			"title": "Twisted Matrix Twisted 16.3.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/twisted/twisted",
+			"type": "Change Log"
+		}
+	]
 }

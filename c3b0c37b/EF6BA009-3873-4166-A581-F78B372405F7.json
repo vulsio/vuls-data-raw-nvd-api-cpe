@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:apache:tomcat:9.0.0:milestone18:*:*:*:*:*:*",
-  "cpeNameId": "EF6BA009-3873-4166-A581-F78B372405F7",
-  "created": "2019-10-29T13:55:08.877",
-  "lastModified": "2019-10-29T13:55:08.877",
-  "titles": [
-    {
-      "title": "Apache Software Foundation Tomcat 9.0.0 Milestone 18",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/apache/tomcat",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:apache:tomcat:9.0.0:milestone18:*:*:*:*:*:*",
+	"cpeNameId": "EF6BA009-3873-4166-A581-F78B372405F7",
+	"created": "2019-10-29T13:55:08.877",
+	"lastModified": "2019-10-29T13:55:08.877",
+	"titles": [
+		{
+			"title": "Apache Software Foundation Tomcat 9.0.0 Milestone 18",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/apache/tomcat",
+			"type": "Version"
+		}
+	]
 }

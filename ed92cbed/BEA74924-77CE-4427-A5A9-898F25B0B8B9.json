@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:phpmyfaq:phpmyfaq:0.95:*:*:*:*:*:*:*",
-  "cpeNameId": "BEA74924-77CE-4427-A5A9-898F25B0B8B9",
-  "created": "2019-09-20T13:50:58.113",
-  "lastModified": "2019-09-20T13:50:58.113",
-  "titles": [
-    {
-      "title": "phpMyFAQ 0.95",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.phpmyfaq.de/changelog",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:phpmyfaq:phpmyfaq:0.95:*:*:*:*:*:*:*",
+	"cpeNameId": "BEA74924-77CE-4427-A5A9-898F25B0B8B9",
+	"created": "2019-09-20T13:50:58.113",
+	"lastModified": "2019-09-20T13:50:58.113",
+	"titles": [
+		{
+			"title": "phpMyFAQ 0.95",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.phpmyfaq.de/changelog",
+			"type": "Change Log"
+		}
+	]
 }

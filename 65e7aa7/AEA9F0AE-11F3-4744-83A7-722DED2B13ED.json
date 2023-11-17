@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:ipswitch:whatsup_gold:15.02:*:*:*:*:*:*:*",
-  "cpeNameId": "AEA9F0AE-11F3-4744-83A7-722DED2B13ED",
-  "created": "2012-08-16T14:42:38.767",
-  "lastModified": "2012-08-20T18:31:16.480",
-  "titles": [
-    {
-      "title": "Ipswitch WhatsUp Gold 15.02",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:ipswitch:whatsup_gold:15.02:*:*:*:*:*:*:*",
+	"cpeNameId": "AEA9F0AE-11F3-4744-83A7-722DED2B13ED",
+	"created": "2012-08-16T14:42:38.767",
+	"lastModified": "2012-08-20T18:31:16.480",
+	"titles": [
+		{
+			"title": "Ipswitch WhatsUp Gold 15.02",
+			"lang": "en"
+		}
+	]
 }

@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:accesspressthemes:accesspress_basic:2.0.2:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "E199B43A-348B-4240-816E-073377EF522B",
-  "created": "2022-03-15T19:37:20.273",
-  "lastModified": "2022-03-15T19:59:25.237",
-  "titles": [
-    {
-      "title": "AccessPress Themes AccessPress Basic 2.0.2 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://accesspressthemes.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://wordpress.org/themes/accesspress-basic/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://themes.trac.wordpress.org/log/accesspress-basic/",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:accesspressthemes:accesspress_basic:2.0.2:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "E199B43A-348B-4240-816E-073377EF522B",
+	"created": "2022-03-15T19:37:20.273",
+	"lastModified": "2022-03-15T19:59:25.237",
+	"titles": [
+		{
+			"title": "AccessPress Themes AccessPress Basic 2.0.2 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://accesspressthemes.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://wordpress.org/themes/accesspress-basic/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://themes.trac.wordpress.org/log/accesspress-basic/",
+			"type": "Version"
+		}
+	]
 }

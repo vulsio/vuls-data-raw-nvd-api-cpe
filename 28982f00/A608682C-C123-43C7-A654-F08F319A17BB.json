@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:bueltge:adminimize:1.4.7:*:*:*:*:*:*:*",
-  "cpeNameId": "A608682C-C123-43C7-A654-F08F319A17BB",
-  "created": "2012-08-29T14:56:26.473",
-  "lastModified": "2012-08-31T18:15:38.777",
-  "titles": [
-    {
-      "title": "Bueltge Adminimize 1.4.7",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:bueltge:adminimize:1.4.7:*:*:*:*:*:*:*",
+	"cpeNameId": "A608682C-C123-43C7-A654-F08F319A17BB",
+	"created": "2012-08-29T14:56:26.473",
+	"lastModified": "2012-08-31T18:15:38.777",
+	"titles": [
+		{
+			"title": "Bueltge Adminimize 1.4.7",
+			"lang": "en"
+		}
+	]
 }

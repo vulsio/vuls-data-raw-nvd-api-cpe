@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:andrew_simpson:webcollab:2.00:*:*:*:*:*:*:*",
-  "cpeNameId": "5422AD7A-0A60-4F8F-9A74-1B876409A7BC",
-  "created": "2013-11-04T14:35:06.447",
-  "lastModified": "2013-11-12T17:37:31.580",
-  "titles": [
-    {
-      "title": "Andrew Simpson WebCollab 2.00",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://sourceforge.net/projects/webcollab/files/webcollab/"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:andrew_simpson:webcollab:2.00:*:*:*:*:*:*:*",
+	"cpeNameId": "5422AD7A-0A60-4F8F-9A74-1B876409A7BC",
+	"created": "2013-11-04T14:35:06.447",
+	"lastModified": "2013-11-12T17:37:31.580",
+	"titles": [
+		{
+			"title": "Andrew Simpson WebCollab 2.00",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://sourceforge.net/projects/webcollab/files/webcollab/"
+		}
+	]
 }

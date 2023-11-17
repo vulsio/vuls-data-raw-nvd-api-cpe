@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:asynchttpclient_project:async-http-client:2.0.5:*:*:*:*:*:*:*",
-  "cpeNameId": "AEF808F0-48AE-4B3A-BA92-16D68866091E",
-  "created": "2019-03-19T15:11:08.480",
-  "lastModified": "2019-03-19T15:11:08.480",
-  "titles": [
-    {
-      "title": "AsyncHttpClient Project async-http-client 2.0.5",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/AsyncHttpClient/async-http-client/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:asynchttpclient_project:async-http-client:2.0.5:*:*:*:*:*:*:*",
+	"cpeNameId": "AEF808F0-48AE-4B3A-BA92-16D68866091E",
+	"created": "2019-03-19T15:11:08.480",
+	"lastModified": "2019-03-19T15:11:08.480",
+	"titles": [
+		{
+			"title": "AsyncHttpClient Project async-http-client 2.0.5",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/AsyncHttpClient/async-http-client/releases",
+			"type": "Change Log"
+		}
+	]
 }

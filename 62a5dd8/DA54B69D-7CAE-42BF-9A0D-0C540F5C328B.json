@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:cisco:business_150ax_access_point:-:*:*:*:*:*:*:*",
-  "cpeNameId": "DA54B69D-7CAE-42BF-9A0D-0C540F5C328B",
-  "created": "2023-05-25T15:36:01.447",
-  "lastModified": "2023-07-14T17:15:19.333",
-  "titles": [
-    {
-      "title": "Cisco Business 150AX Access Point ",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cbw-auth-bypass-ggnAfdZ",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://www.cisco.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:cisco:business_150ax_access_point:-:*:*:*:*:*:*:*",
+	"cpeNameId": "DA54B69D-7CAE-42BF-9A0D-0C540F5C328B",
+	"created": "2023-05-25T15:36:01.447",
+	"lastModified": "2023-07-14T17:15:19.333",
+	"titles": [
+		{
+			"title": "Cisco Business 150AX Access Point ",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cbw-auth-bypass-ggnAfdZ",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://www.cisco.com/",
+			"type": "Vendor"
+		}
+	]
 }

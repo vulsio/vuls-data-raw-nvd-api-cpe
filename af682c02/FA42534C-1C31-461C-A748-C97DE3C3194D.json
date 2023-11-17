@@ -1,17 +1,17 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:dell:3110cn:-:*:*:*:*:*:*:*",
-  "cpeNameId": "FA42534C-1C31-461C-A748-C97DE3C3194D",
-  "created": "2007-08-23T21:05:57.937",
-  "lastModified": "2012-05-10T15:20:31.940",
-  "titles": [
-    {
-      "title": "Dell 3110cn",
-      "lang": "en"
-    },
-    {
-      "title": "デル 3110cn",
-      "lang": "ja"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:dell:3110cn:-:*:*:*:*:*:*:*",
+	"cpeNameId": "FA42534C-1C31-461C-A748-C97DE3C3194D",
+	"created": "2007-08-23T21:05:57.937",
+	"lastModified": "2012-05-10T15:20:31.940",
+	"titles": [
+		{
+			"title": "Dell 3110cn",
+			"lang": "en"
+		},
+		{
+			"title": "デル 3110cn",
+			"lang": "ja"
+		}
+	]
 }

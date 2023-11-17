@@ -1,17 +1,17 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:phpspot:php_bbs:-:*:*:*:*:*:*:*",
-  "cpeNameId": "D4C5038C-78AE-4F3C-9A29-BA7CF9E67DDC",
-  "created": "2009-09-22T11:07:07.297",
-  "lastModified": "2009-11-25T18:25:30.840",
-  "titles": [
-    {
-      "title": "phpspot PHP BBS",
-      "lang": "en"
-    },
-    {
-      "title": "phpspot PHP掲示板",
-      "lang": "ja"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:phpspot:php_bbs:-:*:*:*:*:*:*:*",
+	"cpeNameId": "D4C5038C-78AE-4F3C-9A29-BA7CF9E67DDC",
+	"created": "2009-09-22T11:07:07.297",
+	"lastModified": "2009-11-25T18:25:30.840",
+	"titles": [
+		{
+			"title": "phpspot PHP BBS",
+			"lang": "en"
+		},
+		{
+			"title": "phpspot PHP掲示板",
+			"lang": "ja"
+		}
+	]
 }

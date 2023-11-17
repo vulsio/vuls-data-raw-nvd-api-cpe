@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:microsoft:visio:2002:sp1:*:*:*:*:*:*",
-  "cpeNameId": "2EB96743-2FF2-4ADA-A2D7-FFBE639BDECA",
-  "created": "2007-09-12T22:55:28.830",
-  "lastModified": "2008-04-15T22:38:59.340",
-  "titles": [
-    {
-      "title": "Microsoft Visio 2002 sp1",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:microsoft:visio:2002:sp1:*:*:*:*:*:*",
+	"cpeNameId": "2EB96743-2FF2-4ADA-A2D7-FFBE639BDECA",
+	"created": "2007-09-12T22:55:28.830",
+	"lastModified": "2008-04-15T22:38:59.340",
+	"titles": [
+		{
+			"title": "Microsoft Visio 2002 sp1",
+			"lang": "en"
+		}
+	]
 }

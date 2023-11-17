@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:puppet:cisco_ios:0.3.0:*:*:*:*:puppet:*:*",
-  "cpeNameId": "ED004D28-E117-4B97-AC7F-DEF3AA258996",
-  "created": "2020-04-29T16:27:19.787",
-  "lastModified": "2020-04-29T16:27:19.787",
-  "titles": [
-    {
-      "title": "Puppet Cisco IOS 0.3.0 for Puppet",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/puppetlabs/cisco_ios/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:puppet:cisco_ios:0.3.0:*:*:*:*:puppet:*:*",
+	"cpeNameId": "ED004D28-E117-4B97-AC7F-DEF3AA258996",
+	"created": "2020-04-29T16:27:19.787",
+	"lastModified": "2020-04-29T16:27:19.787",
+	"titles": [
+		{
+			"title": "Puppet Cisco IOS 0.3.0 for Puppet",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/puppetlabs/cisco_ios/releases",
+			"type": "Change Log"
+		}
+	]
 }

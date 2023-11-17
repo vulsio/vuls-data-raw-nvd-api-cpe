@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:postgresql:pgadmin_4:5.3:*:*:*:*:*:*:*",
-  "cpeNameId": "390F36B1-9EC2-491C-A2F1-32200CA36FB7",
-  "created": "2022-03-22T17:41:43.490",
-  "lastModified": "2022-03-23T15:10:12.610",
-  "titles": [
-    {
-      "title": "PostgreSQL pgAdmin 4 5.3",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.postgresql.org/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://www.pgadmin.org/docs/pgadmin4/latest/index.html",
-      "type": "Product"
-    },
-    {
-      "ref": "https://www.pgadmin.org/docs/pgadmin4/latest/release_notes.html",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:postgresql:pgadmin_4:5.3:*:*:*:*:*:*:*",
+	"cpeNameId": "390F36B1-9EC2-491C-A2F1-32200CA36FB7",
+	"created": "2022-03-22T17:41:43.490",
+	"lastModified": "2022-03-23T15:10:12.610",
+	"titles": [
+		{
+			"title": "PostgreSQL pgAdmin 4 5.3",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.postgresql.org/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://www.pgadmin.org/docs/pgadmin4/latest/index.html",
+			"type": "Product"
+		},
+		{
+			"ref": "https://www.pgadmin.org/docs/pgadmin4/latest/release_notes.html",
+			"type": "Version"
+		}
+	]
 }

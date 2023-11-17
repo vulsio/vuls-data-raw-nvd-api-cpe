@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:embedthis:appweb:8.2.5:*:*:*:*:*:*:*",
-  "cpeNameId": "3F710E06-E5CC-4F7E-B83F-06B95BC5A92B",
-  "created": "2022-10-25T17:10:51.853",
-  "lastModified": "2022-10-25T17:13:06.650",
-  "titles": [
-    {
-      "title": "Embedthis Appweb 8.2.5",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.embedthis.com/appweb/doc/index.html",
-      "type": "Product"
-    },
-    {
-      "ref": "https://github.com/embedthis/appweb-doc/blob/main/CHANGELOG.md",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:embedthis:appweb:8.2.5:*:*:*:*:*:*:*",
+	"cpeNameId": "3F710E06-E5CC-4F7E-B83F-06B95BC5A92B",
+	"created": "2022-10-25T17:10:51.853",
+	"lastModified": "2022-10-25T17:13:06.650",
+	"titles": [
+		{
+			"title": "Embedthis Appweb 8.2.5",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.embedthis.com/appweb/doc/index.html",
+			"type": "Product"
+		},
+		{
+			"ref": "https://github.com/embedthis/appweb-doc/blob/main/CHANGELOG.md",
+			"type": "Change Log"
+		}
+	]
 }

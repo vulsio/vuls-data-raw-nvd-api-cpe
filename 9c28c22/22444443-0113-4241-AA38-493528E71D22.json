@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:starcharge:nova_360_cabinet:-:*:*:*:*:*:*:*",
-  "cpeNameId": "22444443-0113-4241-AA38-493528E71D22",
-  "created": "2021-12-29T13:36:00.487",
-  "lastModified": "2022-01-21T17:18:17.427",
-  "titles": [
-    {
-      "title": "Star Charge Nova 360 Cabinet",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.starcharge.com/en/innovation/item/53",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:starcharge:nova_360_cabinet:-:*:*:*:*:*:*:*",
+	"cpeNameId": "22444443-0113-4241-AA38-493528E71D22",
+	"created": "2021-12-29T13:36:00.487",
+	"lastModified": "2022-01-21T17:18:17.427",
+	"titles": [
+		{
+			"title": "Star Charge Nova 360 Cabinet",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.starcharge.com/en/innovation/item/53",
+			"type": "Product"
+		}
+	]
 }

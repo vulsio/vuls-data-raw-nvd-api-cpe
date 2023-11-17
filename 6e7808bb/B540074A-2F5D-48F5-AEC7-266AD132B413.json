@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:ai_engine_project:ai_engine:1.6.73:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "B540074A-2F5D-48F5-AEC7-266AD132B413",
-  "created": "2023-07-03T16:36:07.267",
-  "lastModified": "2023-07-03T16:37:51.173",
-  "titles": [
-    {
-      "title": "AI Engine Project AI Engine 1.6.73 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wpscan.com/vulnerability/7ee1efb1-9969-40b2-8ab2-ea427091bbd8",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://wordpress.org/plugins/ai-engine/#developers",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:ai_engine_project:ai_engine:1.6.73:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "B540074A-2F5D-48F5-AEC7-266AD132B413",
+	"created": "2023-07-03T16:36:07.267",
+	"lastModified": "2023-07-03T16:37:51.173",
+	"titles": [
+		{
+			"title": "AI Engine Project AI Engine 1.6.73 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wpscan.com/vulnerability/7ee1efb1-9969-40b2-8ab2-ea427091bbd8",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/ai-engine/#developers",
+			"type": "Change Log"
+		}
+	]
 }

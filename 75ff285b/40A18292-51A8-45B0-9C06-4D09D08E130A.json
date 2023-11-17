@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:oracle:vm_virtualbox:4.0.24:*:*:*:*:*:*:*",
-  "cpeNameId": "40A18292-51A8-45B0-9C06-4D09D08E130A",
-  "created": "2014-07-17T13:17:25.137",
-  "lastModified": "2014-07-17T13:43:17.627",
-  "titles": [
-    {
-      "title": "Oracle VM VirtualBox 4.0.24",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.virtualbox.org/wiki/Changelog",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:oracle:vm_virtualbox:4.0.24:*:*:*:*:*:*:*",
+	"cpeNameId": "40A18292-51A8-45B0-9C06-4D09D08E130A",
+	"created": "2014-07-17T13:17:25.137",
+	"lastModified": "2014-07-17T13:43:17.627",
+	"titles": [
+		{
+			"title": "Oracle VM VirtualBox 4.0.24",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.virtualbox.org/wiki/Changelog",
+			"type": "Change Log"
+		}
+	]
 }

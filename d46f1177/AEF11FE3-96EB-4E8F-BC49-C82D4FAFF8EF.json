@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:elliptic_project:elliptic:1.0.0:*:*:*:*:node.js:*:*",
-  "cpeNameId": "AEF11FE3-96EB-4E8F-BC49-C82D4FAFF8EF",
-  "created": "2020-06-05T17:23:30.560",
-  "lastModified": "2020-06-05T17:23:30.560",
-  "titles": [
-    {
-      "title": "Elliptic Project Elliptic 1.0.0 for Node.js",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.npmjs.com/package/elliptic",
-      "type": "Product"
-    },
-    {
-      "ref": "https://github.com/indutny/elliptic",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:elliptic_project:elliptic:1.0.0:*:*:*:*:node.js:*:*",
+	"cpeNameId": "AEF11FE3-96EB-4E8F-BC49-C82D4FAFF8EF",
+	"created": "2020-06-05T17:23:30.560",
+	"lastModified": "2020-06-05T17:23:30.560",
+	"titles": [
+		{
+			"title": "Elliptic Project Elliptic 1.0.0 for Node.js",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.npmjs.com/package/elliptic",
+			"type": "Product"
+		},
+		{
+			"ref": "https://github.com/indutny/elliptic",
+			"type": "Version"
+		}
+	]
 }

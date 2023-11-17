@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:lemonldap-ng:lemonldap\\:\\:ng:0.8.1:*:*:*:*:*:*:*",
-  "cpeNameId": "00D62317-0E22-440A-BD42-FBE52135C78A",
-  "created": "2019-07-11T14:06:01.983",
-  "lastModified": "2019-07-11T14:06:01.983",
-  "titles": [
-    {
-      "title": "LemonLDAP::NG 0.8.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://lemonldap-ng.org/start",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:lemonldap-ng:lemonldap\\:\\:ng:0.8.1:*:*:*:*:*:*:*",
+	"cpeNameId": "00D62317-0E22-440A-BD42-FBE52135C78A",
+	"created": "2019-07-11T14:06:01.983",
+	"lastModified": "2019-07-11T14:06:01.983",
+	"titles": [
+		{
+			"title": "LemonLDAP::NG 0.8.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://lemonldap-ng.org/start",
+			"type": "Vendor"
+		}
+	]
 }

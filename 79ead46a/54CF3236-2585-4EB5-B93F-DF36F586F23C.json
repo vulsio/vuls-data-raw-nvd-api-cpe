@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:tribe29:checkmk:1.6.0:p29:*:*:*:*:*:*",
-  "cpeNameId": "54CF3236-2585-4EB5-B93F-DF36F586F23C",
-  "created": "2022-06-28T14:39:10.420",
-  "lastModified": "2023-08-11T23:37:43.177",
-  "titles": [
-    {
-      "title": "tribe29 checkmk 1.6.0 Patch 29",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://checkmk.com/download",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:tribe29:checkmk:1.6.0:p29:*:*:*:*:*:*",
+	"cpeNameId": "54CF3236-2585-4EB5-B93F-DF36F586F23C",
+	"created": "2022-06-28T14:39:10.420",
+	"lastModified": "2023-08-11T23:37:43.177",
+	"titles": [
+		{
+			"title": "tribe29 checkmk 1.6.0 Patch 29",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://checkmk.com/download",
+			"type": "Product"
+		}
+	]
 }

@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:tagify_project:tagify:2.13.0:*:*:*:*:*:*:*",
-  "cpeNameId": "5DE062E4-0F60-469D-8108-F11977FC95EF",
-  "created": "2022-05-05T17:25:12.063",
-  "lastModified": "2022-05-05T19:39:21.763",
-  "titles": [
-    {
-      "title": "Tagify Project Tagify 2.13.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://security.snyk.io/vuln/SNYK-JS-YAIREOTAGIFY-2404358",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://github.com/yairEO/tagify/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:tagify_project:tagify:2.13.0:*:*:*:*:*:*:*",
+	"cpeNameId": "5DE062E4-0F60-469D-8108-F11977FC95EF",
+	"created": "2022-05-05T17:25:12.063",
+	"lastModified": "2022-05-05T19:39:21.763",
+	"titles": [
+		{
+			"title": "Tagify Project Tagify 2.13.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://security.snyk.io/vuln/SNYK-JS-YAIREOTAGIFY-2404358",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://github.com/yairEO/tagify/releases",
+			"type": "Change Log"
+		}
+	]
 }

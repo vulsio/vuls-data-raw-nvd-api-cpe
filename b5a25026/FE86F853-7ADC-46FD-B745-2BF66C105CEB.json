@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:actix:actix-web:0.6.10:*:*:*:*:rust:*:*",
-  "cpeNameId": "FE86F853-7ADC-46FD-B745-2BF66C105CEB",
-  "created": "2022-01-03T16:49:33.893",
-  "lastModified": "2022-01-03T20:32:22.667",
-  "titles": [
-    {
-      "title": "Actix actix-web 0.6.10 for Rust",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://actix.rs/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://crates.io/crates/actix-web",
-      "type": "Product"
-    },
-    {
-      "ref": "https://crates.io/crates/actix-web/versions",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:actix:actix-web:0.6.10:*:*:*:*:rust:*:*",
+	"cpeNameId": "FE86F853-7ADC-46FD-B745-2BF66C105CEB",
+	"created": "2022-01-03T16:49:33.893",
+	"lastModified": "2022-01-03T20:32:22.667",
+	"titles": [
+		{
+			"title": "Actix actix-web 0.6.10 for Rust",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://actix.rs/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://crates.io/crates/actix-web",
+			"type": "Product"
+		},
+		{
+			"ref": "https://crates.io/crates/actix-web/versions",
+			"type": "Version"
+		}
+	]
 }

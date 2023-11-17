@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:ssh:daemon:-:*:*:*:*:*:*:*",
-  "cpeNameId": "C3869651-6FB8-41A4-9DC1-68A4A68332FF",
-  "created": "2007-08-23T21:05:57.937",
-  "lastModified": "2008-04-01T16:16:11.327",
-  "titles": [
-    {
-      "title": "SSH Communications Security SSH daemon",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:ssh:daemon:-:*:*:*:*:*:*:*",
+	"cpeNameId": "C3869651-6FB8-41A4-9DC1-68A4A68332FF",
+	"created": "2007-08-23T21:05:57.937",
+	"lastModified": "2008-04-01T16:16:11.327",
+	"titles": [
+		{
+			"title": "SSH Communications Security SSH daemon",
+			"lang": "en"
+		}
+	]
 }

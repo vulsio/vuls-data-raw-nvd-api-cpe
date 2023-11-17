@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:devolutions:devolutions_server:2019.1.20.0:*:*:*:*:*:*:*",
-  "cpeNameId": "EB6C0250-45DC-4373-9443-51C21B92026E",
-  "created": "2021-04-05T14:42:34.170",
-  "lastModified": "2021-04-06T19:01:26.217",
-  "titles": [
-    {
-      "title": "Devolutions Server 2019.1.20.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://server.devolutions.net/release-notes",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:devolutions:devolutions_server:2019.1.20.0:*:*:*:*:*:*:*",
+	"cpeNameId": "EB6C0250-45DC-4373-9443-51C21B92026E",
+	"created": "2021-04-05T14:42:34.170",
+	"lastModified": "2021-04-06T19:01:26.217",
+	"titles": [
+		{
+			"title": "Devolutions Server 2019.1.20.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://server.devolutions.net/release-notes",
+			"type": "Change Log"
+		}
+	]
 }

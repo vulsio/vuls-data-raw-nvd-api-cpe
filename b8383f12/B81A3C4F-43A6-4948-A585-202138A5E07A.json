@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:synametrics:synaman:3.2:build1398:*:*:*:*:*:*",
-  "cpeNameId": "B81A3C4F-43A6-4948-A585-202138A5E07A",
-  "created": "2019-12-05T16:39:52.293",
-  "lastModified": "2019-12-05T16:39:52.293",
-  "titles": [
-    {
-      "title": "Synametrics SynaMan 3.2 Build1398",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://web.synametrics.com/SynamanVersionHistory.htm",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:synametrics:synaman:3.2:build1398:*:*:*:*:*:*",
+	"cpeNameId": "B81A3C4F-43A6-4948-A585-202138A5E07A",
+	"created": "2019-12-05T16:39:52.293",
+	"lastModified": "2019-12-05T16:39:52.293",
+	"titles": [
+		{
+			"title": "Synametrics SynaMan 3.2 Build1398",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://web.synametrics.com/SynamanVersionHistory.htm",
+			"type": "Change Log"
+		}
+	]
 }

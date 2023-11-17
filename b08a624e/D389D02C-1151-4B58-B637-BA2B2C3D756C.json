@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:konstanty_bialkowski:libmodplug:0.8.8.1:*:*:*:*:*:*:*",
-  "cpeNameId": "D389D02C-1151-4B58-B637-BA2B2C3D756C",
-  "created": "2011-05-10T17:50:54.763",
-  "lastModified": "2012-06-15T15:12:49.983",
-  "titles": [
-    {
-      "title": "Konstanty Bialkowski libmodplug 0.8.8.1",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:konstanty_bialkowski:libmodplug:0.8.8.1:*:*:*:*:*:*:*",
+	"cpeNameId": "D389D02C-1151-4B58-B637-BA2B2C3D756C",
+	"created": "2011-05-10T17:50:54.763",
+	"lastModified": "2012-06-15T15:12:49.983",
+	"titles": [
+		{
+			"title": "Konstanty Bialkowski libmodplug 0.8.8.1",
+			"lang": "en"
+		}
+	]
 }

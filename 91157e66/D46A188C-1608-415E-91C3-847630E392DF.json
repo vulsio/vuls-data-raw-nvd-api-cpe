@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:oracle:irecruitment:12.2.5:*:*:*:*:*:*:*",
-  "cpeNameId": "D46A188C-1608-415E-91C3-847630E392DF",
-  "created": "2019-05-17T18:44:15.307",
-  "lastModified": "2019-05-17T18:44:15.307",
-  "titles": [
-    {
-      "title": "Oracle iRecruitment 12.2.5",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.oracle.com/index.html",
-      "type": "Vendor"
-    },
-    {
-      "ref": "http://www.oracle.com/technetwork/security-advisory/cpuoct2016-2881722.html",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:oracle:irecruitment:12.2.5:*:*:*:*:*:*:*",
+	"cpeNameId": "D46A188C-1608-415E-91C3-847630E392DF",
+	"created": "2019-05-17T18:44:15.307",
+	"lastModified": "2019-05-17T18:44:15.307",
+	"titles": [
+		{
+			"title": "Oracle iRecruitment 12.2.5",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.oracle.com/index.html",
+			"type": "Vendor"
+		},
+		{
+			"ref": "http://www.oracle.com/technetwork/security-advisory/cpuoct2016-2881722.html",
+			"type": "Advisory"
+		}
+	]
 }

@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:owncloud:owncloud:1.6.2:*:*:*:*:android:*:*",
-  "cpeNameId": "C1031F6E-93EA-4EC4-B05A-B7D5EFC877AC",
-  "created": "2021-09-10T13:55:11.883",
-  "lastModified": "2021-09-10T14:05:30.933",
-  "titles": [
-    {
-      "title": "ownCloud 1.6.2 for Android",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://owncloud.com/changelog/android-app/",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://play.google.com/store/apps/details?id=com.owncloud.android&hl=en_US&gl=US",
-      "type": "Product"
-    },
-    {
-      "ref": "https://github.com/owncloud/android",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:owncloud:owncloud:1.6.2:*:*:*:*:android:*:*",
+	"cpeNameId": "C1031F6E-93EA-4EC4-B05A-B7D5EFC877AC",
+	"created": "2021-09-10T13:55:11.883",
+	"lastModified": "2021-09-10T14:05:30.933",
+	"titles": [
+		{
+			"title": "ownCloud 1.6.2 for Android",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://owncloud.com/changelog/android-app/",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://play.google.com/store/apps/details?id=com.owncloud.android&hl=en_US&gl=US",
+			"type": "Product"
+		},
+		{
+			"ref": "https://github.com/owncloud/android",
+			"type": "Version"
+		}
+	]
 }

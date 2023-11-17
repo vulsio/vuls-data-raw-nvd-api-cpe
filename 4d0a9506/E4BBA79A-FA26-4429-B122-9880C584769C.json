@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:bbraun:spacecom:-:*:*:*:*:*:*:*",
-  "cpeNameId": "E4BBA79A-FA26-4429-B122-9880C584769C",
-  "created": "2022-04-20T15:11:17.723",
-  "lastModified": "2023-02-21T17:43:46.510",
-  "titles": [
-    {
-      "title": "Bbraun Spacecom -",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.bbraun.com/en/products/b/b-braun-spacecom.html",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:bbraun:spacecom:-:*:*:*:*:*:*:*",
+	"cpeNameId": "E4BBA79A-FA26-4429-B122-9880C584769C",
+	"created": "2022-04-20T15:11:17.723",
+	"lastModified": "2023-02-21T17:43:46.510",
+	"titles": [
+		{
+			"title": "Bbraun Spacecom -",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.bbraun.com/en/products/b/b-braun-spacecom.html",
+			"type": "Product"
+		}
+	]
 }

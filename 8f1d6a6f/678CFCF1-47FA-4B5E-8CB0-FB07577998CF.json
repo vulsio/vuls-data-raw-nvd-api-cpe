@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:sybase:easerver:6.3:*:*:*:*:*:*:*",
-  "cpeNameId": "678CFCF1-47FA-4B5E-8CB0-FB07577998CF",
-  "created": "2011-01-21T18:18:28.607",
-  "lastModified": "2012-08-20T18:28:22.120",
-  "titles": [
-    {
-      "title": "Sybase EAServer 6.3",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:sybase:easerver:6.3:*:*:*:*:*:*:*",
+	"cpeNameId": "678CFCF1-47FA-4B5E-8CB0-FB07577998CF",
+	"created": "2011-01-21T18:18:28.607",
+	"lastModified": "2012-08-20T18:28:22.120",
+	"titles": [
+		{
+			"title": "Sybase EAServer 6.3",
+			"lang": "en"
+		}
+	]
 }

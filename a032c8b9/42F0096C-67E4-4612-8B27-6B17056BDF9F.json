@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:ibm:rational_clearquest:-:*:*:*:*:*:*:*",
-  "cpeNameId": "42F0096C-67E4-4612-8B27-6B17056BDF9F",
-  "created": "2007-08-23T21:05:57.937",
-  "lastModified": "2007-09-14T17:36:49.090",
-  "titles": [
-    {
-      "title": "IBM Rational ClearQuest",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:ibm:rational_clearquest:-:*:*:*:*:*:*:*",
+	"cpeNameId": "42F0096C-67E4-4612-8B27-6B17056BDF9F",
+	"created": "2007-08-23T21:05:57.937",
+	"lastModified": "2007-09-14T17:36:49.090",
+	"titles": [
+		{
+			"title": "IBM Rational ClearQuest",
+			"lang": "en"
+		}
+	]
 }

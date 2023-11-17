@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:owncloud:owncloud_client:2.15:-:*:*:*:android:*:*",
-  "cpeNameId": "BCED2C66-D304-46EE-A82D-A5A06E5FEA6A",
-  "created": "2021-04-09T18:19:09.390",
-  "lastModified": "2021-04-30T16:42:18.143",
-  "titles": [
-    {
-      "title": "ownCloud Client 2.15 for Android",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://owncloud.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://owncloud.com/changelog/android-app/",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:owncloud:owncloud_client:2.15:-:*:*:*:android:*:*",
+	"cpeNameId": "BCED2C66-D304-46EE-A82D-A5A06E5FEA6A",
+	"created": "2021-04-09T18:19:09.390",
+	"lastModified": "2021-04-30T16:42:18.143",
+	"titles": [
+		{
+			"title": "ownCloud Client 2.15 for Android",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://owncloud.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://owncloud.com/changelog/android-app/",
+			"type": "Change Log"
+		}
+	]
 }

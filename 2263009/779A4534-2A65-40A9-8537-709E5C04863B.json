@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:horde:groupware:5.2.12:*:*:*:-:*:*:*",
-  "cpeNameId": "779A4534-2A65-40A9-8537-709E5C04863B",
-  "created": "2019-06-18T17:02:32.870",
-  "lastModified": "2019-06-18T17:02:32.870",
-  "titles": [
-    {
-      "title": "Horde Groupware 5.2.12",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/horde/groupware/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:horde:groupware:5.2.12:*:*:*:-:*:*:*",
+	"cpeNameId": "779A4534-2A65-40A9-8537-709E5C04863B",
+	"created": "2019-06-18T17:02:32.870",
+	"lastModified": "2019-06-18T17:02:32.870",
+	"titles": [
+		{
+			"title": "Horde Groupware 5.2.12",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/horde/groupware/releases",
+			"type": "Change Log"
+		}
+	]
 }

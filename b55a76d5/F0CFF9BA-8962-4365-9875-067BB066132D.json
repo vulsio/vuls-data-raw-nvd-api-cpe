@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:uclibc:uclibc:-:*:*:*:*:*:*:*",
-  "cpeNameId": "F0CFF9BA-8962-4365-9875-067BB066132D",
-  "created": "2021-05-19T10:21:50.820",
-  "lastModified": "2021-05-19T14:36:42.823",
-  "titles": [
-    {
-      "title": "uClibc",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.uclibc.org/",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:uclibc:uclibc:-:*:*:*:*:*:*:*",
+	"cpeNameId": "F0CFF9BA-8962-4365-9875-067BB066132D",
+	"created": "2021-05-19T10:21:50.820",
+	"lastModified": "2021-05-19T14:36:42.823",
+	"titles": [
+		{
+			"title": "uClibc",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.uclibc.org/",
+			"type": "Change Log"
+		}
+	]
 }

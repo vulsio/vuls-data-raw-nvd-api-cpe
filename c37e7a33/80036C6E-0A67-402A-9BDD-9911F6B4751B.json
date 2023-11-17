@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:getgrav:grav:1.7.18:*:*:*:*:*:*:*",
-  "cpeNameId": "80036C6E-0A67-402A-9BDD-9911F6B4751B",
-  "created": "2021-10-29T14:33:23.513",
-  "lastModified": "2021-10-29T22:16:36.297",
-  "titles": [
-    {
-      "title": "Getgrav Grav 1.7.18",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://getgrav.org/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/getgrav/grav/releases",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:getgrav:grav:1.7.18:*:*:*:*:*:*:*",
+	"cpeNameId": "80036C6E-0A67-402A-9BDD-9911F6B4751B",
+	"created": "2021-10-29T14:33:23.513",
+	"lastModified": "2021-10-29T22:16:36.297",
+	"titles": [
+		{
+			"title": "Getgrav Grav 1.7.18",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://getgrav.org/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/getgrav/grav/releases",
+			"type": "Version"
+		}
+	]
 }

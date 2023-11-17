@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:libcap_project:libcap:2.20:*:*:*:*:*:*:*",
-  "cpeNameId": "816AC3B2-E394-4C96-BA6C-FEEAE2248F88",
-  "created": "2019-01-28T15:30:33.887",
-  "lastModified": "2019-01-28T15:30:33.887",
-  "titles": [
-    {
-      "title": "libcap Project libcap 2.20",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.kernel.org/pub/linux/libs/security/linux-privs/libcap2",
-      "type": "Version"
-    },
-    {
-      "ref": "http://sites.google.com/site/fullycapable/",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:libcap_project:libcap:2.20:*:*:*:*:*:*:*",
+	"cpeNameId": "816AC3B2-E394-4C96-BA6C-FEEAE2248F88",
+	"created": "2019-01-28T15:30:33.887",
+	"lastModified": "2019-01-28T15:30:33.887",
+	"titles": [
+		{
+			"title": "libcap Project libcap 2.20",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.kernel.org/pub/linux/libs/security/linux-privs/libcap2",
+			"type": "Version"
+		},
+		{
+			"ref": "http://sites.google.com/site/fullycapable/",
+			"type": "Product"
+		}
+	]
 }

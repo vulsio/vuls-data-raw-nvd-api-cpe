@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:nodejs:node.js:4.3.2:*:*:*:lts:*:*:*",
-  "cpeNameId": "BFD664F2-1387-4607-B342-3330000837A6",
-  "created": "2019-02-11T16:39:12.453",
-  "lastModified": "2019-02-11T16:39:12.453",
-  "titles": [
-    {
-      "title": "Nodejs Node.js 4.3.2 LTS Edition",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/nodejs/node",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:nodejs:node.js:4.3.2:*:*:*:lts:*:*:*",
+	"cpeNameId": "BFD664F2-1387-4607-B342-3330000837A6",
+	"created": "2019-02-11T16:39:12.453",
+	"lastModified": "2019-02-11T16:39:12.453",
+	"titles": [
+		{
+			"title": "Nodejs Node.js 4.3.2 LTS Edition",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/nodejs/node",
+			"type": "Version"
+		}
+	]
 }

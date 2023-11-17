@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:namazu:namazu:2.0.15:pre3:*:*:*:*:*:*",
-  "cpeNameId": "66933377-98E1-4808-A00A-7A24F3B9A66D",
-  "created": "2012-01-03T17:34:52.520",
-  "lastModified": "2012-01-05T19:31:54.237",
-  "titles": [
-    {
-      "title": "Namazu  2.0.15 Pre3",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:namazu:namazu:2.0.15:pre3:*:*:*:*:*:*",
+	"cpeNameId": "66933377-98E1-4808-A00A-7A24F3B9A66D",
+	"created": "2012-01-03T17:34:52.520",
+	"lastModified": "2012-01-05T19:31:54.237",
+	"titles": [
+		{
+			"title": "Namazu  2.0.15 Pre3",
+			"lang": "en"
+		}
+	]
 }

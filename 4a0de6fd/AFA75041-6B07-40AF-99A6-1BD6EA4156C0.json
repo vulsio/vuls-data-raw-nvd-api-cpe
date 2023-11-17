@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:rack_project:rack:1.5.2:*:*:*:*:ruby:*:*",
-  "cpeNameId": "AFA75041-6B07-40AF-99A6-1BD6EA4156C0",
-  "created": "2021-10-21T13:48:57.093",
-  "lastModified": "2021-10-21T13:56:35.227",
-  "titles": [
-    {
-      "title": "Rack Project Rack 1.5.2 for Ruby",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/rack/rack",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:rack_project:rack:1.5.2:*:*:*:*:ruby:*:*",
+	"cpeNameId": "AFA75041-6B07-40AF-99A6-1BD6EA4156C0",
+	"created": "2021-10-21T13:48:57.093",
+	"lastModified": "2021-10-21T13:56:35.227",
+	"titles": [
+		{
+			"title": "Rack Project Rack 1.5.2 for Ruby",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/rack/rack",
+			"type": "Version"
+		}
+	]
 }

@@ -1,41 +1,41 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:nodejs:node.js:6.9.1:*:*:*:-:*:*:*",
-  "cpeNameId": "37A5E8C8-8C96-4BD3-B09F-B18AB6A1B5C7",
-  "created": "2020-02-10T17:57:43.077",
-  "lastModified": "2020-02-10T17:57:43.077",
-  "titles": [
-    {
-      "title": "Nodejs Node.js 6.9.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://nodejs.org/docs/",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://nodejs.org/en/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://nodejs.org/en/download/releases/",
-      "type": "Version"
-    },
-    {
-      "ref": "https://github.com/nodejs/node/blob/master/CHANGELOG.md",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://nodejs.org/download/docs/",
-      "type": "Version"
-    }
-  ],
-  "deprecates": [
-    {
-      "cpeName": "cpe:2.3:a:nodejs:node.js:6.9.1:*:*:*:*:*:*:*",
-      "cpeNameId": "4D603F6C-24F7-4CA4-93F3-2207EAAC81B3"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:nodejs:node.js:6.9.1:*:*:*:-:*:*:*",
+	"cpeNameId": "37A5E8C8-8C96-4BD3-B09F-B18AB6A1B5C7",
+	"created": "2020-02-10T17:57:43.077",
+	"lastModified": "2020-02-10T17:57:43.077",
+	"titles": [
+		{
+			"title": "Nodejs Node.js 6.9.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://nodejs.org/docs/",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://nodejs.org/en/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://nodejs.org/en/download/releases/",
+			"type": "Version"
+		},
+		{
+			"ref": "https://github.com/nodejs/node/blob/master/CHANGELOG.md",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://nodejs.org/download/docs/",
+			"type": "Version"
+		}
+	],
+	"deprecates": [
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:6.9.1:*:*:*:*:*:*:*",
+			"cpeNameId": "4D603F6C-24F7-4CA4-93F3-2207EAAC81B3"
+		}
+	]
 }

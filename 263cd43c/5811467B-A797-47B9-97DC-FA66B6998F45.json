@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:weave:weave_gitops:0.9.0:rc3:*:*:*:*:*:*",
-  "cpeNameId": "5811467B-A797-47B9-97DC-FA66B6998F45",
-  "created": "2022-07-07T19:43:36.357",
-  "lastModified": "2022-07-08T11:00:10.197",
-  "titles": [
-    {
-      "title": "Weaveworks Weave GitOps 0.9.0 Release Candidate 3",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.weave.works/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/weaveworks/weave-gitops/releases",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://github.com/weaveworks/weave-gitops",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:weave:weave_gitops:0.9.0:rc3:*:*:*:*:*:*",
+	"cpeNameId": "5811467B-A797-47B9-97DC-FA66B6998F45",
+	"created": "2022-07-07T19:43:36.357",
+	"lastModified": "2022-07-08T11:00:10.197",
+	"titles": [
+		{
+			"title": "Weaveworks Weave GitOps 0.9.0 Release Candidate 3",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.weave.works/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/weaveworks/weave-gitops/releases",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://github.com/weaveworks/weave-gitops",
+			"type": "Product"
+		}
+	]
 }

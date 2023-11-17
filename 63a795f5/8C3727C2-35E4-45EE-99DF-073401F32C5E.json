@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:cisco:firepower_management_center:5.3.1.4:*:*:*:*:*:*:*",
-  "cpeNameId": "8C3727C2-35E4-45EE-99DF-073401F32C5E",
-  "created": "2016-03-07T16:31:34.890",
-  "lastModified": "2016-03-07T16:31:34.890",
-  "titles": [
-    {
-      "title": "Cisco FirePOWER Management Center 5.3.1.4",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www.cisco.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160224-fmc",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:cisco:firepower_management_center:5.3.1.4:*:*:*:*:*:*:*",
+	"cpeNameId": "8C3727C2-35E4-45EE-99DF-073401F32C5E",
+	"created": "2016-03-07T16:31:34.890",
+	"lastModified": "2016-03-07T16:31:34.890",
+	"titles": [
+		{
+			"title": "Cisco FirePOWER Management Center 5.3.1.4",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.cisco.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160224-fmc",
+			"type": "Advisory"
+		}
+	]
 }

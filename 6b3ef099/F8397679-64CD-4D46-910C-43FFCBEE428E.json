@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:anydesk:anydesk:6.0.1:*:*:*:*:macos:*:*",
-  "cpeNameId": "F8397679-64CD-4D46-910C-43FFCBEE428E",
-  "created": "2020-12-10T15:49:45.290",
-  "lastModified": "2020-12-10T15:49:45.290",
-  "titles": [
-    {
-      "title": "AnyDesk 6.0.1 for macOS",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://download.anydesk.com/changelog.txt",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:anydesk:anydesk:6.0.1:*:*:*:*:macos:*:*",
+	"cpeNameId": "F8397679-64CD-4D46-910C-43FFCBEE428E",
+	"created": "2020-12-10T15:49:45.290",
+	"lastModified": "2020-12-10T15:49:45.290",
+	"titles": [
+		{
+			"title": "AnyDesk 6.0.1 for macOS",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://download.anydesk.com/changelog.txt",
+			"type": "Change Log"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:ibm:aspera_high-speed_transfer_server:4.3.1:*:*:*:*:*:*:*",
-  "cpeNameId": "78E5671B-232C-4943-8791-ABC2FD708FEA",
-  "created": "2022-04-20T13:36:39.117",
-  "lastModified": "2022-04-20T15:12:55.440",
-  "titles": [
-    {
-      "title": "IBM Aspera High-Speed Transfer Server 4.3.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.ibm.com/support/pages/node/6571735",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:ibm:aspera_high-speed_transfer_server:4.3.1:*:*:*:*:*:*:*",
+	"cpeNameId": "78E5671B-232C-4943-8791-ABC2FD708FEA",
+	"created": "2022-04-20T13:36:39.117",
+	"lastModified": "2022-04-20T15:12:55.440",
+	"titles": [
+		{
+			"title": "IBM Aspera High-Speed Transfer Server 4.3.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.ibm.com/support/pages/node/6571735",
+			"type": "Advisory"
+		}
+	]
 }

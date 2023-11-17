@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:gnome:evolution-ews:3.5.5:*:*:*:*:*:*:*",
-  "cpeNameId": "A0EB14E6-4B78-44C6-BCFA-0157EBEBC19D",
-  "created": "2019-08-05T12:31:38.190",
-  "lastModified": "2019-08-05T12:31:38.190",
-  "titles": [
-    {
-      "title": "GNOME Evolution-ews 3.5.5",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/GNOME/evolution-ews/releases",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:gnome:evolution-ews:3.5.5:*:*:*:*:*:*:*",
+	"cpeNameId": "A0EB14E6-4B78-44C6-BCFA-0157EBEBC19D",
+	"created": "2019-08-05T12:31:38.190",
+	"lastModified": "2019-08-05T12:31:38.190",
+	"titles": [
+		{
+			"title": "GNOME Evolution-ews 3.5.5",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/GNOME/evolution-ews/releases",
+			"type": "Version"
+		}
+	]
 }

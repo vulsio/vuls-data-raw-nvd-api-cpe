@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:hotbar:hbtools:4.7.5:*:*:*:*:*:*:*",
-  "cpeNameId": "29D5537B-A27A-4104-A28B-5E73A616EDEC",
-  "created": "2009-04-24T19:04:28.627",
-  "lastModified": "2009-04-24T19:04:28.627",
-  "titles": [
-    {
-      "title": "Hotbar HBtools 4.7.5",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:hotbar:hbtools:4.7.5:*:*:*:*:*:*:*",
+	"cpeNameId": "29D5537B-A27A-4104-A28B-5E73A616EDEC",
+	"created": "2009-04-24T19:04:28.627",
+	"lastModified": "2009-04-24T19:04:28.627",
+	"titles": [
+		{
+			"title": "Hotbar HBtools 4.7.5",
+			"lang": "en"
+		}
+	]
 }

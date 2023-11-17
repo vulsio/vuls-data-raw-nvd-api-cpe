@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:openinfosecfoundation:suricata:1.4:rc_1:*:*:*:*:*:*",
-  "cpeNameId": "99C8EA00-922E-4345-8CB3-6B103950AB7D",
-  "created": "2014-03-13T13:48:23.607",
-  "lastModified": "2014-03-13T13:50:11.280",
-  "titles": [
-    {
-      "title": "Open Information Security Foundation (OISF) Suricata 1.4 release candidate 1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www.openinfosecfoundation.org/index.php/component/content/article/1-latest-news/170-suricata-14rc1-available"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:openinfosecfoundation:suricata:1.4:rc_1:*:*:*:*:*:*",
+	"cpeNameId": "99C8EA00-922E-4345-8CB3-6B103950AB7D",
+	"created": "2014-03-13T13:48:23.607",
+	"lastModified": "2014-03-13T13:50:11.280",
+	"titles": [
+		{
+			"title": "Open Information Security Foundation (OISF) Suricata 1.4 release candidate 1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.openinfosecfoundation.org/index.php/component/content/article/1-latest-news/170-suricata-14rc1-available"
+		}
+	]
 }

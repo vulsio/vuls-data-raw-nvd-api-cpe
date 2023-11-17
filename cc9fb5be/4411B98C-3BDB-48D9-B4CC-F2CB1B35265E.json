@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:netflix:hollow:5.2.1:*:*:*:*:*:*:*",
-  "cpeNameId": "4411B98C-3BDB-48D9-B4CC-F2CB1B35265E",
-  "created": "2021-05-24T16:50:25.333",
-  "lastModified": "2021-05-24T16:54:16.670",
-  "titles": [
-    {
-      "title": "Netflix Hollow 5.2.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/Netflix/hollow",
-      "type": "Product"
-    },
-    {
-      "ref": "https://github.com/Netflix/hollow/tags",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:netflix:hollow:5.2.1:*:*:*:*:*:*:*",
+	"cpeNameId": "4411B98C-3BDB-48D9-B4CC-F2CB1B35265E",
+	"created": "2021-05-24T16:50:25.333",
+	"lastModified": "2021-05-24T16:54:16.670",
+	"titles": [
+		{
+			"title": "Netflix Hollow 5.2.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/Netflix/hollow",
+			"type": "Product"
+		},
+		{
+			"ref": "https://github.com/Netflix/hollow/tags",
+			"type": "Change Log"
+		}
+	]
 }

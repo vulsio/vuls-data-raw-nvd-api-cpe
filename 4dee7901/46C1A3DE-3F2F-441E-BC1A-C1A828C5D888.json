@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:powerarchiver:powerarchiver:14.02.03:*:*:*:*:*:*:*",
-  "cpeNameId": "46C1A3DE-3F2F-441E-BC1A-C1A828C5D888",
-  "created": "2014-03-14T16:30:22.437",
-  "lastModified": "2014-03-14T18:23:53.713",
-  "titles": [
-    {
-      "title": "ConeXware PowerArchiver 14.02.03",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www.powerarchiver.com/2014/03/12/powerarchiver-2013-14-02-05-released/"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:powerarchiver:powerarchiver:14.02.03:*:*:*:*:*:*:*",
+	"cpeNameId": "46C1A3DE-3F2F-441E-BC1A-C1A828C5D888",
+	"created": "2014-03-14T16:30:22.437",
+	"lastModified": "2014-03-14T18:23:53.713",
+	"titles": [
+		{
+			"title": "ConeXware PowerArchiver 14.02.03",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.powerarchiver.com/2014/03/12/powerarchiver-2013-14-02-05-released/"
+		}
+	]
 }

@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:jupyter:nbdime:3.1.0:*:*:*:*:python:*:*",
-  "cpeNameId": "D1A507D3-7875-4C1C-86F4-E776A6E193B5",
-  "created": "2021-11-03T19:50:59.153",
-  "lastModified": "2021-11-16T19:27:28.550",
-  "titles": [
-    {
-      "title": "Jupyter nbdime 3.1.0 for Python",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://jupyter.org/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://pypi.org/project/nbdime/#history",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:jupyter:nbdime:3.1.0:*:*:*:*:python:*:*",
+	"cpeNameId": "D1A507D3-7875-4C1C-86F4-E776A6E193B5",
+	"created": "2021-11-03T19:50:59.153",
+	"lastModified": "2021-11-16T19:27:28.550",
+	"titles": [
+		{
+			"title": "Jupyter nbdime 3.1.0 for Python",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://jupyter.org/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://pypi.org/project/nbdime/#history",
+			"type": "Product"
+		}
+	]
 }

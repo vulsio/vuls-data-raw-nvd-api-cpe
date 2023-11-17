@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:diagrams:drawio:20.7.4:*:*:*:*:*:*:*",
-  "cpeNameId": "8BBF3AF4-9F8C-4438-AB8C-17385583307D",
-  "created": "2023-07-31T18:52:29.760",
-  "lastModified": "2023-07-31T18:53:40.517",
-  "titles": [
-    {
-      "title": "Diagrams draw.io 20.7.4",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/jgraph/drawio/tags",
-      "type": "Version"
-    },
-    {
-      "ref": "https://www.diagrams.net/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:diagrams:drawio:20.7.4:*:*:*:*:*:*:*",
+	"cpeNameId": "8BBF3AF4-9F8C-4438-AB8C-17385583307D",
+	"created": "2023-07-31T18:52:29.760",
+	"lastModified": "2023-07-31T18:53:40.517",
+	"titles": [
+		{
+			"title": "Diagrams draw.io 20.7.4",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/jgraph/drawio/tags",
+			"type": "Version"
+		},
+		{
+			"ref": "https://www.diagrams.net/",
+			"type": "Vendor"
+		}
+	]
 }

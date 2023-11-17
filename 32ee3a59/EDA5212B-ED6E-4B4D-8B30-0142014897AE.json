@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:fedoraproject:spin-kickstarts:0.30.2:*:*:*:*:*:*:*",
-  "cpeNameId": "EDA5212B-ED6E-4B4D-8B30-0142014897AE",
-  "created": "2021-06-01T18:12:43.027",
-  "lastModified": "2021-06-01T18:15:09.510",
-  "titles": [
-    {
-      "title": "Fedora Project Spin-kickstarts 0.30.2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://pagure.io/fedora-kickstarts/releases",
-      "type": "Version"
-    },
-    {
-      "ref": "https://pagure.io/fedora-kickstarts",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:fedoraproject:spin-kickstarts:0.30.2:*:*:*:*:*:*:*",
+	"cpeNameId": "EDA5212B-ED6E-4B4D-8B30-0142014897AE",
+	"created": "2021-06-01T18:12:43.027",
+	"lastModified": "2021-06-01T18:15:09.510",
+	"titles": [
+		{
+			"title": "Fedora Project Spin-kickstarts 0.30.2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://pagure.io/fedora-kickstarts/releases",
+			"type": "Version"
+		},
+		{
+			"ref": "https://pagure.io/fedora-kickstarts",
+			"type": "Product"
+		}
+	]
 }

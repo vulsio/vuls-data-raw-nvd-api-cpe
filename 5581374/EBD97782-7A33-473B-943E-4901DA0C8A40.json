@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:cisco:adaptive_security_appliance_device_manager:6.0.2:*:*:*:*:*:*:*",
-  "cpeNameId": "EBD97782-7A33-473B-943E-4901DA0C8A40",
-  "created": "2010-12-28T17:28:12.227",
-  "lastModified": "2010-12-28T17:28:12.227",
-  "titles": [
-    {
-      "title": "Cisco Adaptive Security Appliance (ASA) Device Manager 6.0.2",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:cisco:adaptive_security_appliance_device_manager:6.0.2:*:*:*:*:*:*:*",
+	"cpeNameId": "EBD97782-7A33-473B-943E-4901DA0C8A40",
+	"created": "2010-12-28T17:28:12.227",
+	"lastModified": "2010-12-28T17:28:12.227",
+	"titles": [
+		{
+			"title": "Cisco Adaptive Security Appliance (ASA) Device Manager 6.0.2",
+			"lang": "en"
+		}
+	]
 }

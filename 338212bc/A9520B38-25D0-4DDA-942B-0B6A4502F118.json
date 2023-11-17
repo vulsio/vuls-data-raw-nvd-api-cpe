@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:microsoft:edge:-:*:*:*:*:*:*:*",
-  "cpeNameId": "A9520B38-25D0-4DDA-942B-0B6A4502F118",
-  "created": "2015-09-01T17:43:50.570",
-  "lastModified": "2015-09-01T18:33:59.237",
-  "titles": [
-    {
-      "title": "Microsoft Edge",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.microsoft.com/en-us/windows/microsoft-edge"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:microsoft:edge:-:*:*:*:*:*:*:*",
+	"cpeNameId": "A9520B38-25D0-4DDA-942B-0B6A4502F118",
+	"created": "2015-09-01T17:43:50.570",
+	"lastModified": "2015-09-01T18:33:59.237",
+	"titles": [
+		{
+			"title": "Microsoft Edge",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.microsoft.com/en-us/windows/microsoft-edge"
+		}
+	]
 }

@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:cisco:firepower_management_center:6.1.0.5:*:*:*:*:*:*:*",
-  "cpeNameId": "B717D99A-0EE4-4D7A-B392-BDE0D2095509",
-  "created": "2020-02-05T15:32:25.817",
-  "lastModified": "2020-02-05T15:32:25.817",
-  "titles": [
-    {
-      "title": "Cisco Firepower Management Center (FMC) 6.1.0.5",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.cisco.com/c/en/us/support/security/defense-center/products-release-notes-list.html",
-      "type": "Version"
-    },
-    {
-      "ref": "http://www.cisco.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:cisco:firepower_management_center:6.1.0.5:*:*:*:*:*:*:*",
+	"cpeNameId": "B717D99A-0EE4-4D7A-B392-BDE0D2095509",
+	"created": "2020-02-05T15:32:25.817",
+	"lastModified": "2020-02-05T15:32:25.817",
+	"titles": [
+		{
+			"title": "Cisco Firepower Management Center (FMC) 6.1.0.5",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.cisco.com/c/en/us/support/security/defense-center/products-release-notes-list.html",
+			"type": "Version"
+		},
+		{
+			"ref": "http://www.cisco.com/",
+			"type": "Vendor"
+		}
+	]
 }

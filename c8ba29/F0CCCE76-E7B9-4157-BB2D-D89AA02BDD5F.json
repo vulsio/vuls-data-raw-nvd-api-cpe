@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:ibm:websphere_application_server:7.0.0.27:*:*:*:*:*:*:*",
-  "cpeNameId": "F0CCCE76-E7B9-4157-BB2D-D89AA02BDD5F",
-  "created": "2013-04-24T12:18:19.937",
-  "lastModified": "2013-05-08T14:45:51.513",
-  "titles": [
-    {
-      "title": "IBM WebSphere Application Server 7.0.0.27 (Fix Pack 27)",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:ibm:websphere_application_server:7.0.0.27:*:*:*:*:*:*:*",
+	"cpeNameId": "F0CCCE76-E7B9-4157-BB2D-D89AA02BDD5F",
+	"created": "2013-04-24T12:18:19.937",
+	"lastModified": "2013-05-08T14:45:51.513",
+	"titles": [
+		{
+			"title": "IBM WebSphere Application Server 7.0.0.27 (Fix Pack 27)",
+			"lang": "en"
+		}
+	]
 }

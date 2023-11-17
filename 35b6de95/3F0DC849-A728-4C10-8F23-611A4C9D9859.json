@@ -1,31 +1,31 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:coderex:wp_vr:7.2.9:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "3F0DC849-A728-4C10-8F23-611A4C9D9859",
-  "created": "2023-03-17T17:14:52.837",
-  "lastModified": "2023-03-20T12:53:13.740",
-  "titles": [
-    {
-      "title": "Code Rex WP VR 7.2.9 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wordpress.org/plugins/wpvr/#developers",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://patchstack.com/database/vulnerability/wpvr/wordpress-wp-vr-360-panorama-and-virtual-tour-builder-plugin-8-2-7-cross-site-request-forgery-csrf-vulnerability?_s_id=cve",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://rextheme.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://www.coderex.co/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:coderex:wp_vr:7.2.9:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "3F0DC849-A728-4C10-8F23-611A4C9D9859",
+	"created": "2023-03-17T17:14:52.837",
+	"lastModified": "2023-03-20T12:53:13.740",
+	"titles": [
+		{
+			"title": "Code Rex WP VR 7.2.9 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/wpvr/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://patchstack.com/database/vulnerability/wpvr/wordpress-wp-vr-360-panorama-and-virtual-tour-builder-plugin-8-2-7-cross-site-request-forgery-csrf-vulnerability?_s_id=cve",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://rextheme.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://www.coderex.co/",
+			"type": "Vendor"
+		}
+	]
 }

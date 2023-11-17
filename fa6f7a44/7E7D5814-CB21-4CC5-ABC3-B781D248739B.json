@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:bas_van_beek:multishop:1.0.23:*:*:*:*:*:*:*",
-  "cpeNameId": "7E7D5814-CB21-4CC5-ABC3-B781D248739B",
-  "created": "2013-10-11T17:34:33.690",
-  "lastModified": "2013-10-11T18:01:55.957",
-  "titles": [
-    {
-      "title": "Bas van Beek Multishop extension 1.0.23",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://typo3.org/extensions/repository/view/multishop"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:bas_van_beek:multishop:1.0.23:*:*:*:*:*:*:*",
+	"cpeNameId": "7E7D5814-CB21-4CC5-ABC3-B781D248739B",
+	"created": "2013-10-11T17:34:33.690",
+	"lastModified": "2013-10-11T18:01:55.957",
+	"titles": [
+		{
+			"title": "Bas van Beek Multishop extension 1.0.23",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://typo3.org/extensions/repository/view/multishop"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:arubanetworks:clearpass_guest:3.9:*:*:*:*:*:*:*",
-  "cpeNameId": "FDBBB03C-3166-452B-A222-36536F764A6E",
-  "created": "2013-10-02T15:45:42.980",
-  "lastModified": "2013-10-02T18:43:09.497",
-  "titles": [
-    {
-      "title": "Aruba Networks ClearPass Guest 3.9",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www.arubanetworks.com/support-services/end-of-life-products/#AmigopodSoftware",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:arubanetworks:clearpass_guest:3.9:*:*:*:*:*:*:*",
+	"cpeNameId": "FDBBB03C-3166-452B-A222-36536F764A6E",
+	"created": "2013-10-02T15:45:42.980",
+	"lastModified": "2013-10-02T18:43:09.497",
+	"titles": [
+		{
+			"title": "Aruba Networks ClearPass Guest 3.9",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.arubanetworks.com/support-services/end-of-life-products/#AmigopodSoftware",
+			"type": "Version"
+		}
+	]
 }

@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:netbox_project:netbox:3.4.3:*:*:*:*:*:*:*",
-  "cpeNameId": "88E47BE3-2F05-4229-A204-61EBE03F3B14",
-  "created": "2023-05-26T14:29:44.477",
-  "lastModified": "2023-05-26T14:31:33.983",
-  "titles": [
-    {
-      "title": "netbox Project netbox 3.4.3",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/netbox-community/netbox/tags",
-      "type": "Version"
-    },
-    {
-      "ref": "https://docs.netbox.dev/en/stable/",
-      "type": "Project"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:netbox_project:netbox:3.4.3:*:*:*:*:*:*:*",
+	"cpeNameId": "88E47BE3-2F05-4229-A204-61EBE03F3B14",
+	"created": "2023-05-26T14:29:44.477",
+	"lastModified": "2023-05-26T14:31:33.983",
+	"titles": [
+		{
+			"title": "netbox Project netbox 3.4.3",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/netbox-community/netbox/tags",
+			"type": "Version"
+		},
+		{
+			"ref": "https://docs.netbox.dev/en/stable/",
+			"type": "Project"
+		}
+	]
 }

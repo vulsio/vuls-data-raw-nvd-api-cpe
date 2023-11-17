@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:mozilla:firefox_esr:10.0.8:*:*:*:*:*:*:*",
-  "cpeNameId": "1644268E-E8FF-4699-9590-1838457D44B7",
-  "created": "2012-10-11T13:18:41.313",
-  "lastModified": "2012-10-23T21:00:27.487",
-  "titles": [
-    {
-      "title": "Mozilla Firefox Extended Support Release (ESR) 10.0.8",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:mozilla:firefox_esr:10.0.8:*:*:*:*:*:*:*",
+	"cpeNameId": "1644268E-E8FF-4699-9590-1838457D44B7",
+	"created": "2012-10-11T13:18:41.313",
+	"lastModified": "2012-10-23T21:00:27.487",
+	"titles": [
+		{
+			"title": "Mozilla Firefox Extended Support Release (ESR) 10.0.8",
+			"lang": "en"
+		}
+	]
 }

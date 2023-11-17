@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:zephyrproject:zephyr:2.85.0:*:*:*:*:*:*:*",
-  "cpeNameId": "B42C3C51-A7C2-48AF-847E-D1207C4F2120",
-  "created": "2022-06-15T14:08:06.477",
-  "lastModified": "2022-06-16T14:36:34.920",
-  "titles": [
-    {
-      "title": "Zephyrproject Zephyr 2.85.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wordpress.org/plugins/zephyr-project-manager/#developers",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:zephyrproject:zephyr:2.85.0:*:*:*:*:*:*:*",
+	"cpeNameId": "B42C3C51-A7C2-48AF-847E-D1207C4F2120",
+	"created": "2022-06-15T14:08:06.477",
+	"lastModified": "2022-06-16T14:36:34.920",
+	"titles": [
+		{
+			"title": "Zephyrproject Zephyr 2.85.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/zephyr-project-manager/#developers",
+			"type": "Change Log"
+		}
+	]
 }

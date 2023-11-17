@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:schneider-electric:modicon_m340_bmxp3420102_firmware:-:*:*:*:*:*:*:*",
-  "cpeNameId": "778FFE9C-37DA-44B1-88F0-B267B5582841",
-  "created": "2022-02-25T16:02:11.687",
-  "lastModified": "2022-02-26T01:58:02.690",
-  "titles": [
-    {
-      "title": "Schneider Electric Modicon M340 BMXP3420102 Firmware",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.se.com/ww/en/product-range/1468-modicon-m340/?parent-subcategory-id=3950&filter=business-1-industrial-automation-and-control",
-      "type": "Product"
-    },
-    {
-      "ref": "https://www.se.com/ww/en",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:schneider-electric:modicon_m340_bmxp3420102_firmware:-:*:*:*:*:*:*:*",
+	"cpeNameId": "778FFE9C-37DA-44B1-88F0-B267B5582841",
+	"created": "2022-02-25T16:02:11.687",
+	"lastModified": "2022-02-26T01:58:02.690",
+	"titles": [
+		{
+			"title": "Schneider Electric Modicon M340 BMXP3420102 Firmware",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.se.com/ww/en/product-range/1468-modicon-m340/?parent-subcategory-id=3950&filter=business-1-industrial-automation-and-control",
+			"type": "Product"
+		},
+		{
+			"ref": "https://www.se.com/ww/en",
+			"type": "Vendor"
+		}
+	]
 }

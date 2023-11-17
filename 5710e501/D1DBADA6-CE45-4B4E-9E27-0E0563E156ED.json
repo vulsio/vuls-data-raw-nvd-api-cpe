@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:frostwire:frostwire:6.3.6:build201:*:*:*:desktop:*:*",
-  "cpeNameId": "D1DBADA6-CE45-4B4E-9E27-0E0563E156ED",
-  "created": "2019-10-23T17:13:59.347",
-  "lastModified": "2019-10-23T17:13:59.347",
-  "titles": [
-    {
-      "title": "FrostWire 6.3.6 Build 201 for Desktop",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.frostwire.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/frostwire/frostwire/releases",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:frostwire:frostwire:6.3.6:build201:*:*:*:desktop:*:*",
+	"cpeNameId": "D1DBADA6-CE45-4B4E-9E27-0E0563E156ED",
+	"created": "2019-10-23T17:13:59.347",
+	"lastModified": "2019-10-23T17:13:59.347",
+	"titles": [
+		{
+			"title": "FrostWire 6.3.6 Build 201 for Desktop",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.frostwire.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/frostwire/frostwire/releases",
+			"type": "Version"
+		}
+	]
 }

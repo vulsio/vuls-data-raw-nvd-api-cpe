@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:iodata:ts-wlc2_camera_firmware:1.02:*:*:*:*:*:*:*",
-  "cpeNameId": "9B8748C7-DD4D-407A-ABC5-9203049130DA",
-  "created": "2014-07-30T18:47:06.317",
-  "lastModified": "2014-08-01T20:10:14.067",
-  "titles": [
-    {
-      "title": "I-O Data TS-WLC2 camera firmware 1.02",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www.iodata.jp/support/information/2014/qwatch/"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:iodata:ts-wlc2_camera_firmware:1.02:*:*:*:*:*:*:*",
+	"cpeNameId": "9B8748C7-DD4D-407A-ABC5-9203049130DA",
+	"created": "2014-07-30T18:47:06.317",
+	"lastModified": "2014-08-01T20:10:14.067",
+	"titles": [
+		{
+			"title": "I-O Data TS-WLC2 camera firmware 1.02",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.iodata.jp/support/information/2014/qwatch/"
+		}
+	]
 }

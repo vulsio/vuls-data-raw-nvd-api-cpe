@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:w3m_project:w3m:0.5.3-11:*:*:*:*:*:*:*",
-  "cpeNameId": "F9102FD2-FB7A-4718-91EA-2EF7BB85CFE4",
-  "created": "2019-12-19T15:58:19.397",
-  "lastModified": "2019-12-19T15:58:19.397",
-  "titles": [
-    {
-      "title": "w3m Project w3m 0.5.3-11",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/tats/w3m/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:w3m_project:w3m:0.5.3-11:*:*:*:*:*:*:*",
+	"cpeNameId": "F9102FD2-FB7A-4718-91EA-2EF7BB85CFE4",
+	"created": "2019-12-19T15:58:19.397",
+	"lastModified": "2019-12-19T15:58:19.397",
+	"titles": [
+		{
+			"title": "w3m Project w3m 0.5.3-11",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/tats/w3m/releases",
+			"type": "Change Log"
+		}
+	]
 }

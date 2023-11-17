@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:nextcloud:nextcloud_mail:1.13.2:*:*:*:*:*:*:*",
-  "cpeNameId": "87EEDE81-8BCC-40A7-84D8-F4022DAF7B10",
-  "created": "2022-07-13T16:55:13.990",
-  "lastModified": "2022-07-13T17:15:01.457",
-  "titles": [
-    {
-      "title": "Nextcloud Mail 1.13.2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/nextcloud/mail/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:nextcloud:nextcloud_mail:1.13.2:*:*:*:*:*:*:*",
+	"cpeNameId": "87EEDE81-8BCC-40A7-84D8-F4022DAF7B10",
+	"created": "2022-07-13T16:55:13.990",
+	"lastModified": "2022-07-13T17:15:01.457",
+	"titles": [
+		{
+			"title": "Nextcloud Mail 1.13.2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/nextcloud/mail/releases",
+			"type": "Change Log"
+		}
+	]
 }

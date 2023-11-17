@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:conectiva:linux:ecommerce:*:*:*:*:*:*:*",
-  "cpeNameId": "4A898BA4-8001-47CA-AA4B-F2CFC518C6B0",
-  "created": "2007-08-23T21:16:59.567",
-  "lastModified": "2008-04-01T14:41:54.497",
-  "titles": [
-    {
-      "title": "Conectiva Conectiva Linux ecommerce",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:conectiva:linux:ecommerce:*:*:*:*:*:*:*",
+	"cpeNameId": "4A898BA4-8001-47CA-AA4B-F2CFC518C6B0",
+	"created": "2007-08-23T21:16:59.567",
+	"lastModified": "2008-04-01T14:41:54.497",
+	"titles": [
+		{
+			"title": "Conectiva Conectiva Linux ecommerce",
+			"lang": "en"
+		}
+	]
 }

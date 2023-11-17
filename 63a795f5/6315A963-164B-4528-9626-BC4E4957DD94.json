@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:cisco:firepower_management_center:2.9.17:*:*:*:*:*:*:*",
-  "cpeNameId": "6315A963-164B-4528-9626-BC4E4957DD94",
-  "created": "2021-02-08T15:10:24.497",
-  "lastModified": "2021-02-08T15:10:24.497",
-  "titles": [
-    {
-      "title": "Cisco Firepower Management Center 2.9.17",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-snort-tfo-bypass-MmzZrtes",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvt43136",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:cisco:firepower_management_center:2.9.17:*:*:*:*:*:*:*",
+	"cpeNameId": "6315A963-164B-4528-9626-BC4E4957DD94",
+	"created": "2021-02-08T15:10:24.497",
+	"lastModified": "2021-02-08T15:10:24.497",
+	"titles": [
+		{
+			"title": "Cisco Firepower Management Center 2.9.17",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-snort-tfo-bypass-MmzZrtes",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvt43136",
+			"type": "Advisory"
+		}
+	]
 }

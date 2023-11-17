@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:zlib:zlib:1.2.0.3:*:*:*:*:*:*:*",
-  "cpeNameId": "43DA352E-9CFD-4D59-A158-3A3C0BB36D4E",
-  "created": "2019-01-08T18:03:47.653",
-  "lastModified": "2019-01-08T18:03:47.653",
-  "titles": [
-    {
-      "title": "zlib 1.2.0.3",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www.zlib.net/ChangeLog.txt",
-      "type": "Version"
-    },
-    {
-      "ref": "http://www.zlib.net/",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:zlib:zlib:1.2.0.3:*:*:*:*:*:*:*",
+	"cpeNameId": "43DA352E-9CFD-4D59-A158-3A3C0BB36D4E",
+	"created": "2019-01-08T18:03:47.653",
+	"lastModified": "2019-01-08T18:03:47.653",
+	"titles": [
+		{
+			"title": "zlib 1.2.0.3",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.zlib.net/ChangeLog.txt",
+			"type": "Version"
+		},
+		{
+			"ref": "http://www.zlib.net/",
+			"type": "Product"
+		}
+	]
 }

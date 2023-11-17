@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:syntevo:smartsvn:4.0.11:*:*:*:*:*:*:*",
-  "cpeNameId": "D07D856B-F6E9-4EF0-9747-BA96A9819FA4",
-  "created": "2009-11-25T18:29:33.403",
-  "lastModified": "2009-11-25T18:29:33.403",
-  "titles": [
-    {
-      "title": "SyntEvo SmartSVN 4.0.11",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:syntevo:smartsvn:4.0.11:*:*:*:*:*:*:*",
+	"cpeNameId": "D07D856B-F6E9-4EF0-9747-BA96A9819FA4",
+	"created": "2009-11-25T18:29:33.403",
+	"lastModified": "2009-11-25T18:29:33.403",
+	"titles": [
+		{
+			"title": "SyntEvo SmartSVN 4.0.11",
+			"lang": "en"
+		}
+	]
 }

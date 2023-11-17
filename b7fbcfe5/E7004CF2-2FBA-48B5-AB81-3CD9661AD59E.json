@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:nmap:nmap:7.40:*:*:*:*:*:*:*",
-  "cpeNameId": "E7004CF2-2FBA-48B5-AB81-3CD9661AD59E",
-  "created": "2018-05-22T17:31:47.493",
-  "lastModified": "2018-05-22T17:31:47.493",
-  "titles": [
-    {
-      "title": "Nmap 7.40",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://nmap.org/changelog.html",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:nmap:nmap:7.40:*:*:*:*:*:*:*",
+	"cpeNameId": "E7004CF2-2FBA-48B5-AB81-3CD9661AD59E",
+	"created": "2018-05-22T17:31:47.493",
+	"lastModified": "2018-05-22T17:31:47.493",
+	"titles": [
+		{
+			"title": "Nmap 7.40",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://nmap.org/changelog.html",
+			"type": "Change Log"
+		}
+	]
 }

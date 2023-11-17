@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:best_online_news_portal_project:best_online_news_portal:1.0:*:*:*:*:*:*:*",
-  "cpeNameId": "916FFCC4-9D7F-457C-9A2A-3A37C39E438F",
-  "created": "2023-02-17T15:08:55.933",
-  "lastModified": "2023-03-03T14:08:03.150",
-  "titles": [
-    {
-      "title": "Best Online News Portal Project Best Online News Portal 1.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.sourcecodester.com/php/16067/best-online-news-portal-project-php-free-download.html",
-      "type": "Project"
-    },
-    {
-      "ref": "https://vuldb.com/?id.220645",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:best_online_news_portal_project:best_online_news_portal:1.0:*:*:*:*:*:*:*",
+	"cpeNameId": "916FFCC4-9D7F-457C-9A2A-3A37C39E438F",
+	"created": "2023-02-17T15:08:55.933",
+	"lastModified": "2023-03-03T14:08:03.150",
+	"titles": [
+		{
+			"title": "Best Online News Portal Project Best Online News Portal 1.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.sourcecodester.com/php/16067/best-online-news-portal-project-php-free-download.html",
+			"type": "Project"
+		},
+		{
+			"ref": "https://vuldb.com/?id.220645",
+			"type": "Advisory"
+		}
+	]
 }

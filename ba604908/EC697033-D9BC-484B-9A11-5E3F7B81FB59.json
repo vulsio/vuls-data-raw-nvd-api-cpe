@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:cakefoundation:cakephp:2.0.4:*:*:*:*:*:*:*",
-  "cpeNameId": "EC697033-D9BC-484B-9A11-5E3F7B81FB59",
-  "created": "2012-10-10T16:46:29.847",
-  "lastModified": "2012-11-21T17:14:28.117",
-  "titles": [
-    {
-      "title": "Cake Software Foundation CakePHP 2.0.4",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:cakefoundation:cakephp:2.0.4:*:*:*:*:*:*:*",
+	"cpeNameId": "EC697033-D9BC-484B-9A11-5E3F7B81FB59",
+	"created": "2012-10-10T16:46:29.847",
+	"lastModified": "2012-11-21T17:14:28.117",
+	"titles": [
+		{
+			"title": "Cake Software Foundation CakePHP 2.0.4",
+			"lang": "en"
+		}
+	]
 }

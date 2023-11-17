@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:cnvs:canvas:3.0.3:*:*:*:*:*:*:*",
-  "cpeNameId": "A6E1F27E-A593-4CA1-9EB3-04059DF48CAA",
-  "created": "2019-10-02T12:38:27.723",
-  "lastModified": "2019-10-02T12:38:27.723",
-  "titles": [
-    {
-      "title": "Cnvs Canvas 3.0.3",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/cnvs/canvas",
-      "type": "Version"
-    },
-    {
-      "ref": "https://cnvs.io/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:cnvs:canvas:3.0.3:*:*:*:*:*:*:*",
+	"cpeNameId": "A6E1F27E-A593-4CA1-9EB3-04059DF48CAA",
+	"created": "2019-10-02T12:38:27.723",
+	"lastModified": "2019-10-02T12:38:27.723",
+	"titles": [
+		{
+			"title": "Cnvs Canvas 3.0.3",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/cnvs/canvas",
+			"type": "Version"
+		},
+		{
+			"ref": "https://cnvs.io/",
+			"type": "Vendor"
+		}
+	]
 }

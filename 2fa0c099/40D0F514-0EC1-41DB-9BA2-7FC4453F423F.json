@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:lenovo:lenovoemc_px4-300d:-:*:*:*:*:*:*:*",
-  "cpeNameId": "40D0F514-0EC1-41DB-9BA2-7FC4453F423F",
-  "created": "2018-11-15T13:26:22.927",
-  "lastModified": "2021-04-21T14:41:58.683",
-  "titles": [
-    {
-      "title": "Lenovo LenovoEMC px4-300d",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://support.lenovo.com/us/en/solutions/LEN-24224",
-      "type": "Advisory"
-    },
-    {
-      "ref": "http://download.lenovo.com/lenovoemc/na/en/",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:lenovo:lenovoemc_px4-300d:-:*:*:*:*:*:*:*",
+	"cpeNameId": "40D0F514-0EC1-41DB-9BA2-7FC4453F423F",
+	"created": "2018-11-15T13:26:22.927",
+	"lastModified": "2021-04-21T14:41:58.683",
+	"titles": [
+		{
+			"title": "Lenovo LenovoEMC px4-300d",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://support.lenovo.com/us/en/solutions/LEN-24224",
+			"type": "Advisory"
+		},
+		{
+			"ref": "http://download.lenovo.com/lenovoemc/na/en/",
+			"type": "Product"
+		}
+	]
 }

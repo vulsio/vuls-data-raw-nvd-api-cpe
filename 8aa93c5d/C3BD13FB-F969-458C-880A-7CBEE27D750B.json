@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:don_ho:notepad\\+\\+:4.7:*:*:*:*:*:*:*",
-  "cpeNameId": "C3BD13FB-F969-458C-880A-7CBEE27D750B",
-  "created": "2009-11-25T18:25:48.480",
-  "lastModified": "2009-11-25T18:25:48.480",
-  "titles": [
-    {
-      "title": "Notepad++ 4.7",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:don_ho:notepad\\+\\+:4.7:*:*:*:*:*:*:*",
+	"cpeNameId": "C3BD13FB-F969-458C-880A-7CBEE27D750B",
+	"created": "2009-11-25T18:25:48.480",
+	"lastModified": "2009-11-25T18:25:48.480",
+	"titles": [
+		{
+			"title": "Notepad++ 4.7",
+			"lang": "en"
+		}
+	]
 }

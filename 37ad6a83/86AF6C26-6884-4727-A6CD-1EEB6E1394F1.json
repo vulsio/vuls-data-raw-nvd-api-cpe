@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:fastecdsa_project:fastecdsa:1.7.2:*:*:*:*:*:*:*",
-  "cpeNameId": "86AF6C26-6884-4727-A6CD-1EEB6E1394F1",
-  "created": "2020-06-03T17:25:24.453",
-  "lastModified": "2020-06-03T17:25:24.453",
-  "titles": [
-    {
-      "title": "Fastecdsa Project Fastecdsa 1.7.2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/AntonKueltz/fastecdsa/releases",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:fastecdsa_project:fastecdsa:1.7.2:*:*:*:*:*:*:*",
+	"cpeNameId": "86AF6C26-6884-4727-A6CD-1EEB6E1394F1",
+	"created": "2020-06-03T17:25:24.453",
+	"lastModified": "2020-06-03T17:25:24.453",
+	"titles": [
+		{
+			"title": "Fastecdsa Project Fastecdsa 1.7.2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/AntonKueltz/fastecdsa/releases",
+			"type": "Version"
+		}
+	]
 }

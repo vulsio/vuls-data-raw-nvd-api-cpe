@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:wpdeveloper:betterlinks:1.1.6:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "1666BC87-D018-4EAC-BB22-BDD783016A2F",
-  "created": "2021-11-30T14:19:28.050",
-  "lastModified": "2021-11-30T14:20:45.680",
-  "titles": [
-    {
-      "title": "WPDeveloper BetterLinks 1.1.6 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wpdeveloper.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://wordpress.org/plugins/betterlinks/",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:wpdeveloper:betterlinks:1.1.6:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "1666BC87-D018-4EAC-BB22-BDD783016A2F",
+	"created": "2021-11-30T14:19:28.050",
+	"lastModified": "2021-11-30T14:20:45.680",
+	"titles": [
+		{
+			"title": "WPDeveloper BetterLinks 1.1.6 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wpdeveloper.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/betterlinks/",
+			"type": "Product"
+		}
+	]
 }

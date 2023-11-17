@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:tracker-software:pdf-tools:8.0.338.0:*:*:*:*:*:*:*",
-  "cpeNameId": "753BDEAF-1E84-4921-AB44-0D00D8609E22",
-  "created": "2021-03-08T20:41:09.897",
-  "lastModified": "2021-03-09T18:27:29.830",
-  "titles": [
-    {
-      "title": "Tracker Software PDF-Tools 8.0.338.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.tracker-software.com/products",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://www.tracker-software.com/product/pdf-tools/history",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:tracker-software:pdf-tools:8.0.338.0:*:*:*:*:*:*:*",
+	"cpeNameId": "753BDEAF-1E84-4921-AB44-0D00D8609E22",
+	"created": "2021-03-08T20:41:09.897",
+	"lastModified": "2021-03-09T18:27:29.830",
+	"titles": [
+		{
+			"title": "Tracker Software PDF-Tools 8.0.338.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.tracker-software.com/products",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://www.tracker-software.com/product/pdf-tools/history",
+			"type": "Change Log"
+		}
+	]
 }

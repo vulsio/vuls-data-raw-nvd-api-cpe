@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:microsoft:visual_studio:2005:*:*:*:*:*:*:*",
-  "cpeNameId": "444EF620-3FE2-4BF8-9737-929DC893D478",
-  "created": "2007-09-12T22:55:39.690",
-  "lastModified": "2011-02-18T16:45:18.310",
-  "titles": [
-    {
-      "title": "Microsoft Visual Studio 2005",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:microsoft:visual_studio:2005:*:*:*:*:*:*:*",
+	"cpeNameId": "444EF620-3FE2-4BF8-9737-929DC893D478",
+	"created": "2007-09-12T22:55:39.690",
+	"lastModified": "2011-02-18T16:45:18.310",
+	"titles": [
+		{
+			"title": "Microsoft Visual Studio 2005",
+			"lang": "en"
+		}
+	]
 }

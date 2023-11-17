@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:siemens:simatic_et200sp_im155-6_pn_hf_firmware:4.2:*:*:*:*:*:*:*",
-  "cpeNameId": "FAF3C5C6-C82D-48D9-9596-E847A54DB900",
-  "created": "2020-04-15T14:15:15.820",
-  "lastModified": "2021-06-21T13:48:50.887",
-  "titles": [
-    {
-      "title": "Siemens SIMATIC ET200SP IM155-6 MF HF Firmware 4.2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://cert-portal.siemens.com/productcert/pdf/ssa-593272.pdf",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:siemens:simatic_et200sp_im155-6_pn_hf_firmware:4.2:*:*:*:*:*:*:*",
+	"cpeNameId": "FAF3C5C6-C82D-48D9-9596-E847A54DB900",
+	"created": "2020-04-15T14:15:15.820",
+	"lastModified": "2021-06-21T13:48:50.887",
+	"titles": [
+		{
+			"title": "Siemens SIMATIC ET200SP IM155-6 MF HF Firmware 4.2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://cert-portal.siemens.com/productcert/pdf/ssa-593272.pdf",
+			"type": "Advisory"
+		}
+	]
 }

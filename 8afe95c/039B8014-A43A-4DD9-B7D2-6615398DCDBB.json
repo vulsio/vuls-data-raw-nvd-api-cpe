@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:qualcomm:wcd934_firmware:-:*:*:*:*:*:*:*",
-  "cpeNameId": "039B8014-A43A-4DD9-B7D2-6615398DCDBB",
-  "created": "2022-09-07T11:13:29.037",
-  "lastModified": "2022-09-07T11:21:25.063",
-  "titles": [
-    {
-      "title": "Qualcomm WCD934 Firmware ",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://docs.qualcomm.com/product/publicresources/securitybulletin/august-2022-bulletin.html",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://www.qualcomm.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:qualcomm:wcd934_firmware:-:*:*:*:*:*:*:*",
+	"cpeNameId": "039B8014-A43A-4DD9-B7D2-6615398DCDBB",
+	"created": "2022-09-07T11:13:29.037",
+	"lastModified": "2022-09-07T11:21:25.063",
+	"titles": [
+		{
+			"title": "Qualcomm WCD934 Firmware ",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://docs.qualcomm.com/product/publicresources/securitybulletin/august-2022-bulletin.html",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://www.qualcomm.com/",
+			"type": "Vendor"
+		}
+	]
 }

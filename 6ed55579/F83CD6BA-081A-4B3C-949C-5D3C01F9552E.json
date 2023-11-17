@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:miniupnp_project:miniupnpd:1.5:2011-06-20:*:*:*:*:*:*",
-  "cpeNameId": "F83CD6BA-081A-4B3C-949C-5D3C01F9552E",
-  "created": "2019-06-26T16:39:04.177",
-  "lastModified": "2019-06-26T16:39:04.177",
-  "titles": [
-    {
-      "title": "MiniUPnP Project MiniUPnPd 1.5 2011-06-20",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://miniupnp.free.fr/files/",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:miniupnp_project:miniupnpd:1.5:2011-06-20:*:*:*:*:*:*",
+	"cpeNameId": "F83CD6BA-081A-4B3C-949C-5D3C01F9552E",
+	"created": "2019-06-26T16:39:04.177",
+	"lastModified": "2019-06-26T16:39:04.177",
+	"titles": [
+		{
+			"title": "MiniUPnP Project MiniUPnPd 1.5 2011-06-20",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://miniupnp.free.fr/files/",
+			"type": "Change Log"
+		}
+	]
 }

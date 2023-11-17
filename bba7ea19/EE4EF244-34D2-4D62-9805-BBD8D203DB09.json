@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:apple:ipados:16.5:*:*:*:*:*:*:*",
-  "cpeNameId": "EE4EF244-34D2-4D62-9805-BBD8D203DB09",
-  "created": "2023-06-27T18:12:07.450",
-  "lastModified": "2023-08-15T13:37:08.533",
-  "titles": [
-    {
-      "title": "Apple iPadOS 16.5",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://support.apple.com/en-us/HT213757",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:apple:ipados:16.5:*:*:*:*:*:*:*",
+	"cpeNameId": "EE4EF244-34D2-4D62-9805-BBD8D203DB09",
+	"created": "2023-06-27T18:12:07.450",
+	"lastModified": "2023-08-15T13:37:08.533",
+	"titles": [
+		{
+			"title": "Apple iPadOS 16.5",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://support.apple.com/en-us/HT213757",
+			"type": "Advisory"
+		}
+	]
 }

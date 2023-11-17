@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:brave:brave:1.12.26:*:*:*:*:*:*:*",
-  "cpeNameId": "F4AB302F-C409-4A2A-A078-D6919A6C4FFB",
-  "created": "2020-11-18T12:36:42.347",
-  "lastModified": "2020-11-18T12:36:42.347",
-  "titles": [
-    {
-      "title": "Brave 1.12.26",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/brave/brave-browser/",
-      "type": "Version"
-    },
-    {
-      "ref": "https://brave.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:brave:brave:1.12.26:*:*:*:*:*:*:*",
+	"cpeNameId": "F4AB302F-C409-4A2A-A078-D6919A6C4FFB",
+	"created": "2020-11-18T12:36:42.347",
+	"lastModified": "2020-11-18T12:36:42.347",
+	"titles": [
+		{
+			"title": "Brave 1.12.26",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/brave/brave-browser/",
+			"type": "Version"
+		},
+		{
+			"ref": "https://brave.com/",
+			"type": "Vendor"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:owncloud:owncloud:-:*:*:*:*:*:*:*",
-  "cpeNameId": "2260F374-B1D3-4EF6-944B-43E8DFC86DCD",
-  "created": "2019-07-26T01:33:39.633",
-  "lastModified": "2019-07-26T01:33:39.633",
-  "titles": [
-    {
-      "title": "ownCloud",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://owncloud.org/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:owncloud:owncloud:-:*:*:*:*:*:*:*",
+	"cpeNameId": "2260F374-B1D3-4EF6-944B-43E8DFC86DCD",
+	"created": "2019-07-26T01:33:39.633",
+	"lastModified": "2019-07-26T01:33:39.633",
+	"titles": [
+		{
+			"title": "ownCloud",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://owncloud.org/",
+			"type": "Vendor"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:adobe:experience_manager:6.3.3.7:*:*:*:*:*:*:*",
-  "cpeNameId": "36C5300B-D322-4C9E-8CAD-DE7A8B30BD8D",
-  "created": "2020-02-05T13:13:05.233",
-  "lastModified": "2020-02-05T13:13:05.233",
-  "titles": [
-    {
-      "title": "Adobe Experience Manager (AEM) 6.3.3.7",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://helpx.adobe.com/experience-manager/aem-releases-updates.html",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:adobe:experience_manager:6.3.3.7:*:*:*:*:*:*:*",
+	"cpeNameId": "36C5300B-D322-4C9E-8CAD-DE7A8B30BD8D",
+	"created": "2020-02-05T13:13:05.233",
+	"lastModified": "2020-02-05T13:13:05.233",
+	"titles": [
+		{
+			"title": "Adobe Experience Manager (AEM) 6.3.3.7",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://helpx.adobe.com/experience-manager/aem-releases-updates.html",
+			"type": "Change Log"
+		}
+	]
 }

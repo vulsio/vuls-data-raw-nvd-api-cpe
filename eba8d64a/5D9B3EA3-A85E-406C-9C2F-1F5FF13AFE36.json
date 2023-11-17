@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:fedoraproject:fedora:19:*:*:*:*:*:*:*",
-  "cpeNameId": "5D9B3EA3-A85E-406C-9C2F-1F5FF13AFE36",
-  "created": "2013-10-03T18:10:59.560",
-  "lastModified": "2013-10-07T20:03:54.177",
-  "titles": [
-    {
-      "title": "Fedora 19",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://fedoraproject.org/wiki/F19_release_announcement"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:fedoraproject:fedora:19:*:*:*:*:*:*:*",
+	"cpeNameId": "5D9B3EA3-A85E-406C-9C2F-1F5FF13AFE36",
+	"created": "2013-10-03T18:10:59.560",
+	"lastModified": "2013-10-07T20:03:54.177",
+	"titles": [
+		{
+			"title": "Fedora 19",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://fedoraproject.org/wiki/F19_release_announcement"
+		}
+	]
 }

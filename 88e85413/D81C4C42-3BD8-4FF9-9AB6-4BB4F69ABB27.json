@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:regenerate_thumbnails_project:regenerate_thumbnails:2.0.1:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "D81C4C42-3BD8-4FF9-9AB6-4BB4F69ABB27",
-  "created": "2022-10-28T16:38:36.580",
-  "lastModified": "2022-10-28T16:39:30.983",
-  "titles": [
-    {
-      "title": "Regenerate Thumbnails Project Regenerate Thumbnails 2.0.1 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wordpress.org/plugins/regenerate-thumbnails/#developers",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:regenerate_thumbnails_project:regenerate_thumbnails:2.0.1:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "D81C4C42-3BD8-4FF9-9AB6-4BB4F69ABB27",
+	"created": "2022-10-28T16:38:36.580",
+	"lastModified": "2022-10-28T16:39:30.983",
+	"titles": [
+		{
+			"title": "Regenerate Thumbnails Project Regenerate Thumbnails 2.0.1 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/regenerate-thumbnails/#developers",
+			"type": "Change Log"
+		}
+	]
 }

@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:sun:jre:1.2.2:update10:*:*:*:*:*:*",
-  "cpeNameId": "5564401A-021B-4653-8595-B7CDCD9CB02A",
-  "created": "2007-08-23T21:16:59.567",
-  "lastModified": "2008-04-14T20:21:53.113",
-  "titles": [
-    {
-      "title": "Sun JRE 1.2.2_010",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:sun:jre:1.2.2:update10:*:*:*:*:*:*",
+	"cpeNameId": "5564401A-021B-4653-8595-B7CDCD9CB02A",
+	"created": "2007-08-23T21:16:59.567",
+	"lastModified": "2008-04-14T20:21:53.113",
+	"titles": [
+		{
+			"title": "Sun JRE 1.2.2_010",
+			"lang": "en"
+		}
+	]
 }

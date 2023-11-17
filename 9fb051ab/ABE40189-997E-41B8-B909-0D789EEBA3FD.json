@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:cisco:ios:15.1\\\\(4\\\\)m7:*:*:*:*:*:*:*",
-  "cpeNameId": "ABE40189-997E-41B8-B909-0D789EEBA3FD",
-  "created": "2020-05-11T11:56:48.413",
-  "lastModified": "2020-05-11T11:56:48.413",
-  "titles": [
-    {
-      "title": "Cisco IOS 15.1\\(4\\)M7",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://software.cisco.com/download/find/ios",
-      "type": "Version"
-    },
-    {
-      "ref": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160323-l4f",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:cisco:ios:15.1\\\\(4\\\\)m7:*:*:*:*:*:*:*",
+	"cpeNameId": "ABE40189-997E-41B8-B909-0D789EEBA3FD",
+	"created": "2020-05-11T11:56:48.413",
+	"lastModified": "2020-05-11T11:56:48.413",
+	"titles": [
+		{
+			"title": "Cisco IOS 15.1\\(4\\)M7",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://software.cisco.com/download/find/ios",
+			"type": "Version"
+		},
+		{
+			"ref": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160323-l4f",
+			"type": "Advisory"
+		}
+	]
 }

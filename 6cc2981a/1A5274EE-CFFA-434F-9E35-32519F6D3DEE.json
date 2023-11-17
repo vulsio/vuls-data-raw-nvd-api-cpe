@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:2.6.2:*:*:*:*:kubernetes:*:*",
-  "cpeNameId": "1A5274EE-CFFA-434F-9E35-32519F6D3DEE",
-  "created": "2023-09-12T18:47:16.457",
-  "lastModified": "2023-09-12T18:47:16.457",
-  "titles": [
-    {
-      "title": "The Linux Foundation Argo Continuous Delivery (Argo CD) 2.6.2 for Kubernetes",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/argoproj/argo-cd/releases",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://www.linuxfoundation.org/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:2.6.2:*:*:*:*:kubernetes:*:*",
+	"cpeNameId": "1A5274EE-CFFA-434F-9E35-32519F6D3DEE",
+	"created": "2023-09-12T18:47:16.457",
+	"lastModified": "2023-09-12T18:47:16.457",
+	"titles": [
+		{
+			"title": "The Linux Foundation Argo Continuous Delivery (Argo CD) 2.6.2 for Kubernetes",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/argoproj/argo-cd/releases",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://www.linuxfoundation.org/",
+			"type": "Vendor"
+		}
+	]
 }

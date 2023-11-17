@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:vmware:capacityiq:1.5.0:*:*:*:*:*:*:*",
-  "cpeNameId": "F2B5183B-D286-47F9-9C4B-8A718CC41E0C",
-  "created": "2012-10-08T14:28:42.057",
-  "lastModified": "2012-10-09T01:09:36.057",
-  "titles": [
-    {
-      "title": "VMware CapacityIQ 1.5.0",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:vmware:capacityiq:1.5.0:*:*:*:*:*:*:*",
+	"cpeNameId": "F2B5183B-D286-47F9-9C4B-8A718CC41E0C",
+	"created": "2012-10-08T14:28:42.057",
+	"lastModified": "2012-10-09T01:09:36.057",
+	"titles": [
+		{
+			"title": "VMware CapacityIQ 1.5.0",
+			"lang": "en"
+		}
+	]
 }

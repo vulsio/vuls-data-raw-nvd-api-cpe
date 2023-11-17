@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:southrivertech:titan_ftp_server:5.05.325:*:*:*:*:*:*:*",
-  "cpeNameId": "05797342-191B-4B09-B628-573940DA5E02",
-  "created": "2010-06-24T13:59:09.703",
-  "lastModified": "2010-06-24T16:27:25.500",
-  "titles": [
-    {
-      "title": "southrivertech:titan_ftp_server:5.05.325",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:southrivertech:titan_ftp_server:5.05.325:*:*:*:*:*:*:*",
+	"cpeNameId": "05797342-191B-4B09-B628-573940DA5E02",
+	"created": "2010-06-24T13:59:09.703",
+	"lastModified": "2010-06-24T16:27:25.500",
+	"titles": [
+		{
+			"title": "southrivertech:titan_ftp_server:5.05.325",
+			"lang": "en"
+		}
+	]
 }

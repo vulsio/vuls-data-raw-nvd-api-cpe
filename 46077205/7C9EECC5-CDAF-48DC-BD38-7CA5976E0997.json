@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:openinfosecfoundation:suricata:0.8.2:*:*:*:*:*:*:*",
-  "cpeNameId": "7C9EECC5-CDAF-48DC-BD38-7CA5976E0997",
-  "created": "2020-01-23T19:24:05.807",
-  "lastModified": "2020-01-23T19:24:05.807",
-  "titles": [
-    {
-      "title": "Open Information Security Foundation (OISF) Suricata 0.8.2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://oisf.net/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/OISF/suricata/releases",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://suricata-ids.org/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:openinfosecfoundation:suricata:0.8.2:*:*:*:*:*:*:*",
+	"cpeNameId": "7C9EECC5-CDAF-48DC-BD38-7CA5976E0997",
+	"created": "2020-01-23T19:24:05.807",
+	"lastModified": "2020-01-23T19:24:05.807",
+	"titles": [
+		{
+			"title": "Open Information Security Foundation (OISF) Suricata 0.8.2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://oisf.net/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/OISF/suricata/releases",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://suricata-ids.org/",
+			"type": "Vendor"
+		}
+	]
 }

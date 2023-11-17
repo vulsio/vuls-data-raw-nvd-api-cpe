@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:jenkins:aqua_security_scanner:3.0.17:*:*:*:*:jenkins:*:*",
-  "cpeNameId": "ADC6FA0D-B81B-4950-99AD-34648CBDDBDA",
-  "created": "2019-09-25T18:01:27.457",
-  "lastModified": "2019-09-25T18:01:27.457",
-  "titles": [
-    {
-      "title": "Jenkins Aqua Security Scanner 3.0.17 for Jenkins",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wiki.jenkins.io/display/JENKINS/Aqua+Security+Scanner+Plugin",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:jenkins:aqua_security_scanner:3.0.17:*:*:*:*:jenkins:*:*",
+	"cpeNameId": "ADC6FA0D-B81B-4950-99AD-34648CBDDBDA",
+	"created": "2019-09-25T18:01:27.457",
+	"lastModified": "2019-09-25T18:01:27.457",
+	"titles": [
+		{
+			"title": "Jenkins Aqua Security Scanner 3.0.17 for Jenkins",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wiki.jenkins.io/display/JENKINS/Aqua+Security+Scanner+Plugin",
+			"type": "Change Log"
+		}
+	]
 }

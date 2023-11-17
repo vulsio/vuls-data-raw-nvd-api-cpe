@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:horde:horde_application_framework:3.2:rc2:*:*:*:*:*:*",
-  "cpeNameId": "CFC6DC3F-383A-407A-BCD9-BCEEF9CF3D4F",
-  "created": "2010-11-10T16:38:56.600",
-  "lastModified": "2010-11-19T18:29:45.780",
-  "titles": [
-    {
-      "title": "Horde Application Framework 3.2 Release Candidate 2",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:horde:horde_application_framework:3.2:rc2:*:*:*:*:*:*",
+	"cpeNameId": "CFC6DC3F-383A-407A-BCD9-BCEEF9CF3D4F",
+	"created": "2010-11-10T16:38:56.600",
+	"lastModified": "2010-11-19T18:29:45.780",
+	"titles": [
+		{
+			"title": "Horde Application Framework 3.2 Release Candidate 2",
+			"lang": "en"
+		}
+	]
 }

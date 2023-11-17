@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:mesa3d:mesa:9.0.1:*:*:*:*:*:*:*",
-  "cpeNameId": "AEB2271E-9E67-43CE-AD17-88130E0201AA",
-  "created": "2013-07-15T17:45:35.527",
-  "lastModified": "2013-07-18T16:34:48.063",
-  "titles": [
-    {
-      "title": "Mesa3D.org Mesa 9.0.1",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:mesa3d:mesa:9.0.1:*:*:*:*:*:*:*",
+	"cpeNameId": "AEB2271E-9E67-43CE-AD17-88130E0201AA",
+	"created": "2013-07-15T17:45:35.527",
+	"lastModified": "2013-07-18T16:34:48.063",
+	"titles": [
+		{
+			"title": "Mesa3D.org Mesa 9.0.1",
+			"lang": "en"
+		}
+	]
 }

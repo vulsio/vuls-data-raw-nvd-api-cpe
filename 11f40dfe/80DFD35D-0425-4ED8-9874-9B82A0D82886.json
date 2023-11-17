@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:opscode:chef:0.8.4:*:*:*:*:*:*:*",
-  "cpeNameId": "80DFD35D-0425-4ED8-9874-9B82A0D82886",
-  "created": "2012-08-08T18:00:36.977",
-  "lastModified": "2012-08-10T17:06:13.077",
-  "titles": [
-    {
-      "title": "opscode Chef 0.8.4",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:opscode:chef:0.8.4:*:*:*:*:*:*:*",
+	"cpeNameId": "80DFD35D-0425-4ED8-9874-9B82A0D82886",
+	"created": "2012-08-08T18:00:36.977",
+	"lastModified": "2012-08-10T17:06:13.077",
+	"titles": [
+		{
+			"title": "opscode Chef 0.8.4",
+			"lang": "en"
+		}
+	]
 }

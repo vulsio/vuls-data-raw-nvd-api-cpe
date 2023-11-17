@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:iobroker:iobroker.web:1.7.6:*:*:*:*:node.js:*:*",
-  "cpeNameId": "1985901C-0BA0-4D24-8821-2DE94425830F",
-  "created": "2019-12-04T15:55:45.190",
-  "lastModified": "2019-12-04T15:55:45.190",
-  "titles": [
-    {
-      "title": "ioBroker.web 1.7.6 for Node.js",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.npmjs.com/package/iobroker.web",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:iobroker:iobroker.web:1.7.6:*:*:*:*:node.js:*:*",
+	"cpeNameId": "1985901C-0BA0-4D24-8821-2DE94425830F",
+	"created": "2019-12-04T15:55:45.190",
+	"lastModified": "2019-12-04T15:55:45.190",
+	"titles": [
+		{
+			"title": "ioBroker.web 1.7.6 for Node.js",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.npmjs.com/package/iobroker.web",
+			"type": "Change Log"
+		}
+	]
 }

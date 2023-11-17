@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:symantec:veritas_netbackup_enterprise_server:-:*:*:*:*:*:*:*",
-  "cpeNameId": "20423180-9037-4A5D-AF23-D1ABEE49D479",
-  "created": "2007-08-23T21:05:57.937",
-  "lastModified": "2007-09-14T17:36:49.090",
-  "titles": [
-    {
-      "title": "Symantec Veritas NetBackup Enterprise Server",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:symantec:veritas_netbackup_enterprise_server:-:*:*:*:*:*:*:*",
+	"cpeNameId": "20423180-9037-4A5D-AF23-D1ABEE49D479",
+	"created": "2007-08-23T21:05:57.937",
+	"lastModified": "2007-09-14T17:36:49.090",
+	"titles": [
+		{
+			"title": "Symantec Veritas NetBackup Enterprise Server",
+			"lang": "en"
+		}
+	]
 }

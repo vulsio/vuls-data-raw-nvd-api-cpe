@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:nodejs:node.js:10.2.0:*:*:*:lts:*:*:*",
-  "cpeNameId": "EEFAA09A-7C67-4C78-9C4D-302DEEBEF376",
-  "created": "2020-06-22T11:45:06.867",
-  "lastModified": "2020-06-22T11:45:06.867",
-  "titles": [
-    {
-      "title": "Nodejs Node.js 10.2.0 LTS Edition",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://nodejs.org/en/about/releases/",
-      "type": "Version"
-    },
-    {
-      "ref": "https://nodejs.org/download/release/",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:nodejs:node.js:10.2.0:*:*:*:lts:*:*:*",
+	"cpeNameId": "EEFAA09A-7C67-4C78-9C4D-302DEEBEF376",
+	"created": "2020-06-22T11:45:06.867",
+	"lastModified": "2020-06-22T11:45:06.867",
+	"titles": [
+		{
+			"title": "Nodejs Node.js 10.2.0 LTS Edition",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://nodejs.org/en/about/releases/",
+			"type": "Version"
+		},
+		{
+			"ref": "https://nodejs.org/download/release/",
+			"type": "Change Log"
+		}
+	]
 }

@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:automattic:woocommerce_payments:5.5.0:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "B64372D8-E139-4FC0-87D2-76C4C6D14532",
-  "created": "2023-04-18T14:57:39.653",
-  "lastModified": "2023-04-18T15:28:05.050",
-  "titles": [
-    {
-      "title": "Automattic WooCommerce Payments 5.5.0 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://automattic.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://developer.woocommerce.com/2023/03/23/critical-vulnerability-detected-in-woocommerce-payments-what-you-need-to-know/",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://wordpress.org/plugins/woocommerce-payments/#developers",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:automattic:woocommerce_payments:5.5.0:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "B64372D8-E139-4FC0-87D2-76C4C6D14532",
+	"created": "2023-04-18T14:57:39.653",
+	"lastModified": "2023-04-18T15:28:05.050",
+	"titles": [
+		{
+			"title": "Automattic WooCommerce Payments 5.5.0 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://automattic.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://developer.woocommerce.com/2023/03/23/critical-vulnerability-detected-in-woocommerce-payments-what-you-need-to-know/",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/woocommerce-payments/#developers",
+			"type": "Change Log"
+		}
+	]
 }

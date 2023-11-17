@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:openvpn:openvpn:2.1.0:rc7:*:*:*:*:*:*",
-  "cpeNameId": "7F8F75A5-542C-4ABC-85FD-2546888E20C3",
-  "created": "2019-10-31T17:20:03.527",
-  "lastModified": "2019-10-31T17:20:03.527",
-  "titles": [
-    {
-      "title": "OpenVPN 2.1.0 Release Candidate 7",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/OpenVPN/openvpn/tags",
-      "type": "Version"
-    },
-    {
-      "ref": "https://community.openvpn.net/openvpn/wiki/ChangesInOpenvpn24",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:openvpn:openvpn:2.1.0:rc7:*:*:*:*:*:*",
+	"cpeNameId": "7F8F75A5-542C-4ABC-85FD-2546888E20C3",
+	"created": "2019-10-31T17:20:03.527",
+	"lastModified": "2019-10-31T17:20:03.527",
+	"titles": [
+		{
+			"title": "OpenVPN 2.1.0 Release Candidate 7",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/OpenVPN/openvpn/tags",
+			"type": "Version"
+		},
+		{
+			"ref": "https://community.openvpn.net/openvpn/wiki/ChangesInOpenvpn24",
+			"type": "Change Log"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:asus:h110s1:-:*:*:*:*:*:*:*",
-  "cpeNameId": "7846D5E0-B86A-4A64-AF57-DBCF0780C239",
-  "created": "2023-05-22T16:18:54.830",
-  "lastModified": "2023-05-22T18:09:28.160",
-  "titles": [
-    {
-      "title": "ASUS H110S1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.asus.com/news/wzeltg5cjyaiwgj0/",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:asus:h110s1:-:*:*:*:*:*:*:*",
+	"cpeNameId": "7846D5E0-B86A-4A64-AF57-DBCF0780C239",
+	"created": "2023-05-22T16:18:54.830",
+	"lastModified": "2023-05-22T18:09:28.160",
+	"titles": [
+		{
+			"title": "ASUS H110S1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.asus.com/news/wzeltg5cjyaiwgj0/",
+			"type": "Advisory"
+		}
+	]
 }

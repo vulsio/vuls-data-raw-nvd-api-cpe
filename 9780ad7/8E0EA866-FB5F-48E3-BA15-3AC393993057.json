@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:xstream_project:xstream:1.4.13:*:*:*:*:*:*:*",
-  "cpeNameId": "8E0EA866-FB5F-48E3-BA15-3AC393993057",
-  "created": "2020-11-20T20:07:51.327",
-  "lastModified": "2020-11-20T20:07:51.327",
-  "titles": [
-    {
-      "title": "XStream Project XStream 1.4.13",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/x-stream/xstream",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:xstream_project:xstream:1.4.13:*:*:*:*:*:*:*",
+	"cpeNameId": "8E0EA866-FB5F-48E3-BA15-3AC393993057",
+	"created": "2020-11-20T20:07:51.327",
+	"lastModified": "2020-11-20T20:07:51.327",
+	"titles": [
+		{
+			"title": "XStream Project XStream 1.4.13",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/x-stream/xstream",
+			"type": "Version"
+		}
+	]
 }

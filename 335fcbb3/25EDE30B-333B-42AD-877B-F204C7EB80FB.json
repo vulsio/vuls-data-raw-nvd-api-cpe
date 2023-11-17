@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:hp:webproxy:-:*:*:*:*:*:*:*",
-  "cpeNameId": "25EDE30B-333B-42AD-877B-F204C7EB80FB",
-  "created": "2007-08-23T21:05:57.937",
-  "lastModified": "2008-04-15T22:37:42.490",
-  "titles": [
-    {
-      "title": "HP Webproxy",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:hp:webproxy:-:*:*:*:*:*:*:*",
+	"cpeNameId": "25EDE30B-333B-42AD-877B-F204C7EB80FB",
+	"created": "2007-08-23T21:05:57.937",
+	"lastModified": "2008-04-15T22:37:42.490",
+	"titles": [
+		{
+			"title": "HP Webproxy",
+			"lang": "en"
+		}
+	]
 }

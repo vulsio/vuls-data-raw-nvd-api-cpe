@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:ibm:kitura:0.5.4:*:*:*:*:*:*:*",
-  "cpeNameId": "15CA8804-2916-4808-B702-E30371666DFF",
-  "created": "2019-06-03T17:52:36.370",
-  "lastModified": "2019-06-03T17:52:36.370",
-  "titles": [
-    {
-      "title": "IBM Kitura 0.5.4",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/IBM-Swift/Kitura/releases",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:ibm:kitura:0.5.4:*:*:*:*:*:*:*",
+	"cpeNameId": "15CA8804-2916-4808-B702-E30371666DFF",
+	"created": "2019-06-03T17:52:36.370",
+	"lastModified": "2019-06-03T17:52:36.370",
+	"titles": [
+		{
+			"title": "IBM Kitura 0.5.4",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/IBM-Swift/Kitura/releases",
+			"type": "Version"
+		}
+	]
 }

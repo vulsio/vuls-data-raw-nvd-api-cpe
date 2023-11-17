@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:pyconuk:conference-scheduler-cli:0.10.0:*:*:*:*:*:*:*",
-  "cpeNameId": "99431300-0E45-4176-9C78-52EAF4BF3B54",
-  "created": "2019-12-09T17:44:15.133",
-  "lastModified": "2019-12-09T17:44:15.133",
-  "titles": [
-    {
-      "title": "PyCon UK conference-scheduler-cli 0.10.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/PyconUK/ConferenceScheduler-cli/",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:pyconuk:conference-scheduler-cli:0.10.0:*:*:*:*:*:*:*",
+	"cpeNameId": "99431300-0E45-4176-9C78-52EAF4BF3B54",
+	"created": "2019-12-09T17:44:15.133",
+	"lastModified": "2019-12-09T17:44:15.133",
+	"titles": [
+		{
+			"title": "PyCon UK conference-scheduler-cli 0.10.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/PyconUK/ConferenceScheduler-cli/",
+			"type": "Version"
+		}
+	]
 }

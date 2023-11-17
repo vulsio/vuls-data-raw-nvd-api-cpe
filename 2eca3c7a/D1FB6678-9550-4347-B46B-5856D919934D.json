@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:hp:color_laserjet_4730_mfp:cb480a:*:*:*:*:*:*:*",
-  "cpeNameId": "D1FB6678-9550-4347-B46B-5856D919934D",
-  "created": "2013-04-30T12:50:18.957",
-  "lastModified": "2013-05-08T14:43:00.177",
-  "titles": [
-    {
-      "title": "HP Color LaserJet 4730 Multifunction Printer (MFP) CB480A",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:hp:color_laserjet_4730_mfp:cb480a:*:*:*:*:*:*:*",
+	"cpeNameId": "D1FB6678-9550-4347-B46B-5856D919934D",
+	"created": "2013-04-30T12:50:18.957",
+	"lastModified": "2013-05-08T14:43:00.177",
+	"titles": [
+		{
+			"title": "HP Color LaserJet 4730 Multifunction Printer (MFP) CB480A",
+			"lang": "en"
+		}
+	]
 }

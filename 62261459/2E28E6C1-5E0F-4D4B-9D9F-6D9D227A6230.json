@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:d-bus_project:d-bus:1.5.8:*:*:*:*:*:*:*",
-  "cpeNameId": "2E28E6C1-5E0F-4D4B-9D9F-6D9D227A6230",
-  "created": "2014-07-11T14:46:22.867",
-  "lastModified": "2014-07-17T17:21:09.730",
-  "titles": [
-    {
-      "title": "D-Bus Project D-Bus 1.5.8",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://cgit.freedesktop.org/dbus/dbus/"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:d-bus_project:d-bus:1.5.8:*:*:*:*:*:*:*",
+	"cpeNameId": "2E28E6C1-5E0F-4D4B-9D9F-6D9D227A6230",
+	"created": "2014-07-11T14:46:22.867",
+	"lastModified": "2014-07-17T17:21:09.730",
+	"titles": [
+		{
+			"title": "D-Bus Project D-Bus 1.5.8",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://cgit.freedesktop.org/dbus/dbus/"
+		}
+	]
 }

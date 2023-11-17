@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:fasterxml:jackson:2.6.0:*:*:*:*:*:*:*",
-  "cpeNameId": "AD6B9EBB-8632-41EF-AD67-5A661ECA156A",
-  "created": "2019-06-18T14:39:12.577",
-  "lastModified": "2019-06-18T14:39:12.577",
-  "titles": [
-    {
-      "title": "FasterXML Jackson 2.6.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/FasterXML/jackson/wiki/Jackson-Releases",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:fasterxml:jackson:2.6.0:*:*:*:*:*:*:*",
+	"cpeNameId": "AD6B9EBB-8632-41EF-AD67-5A661ECA156A",
+	"created": "2019-06-18T14:39:12.577",
+	"lastModified": "2019-06-18T14:39:12.577",
+	"titles": [
+		{
+			"title": "FasterXML Jackson 2.6.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/FasterXML/jackson/wiki/Jackson-Releases",
+			"type": "Version"
+		}
+	]
 }

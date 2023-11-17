@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:sonicwall:sma_500v_firmware:-:*:*:*:*:*:*:*",
-  "cpeNameId": "530D1315-8380-4D55-BCBA-EDCCFD56CAFD",
-  "created": "2022-04-19T16:52:14.840",
-  "lastModified": "2022-06-03T13:02:58.107",
-  "titles": [
-    {
-      "title": "SonicWall SMA 500V FIRMWARE",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2022-0006",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://www.sonicwall.com/products/remote-access/secure-mobile-access-100-series/",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:sonicwall:sma_500v_firmware:-:*:*:*:*:*:*:*",
+	"cpeNameId": "530D1315-8380-4D55-BCBA-EDCCFD56CAFD",
+	"created": "2022-04-19T16:52:14.840",
+	"lastModified": "2022-06-03T13:02:58.107",
+	"titles": [
+		{
+			"title": "SonicWall SMA 500V FIRMWARE",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2022-0006",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://www.sonicwall.com/products/remote-access/secure-mobile-access-100-series/",
+			"type": "Product"
+		}
+	]
 }

@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:juniper:mx104:-:*:*:*:*:*:*:*",
-  "cpeNameId": "5A476663-878B-4F88-B482-5A5CC54F77A4",
-  "created": "2015-02-03T14:21:41.807",
-  "lastModified": "2015-02-14T16:03:33.293",
-  "titles": [
-    {
-      "title": "Juniper MX104",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www.juniper.net/us/en/products-services/routing/mx-series/"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:juniper:mx104:-:*:*:*:*:*:*:*",
+	"cpeNameId": "5A476663-878B-4F88-B482-5A5CC54F77A4",
+	"created": "2015-02-03T14:21:41.807",
+	"lastModified": "2015-02-14T16:03:33.293",
+	"titles": [
+		{
+			"title": "Juniper MX104",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.juniper.net/us/en/products-services/routing/mx-series/"
+		}
+	]
 }

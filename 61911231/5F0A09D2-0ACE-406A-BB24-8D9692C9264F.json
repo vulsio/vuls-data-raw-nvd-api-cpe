@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:sensiolabs:symfony:1.4.2:*:*:*:*:*:*:*",
-  "cpeNameId": "5F0A09D2-0ACE-406A-BB24-8D9692C9264F",
-  "created": "2012-06-08T16:12:58.127",
-  "lastModified": "2012-12-21T16:45:50.830",
-  "titles": [
-    {
-      "title": "SensioLabs Symfony 1.4.2",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:sensiolabs:symfony:1.4.2:*:*:*:*:*:*:*",
+	"cpeNameId": "5F0A09D2-0ACE-406A-BB24-8D9692C9264F",
+	"created": "2012-06-08T16:12:58.127",
+	"lastModified": "2012-12-21T16:45:50.830",
+	"titles": [
+		{
+			"title": "SensioLabs Symfony 1.4.2",
+			"lang": "en"
+		}
+	]
 }

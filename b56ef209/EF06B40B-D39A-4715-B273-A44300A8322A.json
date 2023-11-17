@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:moinejf:abcm2ps:3.0.18:*:*:*:*:*:*:*",
-  "cpeNameId": "EF06B40B-D39A-4715-B273-A44300A8322A",
-  "created": "2011-04-29T13:30:22.763",
-  "lastModified": "2011-07-27T15:36:37.153",
-  "titles": [
-    {
-      "title": "moinejf abcm2ps 3.0.18",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:moinejf:abcm2ps:3.0.18:*:*:*:*:*:*:*",
+	"cpeNameId": "EF06B40B-D39A-4715-B273-A44300A8322A",
+	"created": "2011-04-29T13:30:22.763",
+	"lastModified": "2011-07-27T15:36:37.153",
+	"titles": [
+		{
+			"title": "moinejf abcm2ps 3.0.18",
+			"lang": "en"
+		}
+	]
 }

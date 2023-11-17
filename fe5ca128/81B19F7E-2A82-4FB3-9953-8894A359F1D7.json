@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:incsub:forminator:1.18.2:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "81B19F7E-2A82-4FB3-9953-8894A359F1D7",
-  "created": "2023-08-03T10:38:46.870",
-  "lastModified": "2023-08-03T10:40:52.960",
-  "titles": [
-    {
-      "title": "Incsub Forminator 1.18.2 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wordpress.org/plugins/forminator/#developers",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://incsub.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:incsub:forminator:1.18.2:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "81B19F7E-2A82-4FB3-9953-8894A359F1D7",
+	"created": "2023-08-03T10:38:46.870",
+	"lastModified": "2023-08-03T10:40:52.960",
+	"titles": [
+		{
+			"title": "Incsub Forminator 1.18.2 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/forminator/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://incsub.com/",
+			"type": "Vendor"
+		}
+	]
 }

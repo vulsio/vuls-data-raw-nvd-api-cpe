@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:usr:usr-g807:-:*:*:*:*:*:*:*",
-  "cpeNameId": "48544251-4D82-4E3C-A133-5FBF92D75F6A",
-  "created": "2022-06-08T18:33:02.823",
-  "lastModified": "2022-06-08T19:23:07.460",
-  "titles": [
-    {
-      "title": "USR IOT USR-G807",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://en.usr.cn/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://www.zeroscience.mk/en/vulnerabilities/ZSL-2022-5705.php",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:usr:usr-g807:-:*:*:*:*:*:*:*",
+	"cpeNameId": "48544251-4D82-4E3C-A133-5FBF92D75F6A",
+	"created": "2022-06-08T18:33:02.823",
+	"lastModified": "2022-06-08T19:23:07.460",
+	"titles": [
+		{
+			"title": "USR IOT USR-G807",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://en.usr.cn/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://www.zeroscience.mk/en/vulnerabilities/ZSL-2022-5705.php",
+			"type": "Advisory"
+		}
+	]
 }

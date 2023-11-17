@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:cisco:smart_software_manager_on-prem:8-202303:*:*:*:*:*:*:*",
-  "cpeNameId": "C5E083F0-32B8-467F-BEBA-E6781F74990D",
-  "created": "2023-05-25T15:42:46.707",
-  "lastModified": "2023-06-21T16:34:55.573",
-  "titles": [
-    {
-      "title": "Cisco Smart Software Manager On-Prem 8-202303",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ssm-sql-X9MmjSYh",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:cisco:smart_software_manager_on-prem:8-202303:*:*:*:*:*:*:*",
+	"cpeNameId": "C5E083F0-32B8-467F-BEBA-E6781F74990D",
+	"created": "2023-05-25T15:42:46.707",
+	"lastModified": "2023-06-21T16:34:55.573",
+	"titles": [
+		{
+			"title": "Cisco Smart Software Manager On-Prem 8-202303",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ssm-sql-X9MmjSYh",
+			"type": "Advisory"
+		}
+	]
 }

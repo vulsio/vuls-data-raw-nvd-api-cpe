@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:mozilla:firefox:90.0:*:*:*:*:*:*:*",
-  "cpeNameId": "AACBB314-2FB2-43F0-B2A0-9C510FD96583",
-  "created": "2021-08-24T17:23:53.323",
-  "lastModified": "2021-08-24T23:00:17.883",
-  "titles": [
-    {
-      "title": "Mozilla Firefox 90.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.mozilla.org/en-US/firefox/releases/",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://www.mozilla.org/en-US/security/advisories/mfsa2021-33/",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:mozilla:firefox:90.0:*:*:*:*:*:*:*",
+	"cpeNameId": "AACBB314-2FB2-43F0-B2A0-9C510FD96583",
+	"created": "2021-08-24T17:23:53.323",
+	"lastModified": "2021-08-24T23:00:17.883",
+	"titles": [
+		{
+			"title": "Mozilla Firefox 90.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.mozilla.org/en-US/firefox/releases/",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://www.mozilla.org/en-US/security/advisories/mfsa2021-33/",
+			"type": "Advisory"
+		}
+	]
 }

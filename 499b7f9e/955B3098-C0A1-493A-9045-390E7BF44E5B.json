@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:honeywell:symmetre:r310:*:*:*:*:*:*:*",
-  "cpeNameId": "955B3098-C0A1-493A-9045-390E7BF44E5B",
-  "created": "2013-02-25T18:50:04.440",
-  "lastModified": "2013-03-07T18:44:33.373",
-  "titles": [
-    {
-      "title": "Honeywell SymmetrE R310",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:honeywell:symmetre:r310:*:*:*:*:*:*:*",
+	"cpeNameId": "955B3098-C0A1-493A-9045-390E7BF44E5B",
+	"created": "2013-02-25T18:50:04.440",
+	"lastModified": "2013-03-07T18:44:33.373",
+	"titles": [
+		{
+			"title": "Honeywell SymmetrE R310",
+			"lang": "en"
+		}
+	]
 }

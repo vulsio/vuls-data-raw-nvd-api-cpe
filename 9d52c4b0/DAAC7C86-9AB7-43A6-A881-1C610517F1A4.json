@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:gnome:orca:3.7.1:*:*:*:*:*:*:*",
-  "cpeNameId": "DAAC7C86-9AB7-43A6-A881-1C610517F1A4",
-  "created": "2021-07-23T16:41:34.293",
-  "lastModified": "2021-07-26T12:25:16.983",
-  "titles": [
-    {
-      "title": "GNOME Orca 3.7.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wiki.gnome.org/Projects/Orca",
-      "type": "Product"
-    },
-    {
-      "ref": "https://github.com/GNOME/orca/releases",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:gnome:orca:3.7.1:*:*:*:*:*:*:*",
+	"cpeNameId": "DAAC7C86-9AB7-43A6-A881-1C610517F1A4",
+	"created": "2021-07-23T16:41:34.293",
+	"lastModified": "2021-07-26T12:25:16.983",
+	"titles": [
+		{
+			"title": "GNOME Orca 3.7.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wiki.gnome.org/Projects/Orca",
+			"type": "Product"
+		},
+		{
+			"ref": "https://github.com/GNOME/orca/releases",
+			"type": "Version"
+		}
+	]
 }

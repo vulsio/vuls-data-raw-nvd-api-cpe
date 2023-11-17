@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:citrix:gateway:-:*:*:*:*:*:*:*",
-  "cpeNameId": "146CB36E-A186-493D-AAF7-F31BCB3BC64E",
-  "created": "2019-10-29T14:18:01.000",
-  "lastModified": "2019-10-29T14:18:01.000",
-  "titles": [
-    {
-      "title": "Citrix Gateway",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.citrix.com/downloads/citrix-gateway/",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:citrix:gateway:-:*:*:*:*:*:*:*",
+	"cpeNameId": "146CB36E-A186-493D-AAF7-F31BCB3BC64E",
+	"created": "2019-10-29T14:18:01.000",
+	"lastModified": "2019-10-29T14:18:01.000",
+	"titles": [
+		{
+			"title": "Citrix Gateway",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.citrix.com/downloads/citrix-gateway/",
+			"type": "Change Log"
+		}
+	]
 }

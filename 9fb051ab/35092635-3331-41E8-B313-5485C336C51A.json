@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:cisco:ios:12.2\\(31\\)sb8:*:*:*:*:*:*:*",
-  "cpeNameId": "35092635-3331-41E8-B313-5485C336C51A",
-  "created": "2011-10-04T15:21:32.420",
-  "lastModified": "2012-05-30T20:30:31.377",
-  "titles": [
-    {
-      "title": "Cisco IOS 12.2 (31)SB8",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:cisco:ios:12.2\\(31\\)sb8:*:*:*:*:*:*:*",
+	"cpeNameId": "35092635-3331-41E8-B313-5485C336C51A",
+	"created": "2011-10-04T15:21:32.420",
+	"lastModified": "2012-05-30T20:30:31.377",
+	"titles": [
+		{
+			"title": "Cisco IOS 12.2 (31)SB8",
+			"lang": "en"
+		}
+	]
 }

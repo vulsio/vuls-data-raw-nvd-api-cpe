@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:facebook:folly:2016.12.05.00:*:*:*:*:*:*:*",
-  "cpeNameId": "A5C2908F-5CEB-4BF7-B513-E87F7FB9D030",
-  "created": "2021-02-26T20:50:31.413",
-  "lastModified": "2021-02-26T20:53:26.717",
-  "titles": [
-    {
-      "title": "Facebook Folly 2016.12.05.00",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/facebook/folly/releases",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:facebook:folly:2016.12.05.00:*:*:*:*:*:*:*",
+	"cpeNameId": "A5C2908F-5CEB-4BF7-B513-E87F7FB9D030",
+	"created": "2021-02-26T20:50:31.413",
+	"lastModified": "2021-02-26T20:53:26.717",
+	"titles": [
+		{
+			"title": "Facebook Folly 2016.12.05.00",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/facebook/folly/releases",
+			"type": "Version"
+		}
+	]
 }

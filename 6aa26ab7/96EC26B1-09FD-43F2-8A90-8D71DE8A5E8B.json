@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:cryptography_project:cryptography:40.0.1:*:*:*:*:python:*:*",
-  "cpeNameId": "96EC26B1-09FD-43F2-8A90-8D71DE8A5E8B",
-  "created": "2023-07-24T18:44:53.067",
-  "lastModified": "2023-07-24T20:06:14.210",
-  "titles": [
-    {
-      "title": "cryptography Project cryptography 40.0.1 for Python",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/pyca/cryptography/tags",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:cryptography_project:cryptography:40.0.1:*:*:*:*:python:*:*",
+	"cpeNameId": "96EC26B1-09FD-43F2-8A90-8D71DE8A5E8B",
+	"created": "2023-07-24T18:44:53.067",
+	"lastModified": "2023-07-24T20:06:14.210",
+	"titles": [
+		{
+			"title": "cryptography Project cryptography 40.0.1 for Python",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/pyca/cryptography/tags",
+			"type": "Version"
+		}
+	]
 }

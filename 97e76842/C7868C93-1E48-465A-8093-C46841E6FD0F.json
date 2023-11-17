@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:schneider-electric:bmxp342000_firmware:3.20:*:*:*:*:*:*:*",
-  "cpeNameId": "C7868C93-1E48-465A-8093-C46841E6FD0F",
-  "created": "2020-12-02T17:59:31.503",
-  "lastModified": "2021-05-11T17:49:02.347",
-  "titles": [
-    {
-      "title": "Schneider-Electric BMXP342000 Firmware 3.20",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://download.schneider-electric.com/files?p_enDocType=Technical+leaflet&p_File_Name=SEVD-2020-287-01_Modicon_Web_Server_Security_Notificatiton.pdf&p_Doc_Ref=SEVD-2020-287-01",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:schneider-electric:bmxp342000_firmware:3.20:*:*:*:*:*:*:*",
+	"cpeNameId": "C7868C93-1E48-465A-8093-C46841E6FD0F",
+	"created": "2020-12-02T17:59:31.503",
+	"lastModified": "2021-05-11T17:49:02.347",
+	"titles": [
+		{
+			"title": "Schneider-Electric BMXP342000 Firmware 3.20",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://download.schneider-electric.com/files?p_enDocType=Technical+leaflet&p_File_Name=SEVD-2020-287-01_Modicon_Web_Server_Security_Notificatiton.pdf&p_Doc_Ref=SEVD-2020-287-01",
+			"type": "Advisory"
+		}
+	]
 }

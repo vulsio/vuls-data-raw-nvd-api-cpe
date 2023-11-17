@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:atlassian:bamboo:1.1:*:*:*:*:*:*:*",
-  "cpeNameId": "B401CD87-37D1-4EC0-B026-9887A41801B7",
-  "created": "2012-05-23T01:55:53.820",
-  "lastModified": "2012-05-30T20:57:38.000",
-  "titles": [
-    {
-      "title": "Atlassian Bamboo 1.1",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:atlassian:bamboo:1.1:*:*:*:*:*:*:*",
+	"cpeNameId": "B401CD87-37D1-4EC0-B026-9887A41801B7",
+	"created": "2012-05-23T01:55:53.820",
+	"lastModified": "2012-05-30T20:57:38.000",
+	"titles": [
+		{
+			"title": "Atlassian Bamboo 1.1",
+			"lang": "en"
+		}
+	]
 }

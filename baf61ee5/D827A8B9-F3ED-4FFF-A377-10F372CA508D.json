@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:zabbix:zabbix:1.5.3:-:*:*:*:*:*:*",
-  "cpeNameId": "D827A8B9-F3ED-4FFF-A377-10F372CA508D",
-  "created": "2019-06-12T11:09:11.047",
-  "lastModified": "2019-06-12T11:09:11.047",
-  "titles": [
-    {
-      "title": "ZABBIX 1.5.3",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.zabbix.com/rn/rn2.4.3",
-      "type": "Version"
-    },
-    {
-      "ref": "https://www.zabbix.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:zabbix:zabbix:1.5.3:-:*:*:*:*:*:*",
+	"cpeNameId": "D827A8B9-F3ED-4FFF-A377-10F372CA508D",
+	"created": "2019-06-12T11:09:11.047",
+	"lastModified": "2019-06-12T11:09:11.047",
+	"titles": [
+		{
+			"title": "ZABBIX 1.5.3",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.zabbix.com/rn/rn2.4.3",
+			"type": "Version"
+		},
+		{
+			"ref": "https://www.zabbix.com/",
+			"type": "Vendor"
+		}
+	]
 }

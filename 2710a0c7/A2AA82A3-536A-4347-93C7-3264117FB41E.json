@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:nuxtjs:nuxt.js:1.0.0:rc6:*:*:*:node.js:*:*",
-  "cpeNameId": "A2AA82A3-536A-4347-93C7-3264117FB41E",
-  "created": "2019-09-23T13:53:01.873",
-  "lastModified": "2019-09-23T13:53:01.873",
-  "titles": [
-    {
-      "title": "Nuxtjs Nuxt.js 1.0.0 Release Candidate 6 for Node.js",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/nuxt/nuxt.js/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:nuxtjs:nuxt.js:1.0.0:rc6:*:*:*:node.js:*:*",
+	"cpeNameId": "A2AA82A3-536A-4347-93C7-3264117FB41E",
+	"created": "2019-09-23T13:53:01.873",
+	"lastModified": "2019-09-23T13:53:01.873",
+	"titles": [
+		{
+			"title": "Nuxtjs Nuxt.js 1.0.0 Release Candidate 6 for Node.js",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/nuxt/nuxt.js/releases",
+			"type": "Change Log"
+		}
+	]
 }

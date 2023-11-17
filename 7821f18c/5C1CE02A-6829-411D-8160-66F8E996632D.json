@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:symantec:liveupdate:1.9:*:*:*:*:*:*:*",
-  "cpeNameId": "5C1CE02A-6829-411D-8160-66F8E996632D",
-  "created": "2009-11-25T18:34:38.293",
-  "lastModified": "2009-11-25T18:34:38.293",
-  "titles": [
-    {
-      "title": "Symantec LiveUpdate 1.9",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:symantec:liveupdate:1.9:*:*:*:*:*:*:*",
+	"cpeNameId": "5C1CE02A-6829-411D-8160-66F8E996632D",
+	"created": "2009-11-25T18:34:38.293",
+	"lastModified": "2009-11-25T18:34:38.293",
+	"titles": [
+		{
+			"title": "Symantec LiveUpdate 1.9",
+			"lang": "en"
+		}
+	]
 }

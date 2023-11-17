@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:xr3player_project:xr3player:3.106:*:*:*:*:*:*:*",
-  "cpeNameId": "B3101993-EB60-412C-905D-CD58EB1F96EE",
-  "created": "2019-09-11T16:16:40.667",
-  "lastModified": "2019-09-11T16:16:40.667",
-  "titles": [
-    {
-      "title": "XR3Player Project XR3Player 3.106",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/goxr3plus/XR3Player/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:xr3player_project:xr3player:3.106:*:*:*:*:*:*:*",
+	"cpeNameId": "B3101993-EB60-412C-905D-CD58EB1F96EE",
+	"created": "2019-09-11T16:16:40.667",
+	"lastModified": "2019-09-11T16:16:40.667",
+	"titles": [
+		{
+			"title": "XR3Player Project XR3Player 3.106",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/goxr3plus/XR3Player/releases",
+			"type": "Change Log"
+		}
+	]
 }

@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:gnome:glib:2.58.3:*:*:*:*:*:*:*",
-  "cpeNameId": "E7A73CBF-ECAF-48A1-856E-E1B1FE0C4ECD",
-  "created": "2019-01-28T17:18:35.893",
-  "lastModified": "2019-01-28T17:18:35.893",
-  "titles": [
-    {
-      "title": "GNOME Glib 2.58.3",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://ftp.gnome.org/pub/gnome/sources/glib",
-      "type": "Version"
-    },
-    {
-      "ref": "http://www.gtk.org/",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:gnome:glib:2.58.3:*:*:*:*:*:*:*",
+	"cpeNameId": "E7A73CBF-ECAF-48A1-856E-E1B1FE0C4ECD",
+	"created": "2019-01-28T17:18:35.893",
+	"lastModified": "2019-01-28T17:18:35.893",
+	"titles": [
+		{
+			"title": "GNOME Glib 2.58.3",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://ftp.gnome.org/pub/gnome/sources/glib",
+			"type": "Version"
+		},
+		{
+			"ref": "http://www.gtk.org/",
+			"type": "Product"
+		}
+	]
 }

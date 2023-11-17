@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:stormshield:network_security:4.2.13:*:*:*:*:*:*:*",
-  "cpeNameId": "116BBCD7-6AF8-42C3-BC67-286E9011636D",
-  "created": "2023-08-31T15:06:37.347",
-  "lastModified": "2023-08-31T17:58:33.267",
-  "titles": [
-    {
-      "title": "Stormshield Network Security 4.2.13",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://documentation.stormshield.eu/SNS/v4/en/Content/Release_Notes_SNS/Previous-Versions.htm",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:stormshield:network_security:4.2.13:*:*:*:*:*:*:*",
+	"cpeNameId": "116BBCD7-6AF8-42C3-BC67-286E9011636D",
+	"created": "2023-08-31T15:06:37.347",
+	"lastModified": "2023-08-31T17:58:33.267",
+	"titles": [
+		{
+			"title": "Stormshield Network Security 4.2.13",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://documentation.stormshield.eu/SNS/v4/en/Content/Release_Notes_SNS/Previous-Versions.htm",
+			"type": "Version"
+		}
+	]
 }

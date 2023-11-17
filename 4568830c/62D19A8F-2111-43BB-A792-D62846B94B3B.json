@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:fortinet:fortivoice:5.3.7:*:*:*:entreprise:*:*:*",
-  "cpeNameId": "62D19A8F-2111-43BB-A792-D62846B94B3B",
-  "created": "2022-07-21T17:54:17.567",
-  "lastModified": "2022-07-21T18:21:39.000",
-  "titles": [
-    {
-      "title": "Fortinet FortiVoice 5.3.7 Entreprise Edition",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.fortiguard.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://www.fortiguard.com/psirt/FG-IR-21-155",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:fortinet:fortivoice:5.3.7:*:*:*:entreprise:*:*:*",
+	"cpeNameId": "62D19A8F-2111-43BB-A792-D62846B94B3B",
+	"created": "2022-07-21T17:54:17.567",
+	"lastModified": "2022-07-21T18:21:39.000",
+	"titles": [
+		{
+			"title": "Fortinet FortiVoice 5.3.7 Entreprise Edition",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.fortiguard.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://www.fortiguard.com/psirt/FG-IR-21-155",
+			"type": "Advisory"
+		}
+	]
 }

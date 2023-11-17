@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:sqlite:sqlite:2.8.8:*:*:*:*:*:*:*",
-  "cpeNameId": "7E5F2235-1ECA-47E8-BECD-53C04BCF941F",
-  "created": "2019-01-04T13:40:36.717",
-  "lastModified": "2019-01-04T13:40:36.717",
-  "titles": [
-    {
-      "title": "SQLite 2.8.8",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www.sqlite.org/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://www.sqlite.org/chronology.html",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:sqlite:sqlite:2.8.8:*:*:*:*:*:*:*",
+	"cpeNameId": "7E5F2235-1ECA-47E8-BECD-53C04BCF941F",
+	"created": "2019-01-04T13:40:36.717",
+	"lastModified": "2019-01-04T13:40:36.717",
+	"titles": [
+		{
+			"title": "SQLite 2.8.8",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.sqlite.org/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://www.sqlite.org/chronology.html",
+			"type": "Version"
+		}
+	]
 }

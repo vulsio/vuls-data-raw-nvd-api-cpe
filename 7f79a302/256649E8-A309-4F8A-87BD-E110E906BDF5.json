@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:themecheck:ultimate_posts_widget:2.2.3:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "256649E8-A309-4F8A-87BD-E110E906BDF5",
-  "created": "2023-08-07T12:25:03.300",
-  "lastModified": "2023-08-07T17:07:45.330",
-  "titles": [
-    {
-      "title": "Themecheck Ultimate Posts Widget 2.2.3 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://themecheck.info/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://wordpress.org/plugins/ultimate-posts-widget/#developers",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://www.wordfence.com/threat-intel/vulnerabilities/detail/inisev-plugins-various-versions-missing-authorization-on-handle-installation-function",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:themecheck:ultimate_posts_widget:2.2.3:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "256649E8-A309-4F8A-87BD-E110E906BDF5",
+	"created": "2023-08-07T12:25:03.300",
+	"lastModified": "2023-08-07T17:07:45.330",
+	"titles": [
+		{
+			"title": "Themecheck Ultimate Posts Widget 2.2.3 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://themecheck.info/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/ultimate-posts-widget/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://www.wordfence.com/threat-intel/vulnerabilities/detail/inisev-plugins-various-versions-missing-authorization-on-handle-installation-function",
+			"type": "Advisory"
+		}
+	]
 }

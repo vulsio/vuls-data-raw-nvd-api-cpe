@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:notaryproject:notation:1.0.0:rc6:*:*:*:go:*:*",
-  "cpeNameId": "D5D7A319-3D5E-41E8-863D-5C5C6E6E3C38",
-  "created": "2023-06-13T19:46:38.917",
-  "lastModified": "2023-06-16T15:07:45.753",
-  "titles": [
-    {
-      "title": "Notaryproject Notation 1.0.0 Release Candidate 6 for Go",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://notaryproject.dev/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://pkg.go.dev/github.com/notaryproject/notation-go",
-      "type": "Product"
-    },
-    {
-      "ref": "https://github.com/notaryproject/notation-go/tags",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:notaryproject:notation:1.0.0:rc6:*:*:*:go:*:*",
+	"cpeNameId": "D5D7A319-3D5E-41E8-863D-5C5C6E6E3C38",
+	"created": "2023-06-13T19:46:38.917",
+	"lastModified": "2023-06-16T15:07:45.753",
+	"titles": [
+		{
+			"title": "Notaryproject Notation 1.0.0 Release Candidate 6 for Go",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://notaryproject.dev/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://pkg.go.dev/github.com/notaryproject/notation-go",
+			"type": "Product"
+		},
+		{
+			"ref": "https://github.com/notaryproject/notation-go/tags",
+			"type": "Version"
+		}
+	]
 }

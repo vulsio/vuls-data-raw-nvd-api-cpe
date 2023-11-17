@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:spreecommerce:spree:1.2.1:*:*:*:*:*:*:*",
-  "cpeNameId": "620790D4-A75F-4584-841D-B8FC551018DF",
-  "created": "2013-03-18T13:38:23.107",
-  "lastModified": "2016-05-26T14:12:08.323",
-  "titles": [
-    {
-      "title": "spreecommerce Spree 1.2.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://spreecommerce.com/blog/multiple-security-vulnerabilities-fixed",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:spreecommerce:spree:1.2.1:*:*:*:*:*:*:*",
+	"cpeNameId": "620790D4-A75F-4584-841D-B8FC551018DF",
+	"created": "2013-03-18T13:38:23.107",
+	"lastModified": "2016-05-26T14:12:08.323",
+	"titles": [
+		{
+			"title": "spreecommerce Spree 1.2.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://spreecommerce.com/blog/multiple-security-vulnerabilities-fixed",
+			"type": "Advisory"
+		}
+	]
 }

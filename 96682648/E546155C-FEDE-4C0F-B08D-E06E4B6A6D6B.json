@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:amasty:blog_pro:1.0.2:*:*:*:*:magento:*:*",
-  "cpeNameId": "E546155C-FEDE-4C0F-B08D-E06E4B6A6D6B",
-  "created": "2022-12-07T16:55:48.580",
-  "lastModified": "2022-12-07T16:58:12.897",
-  "titles": [
-    {
-      "title": "Amasty Blog Pro 1.0.2 for Magento",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://amasty.com/blog-pro-for-magento-2.html",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:amasty:blog_pro:1.0.2:*:*:*:*:magento:*:*",
+	"cpeNameId": "E546155C-FEDE-4C0F-B08D-E06E4B6A6D6B",
+	"created": "2022-12-07T16:55:48.580",
+	"lastModified": "2022-12-07T16:58:12.897",
+	"titles": [
+		{
+			"title": "Amasty Blog Pro 1.0.2 for Magento",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://amasty.com/blog-pro-for-magento-2.html",
+			"type": "Product"
+		}
+	]
 }

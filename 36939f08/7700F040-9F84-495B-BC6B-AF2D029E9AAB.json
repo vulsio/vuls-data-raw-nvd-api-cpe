@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:bestwebsoft:multilanguage:1.2.3:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "7700F040-9F84-495B-BC6B-AF2D029E9AAB",
-  "created": "2021-03-03T15:26:16.110",
-  "lastModified": "2021-03-03T15:27:16.820",
-  "titles": [
-    {
-      "title": "BestWebSoft Multilanguage 1.2.3 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wordpress.org/plugins/multilanguage/#developers",
-      "type": "Product"
-    },
-    {
-      "ref": "https://bestwebsoft.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:bestwebsoft:multilanguage:1.2.3:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "7700F040-9F84-495B-BC6B-AF2D029E9AAB",
+	"created": "2021-03-03T15:26:16.110",
+	"lastModified": "2021-03-03T15:27:16.820",
+	"titles": [
+		{
+			"title": "BestWebSoft Multilanguage 1.2.3 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/multilanguage/#developers",
+			"type": "Product"
+		},
+		{
+			"ref": "https://bestwebsoft.com/",
+			"type": "Vendor"
+		}
+	]
 }

@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:insyde:insydeh2o:5.0:*:*:*:*:*:*:*",
-  "cpeNameId": "3DF63271-F84E-4DD5-BC9C-4B2A96700426",
-  "created": "2022-01-13T18:35:26.980",
-  "lastModified": "2022-01-13T18:37:02.333",
-  "titles": [
-    {
-      "title": "Insyde InsydeH2O 5.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.insyde.com/security-pledge",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://www.insyde.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:insyde:insydeh2o:5.0:*:*:*:*:*:*:*",
+	"cpeNameId": "3DF63271-F84E-4DD5-BC9C-4B2A96700426",
+	"created": "2022-01-13T18:35:26.980",
+	"lastModified": "2022-01-13T18:37:02.333",
+	"titles": [
+		{
+			"title": "Insyde InsydeH2O 5.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.insyde.com/security-pledge",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://www.insyde.com/",
+			"type": "Vendor"
+		}
+	]
 }

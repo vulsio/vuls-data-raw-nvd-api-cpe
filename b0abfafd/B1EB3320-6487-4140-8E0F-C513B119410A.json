@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:flexense:diskpulse:9.9.16:*:*:*:enterprise:*:*:*",
-  "cpeNameId": "B1EB3320-6487-4140-8E0F-C513B119410A",
-  "created": "2018-02-12T17:55:58.100",
-  "lastModified": "2021-05-10T12:26:07.900",
-  "titles": [
-    {
-      "title": "Flexense DiskPulse 9.9.16 Enterprise Edition",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www.flexense.com/products.html",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:flexense:diskpulse:9.9.16:*:*:*:enterprise:*:*:*",
+	"cpeNameId": "B1EB3320-6487-4140-8E0F-C513B119410A",
+	"created": "2018-02-12T17:55:58.100",
+	"lastModified": "2021-05-10T12:26:07.900",
+	"titles": [
+		{
+			"title": "Flexense DiskPulse 9.9.16 Enterprise Edition",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.flexense.com/products.html",
+			"type": "Product"
+		}
+	]
 }

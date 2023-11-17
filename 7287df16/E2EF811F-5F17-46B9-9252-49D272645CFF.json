@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:hp:laserjet_4m_plus:-:*:*:*:*:*:*:*",
-  "cpeNameId": "E2EF811F-5F17-46B9-9252-49D272645CFF",
-  "created": "2007-09-05T21:05:34.390",
-  "lastModified": "2008-04-01T16:10:31.640",
-  "titles": [
-    {
-      "title": "HP laserjet 4m plus printer",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:hp:laserjet_4m_plus:-:*:*:*:*:*:*:*",
+	"cpeNameId": "E2EF811F-5F17-46B9-9252-49D272645CFF",
+	"created": "2007-09-05T21:05:34.390",
+	"lastModified": "2008-04-01T16:10:31.640",
+	"titles": [
+		{
+			"title": "HP laserjet 4m plus printer",
+			"lang": "en"
+		}
+	]
 }

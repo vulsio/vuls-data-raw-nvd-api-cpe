@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:mercury:gapm-8000_firmware:-:*:*:*:*:*:*:*",
-  "cpeNameId": "9CFAF3D0-3A15-414A-BE08-79B2D02BC1DE",
-  "created": "2019-05-15T11:43:42.007",
-  "lastModified": "2021-06-10T17:40:32.287",
-  "titles": [
-    {
-      "title": "Mercury Corporation GAPM-8000 Firmware",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www.mercury.co.kr/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "http://www.mercury.co.kr/en/portfolio/gapm-8000/",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:mercury:gapm-8000_firmware:-:*:*:*:*:*:*:*",
+	"cpeNameId": "9CFAF3D0-3A15-414A-BE08-79B2D02BC1DE",
+	"created": "2019-05-15T11:43:42.007",
+	"lastModified": "2021-06-10T17:40:32.287",
+	"titles": [
+		{
+			"title": "Mercury Corporation GAPM-8000 Firmware",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.mercury.co.kr/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "http://www.mercury.co.kr/en/portfolio/gapm-8000/",
+			"type": "Product"
+		}
+	]
 }

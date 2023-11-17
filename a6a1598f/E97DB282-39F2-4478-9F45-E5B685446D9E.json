@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:teachpress_project:teachpress:6.2.4:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "E97DB282-39F2-4478-9F45-E5B685446D9E",
-  "created": "2023-03-24T13:31:51.830",
-  "lastModified": "2023-04-03T17:28:43.933",
-  "titles": [
-    {
-      "title": "teachPress Project teachPress 6.2.4 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://patchstack.com/database/vulnerability/teachpress/wordpress-teachpress-plugin-8-1-8-cross-site-scripting-xss-vulnerability?_s_id=cve",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://wordpress.org/plugins/teachpress/#developers",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:teachpress_project:teachpress:6.2.4:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "E97DB282-39F2-4478-9F45-E5B685446D9E",
+	"created": "2023-03-24T13:31:51.830",
+	"lastModified": "2023-04-03T17:28:43.933",
+	"titles": [
+		{
+			"title": "teachPress Project teachPress 6.2.4 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://patchstack.com/database/vulnerability/teachpress/wordpress-teachpress-plugin-8-1-8-cross-site-scripting-xss-vulnerability?_s_id=cve",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/teachpress/#developers",
+			"type": "Change Log"
+		}
+	]
 }

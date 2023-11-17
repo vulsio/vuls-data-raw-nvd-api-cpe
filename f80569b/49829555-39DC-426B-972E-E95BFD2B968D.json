@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:cisco:telepresence_manager:1.1.0.0\\(209\\):*:*:*:*:*:*:*",
-  "cpeNameId": "49829555-39DC-426B-972E-E95BFD2B968D",
-  "created": "2012-07-12T15:03:57.560",
-  "lastModified": "2012-07-25T18:29:44.757",
-  "titles": [
-    {
-      "title": "Cisco TelePresence Manager 1.1.0.0(209)",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:cisco:telepresence_manager:1.1.0.0\\(209\\):*:*:*:*:*:*:*",
+	"cpeNameId": "49829555-39DC-426B-972E-E95BFD2B968D",
+	"created": "2012-07-12T15:03:57.560",
+	"lastModified": "2012-07-25T18:29:44.757",
+	"titles": [
+		{
+			"title": "Cisco TelePresence Manager 1.1.0.0(209)",
+			"lang": "en"
+		}
+	]
 }

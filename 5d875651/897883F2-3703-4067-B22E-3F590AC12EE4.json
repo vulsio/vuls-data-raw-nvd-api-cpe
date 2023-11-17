@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:sympa:sympa:3.3.6b.2:*:*:*:*:*:*:*",
-  "cpeNameId": "897883F2-3703-4067-B22E-3F590AC12EE4",
-  "created": "2008-09-05T20:03:44.687",
-  "lastModified": "2012-06-15T16:28:08.983",
-  "titles": [
-    {
-      "title": "Sympa  3.3.6b.2",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:sympa:sympa:3.3.6b.2:*:*:*:*:*:*:*",
+	"cpeNameId": "897883F2-3703-4067-B22E-3F590AC12EE4",
+	"created": "2008-09-05T20:03:44.687",
+	"lastModified": "2012-06-15T16:28:08.983",
+	"titles": [
+		{
+			"title": "Sympa  3.3.6b.2",
+			"lang": "en"
+		}
+	]
 }

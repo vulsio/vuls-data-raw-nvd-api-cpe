@@ -1,21 +1,21 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:meipai:meipai:1.2.0:*:*:*:*:android:*:*",
-  "cpeNameId": "11EF4A6C-A5A3-4900-A6A9-B3B698282B5F",
-  "created": "2014-09-17T15:52:04.637",
-  "lastModified": "2014-12-05T15:35:01.610",
-  "titles": [
-    {
-      "title": "meipai MeiPai (aka com.meitu.meipaimv) for Android 1.2.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www.meipai.com/"
-    },
-    {
-      "ref": "https://play.google.com/store/apps/details?id=com.meitu.meipaimv"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:meipai:meipai:1.2.0:*:*:*:*:android:*:*",
+	"cpeNameId": "11EF4A6C-A5A3-4900-A6A9-B3B698282B5F",
+	"created": "2014-09-17T15:52:04.637",
+	"lastModified": "2014-12-05T15:35:01.610",
+	"titles": [
+		{
+			"title": "meipai MeiPai (aka com.meitu.meipaimv) for Android 1.2.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.meipai.com/"
+		},
+		{
+			"ref": "https://play.google.com/store/apps/details?id=com.meitu.meipaimv"
+		}
+	]
 }

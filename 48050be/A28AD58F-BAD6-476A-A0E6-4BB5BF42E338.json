@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:gnu:glibc:2.31:*:*:*:*:*:*:*",
-  "cpeNameId": "A28AD58F-BAD6-476A-A0E6-4BB5BF42E338",
-  "created": "2019-07-02T15:13:59.957",
-  "lastModified": "2019-07-02T15:13:59.957",
-  "titles": [
-    {
-      "title": "GNU glibc 2.31",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://sourceware.org/glibc/wiki/Glibc%20Timeline",
-      "type": "Version"
-    },
-    {
-      "ref": "https://www.gnu.org/software/libc/",
-      "type": "Project"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:gnu:glibc:2.31:*:*:*:*:*:*:*",
+	"cpeNameId": "A28AD58F-BAD6-476A-A0E6-4BB5BF42E338",
+	"created": "2019-07-02T15:13:59.957",
+	"lastModified": "2019-07-02T15:13:59.957",
+	"titles": [
+		{
+			"title": "GNU glibc 2.31",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://sourceware.org/glibc/wiki/Glibc%20Timeline",
+			"type": "Version"
+		},
+		{
+			"ref": "https://www.gnu.org/software/libc/",
+			"type": "Project"
+		}
+	]
 }

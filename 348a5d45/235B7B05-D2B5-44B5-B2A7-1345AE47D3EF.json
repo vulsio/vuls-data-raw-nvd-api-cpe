@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:libav:libav:0.6.4:*:*:*:*:*:*:*",
-  "cpeNameId": "235B7B05-D2B5-44B5-B2A7-1345AE47D3EF",
-  "created": "2012-08-21T13:49:16.107",
-  "lastModified": "2012-08-21T23:49:03.497",
-  "titles": [
-    {
-      "title": "libav 0.6.4",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:libav:libav:0.6.4:*:*:*:*:*:*:*",
+	"cpeNameId": "235B7B05-D2B5-44B5-B2A7-1345AE47D3EF",
+	"created": "2012-08-21T13:49:16.107",
+	"lastModified": "2012-08-21T23:49:03.497",
+	"titles": [
+		{
+			"title": "libav 0.6.4",
+			"lang": "en"
+		}
+	]
 }

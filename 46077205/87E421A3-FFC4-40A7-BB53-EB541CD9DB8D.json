@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:openinfosecfoundation:suricata:1.4:beta_2:*:*:*:*:*:*",
-  "cpeNameId": "87E421A3-FFC4-40A7-BB53-EB541CD9DB8D",
-  "created": "2014-03-13T13:48:23.793",
-  "lastModified": "2014-03-13T13:50:11.483",
-  "titles": [
-    {
-      "title": "Open Information Security Foundation (OISF) Suricata 1.4 beta 2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www.openinfosecfoundation.org/index.php/component/content/article/1-latest-news/166-suricata-14beta2-available-for-testing"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:openinfosecfoundation:suricata:1.4:beta_2:*:*:*:*:*:*",
+	"cpeNameId": "87E421A3-FFC4-40A7-BB53-EB541CD9DB8D",
+	"created": "2014-03-13T13:48:23.793",
+	"lastModified": "2014-03-13T13:50:11.483",
+	"titles": [
+		{
+			"title": "Open Information Security Foundation (OISF) Suricata 1.4 beta 2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.openinfosecfoundation.org/index.php/component/content/article/1-latest-news/166-suricata-14beta2-available-for-testing"
+		}
+	]
 }

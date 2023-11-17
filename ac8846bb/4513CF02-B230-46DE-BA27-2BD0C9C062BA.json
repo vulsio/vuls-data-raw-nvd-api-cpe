@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:otrs:survey:2.0.2:*:*:*:*:*:*:*",
-  "cpeNameId": "4513CF02-B230-46DE-BA27-2BD0C9C062BA",
-  "created": "2021-02-08T17:39:21.067",
-  "lastModified": "2021-02-08T17:39:21.067",
-  "titles": [
-    {
-      "title": "OTRS Survey 2.0.2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/OTRS/Survey",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:otrs:survey:2.0.2:*:*:*:*:*:*:*",
+	"cpeNameId": "4513CF02-B230-46DE-BA27-2BD0C9C062BA",
+	"created": "2021-02-08T17:39:21.067",
+	"lastModified": "2021-02-08T17:39:21.067",
+	"titles": [
+		{
+			"title": "OTRS Survey 2.0.2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/OTRS/Survey",
+			"type": "Version"
+		}
+	]
 }

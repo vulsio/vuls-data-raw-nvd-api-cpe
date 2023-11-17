@@ -1,19 +1,19 @@
 {
-  "deprecated": true,
-  "cpeName": "cpe:2.3:a:jasig:phpcas:0.4.23:*:*:*:*:*:*:*",
-  "cpeNameId": "F34FC599-50C9-4951-BC75-BEBF7149E688",
-  "created": "2010-08-09T22:08:08.347",
-  "lastModified": "2019-12-30T12:59:06.270",
-  "titles": [
-    {
-      "title": "jasig phpCAS 0.4.23",
-      "lang": "en"
-    }
-  ],
-  "deprecatedBy": [
-    {
-      "cpeName": "cpe:2.3:a:apereo:phpcas:0.4.23:*:*:*:*:*:*:*",
-      "cpeNameId": "BFC258B1-1E15-4AA7-9BEE-DA782748BF5B"
-    }
-  ]
+	"deprecated": true,
+	"cpeName": "cpe:2.3:a:jasig:phpcas:0.4.23:*:*:*:*:*:*:*",
+	"cpeNameId": "F34FC599-50C9-4951-BC75-BEBF7149E688",
+	"created": "2010-08-09T22:08:08.347",
+	"lastModified": "2019-12-30T12:59:06.270",
+	"titles": [
+		{
+			"title": "jasig phpCAS 0.4.23",
+			"lang": "en"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:apereo:phpcas:0.4.23:*:*:*:*:*:*:*",
+			"cpeNameId": "BFC258B1-1E15-4AA7-9BEE-DA782748BF5B"
+		}
+	]
 }

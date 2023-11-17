@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:facebook:folly:2020.10.05.00:*:*:*:*:*:*:*",
-  "cpeNameId": "D54B0372-E705-45B9-AC17-0A14447B70BB",
-  "created": "2021-02-26T20:50:31.413",
-  "lastModified": "2021-02-26T20:53:26.717",
-  "titles": [
-    {
-      "title": "Facebook Folly 2020.10.05.00",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/facebook/folly/releases",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:facebook:folly:2020.10.05.00:*:*:*:*:*:*:*",
+	"cpeNameId": "D54B0372-E705-45B9-AC17-0A14447B70BB",
+	"created": "2021-02-26T20:50:31.413",
+	"lastModified": "2021-02-26T20:53:26.717",
+	"titles": [
+		{
+			"title": "Facebook Folly 2020.10.05.00",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/facebook/folly/releases",
+			"type": "Version"
+		}
+	]
 }

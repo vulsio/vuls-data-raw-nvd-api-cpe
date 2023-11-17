@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:jenkins:clearcase_release:0.1:*:*:*:*:jenkins:*:*",
-  "cpeNameId": "DF34E601-CD37-4D76-B3F7-CC641810005D",
-  "created": "2021-08-26T17:45:54.097",
-  "lastModified": "2021-08-26T17:56:11.760",
-  "titles": [
-    {
-      "title": "Jenkins Clearcase Release 0.1 for Jenkins",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/jenkinsci/clearcase-release-plugin/releases",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:jenkins:clearcase_release:0.1:*:*:*:*:jenkins:*:*",
+	"cpeNameId": "DF34E601-CD37-4D76-B3F7-CC641810005D",
+	"created": "2021-08-26T17:45:54.097",
+	"lastModified": "2021-08-26T17:56:11.760",
+	"titles": [
+		{
+			"title": "Jenkins Clearcase Release 0.1 for Jenkins",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/jenkinsci/clearcase-release-plugin/releases",
+			"type": "Version"
+		}
+	]
 }

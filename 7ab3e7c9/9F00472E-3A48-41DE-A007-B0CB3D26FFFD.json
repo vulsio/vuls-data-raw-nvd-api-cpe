@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:imagemagick:imagemagick:7.0.8-32:*:*:*:*:*:*:*",
-  "cpeNameId": "9F00472E-3A48-41DE-A007-B0CB3D26FFFD",
-  "created": "2019-04-04T15:57:53.817",
-  "lastModified": "2019-04-04T15:57:53.817",
-  "titles": [
-    {
-      "title": "ImageMagick 7.0.8-32",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/ImageMagick/ImageMagick/",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:imagemagick:imagemagick:7.0.8-32:*:*:*:*:*:*:*",
+	"cpeNameId": "9F00472E-3A48-41DE-A007-B0CB3D26FFFD",
+	"created": "2019-04-04T15:57:53.817",
+	"lastModified": "2019-04-04T15:57:53.817",
+	"titles": [
+		{
+			"title": "ImageMagick 7.0.8-32",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/ImageMagick/ImageMagick/",
+			"type": "Version"
+		}
+	]
 }

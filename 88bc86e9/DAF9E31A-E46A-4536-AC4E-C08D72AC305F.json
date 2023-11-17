@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:opensuse:libzypp:17.25.4:*:*:*:*:*:*:*",
-  "cpeNameId": "DAF9E31A-E46A-4536-AC4E-C08D72AC305F",
-  "created": "2021-06-29T13:20:03.863",
-  "lastModified": "2021-06-29T13:53:47.533",
-  "titles": [
-    {
-      "title": "openSUSE libzypp 17.25.4",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/openSUSE/libzypp",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:opensuse:libzypp:17.25.4:*:*:*:*:*:*:*",
+	"cpeNameId": "DAF9E31A-E46A-4536-AC4E-C08D72AC305F",
+	"created": "2021-06-29T13:20:03.863",
+	"lastModified": "2021-06-29T13:53:47.533",
+	"titles": [
+		{
+			"title": "openSUSE libzypp 17.25.4",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/openSUSE/libzypp",
+			"type": "Version"
+		}
+	]
 }

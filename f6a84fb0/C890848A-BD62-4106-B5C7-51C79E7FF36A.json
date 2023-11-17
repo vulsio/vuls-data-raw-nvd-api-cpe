@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:skolelinux:debian-edu-config:2.12.2:*:*:*:*:*:*:*",
-  "cpeNameId": "C890848A-BD62-4106-B5C7-51C79E7FF36A",
-  "created": "2022-02-16T17:10:59.600",
-  "lastModified": "2022-02-16T19:02:22.773",
-  "titles": [
-    {
-      "title": "Skolelinux debian-edu-config 2.12.2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://salsa.debian.org/debian-edu/debian-edu-config/-/tags",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:skolelinux:debian-edu-config:2.12.2:*:*:*:*:*:*:*",
+	"cpeNameId": "C890848A-BD62-4106-B5C7-51C79E7FF36A",
+	"created": "2022-02-16T17:10:59.600",
+	"lastModified": "2022-02-16T19:02:22.773",
+	"titles": [
+		{
+			"title": "Skolelinux debian-edu-config 2.12.2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://salsa.debian.org/debian-edu/debian-edu-config/-/tags",
+			"type": "Version"
+		}
+	]
 }

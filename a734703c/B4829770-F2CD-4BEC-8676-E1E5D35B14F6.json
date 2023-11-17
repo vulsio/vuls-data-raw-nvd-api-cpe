@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:tri:event_tickets:4.10.4.4:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "B4829770-F2CD-4BEC-8676-E1E5D35B14F6",
-  "created": "2019-09-09T12:50:27.927",
-  "lastModified": "2019-09-09T12:50:27.927",
-  "titles": [
-    {
-      "title": "Modern Tribe Event Tickets 4.10.4.4 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wordpress.org/plugins/event-tickets/#developers",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://tri.be/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:tri:event_tickets:4.10.4.4:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "B4829770-F2CD-4BEC-8676-E1E5D35B14F6",
+	"created": "2019-09-09T12:50:27.927",
+	"lastModified": "2019-09-09T12:50:27.927",
+	"titles": [
+		{
+			"title": "Modern Tribe Event Tickets 4.10.4.4 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/event-tickets/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://tri.be/",
+			"type": "Vendor"
+		}
+	]
 }

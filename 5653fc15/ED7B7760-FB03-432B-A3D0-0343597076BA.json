@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:moodle:moodle:2.4.9:*:*:*:*:*:*:*",
-  "cpeNameId": "ED7B7760-FB03-432B-A3D0-0343597076BA",
-  "created": "2014-03-24T14:51:49.307",
-  "lastModified": "2014-03-25T15:35:55.067",
-  "titles": [
-    {
-      "title": "Moodle 2.4.9",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://docs.moodle.org/dev/Releases#Moodle_2.4"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:moodle:moodle:2.4.9:*:*:*:*:*:*:*",
+	"cpeNameId": "ED7B7760-FB03-432B-A3D0-0343597076BA",
+	"created": "2014-03-24T14:51:49.307",
+	"lastModified": "2014-03-25T15:35:55.067",
+	"titles": [
+		{
+			"title": "Moodle 2.4.9",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://docs.moodle.org/dev/Releases#Moodle_2.4"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:burp_project:burp:2.3.2:*:*:*:*:*:*:*",
-  "cpeNameId": "D02BC7E9-22CC-4EF9-9AD9-773B812E57AF",
-  "created": "2019-07-23T16:54:11.080",
-  "lastModified": "2019-07-23T16:54:11.080",
-  "titles": [
-    {
-      "title": "Burp Project Burp 2.3.2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/grke/burp/tags",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:burp_project:burp:2.3.2:*:*:*:*:*:*:*",
+	"cpeNameId": "D02BC7E9-22CC-4EF9-9AD9-773B812E57AF",
+	"created": "2019-07-23T16:54:11.080",
+	"lastModified": "2019-07-23T16:54:11.080",
+	"titles": [
+		{
+			"title": "Burp Project Burp 2.3.2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/grke/burp/tags",
+			"type": "Change Log"
+		}
+	]
 }

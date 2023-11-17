@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:python:python:3.7:beta:*:*:*:*:*:*",
-  "cpeNameId": "54890DC5-FA5B-4DB2-BA35-11A92B83272F",
-  "created": "2018-04-04T21:50:19.770",
-  "lastModified": "2018-04-04T21:50:19.770",
-  "titles": [
-    {
-      "title": "Python 3.7 Beta",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/python/cpython/releases",
-      "type": "Version"
-    },
-    {
-      "ref": "https://www.python.org/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:python:python:3.7:beta:*:*:*:*:*:*",
+	"cpeNameId": "54890DC5-FA5B-4DB2-BA35-11A92B83272F",
+	"created": "2018-04-04T21:50:19.770",
+	"lastModified": "2018-04-04T21:50:19.770",
+	"titles": [
+		{
+			"title": "Python 3.7 Beta",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/python/cpython/releases",
+			"type": "Version"
+		},
+		{
+			"ref": "https://www.python.org/",
+			"type": "Vendor"
+		}
+	]
 }

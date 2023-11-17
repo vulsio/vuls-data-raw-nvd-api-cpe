@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:apereo:central_authentication_service:4.2.3:*:*:*:*:*:*:*",
-  "cpeNameId": "1FDD66B8-1ADB-4201-BFD6-9481E322256B",
-  "created": "2019-09-24T14:50:29.563",
-  "lastModified": "2019-09-24T14:50:29.563",
-  "titles": [
-    {
-      "title": "Apereo Central Authentication Service (CAS) 4.2.3",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/apereo/cas/releases",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://www.apereo.org/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:apereo:central_authentication_service:4.2.3:*:*:*:*:*:*:*",
+	"cpeNameId": "1FDD66B8-1ADB-4201-BFD6-9481E322256B",
+	"created": "2019-09-24T14:50:29.563",
+	"lastModified": "2019-09-24T14:50:29.563",
+	"titles": [
+		{
+			"title": "Apereo Central Authentication Service (CAS) 4.2.3",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/apereo/cas/releases",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://www.apereo.org/",
+			"type": "Vendor"
+		}
+	]
 }

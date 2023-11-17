@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:apache:bookkeeper:4.9.2:*:*:*:*:*:*:*",
-  "cpeNameId": "76003D59-9122-438A-915D-80317037B53E",
-  "created": "2022-03-02T19:25:15.457",
-  "lastModified": "2022-04-04T17:37:55.343",
-  "titles": [
-    {
-      "title": "Apache Software Foundation Bookkeeper 4.9.2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.apache.org/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://bookkeeper.apache.org/docs/4.9.2/overview/overview/",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:apache:bookkeeper:4.9.2:*:*:*:*:*:*:*",
+	"cpeNameId": "76003D59-9122-438A-915D-80317037B53E",
+	"created": "2022-03-02T19:25:15.457",
+	"lastModified": "2022-04-04T17:37:55.343",
+	"titles": [
+		{
+			"title": "Apache Software Foundation Bookkeeper 4.9.2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.apache.org/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://bookkeeper.apache.org/docs/4.9.2/overview/overview/",
+			"type": "Version"
+		}
+	]
 }

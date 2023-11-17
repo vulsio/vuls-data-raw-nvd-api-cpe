@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:bromite:bromite:73.0.3683.107:*:*:*:*:*:*:*",
-  "cpeNameId": "E254AFB7-5434-437C-8C06-434B4C8ED076",
-  "created": "2022-09-22T15:25:24.283",
-  "lastModified": "2022-09-22T15:27:37.907",
-  "titles": [
-    {
-      "title": "Bromite 73.0.3683.107",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.bromite.org/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://github.com/bromite/bromite/tags",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:bromite:bromite:73.0.3683.107:*:*:*:*:*:*:*",
+	"cpeNameId": "E254AFB7-5434-437C-8C06-434B4C8ED076",
+	"created": "2022-09-22T15:25:24.283",
+	"lastModified": "2022-09-22T15:27:37.907",
+	"titles": [
+		{
+			"title": "Bromite 73.0.3683.107",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.bromite.org/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://github.com/bromite/bromite/tags",
+			"type": "Version"
+		}
+	]
 }

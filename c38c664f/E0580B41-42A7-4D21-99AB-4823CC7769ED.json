@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:serverliujiayi1_project:serverliujiayi1:-:*:*:*:*:node.js:*:*",
-  "cpeNameId": "E0580B41-42A7-4D21-99AB-4823CC7769ED",
-  "created": "2019-11-08T18:28:28.423",
-  "lastModified": "2019-11-08T18:28:28.423",
-  "titles": [
-    {
-      "title": "serverliujiayi1 Project serverliujiayi1 for Node.js",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.npmjs.com/package/serverliujiayi1",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:serverliujiayi1_project:serverliujiayi1:-:*:*:*:*:node.js:*:*",
+	"cpeNameId": "E0580B41-42A7-4D21-99AB-4823CC7769ED",
+	"created": "2019-11-08T18:28:28.423",
+	"lastModified": "2019-11-08T18:28:28.423",
+	"titles": [
+		{
+			"title": "serverliujiayi1 Project serverliujiayi1 for Node.js",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.npmjs.com/package/serverliujiayi1",
+			"type": "Version"
+		}
+	]
 }

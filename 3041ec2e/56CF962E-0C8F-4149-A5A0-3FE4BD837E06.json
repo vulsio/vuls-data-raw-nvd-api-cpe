@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:mozilla:firefox:84.0.2:*:*:*:*:*:*:*",
-  "cpeNameId": "56CF962E-0C8F-4149-A5A0-3FE4BD837E06",
-  "created": "2021-03-10T19:12:50.180",
-  "lastModified": "2021-05-21T15:58:22.580",
-  "titles": [
-    {
-      "title": "Mozilla Firefox 84.0.2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.mozilla.org/en-US/security/advisories/mfsa2021-01/",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://www.mozilla.org/en-US/firefox/84.0.2/releasenotes/",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:mozilla:firefox:84.0.2:*:*:*:*:*:*:*",
+	"cpeNameId": "56CF962E-0C8F-4149-A5A0-3FE4BD837E06",
+	"created": "2021-03-10T19:12:50.180",
+	"lastModified": "2021-05-21T15:58:22.580",
+	"titles": [
+		{
+			"title": "Mozilla Firefox 84.0.2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.mozilla.org/en-US/security/advisories/mfsa2021-01/",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://www.mozilla.org/en-US/firefox/84.0.2/releasenotes/",
+			"type": "Version"
+		}
+	]
 }

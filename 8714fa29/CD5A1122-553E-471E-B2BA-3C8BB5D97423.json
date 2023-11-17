@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:ultralytics:yolov3:-:*:*:*:*:*:*:*",
-  "cpeNameId": "CD5A1122-553E-471E-B2BA-3C8BB5D97423",
-  "created": "2023-08-04T13:51:57.937",
-  "lastModified": "2023-08-04T19:53:28.220",
-  "titles": [
-    {
-      "title": "Ultralytics Yolo 3",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://huntr.dev/bounties/1-other-yolov3/",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://github.com/ultralytics/yolov3/tags",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:ultralytics:yolov3:-:*:*:*:*:*:*:*",
+	"cpeNameId": "CD5A1122-553E-471E-B2BA-3C8BB5D97423",
+	"created": "2023-08-04T13:51:57.937",
+	"lastModified": "2023-08-04T19:53:28.220",
+	"titles": [
+		{
+			"title": "Ultralytics Yolo 3",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://huntr.dev/bounties/1-other-yolov3/",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://github.com/ultralytics/yolov3/tags",
+			"type": "Version"
+		}
+	]
 }

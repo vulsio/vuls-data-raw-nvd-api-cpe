@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:bricksbuilder:bricks:1.3.1:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "B1421D6A-1F96-4368-A0C0-761EC8083B91",
-  "created": "2022-11-05T02:45:55.007",
-  "lastModified": "2022-11-05T02:49:47.310",
-  "titles": [
-    {
-      "title": "Bricksbuilder Bricks 1.3.1 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://bricksbuilder.io/changelog/",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:bricksbuilder:bricks:1.3.1:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "B1421D6A-1F96-4368-A0C0-761EC8083B91",
+	"created": "2022-11-05T02:45:55.007",
+	"lastModified": "2022-11-05T02:49:47.310",
+	"titles": [
+		{
+			"title": "Bricksbuilder Bricks 1.3.1 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://bricksbuilder.io/changelog/",
+			"type": "Change Log"
+		}
+	]
 }

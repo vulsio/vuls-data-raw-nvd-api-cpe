@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:collne:welcart_e-commerce:0.9.5:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "D058E03E-4C99-4323-B766-507E3146D8E0",
-  "created": "2020-11-09T18:20:57.443",
-  "lastModified": "2020-11-09T18:20:57.443",
-  "titles": [
-    {
-      "title": "Collne Welcart e-Commerce 0.9.5 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.collne.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://wordpress.org/plugins/usc-e-shop/#developers",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://www.wordfence.com/blog/2020/11/object-injection-vulnerability-in-welcart-e-commerce-plugin/",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:collne:welcart_e-commerce:0.9.5:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "D058E03E-4C99-4323-B766-507E3146D8E0",
+	"created": "2020-11-09T18:20:57.443",
+	"lastModified": "2020-11-09T18:20:57.443",
+	"titles": [
+		{
+			"title": "Collne Welcart e-Commerce 0.9.5 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.collne.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/usc-e-shop/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://www.wordfence.com/blog/2020/11/object-injection-vulnerability-in-welcart-e-commerce-plugin/",
+			"type": "Advisory"
+		}
+	]
 }

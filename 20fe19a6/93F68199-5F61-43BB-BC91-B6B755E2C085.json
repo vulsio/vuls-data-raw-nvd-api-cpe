@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:comodo:comodo_internet_security:3.0.16.295:*:*:*:*:*:*:*",
-  "cpeNameId": "93F68199-5F61-43BB-BC91-B6B755E2C085",
-  "created": "2012-04-20T13:41:33.607",
-  "lastModified": "2012-09-03T20:46:39.377",
-  "titles": [
-    {
-      "title": "Comodo Internet Security 3.0.16.295",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:comodo:comodo_internet_security:3.0.16.295:*:*:*:*:*:*:*",
+	"cpeNameId": "93F68199-5F61-43BB-BC91-B6B755E2C085",
+	"created": "2012-04-20T13:41:33.607",
+	"lastModified": "2012-09-03T20:46:39.377",
+	"titles": [
+		{
+			"title": "Comodo Internet Security 3.0.16.295",
+			"lang": "en"
+		}
+	]
 }

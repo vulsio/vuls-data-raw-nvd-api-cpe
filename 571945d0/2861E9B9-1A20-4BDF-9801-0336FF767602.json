@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:pureftpd:pure-ftpd:1.0.14:*:*:*:*:*:*:*",
-  "cpeNameId": "2861E9B9-1A20-4BDF-9801-0336FF767602",
-  "created": "2011-05-24T12:36:30.143",
-  "lastModified": "2011-06-30T15:03:27.677",
-  "titles": [
-    {
-      "title": "Pure-FTPd 1.0.14",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:pureftpd:pure-ftpd:1.0.14:*:*:*:*:*:*:*",
+	"cpeNameId": "2861E9B9-1A20-4BDF-9801-0336FF767602",
+	"created": "2011-05-24T12:36:30.143",
+	"lastModified": "2011-06-30T15:03:27.677",
+	"titles": [
+		{
+			"title": "Pure-FTPd 1.0.14",
+			"lang": "en"
+		}
+	]
 }

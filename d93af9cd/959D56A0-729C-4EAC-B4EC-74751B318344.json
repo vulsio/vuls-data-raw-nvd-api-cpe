@@ -1,29 +1,29 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:nodejs:node.js:14.10.1:*:*:*:-:*:*:*",
-  "cpeNameId": "959D56A0-729C-4EAC-B4EC-74751B318344",
-  "created": "2020-09-23T13:30:10.187",
-  "lastModified": "2021-04-14T20:02:18.450",
-  "titles": [
-    {
-      "title": "Nodejs Node.js 14.10.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://nodejs.org/dist/latest-v14.x/",
-      "type": "Version"
-    },
-    {
-      "ref": "https://nodejs.org/en/download/releases/",
-      "type": "Version"
-    }
-  ],
-  "deprecates": [
-    {
-      "cpeName": "cpe:2.3:a:nodejs:node.js:14.10.1:*:*:*:*:*:*:*",
-      "cpeNameId": "5F8E3FE2-F898-456B-B075-0DC117A7DE3B"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:nodejs:node.js:14.10.1:*:*:*:-:*:*:*",
+	"cpeNameId": "959D56A0-729C-4EAC-B4EC-74751B318344",
+	"created": "2020-09-23T13:30:10.187",
+	"lastModified": "2021-04-14T20:02:18.450",
+	"titles": [
+		{
+			"title": "Nodejs Node.js 14.10.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://nodejs.org/dist/latest-v14.x/",
+			"type": "Version"
+		},
+		{
+			"ref": "https://nodejs.org/en/download/releases/",
+			"type": "Version"
+		}
+	],
+	"deprecates": [
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:14.10.1:*:*:*:*:*:*:*",
+			"cpeNameId": "5F8E3FE2-F898-456B-B075-0DC117A7DE3B"
+		}
+	]
 }

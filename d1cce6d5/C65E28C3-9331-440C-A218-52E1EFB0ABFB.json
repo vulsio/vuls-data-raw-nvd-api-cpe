@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:3.18.4:*:*:*:*:*:*:*",
-  "cpeNameId": "C65E28C3-9331-440C-A218-52E1EFB0ABFB",
-  "created": "2022-12-29T16:06:24.793",
-  "lastModified": "2022-12-29T16:34:04.827",
-  "titles": [
-    {
-      "title": "Rocket.Chat 3.18.4",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/RocketChat/Rocket.Chat/tags",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://rocket.chat/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:rocket.chat:rocket.chat:3.18.4:*:*:*:*:*:*:*",
+	"cpeNameId": "C65E28C3-9331-440C-A218-52E1EFB0ABFB",
+	"created": "2022-12-29T16:06:24.793",
+	"lastModified": "2022-12-29T16:34:04.827",
+	"titles": [
+		{
+			"title": "Rocket.Chat 3.18.4",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/RocketChat/Rocket.Chat/tags",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://rocket.chat/",
+			"type": "Vendor"
+		}
+	]
 }

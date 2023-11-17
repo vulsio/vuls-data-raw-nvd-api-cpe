@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:atlassian:fisheye:4.8.8:*:*:*:*:*:*:*",
-  "cpeNameId": "C5C15C74-3BB9-4388-AAE9-EBF314C300B4",
-  "created": "2022-03-18T14:09:05.787",
-  "lastModified": "2022-03-18T20:02:05.370",
-  "titles": [
-    {
-      "title": "Atlassian Fisheye 4.8.8",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://confluence.atlassian.com/fisheye/fisheye-4-8-release-notes-981150019.html",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:atlassian:fisheye:4.8.8:*:*:*:*:*:*:*",
+	"cpeNameId": "C5C15C74-3BB9-4388-AAE9-EBF314C300B4",
+	"created": "2022-03-18T14:09:05.787",
+	"lastModified": "2022-03-18T20:02:05.370",
+	"titles": [
+		{
+			"title": "Atlassian Fisheye 4.8.8",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://confluence.atlassian.com/fisheye/fisheye-4-8-release-notes-981150019.html",
+			"type": "Change Log"
+		}
+	]
 }

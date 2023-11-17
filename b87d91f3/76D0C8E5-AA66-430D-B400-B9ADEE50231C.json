@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:cms_tree_page_view_project:cms_tree_page_view:1.2.10:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "76D0C8E5-AA66-430D-B400-B9ADEE50231C",
-  "created": "2014-04-08T14:28:36.143",
-  "lastModified": "2014-04-30T23:57:20.247",
-  "titles": [
-    {
-      "title": "CMS Tree Page View Project CMS Tree Page View for WordPress 1.2.10",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://wordpress.org/plugins/cms-tree-page-view/changelog/"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:cms_tree_page_view_project:cms_tree_page_view:1.2.10:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "76D0C8E5-AA66-430D-B400-B9ADEE50231C",
+	"created": "2014-04-08T14:28:36.143",
+	"lastModified": "2014-04-30T23:57:20.247",
+	"titles": [
+		{
+			"title": "CMS Tree Page View Project CMS Tree Page View for WordPress 1.2.10",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://wordpress.org/plugins/cms-tree-page-view/changelog/"
+		}
+	]
 }

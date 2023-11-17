@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:authconfig_project:authconfig:6.1.15:*:*:*:*:*:*:*",
-  "cpeNameId": "29EDF5DC-3C80-4304-A4A2-2160168FA36F",
-  "created": "2020-02-27T15:43:28.727",
-  "lastModified": "2020-02-27T15:43:28.727",
-  "titles": [
-    {
-      "title": "authconfig Project authconfig 6.1.15",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://pagure.io/authconfig",
-      "type": "Product"
-    },
-    {
-      "ref": "https://pagure.io/authconfig/releases",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:authconfig_project:authconfig:6.1.15:*:*:*:*:*:*:*",
+	"cpeNameId": "29EDF5DC-3C80-4304-A4A2-2160168FA36F",
+	"created": "2020-02-27T15:43:28.727",
+	"lastModified": "2020-02-27T15:43:28.727",
+	"titles": [
+		{
+			"title": "authconfig Project authconfig 6.1.15",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://pagure.io/authconfig",
+			"type": "Product"
+		},
+		{
+			"ref": "https://pagure.io/authconfig/releases",
+			"type": "Version"
+		}
+	]
 }

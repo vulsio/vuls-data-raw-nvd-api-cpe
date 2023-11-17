@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:publify_project:publify:5.0.3.98:*:*:*:*:*:*:*",
-  "cpeNameId": "31EDB993-7847-4275-B8C1-8FF361CF4607",
-  "created": "2020-01-14T19:18:16.133",
-  "lastModified": "2020-01-14T19:18:16.133",
-  "titles": [
-    {
-      "title": "Publify Project Publify 5.0.3.98",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/publify/publify",
-      "type": "Project"
-    },
-    {
-      "ref": "https://github.com/publify/publify/releases",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:publify_project:publify:5.0.3.98:*:*:*:*:*:*:*",
+	"cpeNameId": "31EDB993-7847-4275-B8C1-8FF361CF4607",
+	"created": "2020-01-14T19:18:16.133",
+	"lastModified": "2020-01-14T19:18:16.133",
+	"titles": [
+		{
+			"title": "Publify Project Publify 5.0.3.98",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/publify/publify",
+			"type": "Project"
+		},
+		{
+			"ref": "https://github.com/publify/publify/releases",
+			"type": "Version"
+		}
+	]
 }

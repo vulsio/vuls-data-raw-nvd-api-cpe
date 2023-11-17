@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:jenkins:cloudbees_aws_credentials:1.17:*:*:*:*:jenkins:*:*",
-  "cpeNameId": "70675578-81BC-48AA-AC55-1788958A89FD",
-  "created": "2022-11-23T13:50:04.313",
-  "lastModified": "2022-11-23T13:51:01.357",
-  "titles": [
-    {
-      "title": "Jenkins CloudBees AWS Credentials 1.17 for Jenkins",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://plugins.jenkins.io/aws-credentials/#releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:jenkins:cloudbees_aws_credentials:1.17:*:*:*:*:jenkins:*:*",
+	"cpeNameId": "70675578-81BC-48AA-AC55-1788958A89FD",
+	"created": "2022-11-23T13:50:04.313",
+	"lastModified": "2022-11-23T13:51:01.357",
+	"titles": [
+		{
+			"title": "Jenkins CloudBees AWS Credentials 1.17 for Jenkins",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://plugins.jenkins.io/aws-credentials/#releases",
+			"type": "Change Log"
+		}
+	]
 }

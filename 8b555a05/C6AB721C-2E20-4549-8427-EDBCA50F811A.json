@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:seafile:seafile-client:7.0.9:*:*:*:*:seafile:*:*",
-  "cpeNameId": "C6AB721C-2E20-4549-8427-EDBCA50F811A",
-  "created": "2020-08-06T15:57:31.637",
-  "lastModified": "2020-08-06T15:57:31.637",
-  "titles": [
-    {
-      "title": "Seafile Seafile-client 7.0.9 for Seafile",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/haiwen/seafile-client/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:seafile:seafile-client:7.0.9:*:*:*:*:seafile:*:*",
+	"cpeNameId": "C6AB721C-2E20-4549-8427-EDBCA50F811A",
+	"created": "2020-08-06T15:57:31.637",
+	"lastModified": "2020-08-06T15:57:31.637",
+	"titles": [
+		{
+			"title": "Seafile Seafile-client 7.0.9 for Seafile",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/haiwen/seafile-client/releases",
+			"type": "Change Log"
+		}
+	]
 }

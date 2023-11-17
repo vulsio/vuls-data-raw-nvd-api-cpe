@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:opensuse:package_hub:-:*:*:*:*:*:*:*",
-  "cpeNameId": "F875EB20-D725-421F-ABC7-7394030C741B",
-  "created": "2022-03-08T15:16:42.930",
-  "lastModified": "2022-08-12T20:37:57.897",
-  "titles": [
-    {
-      "title": "openSUSE Package Hub",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/message/ZFVBHHF6WMJDJB73NZDWFFGS6D23TB67/",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:opensuse:package_hub:-:*:*:*:*:*:*:*",
+	"cpeNameId": "F875EB20-D725-421F-ABC7-7394030C741B",
+	"created": "2022-03-08T15:16:42.930",
+	"lastModified": "2022-08-12T20:37:57.897",
+	"titles": [
+		{
+			"title": "openSUSE Package Hub",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/message/ZFVBHHF6WMJDJB73NZDWFFGS6D23TB67/",
+			"type": "Advisory"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:apache:tomcat:9.0.0:milestone2:*:*:*:*:*:*",
-  "cpeNameId": "32934C50-1A8A-4283-B0B9-845EB42F4FEF",
-  "created": "2019-10-29T13:55:09.220",
-  "lastModified": "2019-10-29T13:55:09.220",
-  "titles": [
-    {
-      "title": "Apache Software Foundation Tomcat 9.0.0 Milestone 2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/apache/tomcat",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:apache:tomcat:9.0.0:milestone2:*:*:*:*:*:*",
+	"cpeNameId": "32934C50-1A8A-4283-B0B9-845EB42F4FEF",
+	"created": "2019-10-29T13:55:09.220",
+	"lastModified": "2019-10-29T13:55:09.220",
+	"titles": [
+		{
+			"title": "Apache Software Foundation Tomcat 9.0.0 Milestone 2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/apache/tomcat",
+			"type": "Version"
+		}
+	]
 }

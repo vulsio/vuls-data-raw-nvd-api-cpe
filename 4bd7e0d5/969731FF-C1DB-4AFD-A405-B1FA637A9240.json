@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:wireshark:wireshark:2.4.2:*:*:*:*:*:*:*",
-  "cpeNameId": "969731FF-C1DB-4AFD-A405-B1FA637A9240",
-  "created": "2018-04-16T17:41:44.927",
-  "lastModified": "2018-04-16T17:41:44.927",
-  "titles": [
-    {
-      "title": "Wireshark 2.4.2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.wireshark.org/docs/relnotes/",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:wireshark:wireshark:2.4.2:*:*:*:*:*:*:*",
+	"cpeNameId": "969731FF-C1DB-4AFD-A405-B1FA637A9240",
+	"created": "2018-04-16T17:41:44.927",
+	"lastModified": "2018-04-16T17:41:44.927",
+	"titles": [
+		{
+			"title": "Wireshark 2.4.2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.wireshark.org/docs/relnotes/",
+			"type": "Change Log"
+		}
+	]
 }

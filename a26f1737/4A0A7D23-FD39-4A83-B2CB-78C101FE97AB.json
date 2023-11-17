@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:3d_flipbook_project:3d_flipbook:1.13.3:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "4A0A7D23-FD39-4A83-B2CB-78C101FE97AB",
-  "created": "2023-01-23T15:11:04.980",
-  "lastModified": "2023-02-28T19:15:42.827",
-  "titles": [
-    {
-      "title": "3D FlipBook Project 3D FlipBook 1.13.3 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wordpress.org/plugins/interactive-3d-flipbook-powered-physics-engine/#description",
-      "type": "Project"
-    },
-    {
-      "ref": "https://3dflipbook.net/",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:3d_flipbook_project:3d_flipbook:1.13.3:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "4A0A7D23-FD39-4A83-B2CB-78C101FE97AB",
+	"created": "2023-01-23T15:11:04.980",
+	"lastModified": "2023-02-28T19:15:42.827",
+	"titles": [
+		{
+			"title": "3D FlipBook Project 3D FlipBook 1.13.3 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/interactive-3d-flipbook-powered-physics-engine/#description",
+			"type": "Project"
+		},
+		{
+			"ref": "https://3dflipbook.net/",
+			"type": "Product"
+		}
+	]
 }

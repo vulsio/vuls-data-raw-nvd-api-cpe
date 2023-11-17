@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:ss-proj:shirasagi:1.14.4:*:*:*:*:*:*:*",
-  "cpeNameId": "C8698144-DFE3-4C0F-80EE-E1300472F43B",
-  "created": "2022-12-05T23:51:58.860",
-  "lastModified": "2022-12-05T23:59:37.327",
-  "titles": [
-    {
-      "title": "Ss-proj Shirasagi 1.14.4",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/shirasagi/shirasagi/releases",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:ss-proj:shirasagi:1.14.4:*:*:*:*:*:*:*",
+	"cpeNameId": "C8698144-DFE3-4C0F-80EE-E1300472F43B",
+	"created": "2022-12-05T23:51:58.860",
+	"lastModified": "2022-12-05T23:59:37.327",
+	"titles": [
+		{
+			"title": "Ss-proj Shirasagi 1.14.4",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/shirasagi/shirasagi/releases",
+			"type": "Version"
+		}
+	]
 }

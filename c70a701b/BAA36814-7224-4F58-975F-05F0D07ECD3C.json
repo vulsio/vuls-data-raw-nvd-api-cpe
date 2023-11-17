@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:apache:cassandra:1.1.7:*:*:*:*:*:*:*",
-  "cpeNameId": "BAA36814-7224-4F58-975F-05F0D07ECD3C",
-  "created": "2020-09-10T13:57:24.537",
-  "lastModified": "2020-09-10T13:57:24.537",
-  "titles": [
-    {
-      "title": "Apache Software Foundation Cassandra 1.1.7",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://archive.apache.org/dist/cassandra/",
-      "type": "Product"
-    },
-    {
-      "ref": "http://cassandra.apache.org/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:apache:cassandra:1.1.7:*:*:*:*:*:*:*",
+	"cpeNameId": "BAA36814-7224-4F58-975F-05F0D07ECD3C",
+	"created": "2020-09-10T13:57:24.537",
+	"lastModified": "2020-09-10T13:57:24.537",
+	"titles": [
+		{
+			"title": "Apache Software Foundation Cassandra 1.1.7",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://archive.apache.org/dist/cassandra/",
+			"type": "Product"
+		},
+		{
+			"ref": "http://cassandra.apache.org/",
+			"type": "Vendor"
+		}
+	]
 }

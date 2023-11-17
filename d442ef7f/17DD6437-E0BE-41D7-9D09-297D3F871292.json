@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:wp-events-plugin:events_manager:2.0:-:*:*:*:wordpress:*:*",
-  "cpeNameId": "17DD6437-E0BE-41D7-9D09-297D3F871292",
-  "created": "2019-06-10T17:37:48.150",
-  "lastModified": "2019-06-10T17:37:48.150",
-  "titles": [
-    {
-      "title": "Events Manager Project Events Manager 2.0 - for Wordpress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://plugins.svn.wordpress.org/events-manager/tags/",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:wp-events-plugin:events_manager:2.0:-:*:*:*:wordpress:*:*",
+	"cpeNameId": "17DD6437-E0BE-41D7-9D09-297D3F871292",
+	"created": "2019-06-10T17:37:48.150",
+	"lastModified": "2019-06-10T17:37:48.150",
+	"titles": [
+		{
+			"title": "Events Manager Project Events Manager 2.0 - for Wordpress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://plugins.svn.wordpress.org/events-manager/tags/",
+			"type": "Version"
+		}
+	]
 }

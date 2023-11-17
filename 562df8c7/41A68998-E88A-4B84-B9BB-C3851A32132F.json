@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:moonjit_project:moonjit:2.1:20140419:*:*:*:*:*:*",
-  "cpeNameId": "41A68998-E88A-4B84-B9BB-C3851A32132F",
-  "created": "2019-12-20T16:18:05.697",
-  "lastModified": "2019-12-20T16:18:05.697",
-  "titles": [
-    {
-      "title": "Moonjit Project Moonjit 2.1 20140419",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/moonjit/moonjit/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:moonjit_project:moonjit:2.1:20140419:*:*:*:*:*:*",
+	"cpeNameId": "41A68998-E88A-4B84-B9BB-C3851A32132F",
+	"created": "2019-12-20T16:18:05.697",
+	"lastModified": "2019-12-20T16:18:05.697",
+	"titles": [
+		{
+			"title": "Moonjit Project Moonjit 2.1 20140419",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/moonjit/moonjit/releases",
+			"type": "Change Log"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:zephyrproject:zephyr:3.2.40:*:*:*:*:*:*:*",
-  "cpeNameId": "186669BC-7307-48B2-9FAD-34B54A9AF6D4",
-  "created": "2022-06-15T14:00:56.287",
-  "lastModified": "2022-06-16T14:36:34.920",
-  "titles": [
-    {
-      "title": "Zephyrproject Zephyr 3.2.40",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.wordfence.com/vulnerability-advisories/#CVE-2022-1822",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:zephyrproject:zephyr:3.2.40:*:*:*:*:*:*:*",
+	"cpeNameId": "186669BC-7307-48B2-9FAD-34B54A9AF6D4",
+	"created": "2022-06-15T14:00:56.287",
+	"lastModified": "2022-06-16T14:36:34.920",
+	"titles": [
+		{
+			"title": "Zephyrproject Zephyr 3.2.40",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.wordfence.com/vulnerability-advisories/#CVE-2022-1822",
+			"type": "Advisory"
+		}
+	]
 }

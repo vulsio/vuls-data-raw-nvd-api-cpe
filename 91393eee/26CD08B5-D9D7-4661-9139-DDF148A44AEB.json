@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:aertherwide:exiftags:0.92:*:*:*:*:*:*:*",
-  "cpeNameId": "26CD08B5-D9D7-4661-9139-DDF148A44AEB",
-  "created": "2011-05-13T15:49:14.173",
-  "lastModified": "2011-05-25T16:55:41.507",
-  "titles": [
-    {
-      "title": "Aertherwide exiftags 0.92",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:aertherwide:exiftags:0.92:*:*:*:*:*:*:*",
+	"cpeNameId": "26CD08B5-D9D7-4661-9139-DDF148A44AEB",
+	"created": "2011-05-13T15:49:14.173",
+	"lastModified": "2011-05-25T16:55:41.507",
+	"titles": [
+		{
+			"title": "Aertherwide exiftags 0.92",
+			"lang": "en"
+		}
+	]
 }

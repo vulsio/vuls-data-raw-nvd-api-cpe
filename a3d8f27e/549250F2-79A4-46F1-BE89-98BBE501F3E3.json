@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:ashstonestudios:absolute_reviews:1.0.7:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "549250F2-79A4-46F1-BE89-98BBE501F3E3",
-  "created": "2023-06-21T14:59:36.787",
-  "lastModified": "2023-06-21T16:05:34.537",
-  "titles": [
-    {
-      "title": "Ashstonestudios Absolute Reviews 1.0.7 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://ashstonestudios.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://wordpress.org/plugins/absolute-reviews/#developers",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://blog.nintechnet.com/multiple-wordpress-plugins-fixed-csrf-vulnerabilities-part-3/",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:ashstonestudios:absolute_reviews:1.0.7:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "549250F2-79A4-46F1-BE89-98BBE501F3E3",
+	"created": "2023-06-21T14:59:36.787",
+	"lastModified": "2023-06-21T16:05:34.537",
+	"titles": [
+		{
+			"title": "Ashstonestudios Absolute Reviews 1.0.7 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://ashstonestudios.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/absolute-reviews/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://blog.nintechnet.com/multiple-wordpress-plugins-fixed-csrf-vulnerabilities-part-3/",
+			"type": "Advisory"
+		}
+	]
 }

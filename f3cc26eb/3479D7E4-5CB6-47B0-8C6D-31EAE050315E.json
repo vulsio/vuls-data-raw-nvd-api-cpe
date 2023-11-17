@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:ory:fosite:0.13.1:*:*:*:*:*:*:*",
-  "cpeNameId": "3479D7E4-5CB6-47B0-8C6D-31EAE050315E",
-  "created": "2020-10-06T15:48:54.820",
-  "lastModified": "2020-10-06T15:48:54.820",
-  "titles": [
-    {
-      "title": "ORY Fosite 0.13.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/ory/fosite/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:ory:fosite:0.13.1:*:*:*:*:*:*:*",
+	"cpeNameId": "3479D7E4-5CB6-47B0-8C6D-31EAE050315E",
+	"created": "2020-10-06T15:48:54.820",
+	"lastModified": "2020-10-06T15:48:54.820",
+	"titles": [
+		{
+			"title": "ORY Fosite 0.13.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/ory/fosite/releases",
+			"type": "Change Log"
+		}
+	]
 }

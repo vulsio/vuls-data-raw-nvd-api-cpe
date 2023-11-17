@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:emc:networker:6.0:*:*:*:*:*:*:*",
-  "cpeNameId": "85603290-566E-4CEE-BE24-766B9F06353C",
-  "created": "2007-08-23T21:16:59.567",
-  "lastModified": "2011-02-02T14:21:11.243",
-  "titles": [
-    {
-      "title": "EMC NetWorker 6.0",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:emc:networker:6.0:*:*:*:*:*:*:*",
+	"cpeNameId": "85603290-566E-4CEE-BE24-766B9F06353C",
+	"created": "2007-08-23T21:16:59.567",
+	"lastModified": "2011-02-02T14:21:11.243",
+	"titles": [
+		{
+			"title": "EMC NetWorker 6.0",
+			"lang": "en"
+		}
+	]
 }

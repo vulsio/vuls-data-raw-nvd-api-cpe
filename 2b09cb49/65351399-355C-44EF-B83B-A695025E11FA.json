@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:fatcatapps:analytics_cat:1.0.3:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "65351399-355C-44EF-B83B-A695025E11FA",
-  "created": "2022-10-21T16:45:54.723",
-  "lastModified": "2022-10-21T19:11:05.137",
-  "titles": [
-    {
-      "title": "Fatcat Apps Analytics Cat 1.0.3 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://fatcatapps.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://wordpress.org/plugins/analytics-cat/#developers",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:fatcatapps:analytics_cat:1.0.3:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "65351399-355C-44EF-B83B-A695025E11FA",
+	"created": "2022-10-21T16:45:54.723",
+	"lastModified": "2022-10-21T19:11:05.137",
+	"titles": [
+		{
+			"title": "Fatcat Apps Analytics Cat 1.0.3 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://fatcatapps.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/analytics-cat/#developers",
+			"type": "Change Log"
+		}
+	]
 }

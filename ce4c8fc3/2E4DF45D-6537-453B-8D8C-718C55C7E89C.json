@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:hikashop:hikashop:4.7.2:*:*:*:*:joomla\\!:*:*",
-  "cpeNameId": "2E4DF45D-6537-453B-8D8C-718C55C7E89C",
-  "created": "2023-08-09T14:10:19.073",
-  "lastModified": "2023-08-09T14:52:34.657",
-  "titles": [
-    {
-      "title": "HikaShop 4.7.2 for Joomla!",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.hikashop.com/support/documentation/56-hikashop-changelog.html",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:hikashop:hikashop:4.7.2:*:*:*:*:joomla\\!:*:*",
+	"cpeNameId": "2E4DF45D-6537-453B-8D8C-718C55C7E89C",
+	"created": "2023-08-09T14:10:19.073",
+	"lastModified": "2023-08-09T14:52:34.657",
+	"titles": [
+		{
+			"title": "HikaShop 4.7.2 for Joomla!",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.hikashop.com/support/documentation/56-hikashop-changelog.html",
+			"type": "Change Log"
+		}
+	]
 }

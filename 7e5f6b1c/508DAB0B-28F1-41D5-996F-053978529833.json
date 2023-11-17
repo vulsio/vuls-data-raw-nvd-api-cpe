@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:apple:software_update:-:*:*:*:*:*:*:*",
-  "cpeNameId": "508DAB0B-28F1-41D5-996F-053978529833",
-  "created": "2007-08-23T21:05:57.937",
-  "lastModified": "2008-04-15T22:37:36.397",
-  "titles": [
-    {
-      "title": "Apple Software Update",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:apple:software_update:-:*:*:*:*:*:*:*",
+	"cpeNameId": "508DAB0B-28F1-41D5-996F-053978529833",
+	"created": "2007-08-23T21:05:57.937",
+	"lastModified": "2008-04-15T22:37:36.397",
+	"titles": [
+		{
+			"title": "Apple Software Update",
+			"lang": "en"
+		}
+	]
 }

@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:xstream_project:xstream:1.4.17:*:*:*:*:*:*:*",
-  "cpeNameId": "46B057B9-DD76-42D0-900A-5B6A41D36B3C",
-  "created": "2021-06-07T13:56:29.933",
-  "lastModified": "2021-06-16T14:09:52.950",
-  "titles": [
-    {
-      "title": "XStream Project XStream 1.4.17",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/x-stream/xstream/releases",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://github.com/x-stream/xstream/security/advisories/GHSA-7chv-rrw6-w6fc",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:xstream_project:xstream:1.4.17:*:*:*:*:*:*:*",
+	"cpeNameId": "46B057B9-DD76-42D0-900A-5B6A41D36B3C",
+	"created": "2021-06-07T13:56:29.933",
+	"lastModified": "2021-06-16T14:09:52.950",
+	"titles": [
+		{
+			"title": "XStream Project XStream 1.4.17",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/x-stream/xstream/releases",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://github.com/x-stream/xstream/security/advisories/GHSA-7chv-rrw6-w6fc",
+			"type": "Advisory"
+		}
+	]
 }

@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:cisco:ios:11.1\\(7\\):*:*:*:*:*:*:*",
-  "cpeNameId": "CB5AA77F-B6E9-4623-A048-807991E6C36A",
-  "created": "2007-08-23T21:16:59.567",
-  "lastModified": "2008-06-17T17:51:40.317",
-  "titles": [
-    {
-      "title": "Cisco IOS 11.1.7",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:cisco:ios:11.1\\(7\\):*:*:*:*:*:*:*",
+	"cpeNameId": "CB5AA77F-B6E9-4623-A048-807991E6C36A",
+	"created": "2007-08-23T21:16:59.567",
+	"lastModified": "2008-06-17T17:51:40.317",
+	"titles": [
+		{
+			"title": "Cisco IOS 11.1.7",
+			"lang": "en"
+		}
+	]
 }

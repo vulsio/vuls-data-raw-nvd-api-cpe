@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:obsidian:obsidian:0.8.7:*:*:*:*:*:*:*",
-  "cpeNameId": "EC9717E6-0762-4017-B2CD-AAA2A9F1982A",
-  "created": "2022-02-10T15:09:30.663",
-  "lastModified": "2022-02-11T22:40:49.790",
-  "titles": [
-    {
-      "title": "Obsidian 0.8.7",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://obsidian.md/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/obsidianmd/obsidian-releases",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:obsidian:obsidian:0.8.7:*:*:*:*:*:*:*",
+	"cpeNameId": "EC9717E6-0762-4017-B2CD-AAA2A9F1982A",
+	"created": "2022-02-10T15:09:30.663",
+	"lastModified": "2022-02-11T22:40:49.790",
+	"titles": [
+		{
+			"title": "Obsidian 0.8.7",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://obsidian.md/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/obsidianmd/obsidian-releases",
+			"type": "Version"
+		}
+	]
 }

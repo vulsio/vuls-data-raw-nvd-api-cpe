@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:pivotal_software:cloudfoundry_uaa_release:12.1:*:*:*:*:*:*:*",
-  "cpeNameId": "222E2D69-A3C0-4EFD-9330-7CE77BE8AC5E",
-  "created": "2018-12-01T23:50:23.867",
-  "lastModified": "2018-12-01T23:50:23.867",
-  "titles": [
-    {
-      "title": "Pivotal Software Cloud Foundry UAA Release 12.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/cloudfoundry/uaa-release/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:pivotal_software:cloudfoundry_uaa_release:12.1:*:*:*:*:*:*:*",
+	"cpeNameId": "222E2D69-A3C0-4EFD-9330-7CE77BE8AC5E",
+	"created": "2018-12-01T23:50:23.867",
+	"lastModified": "2018-12-01T23:50:23.867",
+	"titles": [
+		{
+			"title": "Pivotal Software Cloud Foundry UAA Release 12.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/cloudfoundry/uaa-release/releases",
+			"type": "Change Log"
+		}
+	]
 }

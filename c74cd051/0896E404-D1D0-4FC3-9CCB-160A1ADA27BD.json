@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:nlnetlabs:nsd:3.2.1:*:*:*:*:*:*:*",
-  "cpeNameId": "0896E404-D1D0-4FC3-9CCB-160A1ADA27BD",
-  "created": "2009-05-22T15:14:15.920",
-  "lastModified": "2012-07-31T21:11:37.187",
-  "titles": [
-    {
-      "title": "NLnet Labs NSD 3.2.1",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:nlnetlabs:nsd:3.2.1:*:*:*:*:*:*:*",
+	"cpeNameId": "0896E404-D1D0-4FC3-9CCB-160A1ADA27BD",
+	"created": "2009-05-22T15:14:15.920",
+	"lastModified": "2012-07-31T21:11:37.187",
+	"titles": [
+		{
+			"title": "NLnet Labs NSD 3.2.1",
+			"lang": "en"
+		}
+	]
 }

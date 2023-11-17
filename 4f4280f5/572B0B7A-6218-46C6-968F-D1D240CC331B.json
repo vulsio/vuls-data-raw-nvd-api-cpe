@@ -1,25 +1,25 @@
 {
-  "deprecated": true,
-  "cpeName": "cpe:2.3:a:bitcoin:bitcoin_core:0.6.0:*:*:*:*:*:*:*",
-  "cpeNameId": "572B0B7A-6218-46C6-968F-D1D240CC331B",
-  "created": "2019-09-09T12:57:52.387",
-  "lastModified": "2020-03-18T17:12:04.937",
-  "titles": [
-    {
-      "title": "Bitcoin Core 0.6.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://bitcoin.org/en/version-history",
-      "type": "Version"
-    }
-  ],
-  "deprecatedBy": [
-    {
-      "cpeName": "cpe:2.3:a:bitcoin:bitcoin_core:0.6.0:-:*:*:*:*:*:*",
-      "cpeNameId": "7A282FFC-AB7B-4A3A-B74A-C3ADA15217F3"
-    }
-  ]
+	"deprecated": true,
+	"cpeName": "cpe:2.3:a:bitcoin:bitcoin_core:0.6.0:*:*:*:*:*:*:*",
+	"cpeNameId": "572B0B7A-6218-46C6-968F-D1D240CC331B",
+	"created": "2019-09-09T12:57:52.387",
+	"lastModified": "2020-03-18T17:12:04.937",
+	"titles": [
+		{
+			"title": "Bitcoin Core 0.6.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://bitcoin.org/en/version-history",
+			"type": "Version"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:bitcoin:bitcoin_core:0.6.0:-:*:*:*:*:*:*",
+			"cpeNameId": "7A282FFC-AB7B-4A3A-B74A-C3ADA15217F3"
+		}
+	]
 }

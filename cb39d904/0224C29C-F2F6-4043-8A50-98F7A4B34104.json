@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:adobe:experience_manager:6.4.8.4:*:*:*:*:*:*:*",
-  "cpeNameId": "0224C29C-F2F6-4043-8A50-98F7A4B34104",
-  "created": "2021-06-30T12:05:17.223",
-  "lastModified": "2021-06-30T12:44:49.590",
-  "titles": [
-    {
-      "title": "Adobe Experience Manager 6.4.8.4",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb21-15.html",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:adobe:experience_manager:6.4.8.4:*:*:*:*:*:*:*",
+	"cpeNameId": "0224C29C-F2F6-4043-8A50-98F7A4B34104",
+	"created": "2021-06-30T12:05:17.223",
+	"lastModified": "2021-06-30T12:44:49.590",
+	"titles": [
+		{
+			"title": "Adobe Experience Manager 6.4.8.4",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://helpx.adobe.com/security/products/experience-manager/apsb21-15.html",
+			"type": "Advisory"
+		}
+	]
 }

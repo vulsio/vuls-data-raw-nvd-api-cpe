@@ -1,45 +1,45 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:nodejs:node.js:4.4.0:rc2:*:*:-:*:*:*",
-  "cpeNameId": "09B068D3-0752-4058-88CA-7CDEF10DD2C9",
-  "created": "2020-02-10T17:53:59.380",
-  "lastModified": "2020-02-10T17:53:59.380",
-  "titles": [
-    {
-      "title": "Nodejs Node.js 4.4.0 Release Candidate 2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://nodejs.org/en/download/releases/",
-      "type": "Version"
-    },
-    {
-      "ref": "https://nodejs.org/en/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://nodejs.org/download/docs/",
-      "type": "Version"
-    },
-    {
-      "ref": "https://github.com/nodejs/node",
-      "type": "Version"
-    },
-    {
-      "ref": "https://github.com/nodejs/node/blob/master/CHANGELOG.md",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://nodejs.org/docs/",
-      "type": "Change Log"
-    }
-  ],
-  "deprecates": [
-    {
-      "cpeName": "cpe:2.3:a:nodejs:node.js:4.4.0:rc2:*:*:*:*:*:*",
-      "cpeNameId": "1068EA0D-C60D-49A7-B9A0-BD550ABB3D85"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:nodejs:node.js:4.4.0:rc2:*:*:-:*:*:*",
+	"cpeNameId": "09B068D3-0752-4058-88CA-7CDEF10DD2C9",
+	"created": "2020-02-10T17:53:59.380",
+	"lastModified": "2020-02-10T17:53:59.380",
+	"titles": [
+		{
+			"title": "Nodejs Node.js 4.4.0 Release Candidate 2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://nodejs.org/en/download/releases/",
+			"type": "Version"
+		},
+		{
+			"ref": "https://nodejs.org/en/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://nodejs.org/download/docs/",
+			"type": "Version"
+		},
+		{
+			"ref": "https://github.com/nodejs/node",
+			"type": "Version"
+		},
+		{
+			"ref": "https://github.com/nodejs/node/blob/master/CHANGELOG.md",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://nodejs.org/docs/",
+			"type": "Change Log"
+		}
+	],
+	"deprecates": [
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:4.4.0:rc2:*:*:*:*:*:*",
+			"cpeNameId": "1068EA0D-C60D-49A7-B9A0-BD550ABB3D85"
+		}
+	]
 }

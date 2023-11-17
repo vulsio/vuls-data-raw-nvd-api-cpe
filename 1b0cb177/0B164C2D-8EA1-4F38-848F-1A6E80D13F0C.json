@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:yamaha:nvr500_firmware:rev.11.00.36:*:*:*:*:*:*:*",
-  "cpeNameId": "0B164C2D-8EA1-4F38-848F-1A6E80D13F0C",
-  "created": "2019-01-15T18:56:42.210",
-  "lastModified": "2021-06-28T18:17:59.493",
-  "titles": [
-    {
-      "title": "Yamaha NVR500 FIRMWARE Rev.11.00.36",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://network.yamaha.com/products/routers/nvr500/index",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:yamaha:nvr500_firmware:rev.11.00.36:*:*:*:*:*:*:*",
+	"cpeNameId": "0B164C2D-8EA1-4F38-848F-1A6E80D13F0C",
+	"created": "2019-01-15T18:56:42.210",
+	"lastModified": "2021-06-28T18:17:59.493",
+	"titles": [
+		{
+			"title": "Yamaha NVR500 FIRMWARE Rev.11.00.36",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://network.yamaha.com/products/routers/nvr500/index",
+			"type": "Product"
+		}
+	]
 }

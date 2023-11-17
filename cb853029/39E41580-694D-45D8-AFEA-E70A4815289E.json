@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:rpm:rpm:1.4.2:*:*:*:*:*:*:*",
-  "cpeNameId": "39E41580-694D-45D8-AFEA-E70A4815289E",
-  "created": "2010-06-09T16:34:33.313",
-  "lastModified": "2012-06-29T14:44:48.610",
-  "titles": [
-    {
-      "title": "RPM RPM Package Manager 1.4.2",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:rpm:rpm:1.4.2:*:*:*:*:*:*:*",
+	"cpeNameId": "39E41580-694D-45D8-AFEA-E70A4815289E",
+	"created": "2010-06-09T16:34:33.313",
+	"lastModified": "2012-06-29T14:44:48.610",
+	"titles": [
+		{
+			"title": "RPM RPM Package Manager 1.4.2",
+			"lang": "en"
+		}
+	]
 }

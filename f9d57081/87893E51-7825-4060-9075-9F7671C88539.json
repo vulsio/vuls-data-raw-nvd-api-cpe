@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:schneider-electric:modicon_m340_bmxp342020:-:*:*:*:*:*:*:*",
-  "cpeNameId": "87893E51-7825-4060-9075-9F7671C88539",
-  "created": "2021-07-26T16:52:05.407",
-  "lastModified": "2021-08-18T22:41:13.633",
-  "titles": [
-    {
-      "title": "Schneider Electric Modicon M340 BMXP342020",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://download.schneider-electric.com/files?p_enDocType=User+guide&p_File_Name=35012676_K01_000_14.pdf&p_Doc_Ref=35012676K01000",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:schneider-electric:modicon_m340_bmxp342020:-:*:*:*:*:*:*:*",
+	"cpeNameId": "87893E51-7825-4060-9075-9F7671C88539",
+	"created": "2021-07-26T16:52:05.407",
+	"lastModified": "2021-08-18T22:41:13.633",
+	"titles": [
+		{
+			"title": "Schneider Electric Modicon M340 BMXP342020",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://download.schneider-electric.com/files?p_enDocType=User+guide&p_File_Name=35012676_K01_000_14.pdf&p_Doc_Ref=35012676K01000",
+			"type": "Product"
+		}
+	]
 }

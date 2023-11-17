@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:gnu:g\\+\\+:3.3.3:*:*:*:*:*:*:*",
-  "cpeNameId": "B3FC61C7-737A-407D-BFF3-CCECF62AC4AA",
-  "created": "2007-08-23T21:16:59.567",
-  "lastModified": "2008-06-17T17:50:37.623",
-  "titles": [
-    {
-      "title": "GNU g++ 3.3.3",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:gnu:g\\+\\+:3.3.3:*:*:*:*:*:*:*",
+	"cpeNameId": "B3FC61C7-737A-407D-BFF3-CCECF62AC4AA",
+	"created": "2007-08-23T21:16:59.567",
+	"lastModified": "2008-06-17T17:50:37.623",
+	"titles": [
+		{
+			"title": "GNU g++ 3.3.3",
+			"lang": "en"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:javaez_project:javaez:1.5:*:*:*:*:*:*:*",
-  "cpeNameId": "712DCA16-1170-47B4-9C8D-DE850B5F76AD",
-  "created": "2022-10-28T15:27:55.867",
-  "lastModified": "2022-10-28T15:29:32.007",
-  "titles": [
-    {
-      "title": "JavaEZ Project JavaEZ 1.5",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/JavaEZLib/JavaEZ",
-      "type": "Project"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:javaez_project:javaez:1.5:*:*:*:*:*:*:*",
+	"cpeNameId": "712DCA16-1170-47B4-9C8D-DE850B5F76AD",
+	"created": "2022-10-28T15:27:55.867",
+	"lastModified": "2022-10-28T15:29:32.007",
+	"titles": [
+		{
+			"title": "JavaEZ Project JavaEZ 1.5",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/JavaEZLib/JavaEZ",
+			"type": "Project"
+		}
+	]
 }

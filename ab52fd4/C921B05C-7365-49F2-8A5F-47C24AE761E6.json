@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:gnu:gnutls:2.12.21:*:*:*:*:*:*:*",
-  "cpeNameId": "C921B05C-7365-49F2-8A5F-47C24AE761E6",
-  "created": "2013-02-11T15:59:39.407",
-  "lastModified": "2013-02-11T20:13:52.070",
-  "titles": [
-    {
-      "title": "GNU GnuTLS 2.12.21",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:gnu:gnutls:2.12.21:*:*:*:*:*:*:*",
+	"cpeNameId": "C921B05C-7365-49F2-8A5F-47C24AE761E6",
+	"created": "2013-02-11T15:59:39.407",
+	"lastModified": "2013-02-11T20:13:52.070",
+	"titles": [
+		{
+			"title": "GNU GnuTLS 2.12.21",
+			"lang": "en"
+		}
+	]
 }

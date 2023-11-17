@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:ffmpeg:ffmpeg:0.8.11:*:*:*:*:*:*:*",
-  "cpeNameId": "5B3EEEF3-F5B6-4AD5-9A0B-2CDA235322E3",
-  "created": "2012-08-21T14:24:42.747",
-  "lastModified": "2012-08-21T23:53:52.123",
-  "titles": [
-    {
-      "title": "FFmpeg 0.8.11",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:ffmpeg:ffmpeg:0.8.11:*:*:*:*:*:*:*",
+	"cpeNameId": "5B3EEEF3-F5B6-4AD5-9A0B-2CDA235322E3",
+	"created": "2012-08-21T14:24:42.747",
+	"lastModified": "2012-08-21T23:53:52.123",
+	"titles": [
+		{
+			"title": "FFmpeg 0.8.11",
+			"lang": "en"
+		}
+	]
 }

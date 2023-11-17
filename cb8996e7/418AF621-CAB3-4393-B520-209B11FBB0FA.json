@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:mochiweb_project:mochiweb:2.4.0:*:*:*:*:*:*:*",
-  "cpeNameId": "418AF621-CAB3-4393-B520-209B11FBB0FA",
-  "created": "2014-03-19T13:12:44.427",
-  "lastModified": "2014-03-19T13:22:23.630",
-  "titles": [
-    {
-      "title": "MochiWeb Project MochiWeb 2.4.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/mochi/mochiweb/blob/master/CHANGES.md"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:mochiweb_project:mochiweb:2.4.0:*:*:*:*:*:*:*",
+	"cpeNameId": "418AF621-CAB3-4393-B520-209B11FBB0FA",
+	"created": "2014-03-19T13:12:44.427",
+	"lastModified": "2014-03-19T13:22:23.630",
+	"titles": [
+		{
+			"title": "MochiWeb Project MochiWeb 2.4.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/mochi/mochiweb/blob/master/CHANGES.md"
+		}
+	]
 }

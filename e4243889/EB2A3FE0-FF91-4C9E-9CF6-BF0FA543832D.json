@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:zimbra:collaboration_server:8.7.11:p7:*:*:*:*:*:*",
-  "cpeNameId": "EB2A3FE0-FF91-4C9E-9CF6-BF0FA543832D",
-  "created": "2019-06-11T14:16:36.437",
-  "lastModified": "2019-06-11T14:16:36.437",
-  "titles": [
-    {
-      "title": "Zimbra Collaboration Server 8.7.11 Patch 7",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wiki.zimbra.com/wiki/Zimbra_Releases/8.7.11/P7",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:zimbra:collaboration_server:8.7.11:p7:*:*:*:*:*:*",
+	"cpeNameId": "EB2A3FE0-FF91-4C9E-9CF6-BF0FA543832D",
+	"created": "2019-06-11T14:16:36.437",
+	"lastModified": "2019-06-11T14:16:36.437",
+	"titles": [
+		{
+			"title": "Zimbra Collaboration Server 8.7.11 Patch 7",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wiki.zimbra.com/wiki/Zimbra_Releases/8.7.11/P7",
+			"type": "Version"
+		}
+	]
 }

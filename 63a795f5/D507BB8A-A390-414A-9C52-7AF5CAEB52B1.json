@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:cisco:firepower_management_center:6.5.0:*:*:*:*:*:*:*",
-  "cpeNameId": "D507BB8A-A390-414A-9C52-7AF5CAEB52B1",
-  "created": "2020-01-21T13:55:36.023",
-  "lastModified": "2020-01-21T13:55:36.023",
-  "titles": [
-    {
-      "title": "Cisco Firepower Management Center (FMC) 6.5.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvo90805",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:cisco:firepower_management_center:6.5.0:*:*:*:*:*:*:*",
+	"cpeNameId": "D507BB8A-A390-414A-9C52-7AF5CAEB52B1",
+	"created": "2020-01-21T13:55:36.023",
+	"lastModified": "2020-01-21T13:55:36.023",
+	"titles": [
+		{
+			"title": "Cisco Firepower Management Center (FMC) 6.5.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvo90805",
+			"type": "Version"
+		}
+	]
 }

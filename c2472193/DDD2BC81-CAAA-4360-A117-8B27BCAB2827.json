@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:mediatek:lr13:-:*:*:*:*:*:*:*",
-  "cpeNameId": "DDD2BC81-CAAA-4360-A117-8B27BCAB2827",
-  "created": "2022-01-14T14:24:23.727",
-  "lastModified": "2022-09-20T14:42:32.067",
-  "titles": [
-    {
-      "title": "Mediatek Lr13",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://corp.mediatek.com/product-security-bulletin/January-2022",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:mediatek:lr13:-:*:*:*:*:*:*:*",
+	"cpeNameId": "DDD2BC81-CAAA-4360-A117-8B27BCAB2827",
+	"created": "2022-01-14T14:24:23.727",
+	"lastModified": "2022-09-20T14:42:32.067",
+	"titles": [
+		{
+			"title": "Mediatek Lr13",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://corp.mediatek.com/product-security-bulletin/January-2022",
+			"type": "Advisory"
+		}
+	]
 }

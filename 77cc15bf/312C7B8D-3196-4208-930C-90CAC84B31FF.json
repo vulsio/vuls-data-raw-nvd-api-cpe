@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:dhcpcd_project:dhcpcd:6.7.1:*:*:*:*:*:*:*",
-  "cpeNameId": "312C7B8D-3196-4208-930C-90CAC84B31FF",
-  "created": "2019-06-07T15:39:40.020",
-  "lastModified": "2019-06-07T15:39:40.020",
-  "titles": [
-    {
-      "title": "dhcpcd Project dhcpcd 6.7.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/rsmarples/dhcpcd/",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:dhcpcd_project:dhcpcd:6.7.1:*:*:*:*:*:*:*",
+	"cpeNameId": "312C7B8D-3196-4208-930C-90CAC84B31FF",
+	"created": "2019-06-07T15:39:40.020",
+	"lastModified": "2019-06-07T15:39:40.020",
+	"titles": [
+		{
+			"title": "dhcpcd Project dhcpcd 6.7.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/rsmarples/dhcpcd/",
+			"type": "Version"
+		}
+	]
 }

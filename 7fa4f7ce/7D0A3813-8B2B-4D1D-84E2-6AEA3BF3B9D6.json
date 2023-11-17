@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:ibm:rational_publishing_engine:6.0.6.1:*:*:*:*:*:*:*",
-  "cpeNameId": "7D0A3813-8B2B-4D1D-84E2-6AEA3BF3B9D6",
-  "created": "2020-02-14T20:20:14.567",
-  "lastModified": "2020-02-14T20:20:14.567",
-  "titles": [
-    {
-      "title": "IBM Rational Publishing Engine 6.0.6.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.ibm.com/support/knowledgecenter/SS6RHZ/rpe_welcome.html",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:ibm:rational_publishing_engine:6.0.6.1:*:*:*:*:*:*:*",
+	"cpeNameId": "7D0A3813-8B2B-4D1D-84E2-6AEA3BF3B9D6",
+	"created": "2020-02-14T20:20:14.567",
+	"lastModified": "2020-02-14T20:20:14.567",
+	"titles": [
+		{
+			"title": "IBM Rational Publishing Engine 6.0.6.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.ibm.com/support/knowledgecenter/SS6RHZ/rpe_welcome.html",
+			"type": "Version"
+		}
+	]
 }

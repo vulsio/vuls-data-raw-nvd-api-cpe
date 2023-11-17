@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:frappe:frappe:7.2.23:*:*:*:*:*:*:*",
-  "cpeNameId": "F54B6CAF-ACA0-4480-8799-FB1E961D90A1",
-  "created": "2020-12-14T16:11:41.323",
-  "lastModified": "2020-12-14T16:11:41.323",
-  "titles": [
-    {
-      "title": "Frappé 7.2.23",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/frappe/frappe/releases",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:frappe:frappe:7.2.23:*:*:*:*:*:*:*",
+	"cpeNameId": "F54B6CAF-ACA0-4480-8799-FB1E961D90A1",
+	"created": "2020-12-14T16:11:41.323",
+	"lastModified": "2020-12-14T16:11:41.323",
+	"titles": [
+		{
+			"title": "Frappé 7.2.23",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/frappe/frappe/releases",
+			"type": "Version"
+		}
+	]
 }

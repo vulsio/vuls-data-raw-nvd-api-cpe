@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:cantemo:portal:1.5.3:*:*:*:*:*:*:*",
-  "cpeNameId": "6138094E-E432-4901-B660-BF0AD93E006F",
-  "created": "2019-04-11T13:51:35.670",
-  "lastModified": "2019-04-11T13:51:35.670",
-  "titles": [
-    {
-      "title": "Cantemo Portal 1.5.3",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://doc.cantemo.com/latest/ReleaseNotes/",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:cantemo:portal:1.5.3:*:*:*:*:*:*:*",
+	"cpeNameId": "6138094E-E432-4901-B660-BF0AD93E006F",
+	"created": "2019-04-11T13:51:35.670",
+	"lastModified": "2019-04-11T13:51:35.670",
+	"titles": [
+		{
+			"title": "Cantemo Portal 1.5.3",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://doc.cantemo.com/latest/ReleaseNotes/",
+			"type": "Change Log"
+		}
+	]
 }

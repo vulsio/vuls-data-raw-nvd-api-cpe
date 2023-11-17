@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:libuv:libuv:0.11.20:*:*:*:*:*:*:*",
-  "cpeNameId": "A15BDE54-C15F-4335-9AE2-78C353E2EB3F",
-  "created": "2020-02-24T14:46:59.097",
-  "lastModified": "2020-02-24T14:46:59.097",
-  "titles": [
-    {
-      "title": "Libuv 0.11.20",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://libuv.org/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/libuv/libuv/releases",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:libuv:libuv:0.11.20:*:*:*:*:*:*:*",
+	"cpeNameId": "A15BDE54-C15F-4335-9AE2-78C353E2EB3F",
+	"created": "2020-02-24T14:46:59.097",
+	"lastModified": "2020-02-24T14:46:59.097",
+	"titles": [
+		{
+			"title": "Libuv 0.11.20",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://libuv.org/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/libuv/libuv/releases",
+			"type": "Version"
+		}
+	]
 }

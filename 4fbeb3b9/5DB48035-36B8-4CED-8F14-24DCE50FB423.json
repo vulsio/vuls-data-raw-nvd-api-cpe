@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.5.5:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "5DB48035-36B8-4CED-8F14-24DCE50FB423",
-  "created": "2019-02-28T17:33:09.523",
-  "lastModified": "2019-02-28T17:33:09.523",
-  "titles": [
-    {
-      "title": "Woocommerce 3.5.5 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/woocommerce/woocommerce/releases",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://woocommerce.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.5.5:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "5DB48035-36B8-4CED-8F14-24DCE50FB423",
+	"created": "2019-02-28T17:33:09.523",
+	"lastModified": "2019-02-28T17:33:09.523",
+	"titles": [
+		{
+			"title": "Woocommerce 3.5.5 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/woocommerce/woocommerce/releases",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://woocommerce.com/",
+			"type": "Vendor"
+		}
+	]
 }

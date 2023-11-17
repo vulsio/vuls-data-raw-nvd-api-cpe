@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:ibm:db2:8.2:fp7:*:*:*:*:*:*",
-  "cpeNameId": "2B36A02B-11F4-47A9-9D7F-215BC75134CA",
-  "created": "2008-09-11T19:46:03.367",
-  "lastModified": "2008-09-11T19:46:03.367",
-  "titles": [
-    {
-      "title": "IBM DB2 8.2 Fixpack 7",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:ibm:db2:8.2:fp7:*:*:*:*:*:*",
+	"cpeNameId": "2B36A02B-11F4-47A9-9D7F-215BC75134CA",
+	"created": "2008-09-11T19:46:03.367",
+	"lastModified": "2008-09-11T19:46:03.367",
+	"titles": [
+		{
+			"title": "IBM DB2 8.2 Fixpack 7",
+			"lang": "en"
+		}
+	]
 }

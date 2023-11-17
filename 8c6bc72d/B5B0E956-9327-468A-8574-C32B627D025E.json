@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:gnome:epiphany:3.36.4:*:*:*:*:*:*:*",
-  "cpeNameId": "B5B0E956-9327-468A-8574-C32B627D025E",
-  "created": "2021-12-17T15:07:30.047",
-  "lastModified": "2021-12-17T15:09:29.863",
-  "titles": [
-    {
-      "title": "GNOME Epiphany 3.36.4",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://gitlab.gnome.org/GNOME/epiphany",
-      "type": "Product"
-    },
-    {
-      "ref": "https://gitlab.gnome.org/GNOME/epiphany/-/tags?sort=updated_desc",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:gnome:epiphany:3.36.4:*:*:*:*:*:*:*",
+	"cpeNameId": "B5B0E956-9327-468A-8574-C32B627D025E",
+	"created": "2021-12-17T15:07:30.047",
+	"lastModified": "2021-12-17T15:09:29.863",
+	"titles": [
+		{
+			"title": "GNOME Epiphany 3.36.4",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://gitlab.gnome.org/GNOME/epiphany",
+			"type": "Product"
+		},
+		{
+			"ref": "https://gitlab.gnome.org/GNOME/epiphany/-/tags?sort=updated_desc",
+			"type": "Version"
+		}
+	]
 }

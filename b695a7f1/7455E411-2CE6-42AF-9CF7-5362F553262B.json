@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:haproxy:haproxy:1.2.6:*:*:*:*:*:*:*",
-  "cpeNameId": "7455E411-2CE6-42AF-9CF7-5362F553262B",
-  "created": "2018-06-28T16:00:13.217",
-  "lastModified": "2018-06-28T16:00:13.217",
-  "titles": [
-    {
-      "title": "HAProxy 1.2.6",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www.haproxy.org/download/",
-      "type": "Version"
-    },
-    {
-      "ref": "http://www.haproxy.org/",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:haproxy:haproxy:1.2.6:*:*:*:*:*:*:*",
+	"cpeNameId": "7455E411-2CE6-42AF-9CF7-5362F553262B",
+	"created": "2018-06-28T16:00:13.217",
+	"lastModified": "2018-06-28T16:00:13.217",
+	"titles": [
+		{
+			"title": "HAProxy 1.2.6",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.haproxy.org/download/",
+			"type": "Version"
+		},
+		{
+			"ref": "http://www.haproxy.org/",
+			"type": "Product"
+		}
+	]
 }

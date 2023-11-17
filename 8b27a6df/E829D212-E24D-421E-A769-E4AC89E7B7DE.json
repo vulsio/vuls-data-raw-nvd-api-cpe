@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:ffmpeg:ffmpeg:4.3.3:*:*:*:*:*:*:*",
-  "cpeNameId": "E829D212-E24D-421E-A769-E4AC89E7B7DE",
-  "created": "2022-07-08T14:58:48.387",
-  "lastModified": "2022-07-13T20:02:10.783",
-  "titles": [
-    {
-      "title": "FFmpeg 4.3.3",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/FFmpeg/FFmpeg",
-      "type": "Version"
-    },
-    {
-      "ref": "https://ffmpeg.org/",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:ffmpeg:ffmpeg:4.3.3:*:*:*:*:*:*:*",
+	"cpeNameId": "E829D212-E24D-421E-A769-E4AC89E7B7DE",
+	"created": "2022-07-08T14:58:48.387",
+	"lastModified": "2022-07-13T20:02:10.783",
+	"titles": [
+		{
+			"title": "FFmpeg 4.3.3",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/FFmpeg/FFmpeg",
+			"type": "Version"
+		},
+		{
+			"ref": "https://ffmpeg.org/",
+			"type": "Product"
+		}
+	]
 }

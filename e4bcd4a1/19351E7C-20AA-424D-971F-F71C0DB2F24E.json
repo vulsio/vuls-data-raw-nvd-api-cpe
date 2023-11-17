@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:avsmedia:audio_tools:4.4:*:*:*:*:*:*:*",
-  "cpeNameId": "19351E7C-20AA-424D-971F-F71C0DB2F24E",
-  "created": "2012-04-24T23:26:56.757",
-  "lastModified": "2012-04-24T23:26:56.757",
-  "titles": [
-    {
-      "title": "Avsmedia Audio Tools 4.4",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:avsmedia:audio_tools:4.4:*:*:*:*:*:*:*",
+	"cpeNameId": "19351E7C-20AA-424D-971F-F71C0DB2F24E",
+	"created": "2012-04-24T23:26:56.757",
+	"lastModified": "2012-04-24T23:26:56.757",
+	"titles": [
+		{
+			"title": "Avsmedia Audio Tools 4.4",
+			"lang": "en"
+		}
+	]
 }

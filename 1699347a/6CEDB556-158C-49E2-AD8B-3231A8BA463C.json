@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:kde:kde_sc:4.3.0:beta1:*:*:*:*:*:*",
-  "cpeNameId": "6CEDB556-158C-49E2-AD8B-3231A8BA463C",
-  "created": "2010-05-18T17:13:21.313",
-  "lastModified": "2010-09-24T01:27:14.397",
-  "titles": [
-    {
-      "title": "KDE Software Compilation (SC) 4.3.0 beta1",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:kde:kde_sc:4.3.0:beta1:*:*:*:*:*:*",
+	"cpeNameId": "6CEDB556-158C-49E2-AD8B-3231A8BA463C",
+	"created": "2010-05-18T17:13:21.313",
+	"lastModified": "2010-09-24T01:27:14.397",
+	"titles": [
+		{
+			"title": "KDE Software Compilation (SC) 4.3.0 beta1",
+			"lang": "en"
+		}
+	]
 }

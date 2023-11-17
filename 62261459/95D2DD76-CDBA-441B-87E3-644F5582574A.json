@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:d-bus_project:d-bus:1.13.12:*:*:*:*:*:*:*",
-  "cpeNameId": "95D2DD76-CDBA-441B-87E3-644F5582574A",
-  "created": "2022-10-11T15:06:51.853",
-  "lastModified": "2022-10-13T16:02:43.010",
-  "titles": [
-    {
-      "title": "D-bus Project D-bus 1.13.12",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://gitlab.freedesktop.org/dbus/dbus/-/tags",
-      "type": "Version"
-    },
-    {
-      "ref": "https://gitlab.freedesktop.org/dbus/dbus/-/issues/418",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://www.openwall.com/lists/oss-security/2022/10/06/1",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:d-bus_project:d-bus:1.13.12:*:*:*:*:*:*:*",
+	"cpeNameId": "95D2DD76-CDBA-441B-87E3-644F5582574A",
+	"created": "2022-10-11T15:06:51.853",
+	"lastModified": "2022-10-13T16:02:43.010",
+	"titles": [
+		{
+			"title": "D-bus Project D-bus 1.13.12",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://gitlab.freedesktop.org/dbus/dbus/-/tags",
+			"type": "Version"
+		},
+		{
+			"ref": "https://gitlab.freedesktop.org/dbus/dbus/-/issues/418",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://www.openwall.com/lists/oss-security/2022/10/06/1",
+			"type": "Advisory"
+		}
+	]
 }

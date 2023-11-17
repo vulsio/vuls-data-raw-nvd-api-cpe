@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:jenkins:xebialabs_xl_release:6.1.2:*:*:*:*:jenkins:*:*",
-  "cpeNameId": "A474325F-1C20-4F0A-8C75-A40039AE1A3F",
-  "created": "2022-11-23T01:19:13.767",
-  "lastModified": "2022-11-23T01:22:09.677",
-  "titles": [
-    {
-      "title": "Jenkins XebiaLabs XL Release 6.1.2 for Jenkins",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://plugins.jenkins.io/xlrelease-plugin/#releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:jenkins:xebialabs_xl_release:6.1.2:*:*:*:*:jenkins:*:*",
+	"cpeNameId": "A474325F-1C20-4F0A-8C75-A40039AE1A3F",
+	"created": "2022-11-23T01:19:13.767",
+	"lastModified": "2022-11-23T01:22:09.677",
+	"titles": [
+		{
+			"title": "Jenkins XebiaLabs XL Release 6.1.2 for Jenkins",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://plugins.jenkins.io/xlrelease-plugin/#releases",
+			"type": "Change Log"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:ponsoftware:explzh:8.14:*:*:*:*:*:*:*",
-  "cpeNameId": "7B97173C-12EC-49E0-9CE6-982E586CE89C",
-  "created": "2017-11-22T17:19:14.867",
-  "lastModified": "2021-04-20T15:25:08.077",
-  "titles": [
-    {
-      "title": "Pon Software Explzh 8.14",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.ponsoftware.com/archiver/whatnew.htm",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:ponsoftware:explzh:8.14:*:*:*:*:*:*:*",
+	"cpeNameId": "7B97173C-12EC-49E0-9CE6-982E586CE89C",
+	"created": "2017-11-22T17:19:14.867",
+	"lastModified": "2021-04-20T15:25:08.077",
+	"titles": [
+		{
+			"title": "Pon Software Explzh 8.14",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.ponsoftware.com/archiver/whatnew.htm",
+			"type": "Change Log"
+		}
+	]
 }

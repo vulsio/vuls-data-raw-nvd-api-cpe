@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:iss:proventia_g_series_xpu:22.7:*:*:*:*:*:*:*",
-  "cpeNameId": "FF149F98-6921-4986-965E-E90F55A42394",
-  "created": "2007-08-23T21:16:59.567",
-  "lastModified": "2008-03-25T19:15:51.740",
-  "titles": [
-    {
-      "title": "Internet Security Systems Proventia G Series XPU 22.7",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:iss:proventia_g_series_xpu:22.7:*:*:*:*:*:*:*",
+	"cpeNameId": "FF149F98-6921-4986-965E-E90F55A42394",
+	"created": "2007-08-23T21:16:59.567",
+	"lastModified": "2008-03-25T19:15:51.740",
+	"titles": [
+		{
+			"title": "Internet Security Systems Proventia G Series XPU 22.7",
+			"lang": "en"
+		}
+	]
 }

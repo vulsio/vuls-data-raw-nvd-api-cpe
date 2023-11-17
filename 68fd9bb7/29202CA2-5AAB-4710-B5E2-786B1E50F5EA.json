@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:rengine_project:rengine:0.5:*:*:*:*:*:*:*",
-  "cpeNameId": "29202CA2-5AAB-4710-B5E2-786B1E50F5EA",
-  "created": "2021-08-20T17:34:35.523",
-  "lastModified": "2021-08-23T11:37:09.300",
-  "titles": [
-    {
-      "title": "reNgine Project reNgine 0.5",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/yogeshojha/rengine/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:rengine_project:rengine:0.5:*:*:*:*:*:*:*",
+	"cpeNameId": "29202CA2-5AAB-4710-B5E2-786B1E50F5EA",
+	"created": "2021-08-20T17:34:35.523",
+	"lastModified": "2021-08-23T11:37:09.300",
+	"titles": [
+		{
+			"title": "reNgine Project reNgine 0.5",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/yogeshojha/rengine/releases",
+			"type": "Change Log"
+		}
+	]
 }

@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:oracle:solaris:11:*:*:*:*:*:*:*",
-  "cpeNameId": "C4C460BE-C110-4B92-9939-1ABB8787A44F",
-  "created": "2016-01-26T18:48:33.853",
-  "lastModified": "2016-01-26T18:48:33.853",
-  "titles": [
-    {
-      "title": "Oracle Solaris 11",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www.oracle.com/technetwork/topics/security/cpujan2016-2367955.html",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://www.oracle.com/solaris/solaris11/index.html",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:oracle:solaris:11:*:*:*:*:*:*:*",
+	"cpeNameId": "C4C460BE-C110-4B92-9939-1ABB8787A44F",
+	"created": "2016-01-26T18:48:33.853",
+	"lastModified": "2016-01-26T18:48:33.853",
+	"titles": [
+		{
+			"title": "Oracle Solaris 11",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.oracle.com/technetwork/topics/security/cpujan2016-2367955.html",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://www.oracle.com/solaris/solaris11/index.html",
+			"type": "Product"
+		}
+	]
 }

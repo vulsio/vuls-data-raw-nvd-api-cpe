@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:mozilla:firefox_esr:91.11:*:*:*:*:*:*:*",
-  "cpeNameId": "737F0456-F5A7-47B0-BA7A-CAA3BEF8842B",
-  "created": "2022-12-27T17:36:19.990",
-  "lastModified": "2022-12-27T23:36:24.363",
-  "titles": [
-    {
-      "title": "Mozilla Firefox Extended Support Release (ESR) 91.11",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.mozilla.org/en-US/security/advisories/mfsa2022-25/",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:mozilla:firefox_esr:91.11:*:*:*:*:*:*:*",
+	"cpeNameId": "737F0456-F5A7-47B0-BA7A-CAA3BEF8842B",
+	"created": "2022-12-27T17:36:19.990",
+	"lastModified": "2022-12-27T23:36:24.363",
+	"titles": [
+		{
+			"title": "Mozilla Firefox Extended Support Release (ESR) 91.11",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.mozilla.org/en-US/security/advisories/mfsa2022-25/",
+			"type": "Advisory"
+		}
+	]
 }

@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:pnp4nagios:pnp4nagios:0.6.1:*:*:*:*:*:*:*",
-  "cpeNameId": "45132828-C6A0-421A-86F0-189EA7AA92FD",
-  "created": "2012-08-13T13:40:17.147",
-  "lastModified": "2012-08-20T17:27:19.167",
-  "titles": [
-    {
-      "title": "PNP4Nagios 0.6.1",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:pnp4nagios:pnp4nagios:0.6.1:*:*:*:*:*:*:*",
+	"cpeNameId": "45132828-C6A0-421A-86F0-189EA7AA92FD",
+	"created": "2012-08-13T13:40:17.147",
+	"lastModified": "2012-08-20T17:27:19.167",
+	"titles": [
+		{
+			"title": "PNP4Nagios 0.6.1",
+			"lang": "en"
+		}
+	]
 }

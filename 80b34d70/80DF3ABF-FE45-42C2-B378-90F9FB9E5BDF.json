@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:senecajs:seneca:3.14.1:*:*:*:*:node.js:*:*",
-  "cpeNameId": "80DF3ABF-FE45-42C2-B378-90F9FB9E5BDF",
-  "created": "2019-09-11T18:10:07.537",
-  "lastModified": "2019-09-11T18:10:07.537",
-  "titles": [
-    {
-      "title": "Senecajs Seneca 3.14.1 for Node.js",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/senecajs/seneca/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:senecajs:seneca:3.14.1:*:*:*:*:node.js:*:*",
+	"cpeNameId": "80DF3ABF-FE45-42C2-B378-90F9FB9E5BDF",
+	"created": "2019-09-11T18:10:07.537",
+	"lastModified": "2019-09-11T18:10:07.537",
+	"titles": [
+		{
+			"title": "Senecajs Seneca 3.14.1 for Node.js",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/senecajs/seneca/releases",
+			"type": "Change Log"
+		}
+	]
 }

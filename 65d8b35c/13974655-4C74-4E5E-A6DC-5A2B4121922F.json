@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:sricam:sh016:-:*:*:*:*:*:*:*",
-  "cpeNameId": "13974655-4C74-4E5E-A6DC-5A2B4121922F",
-  "created": "2019-04-02T14:17:17.810",
-  "lastModified": "2019-04-02T14:17:17.810",
-  "titles": [
-    {
-      "title": "Sricam SH016",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www.sricam.com/product.html",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:sricam:sh016:-:*:*:*:*:*:*:*",
+	"cpeNameId": "13974655-4C74-4E5E-A6DC-5A2B4121922F",
+	"created": "2019-04-02T14:17:17.810",
+	"lastModified": "2019-04-02T14:17:17.810",
+	"titles": [
+		{
+			"title": "Sricam SH016",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.sricam.com/product.html",
+			"type": "Product"
+		}
+	]
 }

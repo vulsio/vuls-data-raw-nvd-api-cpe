@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:jenkins:favorite_plugin:1.8:*:*:*:*:jenkins:*:*",
-  "cpeNameId": "E31DE35B-2DB6-47F2-B5B8-9CF7A0A5D42E",
-  "created": "2021-12-15T14:46:16.187",
-  "lastModified": "2021-12-15T17:49:32.667",
-  "titles": [
-    {
-      "title": "Jenkins Favorite Plugin 1.8 for Jenkins",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/jenkinsci/favorite-plugin/releases",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:jenkins:favorite_plugin:1.8:*:*:*:*:jenkins:*:*",
+	"cpeNameId": "E31DE35B-2DB6-47F2-B5B8-9CF7A0A5D42E",
+	"created": "2021-12-15T14:46:16.187",
+	"lastModified": "2021-12-15T17:49:32.667",
+	"titles": [
+		{
+			"title": "Jenkins Favorite Plugin 1.8 for Jenkins",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/jenkinsci/favorite-plugin/releases",
+			"type": "Version"
+		}
+	]
 }

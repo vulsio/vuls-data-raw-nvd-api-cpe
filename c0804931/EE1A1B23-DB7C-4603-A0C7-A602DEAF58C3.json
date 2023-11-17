@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:easyxdm:easyxdm:2.4.4:*:*:*:*:*:*:*",
-  "cpeNameId": "EE1A1B23-DB7C-4603-A0C7-A602DEAF58C3",
-  "created": "2014-02-06T15:51:28.940",
-  "lastModified": "2014-02-06T15:59:22.060",
-  "titles": [
-    {
-      "title": "easyXDM 2.4.4",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/oyvindkinsey/easyXDM/releases"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:easyxdm:easyxdm:2.4.4:*:*:*:*:*:*:*",
+	"cpeNameId": "EE1A1B23-DB7C-4603-A0C7-A602DEAF58C3",
+	"created": "2014-02-06T15:51:28.940",
+	"lastModified": "2014-02-06T15:59:22.060",
+	"titles": [
+		{
+			"title": "easyXDM 2.4.4",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/oyvindkinsey/easyXDM/releases"
+		}
+	]
 }

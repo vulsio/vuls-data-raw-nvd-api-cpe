@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:synology:diskstation_manager:6.2.1:*:*:*:*:*:*:*",
-  "cpeNameId": "43A3AA5F-3FC7-48F5-9B91-510F8FE47DF2",
-  "created": "2019-06-10T12:32:33.633",
-  "lastModified": "2019-06-10T12:32:33.633",
-  "titles": [
-    {
-      "title": "Synology DiskStation Manager 6.2.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.synology.com/en-us/releaseNote/DS418play",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:synology:diskstation_manager:6.2.1:*:*:*:*:*:*:*",
+	"cpeNameId": "43A3AA5F-3FC7-48F5-9B91-510F8FE47DF2",
+	"created": "2019-06-10T12:32:33.633",
+	"lastModified": "2019-06-10T12:32:33.633",
+	"titles": [
+		{
+			"title": "Synology DiskStation Manager 6.2.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.synology.com/en-us/releaseNote/DS418play",
+			"type": "Version"
+		}
+	]
 }

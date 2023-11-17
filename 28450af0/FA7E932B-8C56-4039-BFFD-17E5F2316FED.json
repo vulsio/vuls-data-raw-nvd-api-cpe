@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:adobe:acrobat_reader:10.1.12:*:*:*:*:*:*:*",
-  "cpeNameId": "FA7E932B-8C56-4039-BFFD-17E5F2316FED",
-  "created": "2014-12-11T20:37:27.967",
-  "lastModified": "2014-12-17T18:52:49.497",
-  "titles": [
-    {
-      "title": "Adobe Acrobat Reader 10.1.12",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://helpx.adobe.com/acrobat/release-note/release-notes-acrobat-reader.html",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:adobe:acrobat_reader:10.1.12:*:*:*:*:*:*:*",
+	"cpeNameId": "FA7E932B-8C56-4039-BFFD-17E5F2316FED",
+	"created": "2014-12-11T20:37:27.967",
+	"lastModified": "2014-12-17T18:52:49.497",
+	"titles": [
+		{
+			"title": "Adobe Acrobat Reader 10.1.12",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://helpx.adobe.com/acrobat/release-note/release-notes-acrobat-reader.html",
+			"type": "Version"
+		}
+	]
 }

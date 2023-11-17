@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:bolt:bolt_cms:3.2.15:*:*:*:*:*:*:*",
-  "cpeNameId": "60E29E43-417F-4F67-A39F-5B46B0593874",
-  "created": "2019-06-20T15:48:21.457",
-  "lastModified": "2019-06-20T15:48:21.457",
-  "titles": [
-    {
-      "title": "Bolt CMS 3.2.15",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/bolt/bolt/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:bolt:bolt_cms:3.2.15:*:*:*:*:*:*:*",
+	"cpeNameId": "60E29E43-417F-4F67-A39F-5B46B0593874",
+	"created": "2019-06-20T15:48:21.457",
+	"lastModified": "2019-06-20T15:48:21.457",
+	"titles": [
+		{
+			"title": "Bolt CMS 3.2.15",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/bolt/bolt/releases",
+			"type": "Change Log"
+		}
+	]
 }

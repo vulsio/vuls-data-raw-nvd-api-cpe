@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:libcap_project:libcap:2.66:*:*:*:*:*:*:*",
-  "cpeNameId": "83B8D86D-B6E0-404C-9D99-CACA53B31BB8",
-  "created": "2023-06-14T03:55:02.353",
-  "lastModified": "2023-08-23T18:34:17.317",
-  "titles": [
-    {
-      "title": "libcap Project libcap 2.66",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://sites.google.com/site/fullycapable/release-notes-for-libcap#h.d9ygdose5kw",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:libcap_project:libcap:2.66:*:*:*:*:*:*:*",
+	"cpeNameId": "83B8D86D-B6E0-404C-9D99-CACA53B31BB8",
+	"created": "2023-06-14T03:55:02.353",
+	"lastModified": "2023-08-23T18:34:17.317",
+	"titles": [
+		{
+			"title": "libcap Project libcap 2.66",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://sites.google.com/site/fullycapable/release-notes-for-libcap#h.d9ygdose5kw",
+			"type": "Change Log"
+		}
+	]
 }

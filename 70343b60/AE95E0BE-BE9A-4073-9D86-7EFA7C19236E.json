@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:cisco:node-jose:0.9.3:*:*:*:*:*:*:*",
-  "cpeNameId": "AE95E0BE-BE9A-4073-9D86-7EFA7C19236E",
-  "created": "2018-08-30T13:02:45.537",
-  "lastModified": "2018-08-30T13:02:45.537",
-  "titles": [
-    {
-      "title": "Cisco Node-jose 0.9.3",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/cisco/node-jose/blob/master/CHANGELOG.md",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:cisco:node-jose:0.9.3:*:*:*:*:*:*:*",
+	"cpeNameId": "AE95E0BE-BE9A-4073-9D86-7EFA7C19236E",
+	"created": "2018-08-30T13:02:45.537",
+	"lastModified": "2018-08-30T13:02:45.537",
+	"titles": [
+		{
+			"title": "Cisco Node-jose 0.9.3",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/cisco/node-jose/blob/master/CHANGELOG.md",
+			"type": "Version"
+		}
+	]
 }

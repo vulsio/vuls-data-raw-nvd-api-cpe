@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:scapy:scapy:1.0.4.32:*:*:*:*:*:*:*",
-  "cpeNameId": "24297981-96AA-49C6-861E-2836D42CAC2E",
-  "created": "2019-07-19T12:02:09.877",
-  "lastModified": "2019-07-19T12:02:09.877",
-  "titles": [
-    {
-      "title": "Scapy 1.0.4.32",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/secdev/scapy/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:scapy:scapy:1.0.4.32:*:*:*:*:*:*:*",
+	"cpeNameId": "24297981-96AA-49C6-861E-2836D42CAC2E",
+	"created": "2019-07-19T12:02:09.877",
+	"lastModified": "2019-07-19T12:02:09.877",
+	"titles": [
+		{
+			"title": "Scapy 1.0.4.32",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/secdev/scapy/releases",
+			"type": "Change Log"
+		}
+	]
 }

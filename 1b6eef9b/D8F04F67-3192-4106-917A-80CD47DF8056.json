@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:canonical:cloud-init:23.1.2:*:*:*:*:*:*:*",
-  "cpeNameId": "D8F04F67-3192-4106-917A-80CD47DF8056",
-  "created": "2023-05-03T17:09:03.337",
-  "lastModified": "2023-09-07T14:56:35.707",
-  "titles": [
-    {
-      "title": "Canonical Cloud-init 23.1.2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/canonical/cloud-init/releases",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:canonical:cloud-init:23.1.2:*:*:*:*:*:*:*",
+	"cpeNameId": "D8F04F67-3192-4106-917A-80CD47DF8056",
+	"created": "2023-05-03T17:09:03.337",
+	"lastModified": "2023-09-07T14:56:35.707",
+	"titles": [
+		{
+			"title": "Canonical Cloud-init 23.1.2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/canonical/cloud-init/releases",
+			"type": "Version"
+		}
+	]
 }

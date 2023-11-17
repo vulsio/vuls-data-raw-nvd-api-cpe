@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:eclipse:hono:1.5.3:*:*:*:*:*:*:*",
-  "cpeNameId": "47481A24-ED31-4ADF-BB58-16D920872CEA",
-  "created": "2020-11-19T15:32:38.497",
-  "lastModified": "2020-11-19T15:32:38.497",
-  "titles": [
-    {
-      "title": "Eclipse Hono 1.5.3",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.eclipse.org/hono/release-notes/",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:eclipse:hono:1.5.3:*:*:*:*:*:*:*",
+	"cpeNameId": "47481A24-ED31-4ADF-BB58-16D920872CEA",
+	"created": "2020-11-19T15:32:38.497",
+	"lastModified": "2020-11-19T15:32:38.497",
+	"titles": [
+		{
+			"title": "Eclipse Hono 1.5.3",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.eclipse.org/hono/release-notes/",
+			"type": "Change Log"
+		}
+	]
 }

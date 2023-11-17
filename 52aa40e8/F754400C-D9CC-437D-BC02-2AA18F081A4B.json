@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:gnome:gnome-terminal:2.1.2:*:*:*:*:*:*:*",
-  "cpeNameId": "F754400C-D9CC-437D-BC02-2AA18F081A4B",
-  "created": "2007-08-23T21:16:59.567",
-  "lastModified": "2010-08-09T22:08:03.143",
-  "titles": [
-    {
-      "title": "GNOME gnome-terminal 2.1.2",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:gnome:gnome-terminal:2.1.2:*:*:*:*:*:*:*",
+	"cpeNameId": "F754400C-D9CC-437D-BC02-2AA18F081A4B",
+	"created": "2007-08-23T21:16:59.567",
+	"lastModified": "2010-08-09T22:08:03.143",
+	"titles": [
+		{
+			"title": "GNOME gnome-terminal 2.1.2",
+			"lang": "en"
+		}
+	]
 }

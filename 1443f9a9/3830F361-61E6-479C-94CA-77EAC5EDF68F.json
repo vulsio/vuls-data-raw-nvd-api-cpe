@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:wpdownloadmanager:download_manager:3.2.55:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "3830F361-61E6-479C-94CA-77EAC5EDF68F",
-  "created": "2023-04-24T18:05:43.163",
-  "lastModified": "2023-06-15T18:19:59.717",
-  "titles": [
-    {
-      "title": "WordPress Download Manager Download Manager 3.2.55 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wordpress.org/plugins/download-manager/#developers",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://www.wpdownloadmanager.com/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://patchstack.com/database/vulnerability/download-manager/wordpress-download-manager-plugin-3-2-59-reflected-cross-site-scripting-xss-vulnerability?_s_id=cve",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:wpdownloadmanager:download_manager:3.2.55:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "3830F361-61E6-479C-94CA-77EAC5EDF68F",
+	"created": "2023-04-24T18:05:43.163",
+	"lastModified": "2023-06-15T18:19:59.717",
+	"titles": [
+		{
+			"title": "WordPress Download Manager Download Manager 3.2.55 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/download-manager/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://www.wpdownloadmanager.com/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://patchstack.com/database/vulnerability/download-manager/wordpress-download-manager-plugin-3-2-59-reflected-cross-site-scripting-xss-vulnerability?_s_id=cve",
+			"type": "Advisory"
+		}
+	]
 }

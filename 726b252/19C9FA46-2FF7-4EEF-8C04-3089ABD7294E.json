@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:dell:emc_vnxe1600:-:*:*:*:*:*:*:*",
-  "cpeNameId": "19C9FA46-2FF7-4EEF-8C04-3089ABD7294E",
-  "created": "2016-09-22T01:24:43.507",
-  "lastModified": "2021-05-07T17:29:21.373",
-  "titles": [
-    {
-      "title": "Dell Emc Vnxe1600 -",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.emc.com/en-us/storage/vnx.htm",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:dell:emc_vnxe1600:-:*:*:*:*:*:*:*",
+	"cpeNameId": "19C9FA46-2FF7-4EEF-8C04-3089ABD7294E",
+	"created": "2016-09-22T01:24:43.507",
+	"lastModified": "2021-05-07T17:29:21.373",
+	"titles": [
+		{
+			"title": "Dell Emc Vnxe1600 -",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.emc.com/en-us/storage/vnx.htm",
+			"type": "Product"
+		}
+	]
 }

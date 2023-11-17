@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:hp:arubaos:-:*:*:*:*:*:*:*",
-  "cpeNameId": "6D179097-B6FE-41D3-82C1-ACBBFFF01727",
-  "created": "2019-06-21T19:04:02.410",
-  "lastModified": "2019-06-21T19:04:02.410",
-  "titles": [
-    {
-      "title": "HP ArubaOS",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.arubanetworks.com/products/networking/arubaos/",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:hp:arubaos:-:*:*:*:*:*:*:*",
+	"cpeNameId": "6D179097-B6FE-41D3-82C1-ACBBFFF01727",
+	"created": "2019-06-21T19:04:02.410",
+	"lastModified": "2019-06-21T19:04:02.410",
+	"titles": [
+		{
+			"title": "HP ArubaOS",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.arubanetworks.com/products/networking/arubaos/",
+			"type": "Product"
+		}
+	]
 }

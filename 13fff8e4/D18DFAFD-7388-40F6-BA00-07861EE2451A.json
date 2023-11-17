@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:freedesktop:udisks:1.97.0:*:*:*:*:*:*:*",
-  "cpeNameId": "D18DFAFD-7388-40F6-BA00-07861EE2451A",
-  "created": "2014-03-12T18:13:58.383",
-  "lastModified": "2014-03-25T18:33:42.883",
-  "titles": [
-    {
-      "title": "Freedesktop udisks 1.97.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://udisks.freedesktop.org/docs/"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:freedesktop:udisks:1.97.0:*:*:*:*:*:*:*",
+	"cpeNameId": "D18DFAFD-7388-40F6-BA00-07861EE2451A",
+	"created": "2014-03-12T18:13:58.383",
+	"lastModified": "2014-03-25T18:33:42.883",
+	"titles": [
+		{
+			"title": "Freedesktop udisks 1.97.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://udisks.freedesktop.org/docs/"
+		}
+	]
 }

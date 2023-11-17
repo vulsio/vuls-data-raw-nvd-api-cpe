@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:cryptography_project:cryptography:3.4.6:*:*:*:*:python:*:*",
-  "cpeNameId": "36335A64-E5C6-4181-AD90-2BBDE80A38F5",
-  "created": "2023-02-14T16:12:00.870",
-  "lastModified": "2023-02-14T17:53:54.190",
-  "titles": [
-    {
-      "title": "cryptography Project cryptography 3.4.6 for Python",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://pypi.org/project/cryptography/",
-      "type": "Project"
-    },
-    {
-      "ref": "https://github.com/pyca/cryptography/tags",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:cryptography_project:cryptography:3.4.6:*:*:*:*:python:*:*",
+	"cpeNameId": "36335A64-E5C6-4181-AD90-2BBDE80A38F5",
+	"created": "2023-02-14T16:12:00.870",
+	"lastModified": "2023-02-14T17:53:54.190",
+	"titles": [
+		{
+			"title": "cryptography Project cryptography 3.4.6 for Python",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://pypi.org/project/cryptography/",
+			"type": "Project"
+		},
+		{
+			"ref": "https://github.com/pyca/cryptography/tags",
+			"type": "Version"
+		}
+	]
 }

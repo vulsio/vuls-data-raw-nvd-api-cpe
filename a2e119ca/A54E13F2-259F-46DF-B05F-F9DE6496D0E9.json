@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:tamos:commtraffic:-:*:*:*:*:*:*:*",
-  "cpeNameId": "A54E13F2-259F-46DF-B05F-F9DE6496D0E9",
-  "created": "2007-08-23T21:05:57.937",
-  "lastModified": "2008-03-25T19:18:17.007",
-  "titles": [
-    {
-      "title": "TamoSoft Commtraffic",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:tamos:commtraffic:-:*:*:*:*:*:*:*",
+	"cpeNameId": "A54E13F2-259F-46DF-B05F-F9DE6496D0E9",
+	"created": "2007-08-23T21:05:57.937",
+	"lastModified": "2008-03-25T19:18:17.007",
+	"titles": [
+		{
+			"title": "TamoSoft Commtraffic",
+			"lang": "en"
+		}
+	]
 }

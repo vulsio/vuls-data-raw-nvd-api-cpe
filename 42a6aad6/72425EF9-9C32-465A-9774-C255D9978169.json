@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:ibm:change_and_configuration_management_database:7.0:*:*:*:*:*:*:*",
-  "cpeNameId": "72425EF9-9C32-465A-9774-C255D9978169",
-  "created": "2012-09-11T13:24:47.377",
-  "lastModified": "2012-09-18T14:10:23.380",
-  "titles": [
-    {
-      "title": "IBM Change and Configuration Management Database (CCMDB) 7.0",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:ibm:change_and_configuration_management_database:7.0:*:*:*:*:*:*:*",
+	"cpeNameId": "72425EF9-9C32-465A-9774-C255D9978169",
+	"created": "2012-09-11T13:24:47.377",
+	"lastModified": "2012-09-18T14:10:23.380",
+	"titles": [
+		{
+			"title": "IBM Change and Configuration Management Database (CCMDB) 7.0",
+			"lang": "en"
+		}
+	]
 }

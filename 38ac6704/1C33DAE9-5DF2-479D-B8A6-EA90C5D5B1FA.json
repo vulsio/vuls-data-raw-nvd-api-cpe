@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:lenovo:thinkstation_c30_\\(1136\\):-:*:*:*:*:*:*:*",
-  "cpeNameId": "1C33DAE9-5DF2-479D-B8A6-EA90C5D5B1FA",
-  "created": "2017-08-28T17:40:31.013",
-  "lastModified": "2021-05-06T17:40:56.430",
-  "titles": [
-    {
-      "title": "Lenovo ThinkStation C30 (1136)",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.lenovo.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://www.lenovo.com/us/en/workstations/thinkstation/c-series/c30/",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:lenovo:thinkstation_c30_\\(1136\\):-:*:*:*:*:*:*:*",
+	"cpeNameId": "1C33DAE9-5DF2-479D-B8A6-EA90C5D5B1FA",
+	"created": "2017-08-28T17:40:31.013",
+	"lastModified": "2021-05-06T17:40:56.430",
+	"titles": [
+		{
+			"title": "Lenovo ThinkStation C30 (1136)",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.lenovo.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://www.lenovo.com/us/en/workstations/thinkstation/c-series/c30/",
+			"type": "Product"
+		}
+	]
 }

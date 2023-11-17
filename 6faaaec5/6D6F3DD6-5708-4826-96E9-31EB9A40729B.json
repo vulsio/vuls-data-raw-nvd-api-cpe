@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:mozilla:firefox_esr:17.0.3:*:*:*:*:*:*:*",
-  "cpeNameId": "6D6F3DD6-5708-4826-96E9-31EB9A40729B",
-  "created": "2013-03-22T19:23:10.490",
-  "lastModified": "2013-03-26T22:46:13.717",
-  "titles": [
-    {
-      "title": "Mozilla Firefox Extended Support Release (ESR) 17.0.3",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:mozilla:firefox_esr:17.0.3:*:*:*:*:*:*:*",
+	"cpeNameId": "6D6F3DD6-5708-4826-96E9-31EB9A40729B",
+	"created": "2013-03-22T19:23:10.490",
+	"lastModified": "2013-03-26T22:46:13.717",
+	"titles": [
+		{
+			"title": "Mozilla Firefox Extended Support Release (ESR) 17.0.3",
+			"lang": "en"
+		}
+	]
 }

@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:mailenable:mailenable:1.7:-:professional:*:*:*:*:*",
-  "cpeNameId": "187DF519-F867-466F-8F36-D5114266164C",
-  "created": "2012-02-10T19:24:54.797",
-  "lastModified": "2012-02-10T19:24:54.797",
-  "titles": [
-    {
-      "title": "MailEnable Professional 1.7",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:mailenable:mailenable:1.7:-:professional:*:*:*:*:*",
+	"cpeNameId": "187DF519-F867-466F-8F36-D5114266164C",
+	"created": "2012-02-10T19:24:54.797",
+	"lastModified": "2012-02-10T19:24:54.797",
+	"titles": [
+		{
+			"title": "MailEnable Professional 1.7",
+			"lang": "en"
+		}
+	]
 }

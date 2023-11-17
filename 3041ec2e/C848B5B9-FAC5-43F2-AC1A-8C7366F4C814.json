@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:mozilla:firefox:98.0.1:*:*:*:*:*:*:*",
-  "cpeNameId": "C848B5B9-FAC5-43F2-AC1A-8C7366F4C814",
-  "created": "2022-12-27T13:10:35.013",
-  "lastModified": "2022-12-27T14:06:22.157",
-  "titles": [
-    {
-      "title": "Mozilla Firefox 98.0.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.mozilla.org/en-US/firefox/98.0.1/releasenotes/",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:mozilla:firefox:98.0.1:*:*:*:*:*:*:*",
+	"cpeNameId": "C848B5B9-FAC5-43F2-AC1A-8C7366F4C814",
+	"created": "2022-12-27T13:10:35.013",
+	"lastModified": "2022-12-27T14:06:22.157",
+	"titles": [
+		{
+			"title": "Mozilla Firefox 98.0.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.mozilla.org/en-US/firefox/98.0.1/releasenotes/",
+			"type": "Change Log"
+		}
+	]
 }

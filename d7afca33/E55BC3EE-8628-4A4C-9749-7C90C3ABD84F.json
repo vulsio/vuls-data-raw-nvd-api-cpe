@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:owncloud:owncloud:8.2.3:rc1:*:*:*:*:*:*",
-  "cpeNameId": "E55BC3EE-8628-4A4C-9749-7C90C3ABD84F",
-  "created": "2019-06-25T15:59:21.100",
-  "lastModified": "2019-06-25T15:59:21.100",
-  "titles": [
-    {
-      "title": "ownCloud 8.2.3 Release Candidate 1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/owncloud/docs/tags",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:owncloud:owncloud:8.2.3:rc1:*:*:*:*:*:*",
+	"cpeNameId": "E55BC3EE-8628-4A4C-9749-7C90C3ABD84F",
+	"created": "2019-06-25T15:59:21.100",
+	"lastModified": "2019-06-25T15:59:21.100",
+	"titles": [
+		{
+			"title": "ownCloud 8.2.3 Release Candidate 1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/owncloud/docs/tags",
+			"type": "Change Log"
+		}
+	]
 }

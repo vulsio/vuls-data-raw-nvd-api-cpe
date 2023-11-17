@@ -1,17 +1,17 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:artonx.org:activescriptruby:1.6.8.1:*:*:*:*:*:*:*",
-  "cpeNameId": "0665A141-5680-442C-9A80-2041D75889ED",
-  "created": "2012-04-17T12:10:32.493",
-  "lastModified": "2012-04-17T12:10:32.493",
-  "titles": [
-    {
-      "title": "arton ActiveScriptRuby 1.6.8.1",
-      "lang": "en"
-    },
-    {
-      "title": "arton ActiveScriptRuby 1.6.8.1",
-      "lang": "ja"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:artonx.org:activescriptruby:1.6.8.1:*:*:*:*:*:*:*",
+	"cpeNameId": "0665A141-5680-442C-9A80-2041D75889ED",
+	"created": "2012-04-17T12:10:32.493",
+	"lastModified": "2012-04-17T12:10:32.493",
+	"titles": [
+		{
+			"title": "arton ActiveScriptRuby 1.6.8.1",
+			"lang": "en"
+		},
+		{
+			"title": "arton ActiveScriptRuby 1.6.8.1",
+			"lang": "ja"
+		}
+	]
 }

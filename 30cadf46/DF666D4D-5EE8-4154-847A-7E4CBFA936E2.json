@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:ibm:cics_tx:11.1:*:*:*:standard:*:*:*",
-  "cpeNameId": "DF666D4D-5EE8-4154-847A-7E4CBFA936E2",
-  "created": "2022-07-05T17:28:49.783",
-  "lastModified": "2022-07-12T13:08:10.930",
-  "titles": [
-    {
-      "title": "IBM Cics Tx 11.1 Standard Edition",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.ibm.com/support/pages/node/6597533",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:ibm:cics_tx:11.1:*:*:*:standard:*:*:*",
+	"cpeNameId": "DF666D4D-5EE8-4154-847A-7E4CBFA936E2",
+	"created": "2022-07-05T17:28:49.783",
+	"lastModified": "2022-07-12T13:08:10.930",
+	"titles": [
+		{
+			"title": "IBM Cics Tx 11.1 Standard Edition",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.ibm.com/support/pages/node/6597533",
+			"type": "Advisory"
+		}
+	]
 }

@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:php:php:5.3.0:*:*:*:*:*:*:*",
-  "cpeNameId": "7CE01BB0-56C1-4917-BCA2-E587D69078ED",
-  "created": "2009-10-20T16:55:55.377",
-  "lastModified": "2010-08-31T01:27:47.157",
-  "titles": [
-    {
-      "title": "PHP 5.3.0",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:php:php:5.3.0:*:*:*:*:*:*:*",
+	"cpeNameId": "7CE01BB0-56C1-4917-BCA2-E587D69078ED",
+	"created": "2009-10-20T16:55:55.377",
+	"lastModified": "2010-08-31T01:27:47.157",
+	"titles": [
+		{
+			"title": "PHP 5.3.0",
+			"lang": "en"
+		}
+	]
 }

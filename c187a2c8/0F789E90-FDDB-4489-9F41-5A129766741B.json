@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:gnu:gettext:-:*:*:*:*:*:*:*",
-  "cpeNameId": "0F789E90-FDDB-4489-9F41-5A129766741B",
-  "created": "2007-08-23T21:05:57.937",
-  "lastModified": "2007-09-14T17:36:49.090",
-  "titles": [
-    {
-      "title": "GNU gettext",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:gnu:gettext:-:*:*:*:*:*:*:*",
+	"cpeNameId": "0F789E90-FDDB-4489-9F41-5A129766741B",
+	"created": "2007-08-23T21:05:57.937",
+	"lastModified": "2007-09-14T17:36:49.090",
+	"titles": [
+		{
+			"title": "GNU gettext",
+			"lang": "en"
+		}
+	]
 }

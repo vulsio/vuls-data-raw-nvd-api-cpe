@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:qnap:qts:4.3.6.0944:*:*:*:*:*:*:*",
-  "cpeNameId": "AC2AB0FB-6FA3-4D54-A1D0-05EFA7035976",
-  "created": "2019-06-26T12:19:24.217",
-  "lastModified": "2019-06-26T12:19:24.217",
-  "titles": [
-    {
-      "title": "QNAP QTS 4.3.6.0944",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.qnap.com/zh-hk/releasenotes/index.php?cat_choose=5",
-      "type": "Version"
-    },
-    {
-      "ref": "https://www.qnap.com/zh-hk/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:qnap:qts:4.3.6.0944:*:*:*:*:*:*:*",
+	"cpeNameId": "AC2AB0FB-6FA3-4D54-A1D0-05EFA7035976",
+	"created": "2019-06-26T12:19:24.217",
+	"lastModified": "2019-06-26T12:19:24.217",
+	"titles": [
+		{
+			"title": "QNAP QTS 4.3.6.0944",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.qnap.com/zh-hk/releasenotes/index.php?cat_choose=5",
+			"type": "Version"
+		},
+		{
+			"ref": "https://www.qnap.com/zh-hk/",
+			"type": "Vendor"
+		}
+	]
 }

@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:linuxfoundation:argo-cd:2.3.5:*:*:*:*:*:*:*",
-  "cpeNameId": "7ED113F2-C20A-41D2-B124-96B58A214F59",
-  "created": "2022-07-05T19:40:37.600",
-  "lastModified": "2022-07-06T14:26:58.553",
-  "titles": [
-    {
-      "title": "The Linux Foundation Argo CD 2.3.5",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/argoproj/argo-cd/releases",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://www.linuxfoundation.org/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://argo-cd.readthedocs.io/en/stable/",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:linuxfoundation:argo-cd:2.3.5:*:*:*:*:*:*:*",
+	"cpeNameId": "7ED113F2-C20A-41D2-B124-96B58A214F59",
+	"created": "2022-07-05T19:40:37.600",
+	"lastModified": "2022-07-06T14:26:58.553",
+	"titles": [
+		{
+			"title": "The Linux Foundation Argo CD 2.3.5",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/argoproj/argo-cd/releases",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://www.linuxfoundation.org/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://argo-cd.readthedocs.io/en/stable/",
+			"type": "Product"
+		}
+	]
 }

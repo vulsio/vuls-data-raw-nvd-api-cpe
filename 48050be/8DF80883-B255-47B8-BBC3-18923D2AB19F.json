@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:gnu:glibc:2.12.2:*:*:*:*:*:*:*",
-  "cpeNameId": "8DF80883-B255-47B8-BBC3-18923D2AB19F",
-  "created": "2011-01-13T20:49:07.247",
-  "lastModified": "2013-05-08T14:48:31.923",
-  "titles": [
-    {
-      "title": "GNU glibc 2.12.2",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:gnu:glibc:2.12.2:*:*:*:*:*:*:*",
+	"cpeNameId": "8DF80883-B255-47B8-BBC3-18923D2AB19F",
+	"created": "2011-01-13T20:49:07.247",
+	"lastModified": "2013-05-08T14:48:31.923",
+	"titles": [
+		{
+			"title": "GNU glibc 2.12.2",
+			"lang": "en"
+		}
+	]
 }

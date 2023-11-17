@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:synology:fs3410:-:*:*:*:*:*:*:*",
-  "cpeNameId": "F1A1EA0D-CA01-44B2-A79A-671C542DB11A",
-  "created": "2022-10-21T14:02:20.200",
-  "lastModified": "2022-10-25T15:44:44.353",
-  "titles": [
-    {
-      "title": "Synology FS3410",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.synology.com/en-uk/products/FS3410",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:synology:fs3410:-:*:*:*:*:*:*:*",
+	"cpeNameId": "F1A1EA0D-CA01-44B2-A79A-671C542DB11A",
+	"created": "2022-10-21T14:02:20.200",
+	"lastModified": "2022-10-25T15:44:44.353",
+	"titles": [
+		{
+			"title": "Synology FS3410",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.synology.com/en-uk/products/FS3410",
+			"type": "Product"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:oracle:communications_messaging_server:6.3:*:*:*:*:*:*:*",
-  "cpeNameId": "9056F5BF-883E-4FD5-B169-6924DEA884ED",
-  "created": "2019-05-24T18:37:16.600",
-  "lastModified": "2019-05-24T18:37:16.600",
-  "titles": [
-    {
-      "title": "Oracle Communications Messaging Server 6.3",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www.oracle.com/technetwork/security-advisory/cpujul2016-2881720.html",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:oracle:communications_messaging_server:6.3:*:*:*:*:*:*:*",
+	"cpeNameId": "9056F5BF-883E-4FD5-B169-6924DEA884ED",
+	"created": "2019-05-24T18:37:16.600",
+	"lastModified": "2019-05-24T18:37:16.600",
+	"titles": [
+		{
+			"title": "Oracle Communications Messaging Server 6.3",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.oracle.com/technetwork/security-advisory/cpujul2016-2881720.html",
+			"type": "Advisory"
+		}
+	]
 }

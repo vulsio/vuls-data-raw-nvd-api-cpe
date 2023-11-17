@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:miniorange:limit_login_attempts:2.17.0:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "0C34EB8F-BF5A-4199-906B-9AEC8B1E359C",
-  "created": "2022-08-01T13:28:21.310",
-  "lastModified": "2022-08-01T13:47:09.087",
-  "titles": [
-    {
-      "title": "Miniorange Limit Login Attempts 2.17.0 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wordpress.org/plugins/limit-login-attempts-reloaded/#developers",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:miniorange:limit_login_attempts:2.17.0:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "0C34EB8F-BF5A-4199-906B-9AEC8B1E359C",
+	"created": "2022-08-01T13:28:21.310",
+	"lastModified": "2022-08-01T13:47:09.087",
+	"titles": [
+		{
+			"title": "Miniorange Limit Login Attempts 2.17.0 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/limit-login-attempts-reloaded/#developers",
+			"type": "Change Log"
+		}
+	]
 }

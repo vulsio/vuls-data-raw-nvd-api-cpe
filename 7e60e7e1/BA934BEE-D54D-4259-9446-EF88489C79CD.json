@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:apple:mdnsresponder:567:*:*:*:*:*:*:*",
-  "cpeNameId": "BA934BEE-D54D-4259-9446-EF88489C79CD",
-  "created": "2019-06-18T18:20:35.820",
-  "lastModified": "2019-06-18T18:20:35.820",
-  "titles": [
-    {
-      "title": "Apple mDNSResponder 567",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://opensource.apple.com/tarballs/mDNSResponder/",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:apple:mdnsresponder:567:*:*:*:*:*:*:*",
+	"cpeNameId": "BA934BEE-D54D-4259-9446-EF88489C79CD",
+	"created": "2019-06-18T18:20:35.820",
+	"lastModified": "2019-06-18T18:20:35.820",
+	"titles": [
+		{
+			"title": "Apple mDNSResponder 567",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://opensource.apple.com/tarballs/mDNSResponder/",
+			"type": "Change Log"
+		}
+	]
 }

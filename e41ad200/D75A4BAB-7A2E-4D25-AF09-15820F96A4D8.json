@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:nextcloud:officeonline:-:*:*:*:*:*:*:*",
-  "cpeNameId": "D75A4BAB-7A2E-4D25-AF09-15820F96A4D8",
-  "created": "2021-10-28T10:52:15.423",
-  "lastModified": "2021-10-28T18:57:27.263",
-  "titles": [
-    {
-      "title": "Nextcloud Office Online",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/nextcloud/officeonline/tags",
-      "type": "Version"
-    },
-    {
-      "ref": "https://github.com/nextcloud/security-advisories/security/advisories/GHSA-56wm-r6jm-3v9h",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:nextcloud:officeonline:-:*:*:*:*:*:*:*",
+	"cpeNameId": "D75A4BAB-7A2E-4D25-AF09-15820F96A4D8",
+	"created": "2021-10-28T10:52:15.423",
+	"lastModified": "2021-10-28T18:57:27.263",
+	"titles": [
+		{
+			"title": "Nextcloud Office Online",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/nextcloud/officeonline/tags",
+			"type": "Version"
+		},
+		{
+			"ref": "https://github.com/nextcloud/security-advisories/security/advisories/GHSA-56wm-r6jm-3v9h",
+			"type": "Advisory"
+		}
+	]
 }

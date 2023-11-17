@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:fla-shop:html5_maps:1.5.9.5:*:*:*:*:*:*:*",
-  "cpeNameId": "2E2B81BB-CBEC-406C-9A35-F76756CD82C8",
-  "created": "2019-07-15T13:00:04.960",
-  "lastModified": "2019-07-15T13:00:04.960",
-  "titles": [
-    {
-      "title": "Fla-Shop HTML5 Maps 1.5.9.5",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.fla-shop.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://wordpress.org/plugins/html5-maps/#developers",
-      "type": "Version"
-    },
-    {
-      "ref": "https://wordpress.org/plugins/html5-maps/",
-      "type": "Project"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:fla-shop:html5_maps:1.5.9.5:*:*:*:*:*:*:*",
+	"cpeNameId": "2E2B81BB-CBEC-406C-9A35-F76756CD82C8",
+	"created": "2019-07-15T13:00:04.960",
+	"lastModified": "2019-07-15T13:00:04.960",
+	"titles": [
+		{
+			"title": "Fla-Shop HTML5 Maps 1.5.9.5",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.fla-shop.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/html5-maps/#developers",
+			"type": "Version"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/html5-maps/",
+			"type": "Project"
+		}
+	]
 }

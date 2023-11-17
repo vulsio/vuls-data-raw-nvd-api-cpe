@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:iptables-parse_project:iptables-parse_module:0.5:*:*:*:*:perl:*:*",
-  "cpeNameId": "2435AAA3-3C9A-464A-B6D6-940D47063ECA",
-  "created": "2020-02-05T16:47:44.297",
-  "lastModified": "2020-02-05T16:47:44.297",
-  "titles": [
-    {
-      "title": "IPTables-Parse Project IPTables-Parse Module 0.5 for Perl",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/mrash/IPTables-Parse/tags",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:iptables-parse_project:iptables-parse_module:0.5:*:*:*:*:perl:*:*",
+	"cpeNameId": "2435AAA3-3C9A-464A-B6D6-940D47063ECA",
+	"created": "2020-02-05T16:47:44.297",
+	"lastModified": "2020-02-05T16:47:44.297",
+	"titles": [
+		{
+			"title": "IPTables-Parse Project IPTables-Parse Module 0.5 for Perl",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/mrash/IPTables-Parse/tags",
+			"type": "Change Log"
+		}
+	]
 }

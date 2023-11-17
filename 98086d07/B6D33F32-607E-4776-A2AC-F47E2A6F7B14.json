@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:foxitsoftware:reader:2.3:*:*:*:*:*:*:*",
-  "cpeNameId": "B6D33F32-607E-4776-A2AC-F47E2A6F7B14",
-  "created": "2018-11-21T17:38:22.867",
-  "lastModified": "2018-11-21T17:38:22.867",
-  "titles": [
-    {
-      "title": "Foxit Software Reader 2.3",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.foxitsoftware.com/pdf-reader/version-history.php",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:foxitsoftware:reader:2.3:*:*:*:*:*:*:*",
+	"cpeNameId": "B6D33F32-607E-4776-A2AC-F47E2A6F7B14",
+	"created": "2018-11-21T17:38:22.867",
+	"lastModified": "2018-11-21T17:38:22.867",
+	"titles": [
+		{
+			"title": "Foxit Software Reader 2.3",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.foxitsoftware.com/pdf-reader/version-history.php",
+			"type": "Change Log"
+		}
+	]
 }

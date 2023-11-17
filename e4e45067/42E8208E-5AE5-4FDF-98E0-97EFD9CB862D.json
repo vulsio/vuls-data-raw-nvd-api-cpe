@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:apache:http_server:2.4.53:*:*:*:*:*:*:*",
-  "cpeNameId": "42E8208E-5AE5-4FDF-98E0-97EFD9CB862D",
-  "created": "2022-03-18T15:05:55.127",
-  "lastModified": "2022-03-18T20:02:05.370",
-  "titles": [
-    {
-      "title": "Apache Software Foundation Apache HTTP Server 2.4.53",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://httpd.apache.org/download.cgi",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:apache:http_server:2.4.53:*:*:*:*:*:*:*",
+	"cpeNameId": "42E8208E-5AE5-4FDF-98E0-97EFD9CB862D",
+	"created": "2022-03-18T15:05:55.127",
+	"lastModified": "2022-03-18T20:02:05.370",
+	"titles": [
+		{
+			"title": "Apache Software Foundation Apache HTTP Server 2.4.53",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://httpd.apache.org/download.cgi",
+			"type": "Change Log"
+		}
+	]
 }

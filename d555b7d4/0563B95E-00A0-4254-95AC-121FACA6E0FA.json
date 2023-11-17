@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:sem-cms:semcms:-:*:*:*:*:*:*:*",
-  "cpeNameId": "0563B95E-00A0-4254-95AC-121FACA6E0FA",
-  "created": "2022-08-10T16:49:04.200",
-  "lastModified": "2022-08-10T17:03:19.260",
-  "titles": [
-    {
-      "title": "SemCMS",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www.sem-cms.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:sem-cms:semcms:-:*:*:*:*:*:*:*",
+	"cpeNameId": "0563B95E-00A0-4254-95AC-121FACA6E0FA",
+	"created": "2022-08-10T16:49:04.200",
+	"lastModified": "2022-08-10T17:03:19.260",
+	"titles": [
+		{
+			"title": "SemCMS",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.sem-cms.com/",
+			"type": "Vendor"
+		}
+	]
 }

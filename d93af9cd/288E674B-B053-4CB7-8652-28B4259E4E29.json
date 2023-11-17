@@ -1,45 +1,45 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:nodejs:node.js:10.8.0:*:*:*:-:*:*:*",
-  "cpeNameId": "288E674B-B053-4CB7-8652-28B4259E4E29",
-  "created": "2020-02-10T17:54:08.380",
-  "lastModified": "2020-02-10T17:54:08.380",
-  "titles": [
-    {
-      "title": "Nodejs Node.js 10.8.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://nodejs.org/en/download/releases/",
-      "type": "Version"
-    },
-    {
-      "ref": "https://nodejs.org/en/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://nodejs.org/download/docs/",
-      "type": "Version"
-    },
-    {
-      "ref": "https://github.com/nodejs/node",
-      "type": "Version"
-    },
-    {
-      "ref": "https://github.com/nodejs/node/blob/master/CHANGELOG.md",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://nodejs.org/docs/",
-      "type": "Change Log"
-    }
-  ],
-  "deprecates": [
-    {
-      "cpeName": "cpe:2.3:a:nodejs:node.js:10.8.0:*:*:*:*:*:*:*",
-      "cpeNameId": "74B9002D-489D-409F-8853-BC27D9C5416C"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:nodejs:node.js:10.8.0:*:*:*:-:*:*:*",
+	"cpeNameId": "288E674B-B053-4CB7-8652-28B4259E4E29",
+	"created": "2020-02-10T17:54:08.380",
+	"lastModified": "2020-02-10T17:54:08.380",
+	"titles": [
+		{
+			"title": "Nodejs Node.js 10.8.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://nodejs.org/en/download/releases/",
+			"type": "Version"
+		},
+		{
+			"ref": "https://nodejs.org/en/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://nodejs.org/download/docs/",
+			"type": "Version"
+		},
+		{
+			"ref": "https://github.com/nodejs/node",
+			"type": "Version"
+		},
+		{
+			"ref": "https://github.com/nodejs/node/blob/master/CHANGELOG.md",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://nodejs.org/docs/",
+			"type": "Change Log"
+		}
+	],
+	"deprecates": [
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:10.8.0:*:*:*:*:*:*:*",
+			"cpeNameId": "74B9002D-489D-409F-8853-BC27D9C5416C"
+		}
+	]
 }

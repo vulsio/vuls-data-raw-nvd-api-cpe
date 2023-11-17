@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:checkpoint:endpoint_security:e86.20:*:*:*:*:*:*:*",
-  "cpeNameId": "5FD1286B-B0CB-4B46-860A-90406F59FE5C",
-  "created": "2022-07-15T14:55:40.947",
-  "lastModified": "2022-07-26T15:37:00.547",
-  "titles": [
-    {
-      "title": "Check Point Endpoint Security E86.20",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.checkpoint.com/solutions/endpoint-security/",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:checkpoint:endpoint_security:e86.20:*:*:*:*:*:*:*",
+	"cpeNameId": "5FD1286B-B0CB-4B46-860A-90406F59FE5C",
+	"created": "2022-07-15T14:55:40.947",
+	"lastModified": "2022-07-26T15:37:00.547",
+	"titles": [
+		{
+			"title": "Check Point Endpoint Security E86.20",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.checkpoint.com/solutions/endpoint-security/",
+			"type": "Product"
+		}
+	]
 }

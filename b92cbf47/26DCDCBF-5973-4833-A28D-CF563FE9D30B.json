@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:cilium:cilium:1.12.4:*:*:*:*:*:*:*",
-  "cpeNameId": "26DCDCBF-5973-4833-A28D-CF563FE9D30B",
-  "created": "2023-03-22T15:02:04.553",
-  "lastModified": "2023-03-22T15:10:16.767",
-  "titles": [
-    {
-      "title": "Cilium 1.12.4",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/cilium/cilium/releases",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://cilium.io/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:cilium:cilium:1.12.4:*:*:*:*:*:*:*",
+	"cpeNameId": "26DCDCBF-5973-4833-A28D-CF563FE9D30B",
+	"created": "2023-03-22T15:02:04.553",
+	"lastModified": "2023-03-22T15:10:16.767",
+	"titles": [
+		{
+			"title": "Cilium 1.12.4",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/cilium/cilium/releases",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://cilium.io/",
+			"type": "Vendor"
+		}
+	]
 }

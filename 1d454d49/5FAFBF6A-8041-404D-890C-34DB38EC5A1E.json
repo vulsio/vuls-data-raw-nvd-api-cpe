@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:vim:vim:7.4.1399:*:*:*:*:*:*:*",
-  "cpeNameId": "5FAFBF6A-8041-404D-890C-34DB38EC5A1E",
-  "created": "2018-05-24T20:44:02.267",
-  "lastModified": "2018-05-24T20:44:02.267",
-  "titles": [
-    {
-      "title": "Vim 7.4.1399",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.vim.org/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/vim/vim/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:vim:vim:7.4.1399:*:*:*:*:*:*:*",
+	"cpeNameId": "5FAFBF6A-8041-404D-890C-34DB38EC5A1E",
+	"created": "2018-05-24T20:44:02.267",
+	"lastModified": "2018-05-24T20:44:02.267",
+	"titles": [
+		{
+			"title": "Vim 7.4.1399",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.vim.org/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/vim/vim/releases",
+			"type": "Change Log"
+		}
+	]
 }

@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:roxio:creator:10.1.299:*:*:*:business_edition_gold:*:*:*",
-  "cpeNameId": "5FAD3648-DEB0-4AE1-A27A-840F96350E1A",
-  "created": "2012-07-10T03:18:30.637",
-  "lastModified": "2012-07-10T03:18:30.637",
-  "titles": [
-    {
-      "title": "Roxio Creator Business Edition Gold 10.1.299",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:roxio:creator:10.1.299:*:*:*:business_edition_gold:*:*:*",
+	"cpeNameId": "5FAD3648-DEB0-4AE1-A27A-840F96350E1A",
+	"created": "2012-07-10T03:18:30.637",
+	"lastModified": "2012-07-10T03:18:30.637",
+	"titles": [
+		{
+			"title": "Roxio Creator Business Edition Gold 10.1.299",
+			"lang": "en"
+		}
+	]
 }

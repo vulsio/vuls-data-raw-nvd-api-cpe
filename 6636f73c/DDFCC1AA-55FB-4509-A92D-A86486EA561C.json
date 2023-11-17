@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:iss:realsecure_desktop:7.0ebg:*:*:*:*:*:*:*",
-  "cpeNameId": "DDFCC1AA-55FB-4509-A92D-A86486EA561C",
-  "created": "2007-08-23T21:16:59.567",
-  "lastModified": "2008-03-25T19:15:53.680",
-  "titles": [
-    {
-      "title": "Internet Security Systems RealSecure Desktop 7.0ebg",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:iss:realsecure_desktop:7.0ebg:*:*:*:*:*:*:*",
+	"cpeNameId": "DDFCC1AA-55FB-4509-A92D-A86486EA561C",
+	"created": "2007-08-23T21:16:59.567",
+	"lastModified": "2008-03-25T19:15:53.680",
+	"titles": [
+		{
+			"title": "Internet Security Systems RealSecure Desktop 7.0ebg",
+			"lang": "en"
+		}
+	]
 }

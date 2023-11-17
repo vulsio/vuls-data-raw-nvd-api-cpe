@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:nextcloud:nextcloud_mail:0.19.0:*:*:*:*:*:*:*",
-  "cpeNameId": "7F64C9A6-5407-4697-9475-4BE31E04FD5E",
-  "created": "2020-05-18T15:47:49.453",
-  "lastModified": "2020-05-18T15:47:49.453",
-  "titles": [
-    {
-      "title": "Nextcloud Mail 0.19.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/nextcloud/mail",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:nextcloud:nextcloud_mail:0.19.0:*:*:*:*:*:*:*",
+	"cpeNameId": "7F64C9A6-5407-4697-9475-4BE31E04FD5E",
+	"created": "2020-05-18T15:47:49.453",
+	"lastModified": "2020-05-18T15:47:49.453",
+	"titles": [
+		{
+			"title": "Nextcloud Mail 0.19.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/nextcloud/mail",
+			"type": "Change Log"
+		}
+	]
 }

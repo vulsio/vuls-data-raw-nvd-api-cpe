@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:gmplib:gmp:2.0.2:*:*:*:*:*:*:*",
-  "cpeNameId": "4CF88360-4665-4CDC-A6C0-31F932998049",
-  "created": "2018-12-31T18:21:17.253",
-  "lastModified": "2018-12-31T18:21:17.253",
-  "titles": [
-    {
-      "title": "GMPlib GMP (GNU MP Bignum Library) 2.0.2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://gmplib.org/",
-      "type": "Product"
-    },
-    {
-      "ref": "http://ftpmirror.gnu.org/gmp",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:gmplib:gmp:2.0.2:*:*:*:*:*:*:*",
+	"cpeNameId": "4CF88360-4665-4CDC-A6C0-31F932998049",
+	"created": "2018-12-31T18:21:17.253",
+	"lastModified": "2018-12-31T18:21:17.253",
+	"titles": [
+		{
+			"title": "GMPlib GMP (GNU MP Bignum Library) 2.0.2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://gmplib.org/",
+			"type": "Product"
+		},
+		{
+			"ref": "http://ftpmirror.gnu.org/gmp",
+			"type": "Version"
+		}
+	]
 }

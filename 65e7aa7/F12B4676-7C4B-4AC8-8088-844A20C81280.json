@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:ipswitch:whatsup_gold:16.4:*:*:*:*:*:*:*",
-  "cpeNameId": "F12B4676-7C4B-4AC8-8088-844A20C81280",
-  "created": "2020-05-12T14:51:42.117",
-  "lastModified": "2020-05-12T14:51:42.117",
-  "titles": [
-    {
-      "title": "Ipswitch WhatsUp Gold 16.4",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www.tenable.com/security/research/tra-2016-15",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://www.whatsupgold.com/",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:ipswitch:whatsup_gold:16.4:*:*:*:*:*:*:*",
+	"cpeNameId": "F12B4676-7C4B-4AC8-8088-844A20C81280",
+	"created": "2020-05-12T14:51:42.117",
+	"lastModified": "2020-05-12T14:51:42.117",
+	"titles": [
+		{
+			"title": "Ipswitch WhatsUp Gold 16.4",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.tenable.com/security/research/tra-2016-15",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://www.whatsupgold.com/",
+			"type": "Product"
+		}
+	]
 }

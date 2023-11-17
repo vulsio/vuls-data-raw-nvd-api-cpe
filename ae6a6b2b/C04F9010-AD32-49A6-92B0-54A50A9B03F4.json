@@ -1,17 +1,17 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:adobe:bridge:1.0.4:*:*:*:*:*:*:*",
-  "cpeNameId": "C04F9010-AD32-49A6-92B0-54A50A9B03F4",
-  "created": "2007-08-23T21:16:59.567",
-  "lastModified": "2009-03-05T17:16:52.813",
-  "titles": [
-    {
-      "title": "Adobe Bridge 1.0.4",
-      "lang": "en"
-    },
-    {
-      "title": "アドビシステムズ Bridge 1.0.4",
-      "lang": "ja"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:adobe:bridge:1.0.4:*:*:*:*:*:*:*",
+	"cpeNameId": "C04F9010-AD32-49A6-92B0-54A50A9B03F4",
+	"created": "2007-08-23T21:16:59.567",
+	"lastModified": "2009-03-05T17:16:52.813",
+	"titles": [
+		{
+			"title": "Adobe Bridge 1.0.4",
+			"lang": "en"
+		},
+		{
+			"title": "アドビシステムズ Bridge 1.0.4",
+			"lang": "ja"
+		}
+	]
 }

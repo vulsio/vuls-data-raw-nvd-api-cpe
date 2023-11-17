@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:tiki:tiki:21.6:*:*:*:*:*:*:*",
-  "cpeNameId": "0B450812-F587-4BFC-ABCE-BF7BF09258CD",
-  "created": "2023-01-20T16:36:44.190",
-  "lastModified": "2023-01-23T14:57:40.323",
-  "titles": [
-    {
-      "title": "Tiki 21.6",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://tiki.org/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://gitlab.com/tikiwiki/tiki",
-      "type": "Product"
-    },
-    {
-      "ref": "https://gitlab.com/tikiwiki/tiki/-/tags",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:tiki:tiki:21.6:*:*:*:*:*:*:*",
+	"cpeNameId": "0B450812-F587-4BFC-ABCE-BF7BF09258CD",
+	"created": "2023-01-20T16:36:44.190",
+	"lastModified": "2023-01-23T14:57:40.323",
+	"titles": [
+		{
+			"title": "Tiki 21.6",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://tiki.org/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://gitlab.com/tikiwiki/tiki",
+			"type": "Product"
+		},
+		{
+			"ref": "https://gitlab.com/tikiwiki/tiki/-/tags",
+			"type": "Version"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:exiftool_project:exiftool:12.23:*:*:*:*:*:*:*",
-  "cpeNameId": "44C08AB4-53A0-417E-81C5-B9DA70C56D8D",
-  "created": "2021-07-29T18:21:19.423",
-  "lastModified": "2021-07-29T18:31:41.990",
-  "titles": [
-    {
-      "title": "ExifTool Project ExifTool 12.23",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://exiftool.org/history.html",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:exiftool_project:exiftool:12.23:*:*:*:*:*:*:*",
+	"cpeNameId": "44C08AB4-53A0-417E-81C5-B9DA70C56D8D",
+	"created": "2021-07-29T18:21:19.423",
+	"lastModified": "2021-07-29T18:31:41.990",
+	"titles": [
+		{
+			"title": "ExifTool Project ExifTool 12.23",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://exiftool.org/history.html",
+			"type": "Change Log"
+		}
+	]
 }

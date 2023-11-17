@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:esri:arcgis_server:10.6.1:*:*:*:*:*:x64:*",
-  "cpeNameId": "D8EACAAC-1398-41BF-8017-1A3F55DBE9B1",
-  "created": "2022-03-30T14:13:12.700",
-  "lastModified": "2022-10-04T18:03:29.440",
-  "titles": [
-    {
-      "title": "Esri ArcGIS Server 10.6.1 on x64",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.esri.com/arcgis-blog/products/arcgis-enterprise/administration/arcgis-server-security-2021-update-2-patch-is-now-available/",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:esri:arcgis_server:10.6.1:*:*:*:*:*:x64:*",
+	"cpeNameId": "D8EACAAC-1398-41BF-8017-1A3F55DBE9B1",
+	"created": "2022-03-30T14:13:12.700",
+	"lastModified": "2022-10-04T18:03:29.440",
+	"titles": [
+		{
+			"title": "Esri ArcGIS Server 10.6.1 on x64",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.esri.com/arcgis-blog/products/arcgis-enterprise/administration/arcgis-server-security-2021-update-2-patch-is-now-available/",
+			"type": "Advisory"
+		}
+	]
 }

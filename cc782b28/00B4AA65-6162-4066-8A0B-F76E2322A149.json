@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:chamilo:chamilo_lms:1.8.8.2:*:*:*:*:*:*:*",
-  "cpeNameId": "00B4AA65-6162-4066-8A0B-F76E2322A149",
-  "created": "2013-12-06T16:51:26.137",
-  "lastModified": "2013-12-09T21:46:20.747",
-  "titles": [
-    {
-      "title": "Chamilo LMS 1.8.8.2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www.chamilo.org/en/versions"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:chamilo:chamilo_lms:1.8.8.2:*:*:*:*:*:*:*",
+	"cpeNameId": "00B4AA65-6162-4066-8A0B-F76E2322A149",
+	"created": "2013-12-06T16:51:26.137",
+	"lastModified": "2013-12-09T21:46:20.747",
+	"titles": [
+		{
+			"title": "Chamilo LMS 1.8.8.2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.chamilo.org/en/versions"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:ruckuswireless:t350se:-:*:*:*:*:*:*:*",
-  "cpeNameId": "FE635770-51CC-4BDD-862A-1FAC93DD3F86",
-  "created": "2023-02-23T15:43:01.500",
-  "lastModified": "2023-02-24T20:50:47.817",
-  "titles": [
-    {
-      "title": "Ruckus Wireless T350SE",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://support.ruckuswireless.com/security_bulletins/315",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:ruckuswireless:t350se:-:*:*:*:*:*:*:*",
+	"cpeNameId": "FE635770-51CC-4BDD-862A-1FAC93DD3F86",
+	"created": "2023-02-23T15:43:01.500",
+	"lastModified": "2023-02-24T20:50:47.817",
+	"titles": [
+		{
+			"title": "Ruckus Wireless T350SE",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://support.ruckuswireless.com/security_bulletins/315",
+			"type": "Advisory"
+		}
+	]
 }

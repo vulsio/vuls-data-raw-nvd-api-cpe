@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:p24:*:*:*:*:*:*",
-  "cpeNameId": "CF711749-28B9-4CF8-8AAE-C632EB5F394E",
-  "created": "2023-04-07T15:27:34.323",
-  "lastModified": "2023-07-05T15:18:30.983",
-  "titles": [
-    {
-      "title": "Tribe29 checkmk 2.1.0 Patch 24",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/tribe29/checkmk",
-      "type": "Product"
-    },
-    {
-      "ref": "https://tribe29.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:p24:*:*:*:*:*:*",
+	"cpeNameId": "CF711749-28B9-4CF8-8AAE-C632EB5F394E",
+	"created": "2023-04-07T15:27:34.323",
+	"lastModified": "2023-07-05T15:18:30.983",
+	"titles": [
+		{
+			"title": "Tribe29 checkmk 2.1.0 Patch 24",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/tribe29/checkmk",
+			"type": "Product"
+		},
+		{
+			"ref": "https://tribe29.com/",
+			"type": "Vendor"
+		}
+	]
 }

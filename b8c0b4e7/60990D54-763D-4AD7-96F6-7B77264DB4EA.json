@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:linux:linux_kernel:2.6.11.9:*:*:*:*:*:*:*",
-  "cpeNameId": "60990D54-763D-4AD7-96F6-7B77264DB4EA",
-  "created": "2007-08-23T21:16:59.567",
-  "lastModified": "2008-04-01T16:12:45.303",
-  "titles": [
-    {
-      "title": "Linux Kernel 2.6.11.9",
-      "lang": "en"
-    }
-  ],
-  "deprecates": [
-    {
-      "cpeName": "cpe:2.3:o:linux:kernel:2.6.11.9:*:*:*:*:*:*:*",
-      "cpeNameId": "18354BAB-9748-417E-A8D8-AFA9F050EACA"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:linux:linux_kernel:2.6.11.9:*:*:*:*:*:*:*",
+	"cpeNameId": "60990D54-763D-4AD7-96F6-7B77264DB4EA",
+	"created": "2007-08-23T21:16:59.567",
+	"lastModified": "2008-04-01T16:12:45.303",
+	"titles": [
+		{
+			"title": "Linux Kernel 2.6.11.9",
+			"lang": "en"
+		}
+	],
+	"deprecates": [
+		{
+			"cpeName": "cpe:2.3:o:linux:kernel:2.6.11.9:*:*:*:*:*:*:*",
+			"cpeNameId": "18354BAB-9748-417E-A8D8-AFA9F050EACA"
+		}
+	]
 }

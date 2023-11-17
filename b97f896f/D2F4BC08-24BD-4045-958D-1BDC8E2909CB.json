@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:raspap:raspap:1.5:*:*:*:*:*:*:*",
-  "cpeNameId": "D2F4BC08-24BD-4045-958D-1BDC8E2909CB",
-  "created": "2020-08-25T11:42:39.297",
-  "lastModified": "2020-08-25T11:42:39.297",
-  "titles": [
-    {
-      "title": "RaspAP 1.5",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://raspap.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/billz/raspap-webgui/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:raspap:raspap:1.5:*:*:*:*:*:*:*",
+	"cpeNameId": "D2F4BC08-24BD-4045-958D-1BDC8E2909CB",
+	"created": "2020-08-25T11:42:39.297",
+	"lastModified": "2020-08-25T11:42:39.297",
+	"titles": [
+		{
+			"title": "RaspAP 1.5",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://raspap.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/billz/raspap-webgui/releases",
+			"type": "Change Log"
+		}
+	]
 }

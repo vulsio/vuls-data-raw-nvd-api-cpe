@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:phpalbum:phpalbum:0.3.1:fix01:*:*:*:*:*:*",
-  "cpeNameId": "0A9B404B-6E33-4D9E-B5E7-AD46BDD840A8",
-  "created": "2011-12-14T21:04:28.387",
-  "lastModified": "2011-12-19T20:05:48.767",
-  "titles": [
-    {
-      "title": "phpAlbum 0.3.1_fix01",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:phpalbum:phpalbum:0.3.1:fix01:*:*:*:*:*:*",
+	"cpeNameId": "0A9B404B-6E33-4D9E-B5E7-AD46BDD840A8",
+	"created": "2011-12-14T21:04:28.387",
+	"lastModified": "2011-12-19T20:05:48.767",
+	"titles": [
+		{
+			"title": "phpAlbum 0.3.1_fix01",
+			"lang": "en"
+		}
+	]
 }

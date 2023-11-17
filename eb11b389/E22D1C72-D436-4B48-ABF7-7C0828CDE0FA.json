@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:church_admin_project:church_admin:0.949:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "E22D1C72-D436-4B48-ABF7-7C0828CDE0FA",
-  "created": "2019-06-25T16:52:05.563",
-  "lastModified": "2019-06-25T16:52:05.563",
-  "titles": [
-    {
-      "title": "Church Admin Project Church Admin 0.949 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wordpress.org/plugins/church-admin/#developers",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:church_admin_project:church_admin:0.949:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "E22D1C72-D436-4B48-ABF7-7C0828CDE0FA",
+	"created": "2019-06-25T16:52:05.563",
+	"lastModified": "2019-06-25T16:52:05.563",
+	"titles": [
+		{
+			"title": "Church Admin Project Church Admin 0.949 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/church-admin/#developers",
+			"type": "Change Log"
+		}
+	]
 }

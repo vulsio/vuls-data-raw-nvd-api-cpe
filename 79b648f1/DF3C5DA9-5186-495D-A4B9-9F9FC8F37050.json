@@ -1,23 +1,23 @@
 {
-  "deprecated": true,
-  "cpeName": "cpe:2.3:o:yahama:rt105e:6.03.28:*:*:*:*:*:*:*",
-  "cpeNameId": "DF3C5DA9-5186-495D-A4B9-9F9FC8F37050",
-  "created": "2011-04-15T21:00:52.450",
-  "lastModified": "2011-04-20T14:23:35.467",
-  "titles": [
-    {
-      "title": "Yamaha RT105e 6.03.28",
-      "lang": "en"
-    },
-    {
-      "title": "ヤマハ RT105e 6.03.28",
-      "lang": "ja"
-    }
-  ],
-  "deprecatedBy": [
-    {
-      "cpeName": "cpe:2.3:o:yamaha:rt105e:6.03.28:*:*:*:*:*:*:*",
-      "cpeNameId": "F130A737-9D2F-4850-8E24-590DD62C8468"
-    }
-  ]
+	"deprecated": true,
+	"cpeName": "cpe:2.3:o:yahama:rt105e:6.03.28:*:*:*:*:*:*:*",
+	"cpeNameId": "DF3C5DA9-5186-495D-A4B9-9F9FC8F37050",
+	"created": "2011-04-15T21:00:52.450",
+	"lastModified": "2011-04-20T14:23:35.467",
+	"titles": [
+		{
+			"title": "Yamaha RT105e 6.03.28",
+			"lang": "en"
+		},
+		{
+			"title": "ヤマハ RT105e 6.03.28",
+			"lang": "ja"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:o:yamaha:rt105e:6.03.28:*:*:*:*:*:*:*",
+			"cpeNameId": "F130A737-9D2F-4850-8E24-590DD62C8468"
+		}
+	]
 }

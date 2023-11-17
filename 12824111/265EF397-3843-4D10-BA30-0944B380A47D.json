@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:microsoft:sql_server:2019:*:*:*:*:*:x64:*",
-  "cpeNameId": "265EF397-3843-4D10-BA30-0944B380A47D",
-  "created": "2021-01-20T19:16:39.477",
-  "lastModified": "2021-01-20T19:16:39.477",
-  "titles": [
-    {
-      "title": "Microsoft SQL Server 2019 on x64",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-1636",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:microsoft:sql_server:2019:*:*:*:*:*:x64:*",
+	"cpeNameId": "265EF397-3843-4D10-BA30-0944B380A47D",
+	"created": "2021-01-20T19:16:39.477",
+	"lastModified": "2021-01-20T19:16:39.477",
+	"titles": [
+		{
+			"title": "Microsoft SQL Server 2019 on x64",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-1636",
+			"type": "Advisory"
+		}
+	]
 }

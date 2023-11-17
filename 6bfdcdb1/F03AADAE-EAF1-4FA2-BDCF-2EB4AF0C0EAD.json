@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:phpipam:phpipam:0.9:*:*:*:*:*:*:*",
-  "cpeNameId": "F03AADAE-EAF1-4FA2-BDCF-2EB4AF0C0EAD",
-  "created": "2019-06-03T17:49:06.360",
-  "lastModified": "2019-06-03T17:49:06.360",
-  "titles": [
-    {
-      "title": "phpipam 0.9",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://phpipam.net/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://phpipam.net/documents/changelog/",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:phpipam:phpipam:0.9:*:*:*:*:*:*:*",
+	"cpeNameId": "F03AADAE-EAF1-4FA2-BDCF-2EB4AF0C0EAD",
+	"created": "2019-06-03T17:49:06.360",
+	"lastModified": "2019-06-03T17:49:06.360",
+	"titles": [
+		{
+			"title": "phpipam 0.9",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://phpipam.net/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://phpipam.net/documents/changelog/",
+			"type": "Change Log"
+		}
+	]
 }

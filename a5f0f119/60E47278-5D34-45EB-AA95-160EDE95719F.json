@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:wpdownloadmanager:wordpress_download_manager:3.2.15:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "60E47278-5D34-45EB-AA95-160EDE95719F",
-  "created": "2021-11-12T20:54:41.097",
-  "lastModified": "2021-11-12T20:56:26.347",
-  "titles": [
-    {
-      "title": "WordPress Download Manager 3.2.15 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wordpress.org/plugins/download-manager/#developers",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://www.wpdownloadmanager.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:wpdownloadmanager:wordpress_download_manager:3.2.15:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "60E47278-5D34-45EB-AA95-160EDE95719F",
+	"created": "2021-11-12T20:54:41.097",
+	"lastModified": "2021-11-12T20:56:26.347",
+	"titles": [
+		{
+			"title": "WordPress Download Manager 3.2.15 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/download-manager/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://www.wpdownloadmanager.com/",
+			"type": "Vendor"
+		}
+	]
 }

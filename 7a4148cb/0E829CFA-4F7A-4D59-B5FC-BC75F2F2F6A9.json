@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:owncloud:owncloud_client:1.0.4:*:*:*:*:iphone_os:*:*",
-  "cpeNameId": "0E829CFA-4F7A-4D59-B5FC-BC75F2F2F6A9",
-  "created": "2021-04-09T18:27:22.030",
-  "lastModified": "2021-04-30T16:42:18.143",
-  "titles": [
-    {
-      "title": "ownCloud 1.0.4 for iPhone OS",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://owncloud.com/changelog/ios-app/",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://owncloud.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:owncloud:owncloud_client:1.0.4:*:*:*:*:iphone_os:*:*",
+	"cpeNameId": "0E829CFA-4F7A-4D59-B5FC-BC75F2F2F6A9",
+	"created": "2021-04-09T18:27:22.030",
+	"lastModified": "2021-04-30T16:42:18.143",
+	"titles": [
+		{
+			"title": "ownCloud 1.0.4 for iPhone OS",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://owncloud.com/changelog/ios-app/",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://owncloud.com/",
+			"type": "Vendor"
+		}
+	]
 }

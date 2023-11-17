@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:openstack:tripleo_heat_templates:0.8.3:*:*:*:*:*:*:*",
-  "cpeNameId": "9659CC49-C7D6-4EB0-99AF-DEE793D0D28C",
-  "created": "2019-09-17T15:27:57.040",
-  "lastModified": "2019-09-17T15:27:57.040",
-  "titles": [
-    {
-      "title": "OpenStack TripleO Heat Templates 0.8.3",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/openstack/tripleo-heat-templates/releases",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:openstack:tripleo_heat_templates:0.8.3:*:*:*:*:*:*:*",
+	"cpeNameId": "9659CC49-C7D6-4EB0-99AF-DEE793D0D28C",
+	"created": "2019-09-17T15:27:57.040",
+	"lastModified": "2019-09-17T15:27:57.040",
+	"titles": [
+		{
+			"title": "OpenStack TripleO Heat Templates 0.8.3",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/openstack/tripleo-heat-templates/releases",
+			"type": "Version"
+		}
+	]
 }

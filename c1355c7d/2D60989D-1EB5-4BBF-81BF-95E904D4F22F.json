@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:gcdwebserver_project:gcdwebserver:3.2.1:*:*:*:*:*:*:*",
-  "cpeNameId": "2D60989D-1EB5-4BBF-81BF-95E904D4F22F",
-  "created": "2019-08-19T13:32:59.980",
-  "lastModified": "2019-08-19T13:32:59.980",
-  "titles": [
-    {
-      "title": "Gcdwebserver Project Gcdwebserver 3.2.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/swisspol/GCDWebServer/tags",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:gcdwebserver_project:gcdwebserver:3.2.1:*:*:*:*:*:*:*",
+	"cpeNameId": "2D60989D-1EB5-4BBF-81BF-95E904D4F22F",
+	"created": "2019-08-19T13:32:59.980",
+	"lastModified": "2019-08-19T13:32:59.980",
+	"titles": [
+		{
+			"title": "Gcdwebserver Project Gcdwebserver 3.2.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/swisspol/GCDWebServer/tags",
+			"type": "Change Log"
+		}
+	]
 }

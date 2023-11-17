@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:apache:activemq:4.0:rc2:*:*:*:*:*:*",
-  "cpeNameId": "A3E9DDB8-B86B-45A7-A240-E8EAEF99102A",
-  "created": "2010-04-06T19:40:04.140",
-  "lastModified": "2013-05-08T14:43:40.293",
-  "titles": [
-    {
-      "title": "Apache Software Foundation ActiveMQ 4.0 Release Candidate 2",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:apache:activemq:4.0:rc2:*:*:*:*:*:*",
+	"cpeNameId": "A3E9DDB8-B86B-45A7-A240-E8EAEF99102A",
+	"created": "2010-04-06T19:40:04.140",
+	"lastModified": "2013-05-08T14:43:40.293",
+	"titles": [
+		{
+			"title": "Apache Software Foundation ActiveMQ 4.0 Release Candidate 2",
+			"lang": "en"
+		}
+	]
 }

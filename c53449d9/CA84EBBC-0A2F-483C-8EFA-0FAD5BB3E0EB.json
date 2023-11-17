@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:jenkins:pipeline\\:_build_step:2.13:*:*:*:*:jenkins:*:*",
-  "cpeNameId": "CA84EBBC-0A2F-483C-8EFA-0FAD5BB3E0EB",
-  "created": "2022-02-17T17:52:53.090",
-  "lastModified": "2022-02-17T17:54:49.830",
-  "titles": [
-    {
-      "title": "Jenkins Pipeline: Build Step 2.13 for Jenkins",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://plugins.jenkins.io/pipeline-build-step/#releases",
-      "type": "Version"
-    },
-    {
-      "ref": "https://plugins.jenkins.io/pipeline-build-step/",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:jenkins:pipeline\\:_build_step:2.13:*:*:*:*:jenkins:*:*",
+	"cpeNameId": "CA84EBBC-0A2F-483C-8EFA-0FAD5BB3E0EB",
+	"created": "2022-02-17T17:52:53.090",
+	"lastModified": "2022-02-17T17:54:49.830",
+	"titles": [
+		{
+			"title": "Jenkins Pipeline: Build Step 2.13 for Jenkins",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://plugins.jenkins.io/pipeline-build-step/#releases",
+			"type": "Version"
+		},
+		{
+			"ref": "https://plugins.jenkins.io/pipeline-build-step/",
+			"type": "Product"
+		}
+	]
 }

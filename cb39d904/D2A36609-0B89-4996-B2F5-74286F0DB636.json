@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:adobe:experience_manager:5.6.1:*:*:*:*:*:*:*",
-  "cpeNameId": "D2A36609-0B89-4996-B2F5-74286F0DB636",
-  "created": "2016-02-17T21:58:49.757",
-  "lastModified": "2016-02-17T21:58:49.757",
-  "titles": [
-    {
-      "title": "Adobe Experience Manager 5.6.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://docs.adobe.com/docs/en/cq/5-6-1.html",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:adobe:experience_manager:5.6.1:*:*:*:*:*:*:*",
+	"cpeNameId": "D2A36609-0B89-4996-B2F5-74286F0DB636",
+	"created": "2016-02-17T21:58:49.757",
+	"lastModified": "2016-02-17T21:58:49.757",
+	"titles": [
+		{
+			"title": "Adobe Experience Manager 5.6.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://docs.adobe.com/docs/en/cq/5-6-1.html",
+			"type": "Vendor"
+		}
+	]
 }

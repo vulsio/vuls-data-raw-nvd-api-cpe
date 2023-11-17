@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:firebirdsql:firebird:2.0.2:*:*:*:*:*:*:*",
-  "cpeNameId": "1BBBFCBF-A930-4827-995F-179206BA20F9",
-  "created": "2007-10-11T13:15:02.850",
-  "lastModified": "2008-03-25T19:15:31.367",
-  "titles": [
-    {
-      "title": "Firebird Project Firebird 2.0.2",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:firebirdsql:firebird:2.0.2:*:*:*:*:*:*:*",
+	"cpeNameId": "1BBBFCBF-A930-4827-995F-179206BA20F9",
+	"created": "2007-10-11T13:15:02.850",
+	"lastModified": "2008-03-25T19:15:31.367",
+	"titles": [
+		{
+			"title": "Firebird Project Firebird 2.0.2",
+			"lang": "en"
+		}
+	]
 }

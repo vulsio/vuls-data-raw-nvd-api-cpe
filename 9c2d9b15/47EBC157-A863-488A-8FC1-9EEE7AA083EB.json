@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:contao:contao:3.5.1:*:*:*:*:*:*:*",
-  "cpeNameId": "47EBC157-A863-488A-8FC1-9EEE7AA083EB",
-  "created": "2019-07-23T11:45:32.270",
-  "lastModified": "2019-07-23T11:45:32.270",
-  "titles": [
-    {
-      "title": "Contao 3.5.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://contao.org/en/changelog.html",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:contao:contao:3.5.1:*:*:*:*:*:*:*",
+	"cpeNameId": "47EBC157-A863-488A-8FC1-9EEE7AA083EB",
+	"created": "2019-07-23T11:45:32.270",
+	"lastModified": "2019-07-23T11:45:32.270",
+	"titles": [
+		{
+			"title": "Contao 3.5.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://contao.org/en/changelog.html",
+			"type": "Change Log"
+		}
+	]
 }

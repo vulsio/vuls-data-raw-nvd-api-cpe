@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:beego:beego:1.12.2:*:*:*:*:*:*:*",
-  "cpeNameId": "34CBA0C4-4062-4424-9F68-08EA2718CA2E",
-  "created": "2021-09-20T13:47:03.947",
-  "lastModified": "2021-09-20T14:07:45.567",
-  "titles": [
-    {
-      "title": "Beego 1.12.2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://beego.me/docs/intro/releases.md",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:beego:beego:1.12.2:*:*:*:*:*:*:*",
+	"cpeNameId": "34CBA0C4-4062-4424-9F68-08EA2718CA2E",
+	"created": "2021-09-20T13:47:03.947",
+	"lastModified": "2021-09-20T14:07:45.567",
+	"titles": [
+		{
+			"title": "Beego 1.12.2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://beego.me/docs/intro/releases.md",
+			"type": "Change Log"
+		}
+	]
 }

@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:f5:big-ip_1600:-:*:*:*:*:*:*:*",
-  "cpeNameId": "A449A788-C4F3-487C-B061-054D7FC28D7E",
-  "created": "2010-12-29T17:10:28.760",
-  "lastModified": "2010-12-29T17:10:28.760",
-  "titles": [
-    {
-      "title": "F5 Networks BIG-IP 1600 appliance",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:f5:big-ip_1600:-:*:*:*:*:*:*:*",
+	"cpeNameId": "A449A788-C4F3-487C-B061-054D7FC28D7E",
+	"created": "2010-12-29T17:10:28.760",
+	"lastModified": "2010-12-29T17:10:28.760",
+	"titles": [
+		{
+			"title": "F5 Networks BIG-IP 1600 appliance",
+			"lang": "en"
+		}
+	]
 }

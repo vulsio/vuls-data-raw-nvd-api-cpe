@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:oracle:e-business_suite:11.2:*:*:*:*:*:*:*",
-  "cpeNameId": "D41CF9CD-93B3-4279-80C1-31B7ECDA957B",
-  "created": "2007-08-23T21:16:59.567",
-  "lastModified": "2008-04-07T14:47:45.193",
-  "titles": [
-    {
-      "title": "Oracle E-Business Suite 11i 11.2",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:oracle:e-business_suite:11.2:*:*:*:*:*:*:*",
+	"cpeNameId": "D41CF9CD-93B3-4279-80C1-31B7ECDA957B",
+	"created": "2007-08-23T21:16:59.567",
+	"lastModified": "2008-04-07T14:47:45.193",
+	"titles": [
+		{
+			"title": "Oracle E-Business Suite 11i 11.2",
+			"lang": "en"
+		}
+	]
 }

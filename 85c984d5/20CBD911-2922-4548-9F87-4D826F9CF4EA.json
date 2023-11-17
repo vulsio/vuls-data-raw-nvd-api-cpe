@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:openproject:openproject:4.1.4:*:*:*:*:*:*:*",
-  "cpeNameId": "20CBD911-2922-4548-9F87-4D826F9CF4EA",
-  "created": "2019-05-14T14:01:05.283",
-  "lastModified": "2019-05-14T14:01:05.283",
-  "titles": [
-    {
-      "title": "OpenProject 4.1.4",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.openproject.org/release-notes/openproject-8-3-2/",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:openproject:openproject:4.1.4:*:*:*:*:*:*:*",
+	"cpeNameId": "20CBD911-2922-4548-9F87-4D826F9CF4EA",
+	"created": "2019-05-14T14:01:05.283",
+	"lastModified": "2019-05-14T14:01:05.283",
+	"titles": [
+		{
+			"title": "OpenProject 4.1.4",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.openproject.org/release-notes/openproject-8-3-2/",
+			"type": "Version"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:arm:bifrost:r16p0:*:*:*:*:*:*:*",
-  "cpeNameId": "89B00BCC-2366-4612-B91D-BB07EDF92FC3",
-  "created": "2021-06-02T15:41:44.080",
-  "lastModified": "2021-06-02T16:12:35.463",
-  "titles": [
-    {
-      "title": "ARM Bifrost r16p0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://developer.arm.com/support/arm-security-updates/mali-gpu-kernel-driver",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:arm:bifrost:r16p0:*:*:*:*:*:*:*",
+	"cpeNameId": "89B00BCC-2366-4612-B91D-BB07EDF92FC3",
+	"created": "2021-06-02T15:41:44.080",
+	"lastModified": "2021-06-02T16:12:35.463",
+	"titles": [
+		{
+			"title": "ARM Bifrost r16p0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://developer.arm.com/support/arm-security-updates/mali-gpu-kernel-driver",
+			"type": "Advisory"
+		}
+	]
 }

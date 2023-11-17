@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:event_list_project:event_list:0.4.1:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "40D32770-EFBF-4ED4-A303-E87A568FFB6F",
-  "created": "2019-09-11T13:39:32.687",
-  "lastModified": "2019-09-11T13:39:32.687",
-  "titles": [
-    {
-      "title": "Event List Project Event List 0.4.1 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wordpress.org/plugins/event-list/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://wordpress.org/plugins/event-list/#developers",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:event_list_project:event_list:0.4.1:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "40D32770-EFBF-4ED4-A303-E87A568FFB6F",
+	"created": "2019-09-11T13:39:32.687",
+	"lastModified": "2019-09-11T13:39:32.687",
+	"titles": [
+		{
+			"title": "Event List Project Event List 0.4.1 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/event-list/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/event-list/#developers",
+			"type": "Version"
+		}
+	]
 }

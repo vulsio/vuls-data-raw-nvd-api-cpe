@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:logitech:videocall\\+comlink:-:*:*:*:*:*:*:*",
-  "cpeNameId": "B123FAD8-ECFE-4D2E-A095-160861A92BDF",
-  "created": "2007-08-23T21:05:57.937",
-  "lastModified": "2008-06-17T17:50:39.047",
-  "titles": [
-    {
-      "title": "Logitech ComLink",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:logitech:videocall\\+comlink:-:*:*:*:*:*:*:*",
+	"cpeNameId": "B123FAD8-ECFE-4D2E-A095-160861A92BDF",
+	"created": "2007-08-23T21:05:57.937",
+	"lastModified": "2008-06-17T17:50:39.047",
+	"titles": [
+		{
+			"title": "Logitech ComLink",
+			"lang": "en"
+		}
+	]
 }

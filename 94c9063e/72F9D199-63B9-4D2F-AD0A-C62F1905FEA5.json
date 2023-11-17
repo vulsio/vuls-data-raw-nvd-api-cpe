@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:cozyvision:sms_alert_order_notifications:3.3.8:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "72F9D199-63B9-4D2F-AD0A-C62F1905FEA5",
-  "created": "2021-09-07T19:03:50.287",
-  "lastModified": "2021-09-07T22:22:38.333",
-  "titles": [
-    {
-      "title": "Cozy Vision SMS Alert Order Notifications 3.3.8 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.cozyvision.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://www.smsalert.co.in/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://wordpress.org/plugins/sms-alert/#developers",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:cozyvision:sms_alert_order_notifications:3.3.8:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "72F9D199-63B9-4D2F-AD0A-C62F1905FEA5",
+	"created": "2021-09-07T19:03:50.287",
+	"lastModified": "2021-09-07T22:22:38.333",
+	"titles": [
+		{
+			"title": "Cozy Vision SMS Alert Order Notifications 3.3.8 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.cozyvision.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://www.smsalert.co.in/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/sms-alert/#developers",
+			"type": "Change Log"
+		}
+	]
 }

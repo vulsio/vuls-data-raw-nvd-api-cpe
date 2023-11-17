@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:jenkins:cvs:2.18:*:*:*:*:jenkins:*:*",
-  "cpeNameId": "CC13DE43-B4B0-4742-A863-48ECC9E3241E",
-  "created": "2022-11-23T13:46:18.133",
-  "lastModified": "2022-11-23T13:47:08.457",
-  "titles": [
-    {
-      "title": "Jenkins CVS 2.18 for Jenkins",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://plugins.jenkins.io/cvs/#releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:jenkins:cvs:2.18:*:*:*:*:jenkins:*:*",
+	"cpeNameId": "CC13DE43-B4B0-4742-A863-48ECC9E3241E",
+	"created": "2022-11-23T13:46:18.133",
+	"lastModified": "2022-11-23T13:47:08.457",
+	"titles": [
+		{
+			"title": "Jenkins CVS 2.18 for Jenkins",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://plugins.jenkins.io/cvs/#releases",
+			"type": "Change Log"
+		}
+	]
 }

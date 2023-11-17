@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:appthemes:classipress:3.1.4:*:*:*:*:*:*:*",
-  "cpeNameId": "74F08CB9-EF3B-4047-8F54-C61006C9E1CE",
-  "created": "2013-02-13T12:17:24.463",
-  "lastModified": "2013-02-19T15:50:01.657",
-  "titles": [
-    {
-      "title": "appthemes Classipress theme 3.1.4",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:appthemes:classipress:3.1.4:*:*:*:*:*:*:*",
+	"cpeNameId": "74F08CB9-EF3B-4047-8F54-C61006C9E1CE",
+	"created": "2013-02-13T12:17:24.463",
+	"lastModified": "2013-02-19T15:50:01.657",
+	"titles": [
+		{
+			"title": "appthemes Classipress theme 3.1.4",
+			"lang": "en"
+		}
+	]
 }

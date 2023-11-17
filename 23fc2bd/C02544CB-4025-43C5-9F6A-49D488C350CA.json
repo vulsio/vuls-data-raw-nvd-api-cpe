@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:orangehrm:orangehrm:4.3.1:*:*:*:*:*:*:*",
-  "cpeNameId": "C02544CB-4025-43C5-9F6A-49D488C350CA",
-  "created": "2019-06-19T21:55:05.870",
-  "lastModified": "2019-06-19T21:55:05.870",
-  "titles": [
-    {
-      "title": "OrangeHRM 4.3.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/orangehrm/orangehrm/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:orangehrm:orangehrm:4.3.1:*:*:*:*:*:*:*",
+	"cpeNameId": "C02544CB-4025-43C5-9F6A-49D488C350CA",
+	"created": "2019-06-19T21:55:05.870",
+	"lastModified": "2019-06-19T21:55:05.870",
+	"titles": [
+		{
+			"title": "OrangeHRM 4.3.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/orangehrm/orangehrm/releases",
+			"type": "Change Log"
+		}
+	]
 }

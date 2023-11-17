@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:mathjs:math.js:0.12.1:*:*:*:*:*:*:*",
-  "cpeNameId": "7D6D64DC-B28A-4596-B26D-6A73F780B65F",
-  "created": "2018-01-12T15:16:29.147",
-  "lastModified": "2018-01-12T15:16:29.147",
-  "titles": [
-    {
-      "title": "Math.js 0.12.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://mathjs.org/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/josdejong/mathjs/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:mathjs:math.js:0.12.1:*:*:*:*:*:*:*",
+	"cpeNameId": "7D6D64DC-B28A-4596-B26D-6A73F780B65F",
+	"created": "2018-01-12T15:16:29.147",
+	"lastModified": "2018-01-12T15:16:29.147",
+	"titles": [
+		{
+			"title": "Math.js 0.12.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://mathjs.org/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/josdejong/mathjs/releases",
+			"type": "Change Log"
+		}
+	]
 }

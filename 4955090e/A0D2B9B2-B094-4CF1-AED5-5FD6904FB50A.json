@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:arubanetworks:arubaos:8.3.0.15:*:*:*:*:*:*:*",
-  "cpeNameId": "A0D2B9B2-B094-4CF1-AED5-5FD6904FB50A",
-  "created": "2021-09-09T13:46:22.330",
-  "lastModified": "2021-09-09T16:19:24.780",
-  "titles": [
-    {
-      "title": "Aruba Networks ArubaOS 8.3.0.15",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2021-016.txt",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:arubanetworks:arubaos:8.3.0.15:*:*:*:*:*:*:*",
+	"cpeNameId": "A0D2B9B2-B094-4CF1-AED5-5FD6904FB50A",
+	"created": "2021-09-09T13:46:22.330",
+	"lastModified": "2021-09-09T16:19:24.780",
+	"titles": [
+		{
+			"title": "Aruba Networks ArubaOS 8.3.0.15",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2021-016.txt",
+			"type": "Advisory"
+		}
+	]
 }

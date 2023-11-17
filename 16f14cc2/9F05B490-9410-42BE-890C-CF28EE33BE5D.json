@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:hp:elitedesk_800_g2_twr_firmware:-:*:*:*:*:*:*:*",
-  "cpeNameId": "9F05B490-9410-42BE-890C-CF28EE33BE5D",
-  "created": "2019-12-06T18:46:46.083",
-  "lastModified": "2019-12-06T18:46:46.083",
-  "titles": [
-    {
-      "title": "HP EliteDesk 800 G2 TWR Firmware",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://support.hp.com/rs-en/document/c06456250",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:hp:elitedesk_800_g2_twr_firmware:-:*:*:*:*:*:*:*",
+	"cpeNameId": "9F05B490-9410-42BE-890C-CF28EE33BE5D",
+	"created": "2019-12-06T18:46:46.083",
+	"lastModified": "2019-12-06T18:46:46.083",
+	"titles": [
+		{
+			"title": "HP EliteDesk 800 G2 TWR Firmware",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://support.hp.com/rs-en/document/c06456250",
+			"type": "Advisory"
+		}
+	]
 }

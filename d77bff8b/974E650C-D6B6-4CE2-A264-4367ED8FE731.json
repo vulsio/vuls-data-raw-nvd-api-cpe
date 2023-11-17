@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:nested_pages_project:nested_pages:1.6.4:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "974E650C-D6B6-4CE2-A264-4367ED8FE731",
-  "created": "2021-09-01T13:46:53.363",
-  "lastModified": "2021-09-01T15:43:32.970",
-  "titles": [
-    {
-      "title": "Nested Pages Project Nested Pages 1.6.4 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.wordfence.com/vulnerability-advisories/",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://github.com/kylephillips/wp-nested-pages/releases",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://wordpress.org/plugins/wp-nested-pages/",
-      "type": "Project"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:nested_pages_project:nested_pages:1.6.4:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "974E650C-D6B6-4CE2-A264-4367ED8FE731",
+	"created": "2021-09-01T13:46:53.363",
+	"lastModified": "2021-09-01T15:43:32.970",
+	"titles": [
+		{
+			"title": "Nested Pages Project Nested Pages 1.6.4 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.wordfence.com/vulnerability-advisories/",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://github.com/kylephillips/wp-nested-pages/releases",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/wp-nested-pages/",
+			"type": "Project"
+		}
+	]
 }

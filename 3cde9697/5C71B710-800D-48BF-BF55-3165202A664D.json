@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:linux-nis:ypserv:-:*:*:*:*:*:*:*",
-  "cpeNameId": "5C71B710-800D-48BF-BF55-3165202A664D",
-  "created": "2007-08-23T21:05:57.937",
-  "lastModified": "2008-03-25T19:16:07.397",
-  "titles": [
-    {
-      "title": "Linux NIS ypserv",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:linux-nis:ypserv:-:*:*:*:*:*:*:*",
+	"cpeNameId": "5C71B710-800D-48BF-BF55-3165202A664D",
+	"created": "2007-08-23T21:05:57.937",
+	"lastModified": "2008-03-25T19:16:07.397",
+	"titles": [
+		{
+			"title": "Linux NIS ypserv",
+			"lang": "en"
+		}
+	]
 }

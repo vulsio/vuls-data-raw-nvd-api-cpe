@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:cisco:webex_meetings_online:t30:*:*:*:*:*:*:*",
-  "cpeNameId": "4DEED00A-0773-4667-8909-AE5ADE60BDB4",
-  "created": "2018-06-07T14:37:07.500",
-  "lastModified": "2021-04-13T17:36:04.200",
-  "titles": [
-    {
-      "title": "Cisco Webex Meetings Online T30",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.webex.com/",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:cisco:webex_meetings_online:t30:*:*:*:*:*:*:*",
+	"cpeNameId": "4DEED00A-0773-4667-8909-AE5ADE60BDB4",
+	"created": "2018-06-07T14:37:07.500",
+	"lastModified": "2021-04-13T17:36:04.200",
+	"titles": [
+		{
+			"title": "Cisco Webex Meetings Online T30",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.webex.com/",
+			"type": "Product"
+		}
+	]
 }

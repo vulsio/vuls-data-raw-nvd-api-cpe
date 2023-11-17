@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:verdaccio:verdaccio:0.11.2:*:*:*:*:*:*:*",
-  "cpeNameId": "1207A29D-BB37-4B7F-BC3A-6B399662501F",
-  "created": "2019-09-16T16:11:23.367",
-  "lastModified": "2019-09-16T16:11:23.367",
-  "titles": [
-    {
-      "title": "Verdaccio 0.11.2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/verdaccio/verdaccio/releases",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:verdaccio:verdaccio:0.11.2:*:*:*:*:*:*:*",
+	"cpeNameId": "1207A29D-BB37-4B7F-BC3A-6B399662501F",
+	"created": "2019-09-16T16:11:23.367",
+	"lastModified": "2019-09-16T16:11:23.367",
+	"titles": [
+		{
+			"title": "Verdaccio 0.11.2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/verdaccio/verdaccio/releases",
+			"type": "Version"
+		}
+	]
 }

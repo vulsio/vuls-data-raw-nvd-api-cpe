@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:siemens:sinamics_sm150_firmware:4.8:*:*:*:*:*:*:*",
-  "cpeNameId": "2FEF0C83-904B-404F-BD02-C5B77A739C4E",
-  "created": "2020-10-13T12:58:07.437",
-  "lastModified": "2020-10-13T12:58:07.437",
-  "titles": [
-    {
-      "title": "Siemens SINAMICS SM150 Firmware 4.8",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://cert-portal.siemens.com/productcert/pdf/ssa-530931.pdf",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:siemens:sinamics_sm150_firmware:4.8:*:*:*:*:*:*:*",
+	"cpeNameId": "2FEF0C83-904B-404F-BD02-C5B77A739C4E",
+	"created": "2020-10-13T12:58:07.437",
+	"lastModified": "2020-10-13T12:58:07.437",
+	"titles": [
+		{
+			"title": "Siemens SINAMICS SM150 Firmware 4.8",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://cert-portal.siemens.com/productcert/pdf/ssa-530931.pdf",
+			"type": "Advisory"
+		}
+	]
 }

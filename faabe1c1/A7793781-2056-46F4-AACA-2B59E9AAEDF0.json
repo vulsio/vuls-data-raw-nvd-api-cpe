@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:zyxel:gs1350-26hp:-:*:*:*:*:*:*:*",
-  "cpeNameId": "A7793781-2056-46F4-AACA-2B59E9AAEDF0",
-  "created": "2023-01-17T19:34:41.737",
-  "lastModified": "2023-01-18T14:47:27.790",
-  "titles": [
-    {
-      "title": "Zyxel GS1350-26HP",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.zyxel.com/global/en/support/security-advisories/zyxel-security-advisory-for-dos-vulnerability-of-switches",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:zyxel:gs1350-26hp:-:*:*:*:*:*:*:*",
+	"cpeNameId": "A7793781-2056-46F4-AACA-2B59E9AAEDF0",
+	"created": "2023-01-17T19:34:41.737",
+	"lastModified": "2023-01-18T14:47:27.790",
+	"titles": [
+		{
+			"title": "Zyxel GS1350-26HP",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.zyxel.com/global/en/support/security-advisories/zyxel-security-advisory-for-dos-vulnerability-of-switches",
+			"type": "Advisory"
+		}
+	]
 }

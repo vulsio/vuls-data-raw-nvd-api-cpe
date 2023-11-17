@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:atlassian:jira:3.10:*:standard:*:*:*:*:*",
-  "cpeNameId": "FB798FC8-D94C-4D11-987E-78755915552C",
-  "created": "2009-03-27T14:58:28.547",
-  "lastModified": "2012-05-30T20:58:19.970",
-  "titles": [
-    {
-      "title": "Atlassian JIRA 3.10 Standard",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:atlassian:jira:3.10:*:standard:*:*:*:*:*",
+	"cpeNameId": "FB798FC8-D94C-4D11-987E-78755915552C",
+	"created": "2009-03-27T14:58:28.547",
+	"lastModified": "2012-05-30T20:58:19.970",
+	"titles": [
+		{
+			"title": "Atlassian JIRA 3.10 Standard",
+			"lang": "en"
+		}
+	]
 }

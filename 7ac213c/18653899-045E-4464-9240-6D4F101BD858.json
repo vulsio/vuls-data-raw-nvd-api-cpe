@@ -1,29 +1,29 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:theforeman:foreman:0.2:-:*:*:*:*:*:*",
-  "cpeNameId": "18653899-045E-4464-9240-6D4F101BD858",
-  "created": "2021-04-30T19:33:41.593",
-  "lastModified": "2021-05-11T15:41:54.617",
-  "titles": [
-    {
-      "title": "Theforeman Foreman 0.2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://theforeman.org/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/theforeman/foreman/tags",
-      "type": "Version"
-    }
-  ],
-  "deprecates": [
-    {
-      "cpeName": "cpe:2.3:a:theforeman:foreman:0.2:*:*:*:*:*:*:*",
-      "cpeNameId": "E3F634F8-6BE6-4A0E-9264-6806501C33BF"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:theforeman:foreman:0.2:-:*:*:*:*:*:*",
+	"cpeNameId": "18653899-045E-4464-9240-6D4F101BD858",
+	"created": "2021-04-30T19:33:41.593",
+	"lastModified": "2021-05-11T15:41:54.617",
+	"titles": [
+		{
+			"title": "Theforeman Foreman 0.2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://theforeman.org/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/theforeman/foreman/tags",
+			"type": "Version"
+		}
+	],
+	"deprecates": [
+		{
+			"cpeName": "cpe:2.3:a:theforeman:foreman:0.2:*:*:*:*:*:*:*",
+			"cpeNameId": "E3F634F8-6BE6-4A0E-9264-6806501C33BF"
+		}
+	]
 }

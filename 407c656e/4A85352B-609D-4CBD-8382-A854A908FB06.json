@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:oracle:solaris:-:*:*:*:*:*:-:*",
-  "cpeNameId": "4A85352B-609D-4CBD-8382-A854A908FB06",
-  "created": "2020-10-13T12:55:02.870",
-  "lastModified": "2020-10-13T12:55:02.870",
-  "titles": [
-    {
-      "title": "Oracle Solaris",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://docs.oracle.com/en/operating-systems/solaris.html",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:oracle:solaris:-:*:*:*:*:*:-:*",
+	"cpeNameId": "4A85352B-609D-4CBD-8382-A854A908FB06",
+	"created": "2020-10-13T12:55:02.870",
+	"lastModified": "2020-10-13T12:55:02.870",
+	"titles": [
+		{
+			"title": "Oracle Solaris",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://docs.oracle.com/en/operating-systems/solaris.html",
+			"type": "Product"
+		}
+	]
 }

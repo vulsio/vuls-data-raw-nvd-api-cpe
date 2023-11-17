@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:cisco:nx-os:6.2\\\\(10\\\\):*:*:*:*:*:*:*",
-  "cpeNameId": "2CE40A3C-235D-4060-87E1-5AED1E07F1C5",
-  "created": "2020-05-11T12:01:39.030",
-  "lastModified": "2020-05-11T12:01:39.030",
-  "titles": [
-    {
-      "title": "Cisco NX-OS 6.2\\(10\\)",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://software.cisco.com/download/find/nx-os",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:cisco:nx-os:6.2\\\\(10\\\\):*:*:*:*:*:*:*",
+	"cpeNameId": "2CE40A3C-235D-4060-87E1-5AED1E07F1C5",
+	"created": "2020-05-11T12:01:39.030",
+	"lastModified": "2020-05-11T12:01:39.030",
+	"titles": [
+		{
+			"title": "Cisco NX-OS 6.2\\(10\\)",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://software.cisco.com/download/find/nx-os",
+			"type": "Product"
+		}
+	]
 }

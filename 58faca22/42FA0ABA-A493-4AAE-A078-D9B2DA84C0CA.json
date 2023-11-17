@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:wordpress:requests:1.6.0:*:*:*:*:*:*:*",
-  "cpeNameId": "42FA0ABA-A493-4AAE-A078-D9B2DA84C0CA",
-  "created": "2021-05-03T16:40:08.567",
-  "lastModified": "2021-05-07T15:17:57.697",
-  "titles": [
-    {
-      "title": "WordPress Requests 1.6.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/WordPress/Requests/releases",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://github.com/WordPress/Requests/security/advisories/GHSA-52qp-jpq7-6c54",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:wordpress:requests:1.6.0:*:*:*:*:*:*:*",
+	"cpeNameId": "42FA0ABA-A493-4AAE-A078-D9B2DA84C0CA",
+	"created": "2021-05-03T16:40:08.567",
+	"lastModified": "2021-05-07T15:17:57.697",
+	"titles": [
+		{
+			"title": "WordPress Requests 1.6.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/WordPress/Requests/releases",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://github.com/WordPress/Requests/security/advisories/GHSA-52qp-jpq7-6c54",
+			"type": "Advisory"
+		}
+	]
 }

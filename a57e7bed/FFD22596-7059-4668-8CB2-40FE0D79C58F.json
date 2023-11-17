@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:grpc:grpc:1.2.3:*:*:*:*:node.js:*:*",
-  "cpeNameId": "FFD22596-7059-4668-8CB2-40FE0D79C58F",
-  "created": "2022-02-03T15:42:26.013",
-  "lastModified": "2022-02-03T15:43:35.867",
-  "titles": [
-    {
-      "title": "gRPC 1.2.3 for Node.js",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/grpc/grpc-node/releases",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:grpc:grpc:1.2.3:*:*:*:*:node.js:*:*",
+	"cpeNameId": "FFD22596-7059-4668-8CB2-40FE0D79C58F",
+	"created": "2022-02-03T15:42:26.013",
+	"lastModified": "2022-02-03T15:43:35.867",
+	"titles": [
+		{
+			"title": "gRPC 1.2.3 for Node.js",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/grpc/grpc-node/releases",
+			"type": "Version"
+		}
+	]
 }

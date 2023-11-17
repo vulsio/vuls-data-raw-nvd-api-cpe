@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:calibre-web_project:calibre-web:0.6.2:*:*:*:*:*:*:*",
-  "cpeNameId": "E937FA50-7829-4CD6-8F00-25A5DA427D20",
-  "created": "2020-05-05T13:03:07.967",
-  "lastModified": "2020-05-05T13:03:07.967",
-  "titles": [
-    {
-      "title": "Calibre-Web Project Calibre-Web 0.6.2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/janeczku/calibre-web/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:calibre-web_project:calibre-web:0.6.2:*:*:*:*:*:*:*",
+	"cpeNameId": "E937FA50-7829-4CD6-8F00-25A5DA427D20",
+	"created": "2020-05-05T13:03:07.967",
+	"lastModified": "2020-05-05T13:03:07.967",
+	"titles": [
+		{
+			"title": "Calibre-Web Project Calibre-Web 0.6.2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/janeczku/calibre-web/releases",
+			"type": "Change Log"
+		}
+	]
 }

@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:cakephp:cakephp:4.2.3:*:*:*:*:*:*:*",
-  "cpeNameId": "9F0D1619-50A3-46A2-A306-E7A31DC0F87B",
-  "created": "2021-05-20T15:54:47.823",
-  "lastModified": "2021-05-20T16:06:15.230",
-  "titles": [
-    {
-      "title": "CakePHP 4.2.3",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://cakephp.org/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/cakephp/cakephp/releases",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:cakephp:cakephp:4.2.3:*:*:*:*:*:*:*",
+	"cpeNameId": "9F0D1619-50A3-46A2-A306-E7A31DC0F87B",
+	"created": "2021-05-20T15:54:47.823",
+	"lastModified": "2021-05-20T16:06:15.230",
+	"titles": [
+		{
+			"title": "CakePHP 4.2.3",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://cakephp.org/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/cakephp/cakephp/releases",
+			"type": "Version"
+		}
+	]
 }

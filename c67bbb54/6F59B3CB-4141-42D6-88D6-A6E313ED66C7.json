@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:hp:storeonce_d2d:2.2.16:*:*:*:*:*:*:*",
-  "cpeNameId": "6F59B3CB-4141-42D6-88D6-A6E313ED66C7",
-  "created": "2013-07-01T17:38:02.333",
-  "lastModified": "2013-07-18T16:38:18.850",
-  "titles": [
-    {
-      "title": "HP StoreOnce D2D 2.2.16",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:hp:storeonce_d2d:2.2.16:*:*:*:*:*:*:*",
+	"cpeNameId": "6F59B3CB-4141-42D6-88D6-A6E313ED66C7",
+	"created": "2013-07-01T17:38:02.333",
+	"lastModified": "2013-07-18T16:38:18.850",
+	"titles": [
+		{
+			"title": "HP StoreOnce D2D 2.2.16",
+			"lang": "en"
+		}
+	]
 }

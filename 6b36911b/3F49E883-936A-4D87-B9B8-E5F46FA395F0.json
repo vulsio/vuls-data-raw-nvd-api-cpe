@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:ffw:complete_analytics_optimization_suite:4.1.8:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "3F49E883-936A-4D87-B9B8-E5F46FA395F0",
-  "created": "2022-01-10T20:09:40.783",
-  "lastModified": "2022-01-11T14:34:19.393",
-  "titles": [
-    {
-      "title": "FFW.Press Complete Analytics Optimization Suite (CAOS) 4.1.8 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wordpress.org/plugins/host-analyticsjs-local/#developers",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://ffw.press/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:ffw:complete_analytics_optimization_suite:4.1.8:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "3F49E883-936A-4D87-B9B8-E5F46FA395F0",
+	"created": "2022-01-10T20:09:40.783",
+	"lastModified": "2022-01-11T14:34:19.393",
+	"titles": [
+		{
+			"title": "FFW.Press Complete Analytics Optimization Suite (CAOS) 4.1.8 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/host-analyticsjs-local/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://ffw.press/",
+			"type": "Vendor"
+		}
+	]
 }

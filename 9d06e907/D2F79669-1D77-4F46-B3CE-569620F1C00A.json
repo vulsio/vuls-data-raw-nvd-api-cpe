@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:subscribe_to_comments_reloaded_project:subscribe_to_comments_reloaded:140128:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "D2F79669-1D77-4F46-B3CE-569620F1C00A",
-  "created": "2021-11-10T16:55:09.410",
-  "lastModified": "2021-11-10T19:12:16.463",
-  "titles": [
-    {
-      "title": "Subscribe To Comments Reloaded Project Subscribe To Comments Reloaded 140128 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/stcr/subscribe-to-comments-reloaded/releases",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:subscribe_to_comments_reloaded_project:subscribe_to_comments_reloaded:140128:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "D2F79669-1D77-4F46-B3CE-569620F1C00A",
+	"created": "2021-11-10T16:55:09.410",
+	"lastModified": "2021-11-10T19:12:16.463",
+	"titles": [
+		{
+			"title": "Subscribe To Comments Reloaded Project Subscribe To Comments Reloaded 140128 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/stcr/subscribe-to-comments-reloaded/releases",
+			"type": "Version"
+		}
+	]
 }

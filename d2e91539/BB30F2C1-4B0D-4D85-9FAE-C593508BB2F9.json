@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:arubanetworks:cx_8400:-:*:*:*:*:*:*:*",
-  "cpeNameId": "BB30F2C1-4B0D-4D85-9FAE-C593508BB2F9",
-  "created": "2021-08-06T15:17:27.533",
-  "lastModified": "2021-08-26T14:31:42.550",
-  "titles": [
-    {
-      "title": "Aruba Networks CX 8400",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.arubanetworks.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://www.arubanetworks.com/products/switches/core-and-data-center/",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:arubanetworks:cx_8400:-:*:*:*:*:*:*:*",
+	"cpeNameId": "BB30F2C1-4B0D-4D85-9FAE-C593508BB2F9",
+	"created": "2021-08-06T15:17:27.533",
+	"lastModified": "2021-08-26T14:31:42.550",
+	"titles": [
+		{
+			"title": "Aruba Networks CX 8400",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.arubanetworks.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://www.arubanetworks.com/products/switches/core-and-data-center/",
+			"type": "Product"
+		}
+	]
 }

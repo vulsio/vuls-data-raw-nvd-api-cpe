@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:pypa:pipenv:10.1.1:*:*:*:*:*:*:*",
-  "cpeNameId": "846607FB-B2A4-427A-AFBC-B1C3A4841B8E",
-  "created": "2023-03-03T19:14:49.473",
-  "lastModified": "2023-03-03T19:26:52.003",
-  "titles": [
-    {
-      "title": "Python Packaging Authority Pipenv 10.1.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.pypa.io/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/pypa/pipenv/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:pypa:pipenv:10.1.1:*:*:*:*:*:*:*",
+	"cpeNameId": "846607FB-B2A4-427A-AFBC-B1C3A4841B8E",
+	"created": "2023-03-03T19:14:49.473",
+	"lastModified": "2023-03-03T19:26:52.003",
+	"titles": [
+		{
+			"title": "Python Packaging Authority Pipenv 10.1.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.pypa.io/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/pypa/pipenv/releases",
+			"type": "Change Log"
+		}
+	]
 }

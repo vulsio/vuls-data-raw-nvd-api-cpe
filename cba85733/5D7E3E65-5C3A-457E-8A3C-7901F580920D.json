@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:piwigo:piwigo:1.7.2:*:*:*:*:*:*:*",
-  "cpeNameId": "5D7E3E65-5C3A-457E-8A3C-7901F580920D",
-  "created": "2010-05-04T20:08:07.983",
-  "lastModified": "2013-03-20T13:11:44.943",
-  "titles": [
-    {
-      "title": "Piwigo 1.7.2",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:piwigo:piwigo:1.7.2:*:*:*:*:*:*:*",
+	"cpeNameId": "5D7E3E65-5C3A-457E-8A3C-7901F580920D",
+	"created": "2010-05-04T20:08:07.983",
+	"lastModified": "2013-03-20T13:11:44.943",
+	"titles": [
+		{
+			"title": "Piwigo 1.7.2",
+			"lang": "en"
+		}
+	]
 }

@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:gnuboard:gnuboard5:5.3.1:*:*:*:*:*:*:*",
-  "cpeNameId": "957F6529-B67A-41DF-9675-E224440A5118",
-  "created": "2019-09-05T15:58:20.820",
-  "lastModified": "2019-09-05T15:58:20.820",
-  "titles": [
-    {
-      "title": "gnuboard5 5.3.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/gnuboard/gnuboard5",
-      "type": "Version"
-    },
-    {
-      "ref": "https://gnuboard.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:gnuboard:gnuboard5:5.3.1:*:*:*:*:*:*:*",
+	"cpeNameId": "957F6529-B67A-41DF-9675-E224440A5118",
+	"created": "2019-09-05T15:58:20.820",
+	"lastModified": "2019-09-05T15:58:20.820",
+	"titles": [
+		{
+			"title": "gnuboard5 5.3.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/gnuboard/gnuboard5",
+			"type": "Version"
+		},
+		{
+			"ref": "https://gnuboard.com/",
+			"type": "Vendor"
+		}
+	]
 }

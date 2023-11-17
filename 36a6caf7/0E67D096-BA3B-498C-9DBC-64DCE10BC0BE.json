@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:useful_simple_open-source_cms_project:useful_simple_open-source_cms:pb2.0bfx0:-:*:*:*:*:*:*",
-  "cpeNameId": "0E67D096-BA3B-498C-9DBC-64DCE10BC0BE",
-  "created": "2022-01-18T18:58:11.550",
-  "lastModified": "2022-01-18T20:02:43.130",
-  "titles": [
-    {
-      "title": "Useful Simple Open-Source CMS Pb2.0bfx0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/Aaron-Junker/USOC",
-      "type": "Project"
-    },
-    {
-      "ref": "https://github.com/Aaron-Junker/USOC/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:useful_simple_open-source_cms_project:useful_simple_open-source_cms:pb2.0bfx0:-:*:*:*:*:*:*",
+	"cpeNameId": "0E67D096-BA3B-498C-9DBC-64DCE10BC0BE",
+	"created": "2022-01-18T18:58:11.550",
+	"lastModified": "2022-01-18T20:02:43.130",
+	"titles": [
+		{
+			"title": "Useful Simple Open-Source CMS Pb2.0bfx0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/Aaron-Junker/USOC",
+			"type": "Project"
+		},
+		{
+			"ref": "https://github.com/Aaron-Junker/USOC/releases",
+			"type": "Change Log"
+		}
+	]
 }

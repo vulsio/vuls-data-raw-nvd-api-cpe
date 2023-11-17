@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:postgresql:pgadmin_4:1.0:beta1:*:*:*:*:*:*",
-  "cpeNameId": "05C0FC3B-47EB-4B91-A206-E24D2105BA9C",
-  "created": "2022-03-22T17:41:43.490",
-  "lastModified": "2022-03-23T15:10:12.610",
-  "titles": [
-    {
-      "title": "PostgreSQL pgAdmin 4 1.0 Beta 1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.postgresql.org/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://www.pgadmin.org/docs/pgadmin4/latest/index.html",
-      "type": "Product"
-    },
-    {
-      "ref": "https://www.pgadmin.org/docs/pgadmin4/latest/release_notes.html",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:postgresql:pgadmin_4:1.0:beta1:*:*:*:*:*:*",
+	"cpeNameId": "05C0FC3B-47EB-4B91-A206-E24D2105BA9C",
+	"created": "2022-03-22T17:41:43.490",
+	"lastModified": "2022-03-23T15:10:12.610",
+	"titles": [
+		{
+			"title": "PostgreSQL pgAdmin 4 1.0 Beta 1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.postgresql.org/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://www.pgadmin.org/docs/pgadmin4/latest/index.html",
+			"type": "Product"
+		},
+		{
+			"ref": "https://www.pgadmin.org/docs/pgadmin4/latest/release_notes.html",
+			"type": "Version"
+		}
+	]
 }

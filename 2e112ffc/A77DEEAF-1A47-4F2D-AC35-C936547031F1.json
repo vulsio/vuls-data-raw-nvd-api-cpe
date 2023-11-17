@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:elastic:kibana:7.14.1.:*:*:*:*:*:*:*",
-  "cpeNameId": "A77DEEAF-1A47-4F2D-AC35-C936547031F1",
-  "created": "2023-05-09T18:41:02.063",
-  "lastModified": "2023-05-09T18:42:16.380",
-  "titles": [
-    {
-      "title": "Elastic Kibana 7.14.1.",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.elastic.co/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/elastic/kibana/tags",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:elastic:kibana:7.14.1.:*:*:*:*:*:*:*",
+	"cpeNameId": "A77DEEAF-1A47-4F2D-AC35-C936547031F1",
+	"created": "2023-05-09T18:41:02.063",
+	"lastModified": "2023-05-09T18:42:16.380",
+	"titles": [
+		{
+			"title": "Elastic Kibana 7.14.1.",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.elastic.co/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/elastic/kibana/tags",
+			"type": "Change Log"
+		}
+	]
 }

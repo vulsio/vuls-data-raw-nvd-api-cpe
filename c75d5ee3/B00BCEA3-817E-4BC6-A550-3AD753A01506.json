@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:apache:camel:2.23.1:*:*:*:*:*:*:*",
-  "cpeNameId": "B00BCEA3-817E-4BC6-A550-3AD753A01506",
-  "created": "2019-05-01T18:35:25.700",
-  "lastModified": "2019-05-01T18:35:25.700",
-  "titles": [
-    {
-      "title": "Apache Software Foundation Camel 2.23.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/apache/camel/",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:apache:camel:2.23.1:*:*:*:*:*:*:*",
+	"cpeNameId": "B00BCEA3-817E-4BC6-A550-3AD753A01506",
+	"created": "2019-05-01T18:35:25.700",
+	"lastModified": "2019-05-01T18:35:25.700",
+	"titles": [
+		{
+			"title": "Apache Software Foundation Camel 2.23.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/apache/camel/",
+			"type": "Version"
+		}
+	]
 }

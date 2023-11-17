@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:postgresql:pgadmin_4:6.14:*:*:*:*:*:*:*",
-  "cpeNameId": "357073CA-A679-4CF4-844E-8F66650FA3D5",
-  "created": "2023-03-31T13:44:25.260",
-  "lastModified": "2023-04-21T14:58:00.997",
-  "titles": [
-    {
-      "title": "PostgreSQL pgAdmin 4 6.14",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://jvn.jp/en/jp/JVN01398015/",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://github.com/pgadmin-org/pgadmin4/tags",
-      "type": "Version"
-    },
-    {
-      "ref": "https://www.pgadmin.org/",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:postgresql:pgadmin_4:6.14:*:*:*:*:*:*:*",
+	"cpeNameId": "357073CA-A679-4CF4-844E-8F66650FA3D5",
+	"created": "2023-03-31T13:44:25.260",
+	"lastModified": "2023-04-21T14:58:00.997",
+	"titles": [
+		{
+			"title": "PostgreSQL pgAdmin 4 6.14",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://jvn.jp/en/jp/JVN01398015/",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://github.com/pgadmin-org/pgadmin4/tags",
+			"type": "Version"
+		},
+		{
+			"ref": "https://www.pgadmin.org/",
+			"type": "Product"
+		}
+	]
 }

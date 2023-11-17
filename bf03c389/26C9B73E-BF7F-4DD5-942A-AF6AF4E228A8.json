@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:oppia:oppia:3.1.4:*:*:*:*:*:*:*",
-  "cpeNameId": "26C9B73E-BF7F-4DD5-942A-AF6AF4E228A8",
-  "created": "2021-11-08T19:32:43.373",
-  "lastModified": "2021-11-08T19:54:15.310",
-  "titles": [
-    {
-      "title": "Oppia 3.1.4",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/oppia/oppia/releases?page=1",
-      "type": "Version"
-    },
-    {
-      "ref": "https://www.oppia.org/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:oppia:oppia:3.1.4:*:*:*:*:*:*:*",
+	"cpeNameId": "26C9B73E-BF7F-4DD5-942A-AF6AF4E228A8",
+	"created": "2021-11-08T19:32:43.373",
+	"lastModified": "2021-11-08T19:54:15.310",
+	"titles": [
+		{
+			"title": "Oppia 3.1.4",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/oppia/oppia/releases?page=1",
+			"type": "Version"
+		},
+		{
+			"ref": "https://www.oppia.org/",
+			"type": "Vendor"
+		}
+	]
 }

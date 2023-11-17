@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:owncloud:owncloud:4.5.3:*:*:*:*:*:*:*",
-  "cpeNameId": "9FF57A3B-6681-4A80-B6DC-7497A4A9784C",
-  "created": "2013-01-02T14:21:57.867",
-  "lastModified": "2013-01-02T14:21:57.867",
-  "titles": [
-    {
-      "title": "ownCloud 4.5.3",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:owncloud:owncloud:4.5.3:*:*:*:*:*:*:*",
+	"cpeNameId": "9FF57A3B-6681-4A80-B6DC-7497A4A9784C",
+	"created": "2013-01-02T14:21:57.867",
+	"lastModified": "2013-01-02T14:21:57.867",
+	"titles": [
+		{
+			"title": "ownCloud 4.5.3",
+			"lang": "en"
+		}
+	]
 }

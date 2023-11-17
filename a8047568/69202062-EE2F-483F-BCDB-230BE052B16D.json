@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:mandrakesoft:mandrake_linux:cs3.0:*:*:*:*:*:*:*",
-  "cpeNameId": "69202062-EE2F-483F-BCDB-230BE052B16D",
-  "created": "2007-08-23T21:16:59.567",
-  "lastModified": "2007-09-14T17:36:49.090",
-  "titles": [
-    {
-      "title": "MandrakeSoft Mandrake Linux CS3.0",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:mandrakesoft:mandrake_linux:cs3.0:*:*:*:*:*:*:*",
+	"cpeNameId": "69202062-EE2F-483F-BCDB-230BE052B16D",
+	"created": "2007-08-23T21:16:59.567",
+	"lastModified": "2007-09-14T17:36:49.090",
+	"titles": [
+		{
+			"title": "MandrakeSoft Mandrake Linux CS3.0",
+			"lang": "en"
+		}
+	]
 }

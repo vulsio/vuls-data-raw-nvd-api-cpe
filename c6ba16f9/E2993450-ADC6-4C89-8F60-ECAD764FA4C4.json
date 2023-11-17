@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:schneider-electric:bmxp342010:-:*:*:*:*:*:*:*",
-  "cpeNameId": "E2993450-ADC6-4C89-8F60-ECAD764FA4C4",
-  "created": "2021-07-19T15:19:43.197",
-  "lastModified": "2021-08-19T14:53:08.140",
-  "titles": [
-    {
-      "title": "Schneider Electric BMXP342010",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.se.com/us/en/product/BMXP342010/processor-module-m340---max-1024-discrete-%2B-256-analog-i-o---modbus---canopen/",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:schneider-electric:bmxp342010:-:*:*:*:*:*:*:*",
+	"cpeNameId": "E2993450-ADC6-4C89-8F60-ECAD764FA4C4",
+	"created": "2021-07-19T15:19:43.197",
+	"lastModified": "2021-08-19T14:53:08.140",
+	"titles": [
+		{
+			"title": "Schneider Electric BMXP342010",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.se.com/us/en/product/BMXP342010/processor-module-m340---max-1024-discrete-%2B-256-analog-i-o---modbus---canopen/",
+			"type": "Product"
+		}
+	]
 }

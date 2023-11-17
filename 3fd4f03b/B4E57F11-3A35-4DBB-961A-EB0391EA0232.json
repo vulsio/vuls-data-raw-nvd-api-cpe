@@ -1,31 +1,31 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:linuxfoundation:argo-cd:1.7.10:*:*:*:*:*:*:*",
-  "cpeNameId": "B4E57F11-3A35-4DBB-961A-EB0391EA0232",
-  "created": "2021-03-03T16:40:08.330",
-  "lastModified": "2021-03-08T16:38:31.390",
-  "titles": [
-    {
-      "title": "The Linux Foundation Argo CD 1.7.10",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/argoproj/argo-cd/releases",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://github.com/argoproj/argo-cd/pull/5563",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://argo-cd.readthedocs.io/en/stable/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://www.linuxfoundation.org/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:linuxfoundation:argo-cd:1.7.10:*:*:*:*:*:*:*",
+	"cpeNameId": "B4E57F11-3A35-4DBB-961A-EB0391EA0232",
+	"created": "2021-03-03T16:40:08.330",
+	"lastModified": "2021-03-08T16:38:31.390",
+	"titles": [
+		{
+			"title": "The Linux Foundation Argo CD 1.7.10",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/argoproj/argo-cd/releases",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://github.com/argoproj/argo-cd/pull/5563",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://argo-cd.readthedocs.io/en/stable/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://www.linuxfoundation.org/",
+			"type": "Vendor"
+		}
+	]
 }

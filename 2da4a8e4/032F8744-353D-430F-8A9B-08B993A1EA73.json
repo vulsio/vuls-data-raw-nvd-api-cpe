@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:bd:alaris_gh_syringe_pump:-:*:*:*:*:*:*:*",
-  "cpeNameId": "032F8744-353D-430F-8A9B-08B993A1EA73",
-  "created": "2019-06-19T13:39:17.880",
-  "lastModified": "2021-04-15T17:15:04.407",
-  "titles": [
-    {
-      "title": "BD Alaris GH Syringe Pump",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.bd.com/en-uk/products/infusion/infusion-devices/alaris-plus-platform-with-guardrails-safety-software/alaris-gh-plus-volumetric-pump-with-guardrails",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:bd:alaris_gh_syringe_pump:-:*:*:*:*:*:*:*",
+	"cpeNameId": "032F8744-353D-430F-8A9B-08B993A1EA73",
+	"created": "2019-06-19T13:39:17.880",
+	"lastModified": "2021-04-15T17:15:04.407",
+	"titles": [
+		{
+			"title": "BD Alaris GH Syringe Pump",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.bd.com/en-uk/products/infusion/infusion-devices/alaris-plus-platform-with-guardrails-safety-software/alaris-gh-plus-volumetric-pump-with-guardrails",
+			"type": "Product"
+		}
+	]
 }

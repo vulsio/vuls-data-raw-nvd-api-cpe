@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:gnome:libsoup:2.39.92:*:*:*:*:*:*:*",
-  "cpeNameId": "D8ADBE6C-D1C8-4C1D-ADC4-B809473EEF9D",
-  "created": "2019-06-11T17:08:38.003",
-  "lastModified": "2019-06-11T17:08:38.003",
-  "titles": [
-    {
-      "title": "GNOME libsoup 2.39.92",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wiki.gnome.org/Projects/libsoup",
-      "type": "Project"
-    },
-    {
-      "ref": "https://github.com/GNOME/libsoup",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:gnome:libsoup:2.39.92:*:*:*:*:*:*:*",
+	"cpeNameId": "D8ADBE6C-D1C8-4C1D-ADC4-B809473EEF9D",
+	"created": "2019-06-11T17:08:38.003",
+	"lastModified": "2019-06-11T17:08:38.003",
+	"titles": [
+		{
+			"title": "GNOME libsoup 2.39.92",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wiki.gnome.org/Projects/libsoup",
+			"type": "Project"
+		},
+		{
+			"ref": "https://github.com/GNOME/libsoup",
+			"type": "Version"
+		}
+	]
 }

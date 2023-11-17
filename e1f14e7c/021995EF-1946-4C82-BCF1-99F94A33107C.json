@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:digium:asterisk:1.4.32:*:*:*:*:*:*:*",
-  "cpeNameId": "021995EF-1946-4C82-BCF1-99F94A33107C",
-  "created": "2011-01-24T19:52:17.947",
-  "lastModified": "2012-07-03T18:47:41.770",
-  "titles": [
-    {
-      "title": "Digium Asterisk 1.4.32",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:digium:asterisk:1.4.32:*:*:*:*:*:*:*",
+	"cpeNameId": "021995EF-1946-4C82-BCF1-99F94A33107C",
+	"created": "2011-01-24T19:52:17.947",
+	"lastModified": "2012-07-03T18:47:41.770",
+	"titles": [
+		{
+			"title": "Digium Asterisk 1.4.32",
+			"lang": "en"
+		}
+	]
 }

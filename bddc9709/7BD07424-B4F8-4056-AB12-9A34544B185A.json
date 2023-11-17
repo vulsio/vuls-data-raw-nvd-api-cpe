@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:icegram:icegram_engage:1.8.4:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "7BD07424-B4F8-4056-AB12-9A34544B185A",
-  "created": "2023-06-16T13:06:07.133",
-  "lastModified": "2023-06-16T17:05:34.823",
-  "titles": [
-    {
-      "title": "Icegram Engage 1.8.4 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.icegram.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://wordpress.org/plugins/icegram/#developers",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:icegram:icegram_engage:1.8.4:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "7BD07424-B4F8-4056-AB12-9A34544B185A",
+	"created": "2023-06-16T13:06:07.133",
+	"lastModified": "2023-06-16T17:05:34.823",
+	"titles": [
+		{
+			"title": "Icegram Engage 1.8.4 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.icegram.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/icegram/#developers",
+			"type": "Change Log"
+		}
+	]
 }

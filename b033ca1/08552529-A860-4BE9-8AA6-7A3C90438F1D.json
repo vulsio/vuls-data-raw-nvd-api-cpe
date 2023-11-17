@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:python:python:3.8.0:-:*:*:*:*:*:*",
-  "cpeNameId": "08552529-A860-4BE9-8AA6-7A3C90438F1D",
-  "created": "2019-10-29T12:09:43.667",
-  "lastModified": "2019-10-29T12:09:43.667",
-  "titles": [
-    {
-      "title": "Python 3.8.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://bugs.python.org/issue33275",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://www.python.org/downloads/release/python-380/",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:python:python:3.8.0:-:*:*:*:*:*:*",
+	"cpeNameId": "08552529-A860-4BE9-8AA6-7A3C90438F1D",
+	"created": "2019-10-29T12:09:43.667",
+	"lastModified": "2019-10-29T12:09:43.667",
+	"titles": [
+		{
+			"title": "Python 3.8.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://bugs.python.org/issue33275",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://www.python.org/downloads/release/python-380/",
+			"type": "Change Log"
+		}
+	]
 }

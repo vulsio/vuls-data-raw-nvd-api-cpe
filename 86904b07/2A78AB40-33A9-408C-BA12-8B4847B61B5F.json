@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:owntone_project:owntone:23.4:*:*:*:*:*:*:*",
-  "cpeNameId": "2A78AB40-33A9-408C-BA12-8B4847B61B5F",
-  "created": "2021-08-17T17:40:40.873",
-  "lastModified": "2021-08-17T23:34:40.617",
-  "titles": [
-    {
-      "title": "Owntone Project Owntone 23.4",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/owntone/owntone-server/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:owntone_project:owntone:23.4:*:*:*:*:*:*:*",
+	"cpeNameId": "2A78AB40-33A9-408C-BA12-8B4847B61B5F",
+	"created": "2021-08-17T17:40:40.873",
+	"lastModified": "2021-08-17T23:34:40.617",
+	"titles": [
+		{
+			"title": "Owntone Project Owntone 23.4",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/owntone/owntone-server/releases",
+			"type": "Change Log"
+		}
+	]
 }

@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:microsoft:excel:2010:*:*:*:*:*:*:*",
-  "cpeNameId": "1A661C00-648E-4C93-B2BD-23B913FD0608",
-  "created": "2012-05-09T14:13:36.923",
-  "lastModified": "2012-06-15T15:23:34.937",
-  "titles": [
-    {
-      "title": "Microsoft Office Excel 2010",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:microsoft:excel:2010:*:*:*:*:*:*:*",
+	"cpeNameId": "1A661C00-648E-4C93-B2BD-23B913FD0608",
+	"created": "2012-05-09T14:13:36.923",
+	"lastModified": "2012-06-15T15:23:34.937",
+	"titles": [
+		{
+			"title": "Microsoft Office Excel 2010",
+			"lang": "en"
+		}
+	]
 }

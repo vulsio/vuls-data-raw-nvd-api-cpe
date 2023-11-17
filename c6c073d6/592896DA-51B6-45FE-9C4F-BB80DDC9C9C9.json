@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:wedevs:wp_erp:1.1.14:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "592896DA-51B6-45FE-9C4F-BB80DDC9C9C9",
-  "created": "2023-06-21T13:47:44.440",
-  "lastModified": "2023-06-21T14:25:09.700",
-  "titles": [
-    {
-      "title": "WEDEVS WP ERP 1.1.14 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wedevs.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://blog.nintechnet.com/25-wordpress-plugins-vulnerable-to-csrf-attacks/",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://wordpress.org/plugins/erp/#developers",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:wedevs:wp_erp:1.1.14:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "592896DA-51B6-45FE-9C4F-BB80DDC9C9C9",
+	"created": "2023-06-21T13:47:44.440",
+	"lastModified": "2023-06-21T14:25:09.700",
+	"titles": [
+		{
+			"title": "WEDEVS WP ERP 1.1.14 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wedevs.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://blog.nintechnet.com/25-wordpress-plugins-vulnerable-to-csrf-attacks/",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/erp/#developers",
+			"type": "Change Log"
+		}
+	]
 }

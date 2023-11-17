@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:quectel:ag550qcn:-:*:*:*:*:*:*:*",
-  "cpeNameId": "2F1D3406-EA24-4E33-9EE6-E91E9CEAFFDC",
-  "created": "2023-04-07T14:35:31.350",
-  "lastModified": "2023-04-17T15:16:36.763",
-  "titles": [
-    {
-      "title": "Quectel AG550QCN",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.quectel.com/product/5g-c-v2x-ag55xq-automotive-module",
-      "type": "Product"
-    },
-    {
-      "ref": "https://github.com/closethe/AG550QCN_CommandInjection_ql_atfwd/blob/main/README.md",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:quectel:ag550qcn:-:*:*:*:*:*:*:*",
+	"cpeNameId": "2F1D3406-EA24-4E33-9EE6-E91E9CEAFFDC",
+	"created": "2023-04-07T14:35:31.350",
+	"lastModified": "2023-04-17T15:16:36.763",
+	"titles": [
+		{
+			"title": "Quectel AG550QCN",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.quectel.com/product/5g-c-v2x-ag55xq-automotive-module",
+			"type": "Product"
+		},
+		{
+			"ref": "https://github.com/closethe/AG550QCN_CommandInjection_ql_atfwd/blob/main/README.md",
+			"type": "Advisory"
+		}
+	]
 }

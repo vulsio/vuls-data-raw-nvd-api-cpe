@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:elasticsearch:packetbeat:5.0.0:rc1:*:*:*:*:*:*",
-  "cpeNameId": "DCAE5537-137C-46DB-A356-6EF3E2D6F91E",
-  "created": "2019-10-31T17:07:41.027",
-  "lastModified": "2019-10-31T17:07:41.027",
-  "titles": [
-    {
-      "title": "Elasticsearch Packetbeat 5.0.0 Release Candidate 1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.elastic.co/products/beats/packetbeat",
-      "type": "Product"
-    },
-    {
-      "ref": "https://github.com/elastic/beats/tags",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:elasticsearch:packetbeat:5.0.0:rc1:*:*:*:*:*:*",
+	"cpeNameId": "DCAE5537-137C-46DB-A356-6EF3E2D6F91E",
+	"created": "2019-10-31T17:07:41.027",
+	"lastModified": "2019-10-31T17:07:41.027",
+	"titles": [
+		{
+			"title": "Elasticsearch Packetbeat 5.0.0 Release Candidate 1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.elastic.co/products/beats/packetbeat",
+			"type": "Product"
+		},
+		{
+			"ref": "https://github.com/elastic/beats/tags",
+			"type": "Version"
+		}
+	]
 }

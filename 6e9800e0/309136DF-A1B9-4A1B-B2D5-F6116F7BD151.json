@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:zyxel:lte7240-m403_firmware:-:*:*:*:*:*:*:*",
-  "cpeNameId": "309136DF-A1B9-4A1B-B2D5-F6116F7BD151",
-  "created": "2023-01-17T19:07:35.520",
-  "lastModified": "2023-01-18T14:47:27.790",
-  "titles": [
-    {
-      "title": "Zyxel LTE7240-M403 Firmware",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.zyxel.com/global/en/support/security-advisories/zyxel-security-advisory-for-command-injection-and-buffer-overflow-vulnerabilities-of-cpe-fiber-onts-and-wifi-extenders",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:zyxel:lte7240-m403_firmware:-:*:*:*:*:*:*:*",
+	"cpeNameId": "309136DF-A1B9-4A1B-B2D5-F6116F7BD151",
+	"created": "2023-01-17T19:07:35.520",
+	"lastModified": "2023-01-18T14:47:27.790",
+	"titles": [
+		{
+			"title": "Zyxel LTE7240-M403 Firmware",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.zyxel.com/global/en/support/security-advisories/zyxel-security-advisory-for-command-injection-and-buffer-overflow-vulnerabilities-of-cpe-fiber-onts-and-wifi-extenders",
+			"type": "Advisory"
+		}
+	]
 }

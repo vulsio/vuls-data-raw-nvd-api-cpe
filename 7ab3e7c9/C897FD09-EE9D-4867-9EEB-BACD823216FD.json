@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:imagemagick:imagemagick:6.5.4-9:*:*:*:*:*:*:*",
-  "cpeNameId": "C897FD09-EE9D-4867-9EEB-BACD823216FD",
-  "created": "2010-11-23T15:19:01.810",
-  "lastModified": "2012-06-29T14:47:07.673",
-  "titles": [
-    {
-      "title": "ImageMagick 6.5.4-9",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:imagemagick:imagemagick:6.5.4-9:*:*:*:*:*:*:*",
+	"cpeNameId": "C897FD09-EE9D-4867-9EEB-BACD823216FD",
+	"created": "2010-11-23T15:19:01.810",
+	"lastModified": "2012-06-29T14:47:07.673",
+	"titles": [
+		{
+			"title": "ImageMagick 6.5.4-9",
+			"lang": "en"
+		}
+	]
 }

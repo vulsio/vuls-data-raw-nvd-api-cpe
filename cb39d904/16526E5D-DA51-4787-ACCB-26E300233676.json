@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:adobe:experience_manager:6.1.2.5:*:*:*:*:*:*:*",
-  "cpeNameId": "16526E5D-DA51-4787-ACCB-26E300233676",
-  "created": "2018-11-26T17:52:17.920",
-  "lastModified": "2018-11-26T17:52:17.920",
-  "titles": [
-    {
-      "title": "Adobe Experience Manager 6.1.2.5",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://helpx.adobe.com/experience-manager/aem-releases-updates.html",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://www.adobe.com/marketing/experience-manager.html",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:adobe:experience_manager:6.1.2.5:*:*:*:*:*:*:*",
+	"cpeNameId": "16526E5D-DA51-4787-ACCB-26E300233676",
+	"created": "2018-11-26T17:52:17.920",
+	"lastModified": "2018-11-26T17:52:17.920",
+	"titles": [
+		{
+			"title": "Adobe Experience Manager 6.1.2.5",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://helpx.adobe.com/experience-manager/aem-releases-updates.html",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://www.adobe.com/marketing/experience-manager.html",
+			"type": "Product"
+		}
+	]
 }

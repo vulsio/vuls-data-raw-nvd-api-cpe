@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:vim:vim:9.0.0489:*:*:*:*:*:*:*",
-  "cpeNameId": "32F0557E-4551-4D3D-A3C4-31E3D489119A",
-  "created": "2022-09-29T16:47:42.193",
-  "lastModified": "2022-09-29T17:54:29.690",
-  "titles": [
-    {
-      "title": "Vim 9.0.0489",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.vim.org/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/vim/vim/tags",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:vim:vim:9.0.0489:*:*:*:*:*:*:*",
+	"cpeNameId": "32F0557E-4551-4D3D-A3C4-31E3D489119A",
+	"created": "2022-09-29T16:47:42.193",
+	"lastModified": "2022-09-29T17:54:29.690",
+	"titles": [
+		{
+			"title": "Vim 9.0.0489",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.vim.org/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/vim/vim/tags",
+			"type": "Version"
+		}
+	]
 }

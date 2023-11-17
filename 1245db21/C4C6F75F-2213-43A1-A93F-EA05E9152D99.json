@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:chuango:awv_plus:-:*:*:*:*:*:*:*",
-  "cpeNameId": "C4C6F75F-2213-43A1-A93F-EA05E9152D99",
-  "created": "2019-05-09T14:21:13.350",
-  "lastModified": "2021-05-07T14:30:07.363",
-  "titles": [
-    {
-      "title": "Chuango AWV Plus",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/RiieCco/write-ups/tree/master/CVE-2019-11561",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:chuango:awv_plus:-:*:*:*:*:*:*:*",
+	"cpeNameId": "C4C6F75F-2213-43A1-A93F-EA05E9152D99",
+	"created": "2019-05-09T14:21:13.350",
+	"lastModified": "2021-05-07T14:30:07.363",
+	"titles": [
+		{
+			"title": "Chuango AWV Plus",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/RiieCco/write-ups/tree/master/CVE-2019-11561",
+			"type": "Advisory"
+		}
+	]
 }

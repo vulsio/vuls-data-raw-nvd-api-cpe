@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:google:chrome:103.0.5060.136:*:*:*:*:*:*:*",
-  "cpeNameId": "8BE014ED-C203-4AD6-BD75-95B1E5384439",
-  "created": "2022-10-19T16:23:52.890",
-  "lastModified": "2022-10-19T16:30:31.930",
-  "titles": [
-    {
-      "title": "Google Chrome 103.0.5060.136",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://chromium.googlesource.com/chromium/src.git/+refs",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:google:chrome:103.0.5060.136:*:*:*:*:*:*:*",
+	"cpeNameId": "8BE014ED-C203-4AD6-BD75-95B1E5384439",
+	"created": "2022-10-19T16:23:52.890",
+	"lastModified": "2022-10-19T16:30:31.930",
+	"titles": [
+		{
+			"title": "Google Chrome 103.0.5060.136",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://chromium.googlesource.com/chromium/src.git/+refs",
+			"type": "Version"
+		}
+	]
 }

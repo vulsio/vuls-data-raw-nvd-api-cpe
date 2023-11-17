@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:nex-forms_-_ultimate_form_builder_project:nex-forms_-_ultimate_form_builder:3.0.1:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "B4A2DCF9-6703-4F62-900B-97D614EEE007",
-  "created": "2019-10-09T13:35:26.553",
-  "lastModified": "2019-10-09T13:35:26.553",
-  "titles": [
-    {
-      "title": "NEX-Forms - Ultimate Form Builder Project NEX-Forms - Ultimate Form Builder 3.0.1 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wordpress.org/plugins/nex-forms-express-wp-form-builder/#developers",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:nex-forms_-_ultimate_form_builder_project:nex-forms_-_ultimate_form_builder:3.0.1:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "B4A2DCF9-6703-4F62-900B-97D614EEE007",
+	"created": "2019-10-09T13:35:26.553",
+	"lastModified": "2019-10-09T13:35:26.553",
+	"titles": [
+		{
+			"title": "NEX-Forms - Ultimate Form Builder Project NEX-Forms - Ultimate Form Builder 3.0.1 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/nex-forms-express-wp-form-builder/#developers",
+			"type": "Change Log"
+		}
+	]
 }

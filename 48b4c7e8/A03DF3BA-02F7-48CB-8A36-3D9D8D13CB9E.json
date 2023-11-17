@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:caseproof:pretty_link:1.6.7:*:*:*:lite:*:*:*",
-  "cpeNameId": "A03DF3BA-02F7-48CB-8A36-3D9D8D13CB9E",
-  "created": "2019-12-05T18:49:01.753",
-  "lastModified": "2019-12-05T18:49:01.753",
-  "titles": [
-    {
-      "title": "Caseproof Pretty Link 1.6.7 Lite Edition",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://prettylinks.com/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://caseproof.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://wpvulndb.com/vulnerabilities/8249",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:caseproof:pretty_link:1.6.7:*:*:*:lite:*:*:*",
+	"cpeNameId": "A03DF3BA-02F7-48CB-8A36-3D9D8D13CB9E",
+	"created": "2019-12-05T18:49:01.753",
+	"lastModified": "2019-12-05T18:49:01.753",
+	"titles": [
+		{
+			"title": "Caseproof Pretty Link 1.6.7 Lite Edition",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://prettylinks.com/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://caseproof.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://wpvulndb.com/vulnerabilities/8249",
+			"type": "Advisory"
+		}
+	]
 }

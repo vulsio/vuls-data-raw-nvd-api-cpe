@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:ampache:ampache:4.0.2:*:*:*:*:*:*:*",
-  "cpeNameId": "88D717B9-6F0D-40A5-BCDE-1F46F25C863D",
-  "created": "2021-04-15T18:06:38.970",
-  "lastModified": "2021-04-15T20:22:14.330",
-  "titles": [
-    {
-      "title": "Ampache 4.0.2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/ampache/ampache",
-      "type": "Version"
-    },
-    {
-      "ref": "https://ampache.org/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/ampache/ampache/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:ampache:ampache:4.0.2:*:*:*:*:*:*:*",
+	"cpeNameId": "88D717B9-6F0D-40A5-BCDE-1F46F25C863D",
+	"created": "2021-04-15T18:06:38.970",
+	"lastModified": "2021-04-15T20:22:14.330",
+	"titles": [
+		{
+			"title": "Ampache 4.0.2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/ampache/ampache",
+			"type": "Version"
+		},
+		{
+			"ref": "https://ampache.org/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/ampache/ampache/releases",
+			"type": "Change Log"
+		}
+	]
 }

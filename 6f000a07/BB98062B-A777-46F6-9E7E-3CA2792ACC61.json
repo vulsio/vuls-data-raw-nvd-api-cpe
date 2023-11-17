@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:netscape:directory_server:3.6:*:*:*:*:*:*:*",
-  "cpeNameId": "BB98062B-A777-46F6-9E7E-3CA2792ACC61",
-  "created": "2007-08-23T21:16:59.567",
-  "lastModified": "2008-04-01T16:40:01.390",
-  "titles": [
-    {
-      "title": "Netscape Netscape Directory Server 3.6",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:netscape:directory_server:3.6:*:*:*:*:*:*:*",
+	"cpeNameId": "BB98062B-A777-46F6-9E7E-3CA2792ACC61",
+	"created": "2007-08-23T21:16:59.567",
+	"lastModified": "2008-04-01T16:40:01.390",
+	"titles": [
+		{
+			"title": "Netscape Netscape Directory Server 3.6",
+			"lang": "en"
+		}
+	]
 }

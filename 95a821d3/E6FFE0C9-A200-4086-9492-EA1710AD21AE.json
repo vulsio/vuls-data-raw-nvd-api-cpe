@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:auth0:passport-wsfed-saml2:2.10.0:*:*:*:*:*:*:*",
-  "cpeNameId": "E6FFE0C9-A200-4086-9492-EA1710AD21AE",
-  "created": "2019-11-04T16:08:00.260",
-  "lastModified": "2019-11-04T16:08:00.260",
-  "titles": [
-    {
-      "title": "Auth0 passport-wsfed-saml2 2.10.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://travis-ci.org/auth0/passport-wsfed-saml2/branches",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:auth0:passport-wsfed-saml2:2.10.0:*:*:*:*:*:*:*",
+	"cpeNameId": "E6FFE0C9-A200-4086-9492-EA1710AD21AE",
+	"created": "2019-11-04T16:08:00.260",
+	"lastModified": "2019-11-04T16:08:00.260",
+	"titles": [
+		{
+			"title": "Auth0 passport-wsfed-saml2 2.10.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://travis-ci.org/auth0/passport-wsfed-saml2/branches",
+			"type": "Version"
+		}
+	]
 }

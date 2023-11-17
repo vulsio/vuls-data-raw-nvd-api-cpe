@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:fooplugins:foogallery:1.9.31:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "07245814-C96E-4F1B-9CD2-5E240FEE7F82",
-  "created": "2021-07-12T12:58:24.877",
-  "lastModified": "2021-07-12T14:36:15.623",
-  "titles": [
-    {
-      "title": "FooPlugins FooGallery 1.9.31 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://fooplugins.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://wordpress.org/plugins/foogallery/#developers",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:fooplugins:foogallery:1.9.31:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "07245814-C96E-4F1B-9CD2-5E240FEE7F82",
+	"created": "2021-07-12T12:58:24.877",
+	"lastModified": "2021-07-12T14:36:15.623",
+	"titles": [
+		{
+			"title": "FooPlugins FooGallery 1.9.31 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://fooplugins.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/foogallery/#developers",
+			"type": "Change Log"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:python:python:3.7.6:*:*:*:*:*:*:*",
-  "cpeNameId": "54ACF127-308B-4326-BE92-A59CE8883A09",
-  "created": "2020-02-04T18:41:14.440",
-  "lastModified": "2020-02-04T18:41:14.440",
-  "titles": [
-    {
-      "title": "Python 3.7.6",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.python.org/doc/versions/",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:python:python:3.7.6:*:*:*:*:*:*:*",
+	"cpeNameId": "54ACF127-308B-4326-BE92-A59CE8883A09",
+	"created": "2020-02-04T18:41:14.440",
+	"lastModified": "2020-02-04T18:41:14.440",
+	"titles": [
+		{
+			"title": "Python 3.7.6",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.python.org/doc/versions/",
+			"type": "Version"
+		}
+	]
 }

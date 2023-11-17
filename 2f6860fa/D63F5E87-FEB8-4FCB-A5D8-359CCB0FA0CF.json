@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:ruby-lang:ruby:1.8.6.14:*:*:*:*:*:*:*",
-  "cpeNameId": "D63F5E87-FEB8-4FCB-A5D8-359CCB0FA0CF",
-  "created": "2018-10-30T14:07:02.217",
-  "lastModified": "2018-10-30T14:07:02.217",
-  "titles": [
-    {
-      "title": "Ruby-lang Ruby 1.8.6.14",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/ruby/ruby/tags",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:ruby-lang:ruby:1.8.6.14:*:*:*:*:*:*:*",
+	"cpeNameId": "D63F5E87-FEB8-4FCB-A5D8-359CCB0FA0CF",
+	"created": "2018-10-30T14:07:02.217",
+	"lastModified": "2018-10-30T14:07:02.217",
+	"titles": [
+		{
+			"title": "Ruby-lang Ruby 1.8.6.14",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/ruby/ruby/tags",
+			"type": "Change Log"
+		}
+	]
 }

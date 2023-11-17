@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:dlink:dap-2690_firmware:-:*:*:*:*:*:*:*",
-  "cpeNameId": "75C2037C-9D23-4012-B820-D8E1D044EECD",
-  "created": "2021-08-17T14:00:31.207",
-  "lastModified": "2021-08-19T17:07:09.023",
-  "titles": [
-    {
-      "title": "D-Link DAP-2690 FIRMWARE",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/zyw-200/EQUAFL/blob/main/dlink-email-cve.pdf",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:dlink:dap-2690_firmware:-:*:*:*:*:*:*:*",
+	"cpeNameId": "75C2037C-9D23-4012-B820-D8E1D044EECD",
+	"created": "2021-08-17T14:00:31.207",
+	"lastModified": "2021-08-19T17:07:09.023",
+	"titles": [
+		{
+			"title": "D-Link DAP-2690 FIRMWARE",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/zyw-200/EQUAFL/blob/main/dlink-email-cve.pdf",
+			"type": "Advisory"
+		}
+	]
 }

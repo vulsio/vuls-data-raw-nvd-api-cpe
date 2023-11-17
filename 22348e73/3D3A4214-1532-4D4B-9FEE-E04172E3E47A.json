@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:rawspeed:rawspeed:1.0:*:*:*:*:*:*:*",
-  "cpeNameId": "3D3A4214-1532-4D4B-9FEE-E04172E3E47A",
-  "created": "2021-07-01T17:58:04.253",
-  "lastModified": "2021-07-07T12:39:38.503",
-  "titles": [
-    {
-      "title": "RawSpeed 1.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/darktable-org/rawspeed/",
-      "type": "Version"
-    },
-    {
-      "ref": "https://rawspeed.org/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:rawspeed:rawspeed:1.0:*:*:*:*:*:*:*",
+	"cpeNameId": "3D3A4214-1532-4D4B-9FEE-E04172E3E47A",
+	"created": "2021-07-01T17:58:04.253",
+	"lastModified": "2021-07-07T12:39:38.503",
+	"titles": [
+		{
+			"title": "RawSpeed 1.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/darktable-org/rawspeed/",
+			"type": "Version"
+		},
+		{
+			"ref": "https://rawspeed.org/",
+			"type": "Vendor"
+		}
+	]
 }

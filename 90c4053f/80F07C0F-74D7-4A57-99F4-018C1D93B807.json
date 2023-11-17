@@ -1,17 +1,17 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:rocomotion:p_board:1.17:*:*:*:*:*:*:*",
-  "cpeNameId": "80F07C0F-74D7-4A57-99F4-018C1D93B807",
-  "created": "2011-01-21T14:40:41.260",
-  "lastModified": "2011-02-08T13:52:49.790",
-  "titles": [
-    {
-      "title": "Rocomotion P Board 1.17",
-      "lang": "ja"
-    },
-    {
-      "title": "Rocomotion P Board 1.17",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:rocomotion:p_board:1.17:*:*:*:*:*:*:*",
+	"cpeNameId": "80F07C0F-74D7-4A57-99F4-018C1D93B807",
+	"created": "2011-01-21T14:40:41.260",
+	"lastModified": "2011-02-08T13:52:49.790",
+	"titles": [
+		{
+			"title": "Rocomotion P Board 1.17",
+			"lang": "ja"
+		},
+		{
+			"title": "Rocomotion P Board 1.17",
+			"lang": "en"
+		}
+	]
 }

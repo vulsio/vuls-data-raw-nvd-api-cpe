@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:wpdownloadmanager:wordpress_download_manager:3.1.22:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "C4870D39-7F9C-456D-AC81-053C8F15D2B2",
-  "created": "2021-08-12T16:27:37.657",
-  "lastModified": "2021-08-12T16:37:40.320",
-  "titles": [
-    {
-      "title": "WordPress Download Manager 3.1.22 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wordpress.org/plugins/download-manager/#developers",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://www.wordfence.com/blog/2021/07/wordpress-download-manager-vulnerabilities/",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:wpdownloadmanager:wordpress_download_manager:3.1.22:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "C4870D39-7F9C-456D-AC81-053C8F15D2B2",
+	"created": "2021-08-12T16:27:37.657",
+	"lastModified": "2021-08-12T16:37:40.320",
+	"titles": [
+		{
+			"title": "WordPress Download Manager 3.1.22 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/download-manager/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://www.wordfence.com/blog/2021/07/wordpress-download-manager-vulnerabilities/",
+			"type": "Advisory"
+		}
+	]
 }

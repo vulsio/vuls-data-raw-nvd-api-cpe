@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:zarafa:zarafa:7.0.11:*:*:*:*:*:*:*",
-  "cpeNameId": "646EA1D5-94E3-46AB-BB47-6DDC12FEBADB",
-  "created": "2014-04-29T11:15:26.677",
-  "lastModified": "2014-04-29T19:53:44.293",
-  "titles": [
-    {
-      "title": "Zarafa 7.0.11",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://freecode.com/projects/zarafa"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:zarafa:zarafa:7.0.11:*:*:*:*:*:*:*",
+	"cpeNameId": "646EA1D5-94E3-46AB-BB47-6DDC12FEBADB",
+	"created": "2014-04-29T11:15:26.677",
+	"lastModified": "2014-04-29T19:53:44.293",
+	"titles": [
+		{
+			"title": "Zarafa 7.0.11",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://freecode.com/projects/zarafa"
+		}
+	]
 }

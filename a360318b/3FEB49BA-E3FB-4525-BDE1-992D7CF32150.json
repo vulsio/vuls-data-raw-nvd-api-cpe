@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:decal_project:decal:1.2.3:*:*:*:*:node.js:*:*",
-  "cpeNameId": "3FEB49BA-E3FB-4525-BDE1-992D7CF32150",
-  "created": "2021-02-05T22:09:05.477",
-  "lastModified": "2021-02-05T22:09:05.477",
-  "titles": [
-    {
-      "title": "decal Project decal 1.2.3 for Node.js",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.npmjs.com/package/decal",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:decal_project:decal:1.2.3:*:*:*:*:node.js:*:*",
+	"cpeNameId": "3FEB49BA-E3FB-4525-BDE1-992D7CF32150",
+	"created": "2021-02-05T22:09:05.477",
+	"lastModified": "2021-02-05T22:09:05.477",
+	"titles": [
+		{
+			"title": "decal Project decal 1.2.3 for Node.js",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.npmjs.com/package/decal",
+			"type": "Version"
+		}
+	]
 }

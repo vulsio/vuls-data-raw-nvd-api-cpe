@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:gitlab:gitlab:11.7:*:*:*:community:*:*:*",
-  "cpeNameId": "98C12B8E-3846-4A4B-9F81-922406BD57FF",
-  "created": "2019-10-03T16:11:06.753",
-  "lastModified": "2019-10-03T16:11:06.753",
-  "titles": [
-    {
-      "title": "Gitlab 11.7 Community Edition",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://about.gitlab.com/releases/",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:gitlab:gitlab:11.7:*:*:*:community:*:*:*",
+	"cpeNameId": "98C12B8E-3846-4A4B-9F81-922406BD57FF",
+	"created": "2019-10-03T16:11:06.753",
+	"lastModified": "2019-10-03T16:11:06.753",
+	"titles": [
+		{
+			"title": "Gitlab 11.7 Community Edition",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://about.gitlab.com/releases/",
+			"type": "Change Log"
+		}
+	]
 }

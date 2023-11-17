@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:kennethreitz:certifi:0.0.5:*:*:*:*:python:*:*",
-  "cpeNameId": "247D71A0-B014-4D33-9BFD-E3CB8F5AC8B8",
-  "created": "2023-08-02T15:11:37.950",
-  "lastModified": "2023-08-02T16:18:20.250",
-  "titles": [
-    {
-      "title": "Kenneth Reitz Certifi 0.0.5 for Python",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/certifi/python-certifi",
-      "type": "Product"
-    },
-    {
-      "ref": "https://pypi.org/project/certifi/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://kennethreitz.org/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:kennethreitz:certifi:0.0.5:*:*:*:*:python:*:*",
+	"cpeNameId": "247D71A0-B014-4D33-9BFD-E3CB8F5AC8B8",
+	"created": "2023-08-02T15:11:37.950",
+	"lastModified": "2023-08-02T16:18:20.250",
+	"titles": [
+		{
+			"title": "Kenneth Reitz Certifi 0.0.5 for Python",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/certifi/python-certifi",
+			"type": "Product"
+		},
+		{
+			"ref": "https://pypi.org/project/certifi/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://kennethreitz.org/",
+			"type": "Vendor"
+		}
+	]
 }

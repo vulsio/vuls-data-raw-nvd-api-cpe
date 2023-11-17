@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:cmsmadesimple:cms_made_simple:2.7:*:*:*:*:*:*:*",
-  "cpeNameId": "A1E79C73-4B45-4418-A44B-C422DA70F7BC",
-  "created": "2007-08-23T21:16:59.567",
-  "lastModified": "2008-04-01T14:41:52.370",
-  "titles": [
-    {
-      "title": "CMSimple CMSimple 2.7",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:cmsmadesimple:cms_made_simple:2.7:*:*:*:*:*:*:*",
+	"cpeNameId": "A1E79C73-4B45-4418-A44B-C422DA70F7BC",
+	"created": "2007-08-23T21:16:59.567",
+	"lastModified": "2008-04-01T14:41:52.370",
+	"titles": [
+		{
+			"title": "CMSimple CMSimple 2.7",
+			"lang": "en"
+		}
+	]
 }

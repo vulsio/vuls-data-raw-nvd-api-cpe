@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:seacms:seacms:6.3:*:*:*:*:*:*:*",
-  "cpeNameId": "5E7E32AC-A9AA-4A71-B6BD-4BFFAC7AE69F",
-  "created": "2019-10-09T12:50:01.187",
-  "lastModified": "2019-10-09T12:50:01.187",
-  "titles": [
-    {
-      "title": "SeaCms 6.3",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.seacms.net/doc/logs/",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:seacms:seacms:6.3:*:*:*:*:*:*:*",
+	"cpeNameId": "5E7E32AC-A9AA-4A71-B6BD-4BFFAC7AE69F",
+	"created": "2019-10-09T12:50:01.187",
+	"lastModified": "2019-10-09T12:50:01.187",
+	"titles": [
+		{
+			"title": "SeaCms 6.3",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.seacms.net/doc/logs/",
+			"type": "Change Log"
+		}
+	]
 }

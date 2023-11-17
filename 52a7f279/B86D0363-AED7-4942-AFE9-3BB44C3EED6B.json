@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:kicad:eda:4.0.2:-:*:*:*:*:*:*",
-  "cpeNameId": "B86D0363-AED7-4942-AFE9-3BB44C3EED6B",
-  "created": "2022-09-12T16:18:09.807",
-  "lastModified": "2022-09-14T17:02:11.987",
-  "titles": [
-    {
-      "title": "Kicad Eda 4.0.2 ",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.kicad.org/blog/categories/Release-Notes/",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:kicad:eda:4.0.2:-:*:*:*:*:*:*",
+	"cpeNameId": "B86D0363-AED7-4942-AFE9-3BB44C3EED6B",
+	"created": "2022-09-12T16:18:09.807",
+	"lastModified": "2022-09-14T17:02:11.987",
+	"titles": [
+		{
+			"title": "Kicad Eda 4.0.2 ",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.kicad.org/blog/categories/Release-Notes/",
+			"type": "Change Log"
+		}
+	]
 }

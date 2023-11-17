@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:jeecg:jeecg_boot:-:*:*:*:*:*:*:*",
-  "cpeNameId": "4BA4F69F-CDC8-4B17-9A31-23916D18888E",
-  "created": "2022-08-10T15:54:31.437",
-  "lastModified": "2022-11-07T21:22:14.790",
-  "titles": [
-    {
-      "title": "JEECG Boot",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/jeecgboot/jeecg-boot",
-      "type": "Product"
-    },
-    {
-      "ref": "http://boot.jeecg.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:jeecg:jeecg_boot:-:*:*:*:*:*:*:*",
+	"cpeNameId": "4BA4F69F-CDC8-4B17-9A31-23916D18888E",
+	"created": "2022-08-10T15:54:31.437",
+	"lastModified": "2022-11-07T21:22:14.790",
+	"titles": [
+		{
+			"title": "JEECG Boot",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/jeecgboot/jeecg-boot",
+			"type": "Product"
+		},
+		{
+			"ref": "http://boot.jeecg.com/",
+			"type": "Vendor"
+		}
+	]
 }

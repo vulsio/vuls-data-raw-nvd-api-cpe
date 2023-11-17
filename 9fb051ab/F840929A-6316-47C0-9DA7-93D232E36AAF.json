@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:cisco:ios:15.2\\(7\\)e1a:*:*:*:*:*:*:*",
-  "cpeNameId": "F840929A-6316-47C0-9DA7-93D232E36AAF",
-  "created": "2020-06-22T16:07:04.183",
-  "lastModified": "2020-06-22T16:07:04.183",
-  "titles": [
-    {
-      "title": "Cisco IOS 15.2(7)E1A",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvq05584",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:cisco:ios:15.2\\(7\\)e1a:*:*:*:*:*:*:*",
+	"cpeNameId": "F840929A-6316-47C0-9DA7-93D232E36AAF",
+	"created": "2020-06-22T16:07:04.183",
+	"lastModified": "2020-06-22T16:07:04.183",
+	"titles": [
+		{
+			"title": "Cisco IOS 15.2(7)E1A",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvq05584",
+			"type": "Advisory"
+		}
+	]
 }

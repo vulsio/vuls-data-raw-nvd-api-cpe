@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:frappe:frappe:4.13.0:*:*:*:*:*:*:*",
-  "cpeNameId": "96E0D177-608D-40BD-A213-AE8A2E4CAFE1",
-  "created": "2019-09-04T17:15:53.223",
-  "lastModified": "2019-09-04T17:15:53.223",
-  "titles": [
-    {
-      "title": "Frappé 4.13.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/frappe/frappe/releases",
-      "type": "Version"
-    },
-    {
-      "ref": "https://frappe.io/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:frappe:frappe:4.13.0:*:*:*:*:*:*:*",
+	"cpeNameId": "96E0D177-608D-40BD-A213-AE8A2E4CAFE1",
+	"created": "2019-09-04T17:15:53.223",
+	"lastModified": "2019-09-04T17:15:53.223",
+	"titles": [
+		{
+			"title": "Frappé 4.13.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/frappe/frappe/releases",
+			"type": "Version"
+		},
+		{
+			"ref": "https://frappe.io/",
+			"type": "Vendor"
+		}
+	]
 }

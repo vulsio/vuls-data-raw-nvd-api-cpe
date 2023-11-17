@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:qualcomm:snapdragon_1200_wearable_platform_firmware:-:*:*:*:*:*:*:*",
-  "cpeNameId": "18E57EAA-F20A-41F2-BE5F-87CE2C5F521E",
-  "created": "2023-04-19T14:28:23.273",
-  "lastModified": "2023-09-02T02:30:42.443",
-  "titles": [
-    {
-      "title": "Qualcomm Snapdragon 1200 Wearable Platform Firmware ",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://docs.qualcomm.com/product/publicresources/securitybulletin/april-2023-bulletin.html",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://www.qualcomm.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:qualcomm:snapdragon_1200_wearable_platform_firmware:-:*:*:*:*:*:*:*",
+	"cpeNameId": "18E57EAA-F20A-41F2-BE5F-87CE2C5F521E",
+	"created": "2023-04-19T14:28:23.273",
+	"lastModified": "2023-09-02T02:30:42.443",
+	"titles": [
+		{
+			"title": "Qualcomm Snapdragon 1200 Wearable Platform Firmware ",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://docs.qualcomm.com/product/publicresources/securitybulletin/april-2023-bulletin.html",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://www.qualcomm.com/",
+			"type": "Vendor"
+		}
+	]
 }

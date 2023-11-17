@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:foundrynet:bigiron_4000_router:-:*:*:*:*:*:*:*",
-  "cpeNameId": "72419773-E701-47A1-8525-325B2F888472",
-  "created": "2007-08-23T21:05:57.937",
-  "lastModified": "2008-03-25T19:15:31.617",
-  "titles": [
-    {
-      "title": "Foundry BigIron 4000 Router",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:foundrynet:bigiron_4000_router:-:*:*:*:*:*:*:*",
+	"cpeNameId": "72419773-E701-47A1-8525-325B2F888472",
+	"created": "2007-08-23T21:05:57.937",
+	"lastModified": "2008-03-25T19:15:31.617",
+	"titles": [
+		{
+			"title": "Foundry BigIron 4000 Router",
+			"lang": "en"
+		}
+	]
 }

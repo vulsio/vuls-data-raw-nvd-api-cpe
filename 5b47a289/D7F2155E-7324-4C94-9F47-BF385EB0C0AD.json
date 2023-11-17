@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:mediatek:linkit_software_development_kit:-:*:*:*:*:*:*:*",
-  "cpeNameId": "D7F2155E-7324-4C94-9F47-BF385EB0C0AD",
-  "created": "2022-01-27T19:05:22.750",
-  "lastModified": "2022-02-01T14:42:31.510",
-  "titles": [
-    {
-      "title": "MediaTek LinkIt Software Development Kit",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://labs.mediatek.com/en/platform/linkit-rtos#SDK",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:mediatek:linkit_software_development_kit:-:*:*:*:*:*:*:*",
+	"cpeNameId": "D7F2155E-7324-4C94-9F47-BF385EB0C0AD",
+	"created": "2022-01-27T19:05:22.750",
+	"lastModified": "2022-02-01T14:42:31.510",
+	"titles": [
+		{
+			"title": "MediaTek LinkIt Software Development Kit",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://labs.mediatek.com/en/platform/linkit-rtos#SDK",
+			"type": "Product"
+		}
+	]
 }

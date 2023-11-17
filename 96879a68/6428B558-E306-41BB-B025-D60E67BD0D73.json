@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:metabox:meta_box:4.3.2:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "6428B558-E306-41BB-B025-D60E67BD0D73",
-  "created": "2019-08-14T14:54:50.947",
-  "lastModified": "2019-08-14T14:54:50.947",
-  "titles": [
-    {
-      "title": "Meta Box 4.3.2 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://metabox.io/changelog/",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:metabox:meta_box:4.3.2:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "6428B558-E306-41BB-B025-D60E67BD0D73",
+	"created": "2019-08-14T14:54:50.947",
+	"lastModified": "2019-08-14T14:54:50.947",
+	"titles": [
+		{
+			"title": "Meta Box 4.3.2 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://metabox.io/changelog/",
+			"type": "Change Log"
+		}
+	]
 }

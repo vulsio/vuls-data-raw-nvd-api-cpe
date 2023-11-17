@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:arubanetworks:aruba_instant:6.4.2.0-4.1.1.10:*:*:*:*:*:*:*",
-  "cpeNameId": "054BA2FD-161D-4881-A495-12D78BF58DFF",
-  "created": "2019-07-15T15:56:30.907",
-  "lastModified": "2019-07-15T15:56:30.907",
-  "titles": [
-    {
-      "title": "Aruba Networks Instant 6.4.2.0-4.1.1.10",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://support.arubanetworks.com/Documentation/tabid/77/DMXModule/512/EntryId/33791/Default.aspx",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:arubanetworks:aruba_instant:6.4.2.0-4.1.1.10:*:*:*:*:*:*:*",
+	"cpeNameId": "054BA2FD-161D-4881-A495-12D78BF58DFF",
+	"created": "2019-07-15T15:56:30.907",
+	"lastModified": "2019-07-15T15:56:30.907",
+	"titles": [
+		{
+			"title": "Aruba Networks Instant 6.4.2.0-4.1.1.10",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://support.arubanetworks.com/Documentation/tabid/77/DMXModule/512/EntryId/33791/Default.aspx",
+			"type": "Version"
+		}
+	]
 }

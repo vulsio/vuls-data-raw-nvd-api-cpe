@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:dahuasecurity:dvr5108he:-:*:*:*:*:*:*:*",
-  "cpeNameId": "4A43C8A1-5AB5-4EAD-B78D-28EAD391CC6F",
-  "created": "2013-09-17T15:55:45.367",
-  "lastModified": "2013-09-17T16:16:35.657",
-  "titles": [
-    {
-      "title": "dahuasecurity DVR5108HE",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www.dahuasecurity.com/products_category/dvr-2.html"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:dahuasecurity:dvr5108he:-:*:*:*:*:*:*:*",
+	"cpeNameId": "4A43C8A1-5AB5-4EAD-B78D-28EAD391CC6F",
+	"created": "2013-09-17T15:55:45.367",
+	"lastModified": "2013-09-17T16:16:35.657",
+	"titles": [
+		{
+			"title": "dahuasecurity DVR5108HE",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.dahuasecurity.com/products_category/dvr-2.html"
+		}
+	]
 }

@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:netbox_project:netbox:2.6.2:*:*:*:*:*:*:*",
-  "cpeNameId": "94C1FDDE-B6F1-47E2-8C2C-D46913CC7281",
-  "created": "2021-02-22T15:07:08.287",
-  "lastModified": "2021-06-16T13:44:32.693",
-  "titles": [
-    {
-      "title": "netbox Project netbox 2.6.2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/netbox-community/netbox/releases",
-      "type": "Version"
-    },
-    {
-      "ref": "https://netbox.readthedocs.io/en/stable/",
-      "type": "Project"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:netbox_project:netbox:2.6.2:*:*:*:*:*:*:*",
+	"cpeNameId": "94C1FDDE-B6F1-47E2-8C2C-D46913CC7281",
+	"created": "2021-02-22T15:07:08.287",
+	"lastModified": "2021-06-16T13:44:32.693",
+	"titles": [
+		{
+			"title": "netbox Project netbox 2.6.2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/netbox-community/netbox/releases",
+			"type": "Version"
+		},
+		{
+			"ref": "https://netbox.readthedocs.io/en/stable/",
+			"type": "Project"
+		}
+	]
 }

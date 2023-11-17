@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:activity_log_project:activity_log:2.3.4:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "788E93CD-E217-45C7-B3D6-8825EFD4D168",
-  "created": "2019-07-22T14:31:36.173",
-  "lastModified": "2019-07-22T14:31:36.173",
-  "titles": [
-    {
-      "title": "Activity Log Project Activity Log 2.3.4 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wordpress.org/plugins/aryo-activity-log/#developers",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://wordpress.org/plugins/aryo-activity-log/#description",
-      "type": "Project"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:activity_log_project:activity_log:2.3.4:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "788E93CD-E217-45C7-B3D6-8825EFD4D168",
+	"created": "2019-07-22T14:31:36.173",
+	"lastModified": "2019-07-22T14:31:36.173",
+	"titles": [
+		{
+			"title": "Activity Log Project Activity Log 2.3.4 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/aryo-activity-log/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/aryo-activity-log/#description",
+			"type": "Project"
+		}
+	]
 }

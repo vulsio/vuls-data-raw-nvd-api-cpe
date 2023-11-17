@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:unicycle_project:unicycle:0.6.3:*:*:*:*:rust:*:*",
-  "cpeNameId": "D75AF82F-E9AD-4E50-B5EC-DB9621B1FF44",
-  "created": "2022-11-01T12:29:54.947",
-  "lastModified": "2022-11-01T12:31:27.850",
-  "titles": [
-    {
-      "title": "unicycle Project unicycle 0.6.3 for Rust",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://crates.io/crates/unicycle/versions",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:unicycle_project:unicycle:0.6.3:*:*:*:*:rust:*:*",
+	"cpeNameId": "D75AF82F-E9AD-4E50-B5EC-DB9621B1FF44",
+	"created": "2022-11-01T12:29:54.947",
+	"lastModified": "2022-11-01T12:31:27.850",
+	"titles": [
+		{
+			"title": "unicycle Project unicycle 0.6.3 for Rust",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://crates.io/crates/unicycle/versions",
+			"type": "Version"
+		}
+	]
 }

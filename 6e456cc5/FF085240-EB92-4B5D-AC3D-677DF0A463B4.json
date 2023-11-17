@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:veronalabs:wp_sms:5.1.1:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "FF085240-EB92-4B5D-AC3D-677DF0A463B4",
-  "created": "2023-08-30T15:17:50.730",
-  "lastModified": "2023-08-30T15:24:32.113",
-  "titles": [
-    {
-      "title": "VeronaLabs WP SMS 5.1.1 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://veronalabs.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://wordpress.org/plugins/wp-sms/#developers",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:veronalabs:wp_sms:5.1.1:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "FF085240-EB92-4B5D-AC3D-677DF0A463B4",
+	"created": "2023-08-30T15:17:50.730",
+	"lastModified": "2023-08-30T15:24:32.113",
+	"titles": [
+		{
+			"title": "VeronaLabs WP SMS 5.1.1 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://veronalabs.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/wp-sms/#developers",
+			"type": "Change Log"
+		}
+	]
 }

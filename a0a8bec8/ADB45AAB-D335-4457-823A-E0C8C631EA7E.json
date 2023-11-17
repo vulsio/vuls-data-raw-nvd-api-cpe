@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:artifex:afpl_ghostscript:8.14:*:*:*:*:*:*:*",
-  "cpeNameId": "ADB45AAB-D335-4457-823A-E0C8C631EA7E",
-  "created": "2010-01-07T16:08:54.857",
-  "lastModified": "2010-01-07T16:08:54.857",
-  "titles": [
-    {
-      "title": "Artifex AFPL Ghostscript 8.14",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:artifex:afpl_ghostscript:8.14:*:*:*:*:*:*:*",
+	"cpeNameId": "ADB45AAB-D335-4457-823A-E0C8C631EA7E",
+	"created": "2010-01-07T16:08:54.857",
+	"lastModified": "2010-01-07T16:08:54.857",
+	"titles": [
+		{
+			"title": "Artifex AFPL Ghostscript 8.14",
+			"lang": "en"
+		}
+	]
 }

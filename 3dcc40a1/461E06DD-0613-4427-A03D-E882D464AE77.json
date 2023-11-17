@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:redhat:undertow:2.2.16:*:*:*:*:*:*:*",
-  "cpeNameId": "461E06DD-0613-4427-A03D-E882D464AE77",
-  "created": "2022-08-09T14:51:36.693",
-  "lastModified": "2022-08-10T14:39:52.590",
-  "titles": [
-    {
-      "title": "Red Hat Undertow 2.2.16",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://issues.redhat.com/browse/UNDERTOW-2133",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://github.com/undertow-io/undertow/tags",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:redhat:undertow:2.2.16:*:*:*:*:*:*:*",
+	"cpeNameId": "461E06DD-0613-4427-A03D-E882D464AE77",
+	"created": "2022-08-09T14:51:36.693",
+	"lastModified": "2022-08-10T14:39:52.590",
+	"titles": [
+		{
+			"title": "Red Hat Undertow 2.2.16",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://issues.redhat.com/browse/UNDERTOW-2133",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://github.com/undertow-io/undertow/tags",
+			"type": "Version"
+		}
+	]
 }

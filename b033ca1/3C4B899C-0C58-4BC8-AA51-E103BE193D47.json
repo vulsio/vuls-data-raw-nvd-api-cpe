@@ -1,33 +1,33 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:python:python:3.7.0:-:*:*:*:*:*:*",
-  "cpeNameId": "3C4B899C-0C58-4BC8-AA51-E103BE193D47",
-  "created": "2019-05-07T18:36:30.657",
-  "lastModified": "2019-05-07T18:36:30.657",
-  "titles": [
-    {
-      "title": "Python 3.7.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.python.org/downloads/",
-      "type": "Version"
-    },
-    {
-      "ref": "https://www.python.org/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/python/cpython",
-      "type": "Version"
-    }
-  ],
-  "deprecates": [
-    {
-      "cpeName": "cpe:2.3:a:python:python:3.7.0:*:*:*:*:*:*:*",
-      "cpeNameId": "A8D6EFB8-0716-4EA1-A24E-2D736990653E"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:python:python:3.7.0:-:*:*:*:*:*:*",
+	"cpeNameId": "3C4B899C-0C58-4BC8-AA51-E103BE193D47",
+	"created": "2019-05-07T18:36:30.657",
+	"lastModified": "2019-05-07T18:36:30.657",
+	"titles": [
+		{
+			"title": "Python 3.7.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.python.org/downloads/",
+			"type": "Version"
+		},
+		{
+			"ref": "https://www.python.org/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/python/cpython",
+			"type": "Version"
+		}
+	],
+	"deprecates": [
+		{
+			"cpeName": "cpe:2.3:a:python:python:3.7.0:*:*:*:*:*:*:*",
+			"cpeNameId": "A8D6EFB8-0716-4EA1-A24E-2D736990653E"
+		}
+	]
 }

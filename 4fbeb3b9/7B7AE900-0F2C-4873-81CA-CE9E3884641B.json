@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.4.0:rc1:*:*:*:wordpress:*:*",
-  "cpeNameId": "7B7AE900-0F2C-4873-81CA-CE9E3884641B",
-  "created": "2019-07-16T17:46:31.853",
-  "lastModified": "2019-07-16T17:46:31.853",
-  "titles": [
-    {
-      "title": "WooCommerce 3.4.0 Release Candidate 1 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://woocommerce.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/woocommerce/woocommerce/",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.4.0:rc1:*:*:*:wordpress:*:*",
+	"cpeNameId": "7B7AE900-0F2C-4873-81CA-CE9E3884641B",
+	"created": "2019-07-16T17:46:31.853",
+	"lastModified": "2019-07-16T17:46:31.853",
+	"titles": [
+		{
+			"title": "WooCommerce 3.4.0 Release Candidate 1 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://woocommerce.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/woocommerce/woocommerce/",
+			"type": "Version"
+		}
+	]
 }

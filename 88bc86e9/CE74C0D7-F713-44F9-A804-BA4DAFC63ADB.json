@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:opensuse:libzypp:14.45.6:*:*:*:*:*:*:*",
-  "cpeNameId": "CE74C0D7-F713-44F9-A804-BA4DAFC63ADB",
-  "created": "2019-06-05T17:22:39.740",
-  "lastModified": "2019-06-05T17:22:39.740",
-  "titles": [
-    {
-      "title": "openSUSE libzypp 14.45.6",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/openSUSE/libzypp",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:opensuse:libzypp:14.45.6:*:*:*:*:*:*:*",
+	"cpeNameId": "CE74C0D7-F713-44F9-A804-BA4DAFC63ADB",
+	"created": "2019-06-05T17:22:39.740",
+	"lastModified": "2019-06-05T17:22:39.740",
+	"titles": [
+		{
+			"title": "openSUSE libzypp 14.45.6",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/openSUSE/libzypp",
+			"type": "Version"
+		}
+	]
 }

@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:intel:graphics_performance_analyzers:21.2:*:*:*:*:*:*:*",
-  "cpeNameId": "7C51E100-8A24-4AC8-9884-3D95E39A5DDF",
-  "created": "2022-02-11T18:05:54.563",
-  "lastModified": "2022-02-11T20:56:53.857",
-  "titles": [
-    {
-      "title": "Intel Graphics Performance Analyzers (Intel GPA) 21.2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00574.html",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://www.intel.com/content/www/us/en/developer/tools/graphics-performance-analyzers/download.html",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:intel:graphics_performance_analyzers:21.2:*:*:*:*:*:*:*",
+	"cpeNameId": "7C51E100-8A24-4AC8-9884-3D95E39A5DDF",
+	"created": "2022-02-11T18:05:54.563",
+	"lastModified": "2022-02-11T20:56:53.857",
+	"titles": [
+		{
+			"title": "Intel Graphics Performance Analyzers (Intel GPA) 21.2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00574.html",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://www.intel.com/content/www/us/en/developer/tools/graphics-performance-analyzers/download.html",
+			"type": "Product"
+		}
+	]
 }

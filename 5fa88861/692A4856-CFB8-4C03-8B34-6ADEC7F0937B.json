@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:texmacs:texmacs:1.0.5.9:*:*:*:*:*:*:*",
-  "cpeNameId": "692A4856-CFB8-4C03-8B34-6ADEC7F0937B",
-  "created": "2010-10-21T19:34:32.057",
-  "lastModified": "2010-10-21T21:05:59.333",
-  "titles": [
-    {
-      "title": "TeXmacs 1.0.5.9",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:texmacs:texmacs:1.0.5.9:*:*:*:*:*:*:*",
+	"cpeNameId": "692A4856-CFB8-4C03-8B34-6ADEC7F0937B",
+	"created": "2010-10-21T19:34:32.057",
+	"lastModified": "2010-10-21T21:05:59.333",
+	"titles": [
+		{
+			"title": "TeXmacs 1.0.5.9",
+			"lang": "en"
+		}
+	]
 }

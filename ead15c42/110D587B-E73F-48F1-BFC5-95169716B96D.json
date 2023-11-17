@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:epson:prifnw1s:-:*:*:*:*:*:*:*",
-  "cpeNameId": "110D587B-E73F-48F1-BFC5-95169716B96D",
-  "created": "2023-04-17T13:41:05.150",
-  "lastModified": "2023-04-17T15:16:36.763",
-  "titles": [
-    {
-      "title": "EPSON PRIFNW1S",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.epson.jp/support/misc_t/230308_oshirase.htm",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:epson:prifnw1s:-:*:*:*:*:*:*:*",
+	"cpeNameId": "110D587B-E73F-48F1-BFC5-95169716B96D",
+	"created": "2023-04-17T13:41:05.150",
+	"lastModified": "2023-04-17T15:16:36.763",
+	"titles": [
+		{
+			"title": "EPSON PRIFNW1S",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.epson.jp/support/misc_t/230308_oshirase.htm",
+			"type": "Advisory"
+		}
+	]
 }

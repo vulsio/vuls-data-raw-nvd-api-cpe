@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:webyog:sqlyog:4.04:-:enterprise:*:*:*:*:*",
-  "cpeNameId": "FB6690A7-5E52-4C60-A879-B9B463366FFB",
-  "created": "2009-11-25T18:39:25.217",
-  "lastModified": "2009-11-25T18:39:25.217",
-  "titles": [
-    {
-      "title": "Webyog SQLyog 4.04 Enterprise Edition",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:webyog:sqlyog:4.04:-:enterprise:*:*:*:*:*",
+	"cpeNameId": "FB6690A7-5E52-4C60-A879-B9B463366FFB",
+	"created": "2009-11-25T18:39:25.217",
+	"lastModified": "2009-11-25T18:39:25.217",
+	"titles": [
+		{
+			"title": "Webyog SQLyog 4.04 Enterprise Edition",
+			"lang": "en"
+		}
+	]
 }

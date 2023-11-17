@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:arvados:arvados:2.3.0:*:*:*:*:ruby:*:*",
-  "cpeNameId": "9450AF97-FD1E-41C7-A42A-A9CD7AF364D0",
-  "created": "2022-08-15T18:59:15.993",
-  "lastModified": "2022-08-15T19:02:58.637",
-  "titles": [
-    {
-      "title": "Arvados 2.3.0 for Ruby",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://arvados.org/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://rubygems.org/gems/arvados/versions",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:arvados:arvados:2.3.0:*:*:*:*:ruby:*:*",
+	"cpeNameId": "9450AF97-FD1E-41C7-A42A-A9CD7AF364D0",
+	"created": "2022-08-15T18:59:15.993",
+	"lastModified": "2022-08-15T19:02:58.637",
+	"titles": [
+		{
+			"title": "Arvados 2.3.0 for Ruby",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://arvados.org/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://rubygems.org/gems/arvados/versions",
+			"type": "Version"
+		}
+	]
 }

@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:pulsesecure:pulse_connect_secure:8.1:r7:*:*:*:*:*:*",
-  "cpeNameId": "31DAB1A6-423A-49BE-BD3F-2DD3823DE924",
-  "created": "2019-06-26T16:01:30.040",
-  "lastModified": "2019-06-26T16:01:30.040",
-  "titles": [
-    {
-      "title": "PulseSecure Pulse Connect Secure (PCS) 8.1 R7",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/SA40166",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://www.pulsesecure.net/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:pulsesecure:pulse_connect_secure:8.1:r7:*:*:*:*:*:*",
+	"cpeNameId": "31DAB1A6-423A-49BE-BD3F-2DD3823DE924",
+	"created": "2019-06-26T16:01:30.040",
+	"lastModified": "2019-06-26T16:01:30.040",
+	"titles": [
+		{
+			"title": "PulseSecure Pulse Connect Secure (PCS) 8.1 R7",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/SA40166",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://www.pulsesecure.net/",
+			"type": "Vendor"
+		}
+	]
 }

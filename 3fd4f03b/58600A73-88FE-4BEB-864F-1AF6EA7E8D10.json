@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:linuxfoundation:argo-cd:2.3.17:*:*:*:*:*:*:*",
-  "cpeNameId": "58600A73-88FE-4BEB-864F-1AF6EA7E8D10",
-  "created": "2023-02-24T14:19:17.817",
-  "lastModified": "2023-03-06T20:28:30.503",
-  "titles": [
-    {
-      "title": "The Linux Foundation Argo CD 2.3.17",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/argoproj/argo-cd/tags",
-      "type": "Version"
-    },
-    {
-      "ref": "https://github.com/argoproj/argo-cd/security/advisories/GHSA-3jfq-742w-xg8j",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:linuxfoundation:argo-cd:2.3.17:*:*:*:*:*:*:*",
+	"cpeNameId": "58600A73-88FE-4BEB-864F-1AF6EA7E8D10",
+	"created": "2023-02-24T14:19:17.817",
+	"lastModified": "2023-03-06T20:28:30.503",
+	"titles": [
+		{
+			"title": "The Linux Foundation Argo CD 2.3.17",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/argoproj/argo-cd/tags",
+			"type": "Version"
+		},
+		{
+			"ref": "https://github.com/argoproj/argo-cd/security/advisories/GHSA-3jfq-742w-xg8j",
+			"type": "Advisory"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:mozilla:firefox_esr:78.4.1:*:*:*:*:*:*:*",
-  "cpeNameId": "0EE58245-D7D1-4E6F-89CC-69F7399EA3A9",
-  "created": "2020-12-09T18:45:20.167",
-  "lastModified": "2021-06-02T18:10:20.377",
-  "titles": [
-    {
-      "title": "Mozilla Firefox Extended Support Release (ESR) 78.4.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.mozilla.org/en-US/security/advisories/mfsa2020-49/",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:mozilla:firefox_esr:78.4.1:*:*:*:*:*:*:*",
+	"cpeNameId": "0EE58245-D7D1-4E6F-89CC-69F7399EA3A9",
+	"created": "2020-12-09T18:45:20.167",
+	"lastModified": "2021-06-02T18:10:20.377",
+	"titles": [
+		{
+			"title": "Mozilla Firefox Extended Support Release (ESR) 78.4.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.mozilla.org/en-US/security/advisories/mfsa2020-49/",
+			"type": "Advisory"
+		}
+	]
 }

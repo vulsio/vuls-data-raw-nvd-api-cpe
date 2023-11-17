@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:machothemes:strong_testimonials:-:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "611CEE3C-526A-4DB0-ADF0-C5B0E3A764C4",
-  "created": "2020-02-05T17:30:35.487",
-  "lastModified": "2020-02-05T17:30:35.487",
-  "titles": [
-    {
-      "title": "MachoThemes Strong Testimonials for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/MachoThemes/strong-testimonials/blob/master/changelog.txt",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://github.com/MachoThemes/strong-testimonials/releases",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:machothemes:strong_testimonials:-:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "611CEE3C-526A-4DB0-ADF0-C5B0E3A764C4",
+	"created": "2020-02-05T17:30:35.487",
+	"lastModified": "2020-02-05T17:30:35.487",
+	"titles": [
+		{
+			"title": "MachoThemes Strong Testimonials for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/MachoThemes/strong-testimonials/blob/master/changelog.txt",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://github.com/MachoThemes/strong-testimonials/releases",
+			"type": "Version"
+		}
+	]
 }

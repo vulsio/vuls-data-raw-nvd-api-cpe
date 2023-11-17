@@ -1,25 +1,25 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:mozilla:firefox_esr:68.1.0:*:*:*:*:*:*:*",
-  "cpeNameId": "6484B42F-1E88-472C-897D-02A0C47F63DE",
-  "created": "2020-03-04T16:54:58.973",
-  "lastModified": "2020-03-04T16:54:58.973",
-  "titles": [
-    {
-      "title": "Mozilla Firefox Extended Support Release (ESR)68.1.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.mozilla.org/en-US/firefox/68.1.0/releasenotes/",
-      "type": "Change Log"
-    }
-  ],
-  "deprecates": [
-    {
-      "cpeName": "cpe:2.3:a:mozilla:firefox_esr:68.1:*:*:*:*:*:*:*",
-      "cpeNameId": "ABEA8E65-9A68-468D-B6EA-A173DB09FA92"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:mozilla:firefox_esr:68.1.0:*:*:*:*:*:*:*",
+	"cpeNameId": "6484B42F-1E88-472C-897D-02A0C47F63DE",
+	"created": "2020-03-04T16:54:58.973",
+	"lastModified": "2020-03-04T16:54:58.973",
+	"titles": [
+		{
+			"title": "Mozilla Firefox Extended Support Release (ESR)68.1.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.mozilla.org/en-US/firefox/68.1.0/releasenotes/",
+			"type": "Change Log"
+		}
+	],
+	"deprecates": [
+		{
+			"cpeName": "cpe:2.3:a:mozilla:firefox_esr:68.1:*:*:*:*:*:*:*",
+			"cpeNameId": "ABEA8E65-9A68-468D-B6EA-A173DB09FA92"
+		}
+	]
 }

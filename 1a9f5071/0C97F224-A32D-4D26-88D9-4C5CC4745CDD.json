@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:phplist:phplist:2.11.9:*:*:*:*:*:*:*",
-  "cpeNameId": "0C97F224-A32D-4D26-88D9-4C5CC4745CDD",
-  "created": "2014-05-05T16:48:49.853",
-  "lastModified": "2014-05-08T15:05:38.193",
-  "titles": [
-    {
-      "title": "phpList 2.11.9",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://mantis.phplist.com/changelog_page.php?project_id=2"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:phplist:phplist:2.11.9:*:*:*:*:*:*:*",
+	"cpeNameId": "0C97F224-A32D-4D26-88D9-4C5CC4745CDD",
+	"created": "2014-05-05T16:48:49.853",
+	"lastModified": "2014-05-08T15:05:38.193",
+	"titles": [
+		{
+			"title": "phpList 2.11.9",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://mantis.phplist.com/changelog_page.php?project_id=2"
+		}
+	]
 }

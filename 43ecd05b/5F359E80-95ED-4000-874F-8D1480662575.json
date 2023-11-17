@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:schneider-electric:bmxp3420302:-:*:*:*:*:*:*:*",
-  "cpeNameId": "5F359E80-95ED-4000-874F-8D1480662575",
-  "created": "2015-12-21T16:00:17.887",
-  "lastModified": "2015-12-21T16:00:17.887",
-  "titles": [
-    {
-      "title": "Schneider Electric BMXP3420302",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2015-344-01",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:schneider-electric:bmxp3420302:-:*:*:*:*:*:*:*",
+	"cpeNameId": "5F359E80-95ED-4000-874F-8D1480662575",
+	"created": "2015-12-21T16:00:17.887",
+	"lastModified": "2015-12-21T16:00:17.887",
+	"titles": [
+		{
+			"title": "Schneider Electric BMXP3420302",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2015-344-01",
+			"type": "Advisory"
+		}
+	]
 }

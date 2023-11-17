@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:iij:seil_x2_firmware:2.66:*:*:*:*:*:*:*",
-  "cpeNameId": "02865AD2-14CC-40CB-9DD6-9C6721E6964B",
-  "created": "2014-12-08T16:55:36.637",
-  "lastModified": "2014-12-08T19:16:57.350",
-  "titles": [
-    {
-      "title": "Internet Initiative Japan SEIL x2 Firmware 2.66",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www.seil.jp/support/tech/doc/"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:iij:seil_x2_firmware:2.66:*:*:*:*:*:*:*",
+	"cpeNameId": "02865AD2-14CC-40CB-9DD6-9C6721E6964B",
+	"created": "2014-12-08T16:55:36.637",
+	"lastModified": "2014-12-08T19:16:57.350",
+	"titles": [
+		{
+			"title": "Internet Initiative Japan SEIL x2 Firmware 2.66",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.seil.jp/support/tech/doc/"
+		}
+	]
 }

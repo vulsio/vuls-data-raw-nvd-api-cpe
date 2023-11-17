@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:vmware:rabbitmq:3.9.14:*:*:*:*:*:*:*",
-  "cpeNameId": "84A433C4-A6BC-4C73-B028-3DFEDBC50CBD",
-  "created": "2022-10-07T12:55:32.000",
-  "lastModified": "2022-10-11T17:20:36.080",
-  "titles": [
-    {
-      "title": "VMware RabbitMQ 3.9.14",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/rabbitmq/rabbitmq-server/releases",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://rabbitmq.com/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://github.com/rabbitmq/rabbitmq-server/security/advisories/GHSA-v9gv-xp36-jgj8",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:vmware:rabbitmq:3.9.14:*:*:*:*:*:*:*",
+	"cpeNameId": "84A433C4-A6BC-4C73-B028-3DFEDBC50CBD",
+	"created": "2022-10-07T12:55:32.000",
+	"lastModified": "2022-10-11T17:20:36.080",
+	"titles": [
+		{
+			"title": "VMware RabbitMQ 3.9.14",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/rabbitmq/rabbitmq-server/releases",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://rabbitmq.com/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://github.com/rabbitmq/rabbitmq-server/security/advisories/GHSA-v9gv-xp36-jgj8",
+			"type": "Advisory"
+		}
+	]
 }

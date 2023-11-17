@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:mailenable:mailenable:1.22:-:enterprise:*:*:*:*:*",
-  "cpeNameId": "AB3D53B7-334B-4F0A-97E8-EAD14E3CE1FF",
-  "created": "2012-02-10T19:24:53.453",
-  "lastModified": "2012-02-10T19:24:53.453",
-  "titles": [
-    {
-      "title": "MailEnable Enterprise 1.22",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:mailenable:mailenable:1.22:-:enterprise:*:*:*:*:*",
+	"cpeNameId": "AB3D53B7-334B-4F0A-97E8-EAD14E3CE1FF",
+	"created": "2012-02-10T19:24:53.453",
+	"lastModified": "2012-02-10T19:24:53.453",
+	"titles": [
+		{
+			"title": "MailEnable Enterprise 1.22",
+			"lang": "en"
+		}
+	]
 }

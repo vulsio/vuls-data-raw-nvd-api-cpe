@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:cisco:firepower_management_center:6.6.0.1:*:*:*:*:*:*:*",
-  "cpeNameId": "84BA3759-7454-4ADC-AD1C-151FE89EFD63",
-  "created": "2020-12-02T16:00:32.907",
-  "lastModified": "2020-12-02T16:00:32.907",
-  "titles": [
-    {
-      "title": "Cisco Firepower Management Center 6.6.0.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://software.cisco.com/download/home/286259687/type/286271056/release/6.6.1",
-      "type": "Version"
-    },
-    {
-      "ref": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-fmc-cacauthbyp-NCLGZm3Q",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:cisco:firepower_management_center:6.6.0.1:*:*:*:*:*:*:*",
+	"cpeNameId": "84BA3759-7454-4ADC-AD1C-151FE89EFD63",
+	"created": "2020-12-02T16:00:32.907",
+	"lastModified": "2020-12-02T16:00:32.907",
+	"titles": [
+		{
+			"title": "Cisco Firepower Management Center 6.6.0.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://software.cisco.com/download/home/286259687/type/286271056/release/6.6.1",
+			"type": "Version"
+		},
+		{
+			"ref": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-fmc-cacauthbyp-NCLGZm3Q",
+			"type": "Advisory"
+		}
+	]
 }

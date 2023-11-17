@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:radiustheme:classified_listing_pro_-_classified_ads_\\&_business_directory:2.0.12:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "7AEE5AEF-C9C5-4B89-B9D2-CCC28EFF0E5B",
-  "created": "2022-09-16T15:29:43.887",
-  "lastModified": "2022-09-22T15:15:32.123",
-  "titles": [
-    {
-      "title": "RadiusTheme Classified Listing Pro - Classified ads & Business Directory 2.0.12 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.radiustheme.com/classified-listing-change-logs/",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://wpscan.com/vulnerability/845f44ca-f572-48d7-a19a-89cace0b8993",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:radiustheme:classified_listing_pro_-_classified_ads_\\&_business_directory:2.0.12:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "7AEE5AEF-C9C5-4B89-B9D2-CCC28EFF0E5B",
+	"created": "2022-09-16T15:29:43.887",
+	"lastModified": "2022-09-22T15:15:32.123",
+	"titles": [
+		{
+			"title": "RadiusTheme Classified Listing Pro - Classified ads & Business Directory 2.0.12 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.radiustheme.com/classified-listing-change-logs/",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://wpscan.com/vulnerability/845f44ca-f572-48d7-a19a-89cace0b8993",
+			"type": "Advisory"
+		}
+	]
 }

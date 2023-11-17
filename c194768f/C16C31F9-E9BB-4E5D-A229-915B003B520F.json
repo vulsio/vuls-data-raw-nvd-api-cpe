@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:videojs:video.js:5.2.3:*:*:*:*:node.js:*:*",
-  "cpeNameId": "C16C31F9-E9BB-4E5D-A229-915B003B520F",
-  "created": "2021-09-03T20:57:38.930",
-  "lastModified": "2021-09-03T22:20:44.557",
-  "titles": [
-    {
-      "title": "Videojs Video.js 5.2.3 for Node.js",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/videojs/video.js/releases",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:videojs:video.js:5.2.3:*:*:*:*:node.js:*:*",
+	"cpeNameId": "C16C31F9-E9BB-4E5D-A229-915B003B520F",
+	"created": "2021-09-03T20:57:38.930",
+	"lastModified": "2021-09-03T22:20:44.557",
+	"titles": [
+		{
+			"title": "Videojs Video.js 5.2.3 for Node.js",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/videojs/video.js/releases",
+			"type": "Version"
+		}
+	]
 }

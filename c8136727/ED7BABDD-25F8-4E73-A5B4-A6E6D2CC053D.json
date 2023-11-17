@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:pulsesecure:pulse_connect_secure:9.1:r12:*:*:*:*:*:*",
-  "cpeNameId": "ED7BABDD-25F8-4E73-A5B4-A6E6D2CC053D",
-  "created": "2021-11-22T16:14:36.847",
-  "lastModified": "2021-11-22T18:50:34.657",
-  "titles": [
-    {
-      "title": "PulseSecure Pulse Connect Secure (PCS) 9.1 R12",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.ivanti.com/products/connect-secure-vpn?psredirect",
-      "type": "Product"
-    },
-    {
-      "ref": "https://help.ivanti.com/ps/help/en_US/PCS/9.1R13/rn/rev_hstry.htm#revision_history_1375443920_1013926",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:pulsesecure:pulse_connect_secure:9.1:r12:*:*:*:*:*:*",
+	"cpeNameId": "ED7BABDD-25F8-4E73-A5B4-A6E6D2CC053D",
+	"created": "2021-11-22T16:14:36.847",
+	"lastModified": "2021-11-22T18:50:34.657",
+	"titles": [
+		{
+			"title": "PulseSecure Pulse Connect Secure (PCS) 9.1 R12",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.ivanti.com/products/connect-secure-vpn?psredirect",
+			"type": "Product"
+		},
+		{
+			"ref": "https://help.ivanti.com/ps/help/en_US/PCS/9.1R13/rn/rev_hstry.htm#revision_history_1375443920_1013926",
+			"type": "Version"
+		}
+	]
 }

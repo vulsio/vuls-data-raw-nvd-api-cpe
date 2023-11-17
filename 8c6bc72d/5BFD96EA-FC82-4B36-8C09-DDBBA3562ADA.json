@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:gnome:epiphany:1.6.3:*:*:*:*:*:*:*",
-  "cpeNameId": "5BFD96EA-FC82-4B36-8C09-DDBBA3562ADA",
-  "created": "2019-10-23T12:25:06.227",
-  "lastModified": "2019-10-23T12:25:06.227",
-  "titles": [
-    {
-      "title": "GNOME Epiphany 1.6.3",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://gitlab.gnome.org/GNOME/epiphany/tags",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:gnome:epiphany:1.6.3:*:*:*:*:*:*:*",
+	"cpeNameId": "5BFD96EA-FC82-4B36-8C09-DDBBA3562ADA",
+	"created": "2019-10-23T12:25:06.227",
+	"lastModified": "2019-10-23T12:25:06.227",
+	"titles": [
+		{
+			"title": "GNOME Epiphany 1.6.3",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://gitlab.gnome.org/GNOME/epiphany/tags",
+			"type": "Version"
+		}
+	]
 }

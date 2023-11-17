@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:apple:cups:1.1.15:*:*:*:*:*:*:*",
-  "cpeNameId": "B6FAADE6-AECC-4C2C-9746-527343FDF61A",
-  "created": "2008-10-10T15:45:02.913",
-  "lastModified": "2012-11-26T16:39:25.440",
-  "titles": [
-    {
-      "title": "Apple CUPS 1.1.15",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:apple:cups:1.1.15:*:*:*:*:*:*:*",
+	"cpeNameId": "B6FAADE6-AECC-4C2C-9746-527343FDF61A",
+	"created": "2008-10-10T15:45:02.913",
+	"lastModified": "2012-11-26T16:39:25.440",
+	"titles": [
+		{
+			"title": "Apple CUPS 1.1.15",
+			"lang": "en"
+		}
+	]
 }

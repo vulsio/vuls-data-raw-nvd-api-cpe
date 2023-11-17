@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:es:iperf3:3.0.12:*:*:*:*:*:*:*",
-  "cpeNameId": "DADE4DA6-ED88-40D8-9563-540DE5EBA458",
-  "created": "2019-02-25T13:59:47.183",
-  "lastModified": "2019-02-25T13:59:47.183",
-  "titles": [
-    {
-      "title": "Energy Sciences Network (ESnet) iperf3 3.0.12",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://downloads.es.net/pub/iperf/",
-      "type": "Version"
-    },
-    {
-      "ref": "https://software.es.net/iperf/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://software.es.net/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:es:iperf3:3.0.12:*:*:*:*:*:*:*",
+	"cpeNameId": "DADE4DA6-ED88-40D8-9563-540DE5EBA458",
+	"created": "2019-02-25T13:59:47.183",
+	"lastModified": "2019-02-25T13:59:47.183",
+	"titles": [
+		{
+			"title": "Energy Sciences Network (ESnet) iperf3 3.0.12",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://downloads.es.net/pub/iperf/",
+			"type": "Version"
+		},
+		{
+			"ref": "https://software.es.net/iperf/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://software.es.net/",
+			"type": "Vendor"
+		}
+	]
 }

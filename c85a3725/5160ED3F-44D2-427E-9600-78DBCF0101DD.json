@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:mozilla:nss:3.44.2:*:*:*:*:*:*:*",
-  "cpeNameId": "5160ED3F-44D2-427E-9600-78DBCF0101DD",
-  "created": "2019-12-09T17:10:20.073",
-  "lastModified": "2019-12-09T17:10:20.073",
-  "titles": [
-    {
-      "title": "Mozilla NSS 3.44.2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/NSS_Releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:mozilla:nss:3.44.2:*:*:*:*:*:*:*",
+	"cpeNameId": "5160ED3F-44D2-427E-9600-78DBCF0101DD",
+	"created": "2019-12-09T17:10:20.073",
+	"lastModified": "2019-12-09T17:10:20.073",
+	"titles": [
+		{
+			"title": "Mozilla NSS 3.44.2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/NSS_Releases",
+			"type": "Change Log"
+		}
+	]
 }

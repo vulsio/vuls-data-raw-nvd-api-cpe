@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:arm:bifrost:r38p0:*:*:*:*:*:*:*",
-  "cpeNameId": "84E085B2-A62D-4FAF-98BB-B6F6A4900527",
-  "created": "2022-09-06T15:48:17.750",
-  "lastModified": "2022-09-12T13:41:30.647",
-  "titles": [
-    {
-      "title": "ARM Bifrost R38p0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://developer.arm.com/Arm%20Security%20Center/Mali%20GPU%20Driver%20Vulnerabilities",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:arm:bifrost:r38p0:*:*:*:*:*:*:*",
+	"cpeNameId": "84E085B2-A62D-4FAF-98BB-B6F6A4900527",
+	"created": "2022-09-06T15:48:17.750",
+	"lastModified": "2022-09-12T13:41:30.647",
+	"titles": [
+		{
+			"title": "ARM Bifrost R38p0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://developer.arm.com/Arm%20Security%20Center/Mali%20GPU%20Driver%20Vulnerabilities",
+			"type": "Advisory"
+		}
+	]
 }

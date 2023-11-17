@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:inedo:buildmaster:5.6.3:*:*:*:*:*:*:*",
-  "cpeNameId": "317587A5-B16F-4B22-A844-25526C0A731A",
-  "created": "2019-12-09T15:11:46.123",
-  "lastModified": "2019-12-09T15:11:46.123",
-  "titles": [
-    {
-      "title": "Inedo BuildMaster 5.6.3",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://inedo.com/blog/buildmaster-582-released",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:inedo:buildmaster:5.6.3:*:*:*:*:*:*:*",
+	"cpeNameId": "317587A5-B16F-4B22-A844-25526C0A731A",
+	"created": "2019-12-09T15:11:46.123",
+	"lastModified": "2019-12-09T15:11:46.123",
+	"titles": [
+		{
+			"title": "Inedo BuildMaster 5.6.3",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://inedo.com/blog/buildmaster-582-released",
+			"type": "Change Log"
+		}
+	]
 }

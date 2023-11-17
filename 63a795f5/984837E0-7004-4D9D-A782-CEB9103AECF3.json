@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:cisco:firepower_management_center:6.3.0.6:*:*:*:*:*:*:*",
-  "cpeNameId": "984837E0-7004-4D9D-A782-CEB9103AECF3",
-  "created": "2021-01-29T15:15:59.290",
-  "lastModified": "2021-01-29T15:15:59.290",
-  "titles": [
-    {
-      "title": "Cisco Firepower Management Center 6.3.0.6",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20191112-asa-ftd-lua-rce",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:cisco:firepower_management_center:6.3.0.6:*:*:*:*:*:*:*",
+	"cpeNameId": "984837E0-7004-4D9D-A782-CEB9103AECF3",
+	"created": "2021-01-29T15:15:59.290",
+	"lastModified": "2021-01-29T15:15:59.290",
+	"titles": [
+		{
+			"title": "Cisco Firepower Management Center 6.3.0.6",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20191112-asa-ftd-lua-rce",
+			"type": "Advisory"
+		}
+	]
 }

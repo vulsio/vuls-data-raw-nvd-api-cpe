@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:cakephp:cakephp:2.2.1:*:*:*:*:*:*:*",
-  "cpeNameId": "06227EF6-F72C-4616-8C4C-F175A5B919D3",
-  "created": "2016-01-28T00:15:26.580",
-  "lastModified": "2016-01-28T00:15:26.580",
-  "titles": [
-    {
-      "title": "CakePHP 2.2.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://cakephp.org/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "http://cakephp.org/changelogs/",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://github.com/cakephp/cakephp/releases",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:cakephp:cakephp:2.2.1:*:*:*:*:*:*:*",
+	"cpeNameId": "06227EF6-F72C-4616-8C4C-F175A5B919D3",
+	"created": "2016-01-28T00:15:26.580",
+	"lastModified": "2016-01-28T00:15:26.580",
+	"titles": [
+		{
+			"title": "CakePHP 2.2.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://cakephp.org/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "http://cakephp.org/changelogs/",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://github.com/cakephp/cakephp/releases",
+			"type": "Version"
+		}
+	]
 }

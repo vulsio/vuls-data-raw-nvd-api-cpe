@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:postieplugin:postie:0.9.8:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "259D31D9-13E0-40FD-AF07-63E8F78A6FF3",
-  "created": "2020-01-13T13:36:55.487",
-  "lastModified": "2020-01-13T13:36:55.487",
-  "titles": [
-    {
-      "title": "Postieplugin Postie 0.9.8 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wordpress.org/plugins/postie/#developers",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:postieplugin:postie:0.9.8:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "259D31D9-13E0-40FD-AF07-63E8F78A6FF3",
+	"created": "2020-01-13T13:36:55.487",
+	"lastModified": "2020-01-13T13:36:55.487",
+	"titles": [
+		{
+			"title": "Postieplugin Postie 0.9.8 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/postie/#developers",
+			"type": "Change Log"
+		}
+	]
 }

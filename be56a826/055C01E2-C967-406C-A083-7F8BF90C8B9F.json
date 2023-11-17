@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:microsoft:windows_10_1909:10.0.18363.476:*:*:*:*:*:x86:*",
-  "cpeNameId": "055C01E2-C967-406C-A083-7F8BF90C8B9F",
-  "created": "2022-12-05T17:38:26.143",
-  "lastModified": "2022-12-05T17:41:09.690",
-  "titles": [
-    {
-      "title": "Microsoft Windows 10 1909 10.0.18363.476 on X86",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://learn.microsoft.com/en-us/windows/release-health/release-information",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:microsoft:windows_10_1909:10.0.18363.476:*:*:*:*:*:x86:*",
+	"cpeNameId": "055C01E2-C967-406C-A083-7F8BF90C8B9F",
+	"created": "2022-12-05T17:38:26.143",
+	"lastModified": "2022-12-05T17:41:09.690",
+	"titles": [
+		{
+			"title": "Microsoft Windows 10 1909 10.0.18363.476 on X86",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://learn.microsoft.com/en-us/windows/release-health/release-information",
+			"type": "Version"
+		}
+	]
 }

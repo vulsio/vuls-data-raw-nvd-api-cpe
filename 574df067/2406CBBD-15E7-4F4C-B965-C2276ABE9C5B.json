@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:capnproto:capnp:0.1.6:*:*:*:*:rust:*:*",
-  "cpeNameId": "2406CBBD-15E7-4F4C-B965-C2276ABE9C5B",
-  "created": "2022-12-02T14:55:27.920",
-  "lastModified": "2022-12-02T18:22:34.680",
-  "titles": [
-    {
-      "title": "Cap’n Proto capnp 0.1.6 for Rust",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://capnproto.org/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://crates.io/crates/capnp",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:capnproto:capnp:0.1.6:*:*:*:*:rust:*:*",
+	"cpeNameId": "2406CBBD-15E7-4F4C-B965-C2276ABE9C5B",
+	"created": "2022-12-02T14:55:27.920",
+	"lastModified": "2022-12-02T18:22:34.680",
+	"titles": [
+		{
+			"title": "Cap’n Proto capnp 0.1.6 for Rust",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://capnproto.org/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://crates.io/crates/capnp",
+			"type": "Product"
+		}
+	]
 }

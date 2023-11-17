@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:ipfire:ipfire:2.13:core_update76:*:*:*:*:*:*",
-  "cpeNameId": "397658B5-8DA3-4DF9-BF88-7E110BA46509",
-  "created": "2019-09-12T13:41:45.430",
-  "lastModified": "2019-09-12T13:41:45.430",
-  "titles": [
-    {
-      "title": "IPFire 2.13 Core Update 76",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://blog.ipfire.org/",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:ipfire:ipfire:2.13:core_update76:*:*:*:*:*:*",
+	"cpeNameId": "397658B5-8DA3-4DF9-BF88-7E110BA46509",
+	"created": "2019-09-12T13:41:45.430",
+	"lastModified": "2019-09-12T13:41:45.430",
+	"titles": [
+		{
+			"title": "IPFire 2.13 Core Update 76",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://blog.ipfire.org/",
+			"type": "Change Log"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:geo_mashup_project:geo_mashup:1.6:beta1:*:*:*:wordpress:*:*",
-  "cpeNameId": "AF449759-3B0A-4835-AA0E-2C5362DEA849",
-  "created": "2019-06-24T18:19:49.200",
-  "lastModified": "2019-06-24T18:19:49.200",
-  "titles": [
-    {
-      "title": "Geo Mashup Project Geo Mashup 1.6 Beta1 for Wordpress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/cyberhobo/wordpress-geo-mashup/releases",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:geo_mashup_project:geo_mashup:1.6:beta1:*:*:*:wordpress:*:*",
+	"cpeNameId": "AF449759-3B0A-4835-AA0E-2C5362DEA849",
+	"created": "2019-06-24T18:19:49.200",
+	"lastModified": "2019-06-24T18:19:49.200",
+	"titles": [
+		{
+			"title": "Geo Mashup Project Geo Mashup 1.6 Beta1 for Wordpress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/cyberhobo/wordpress-geo-mashup/releases",
+			"type": "Version"
+		}
+	]
 }

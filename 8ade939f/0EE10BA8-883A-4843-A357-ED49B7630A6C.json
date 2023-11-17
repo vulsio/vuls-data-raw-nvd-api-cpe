@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:nrec:pcs-9611:-:*:*:*:*:*:*:*",
-  "cpeNameId": "0EE10BA8-883A-4843-A357-ED49B7630A6C",
-  "created": "2018-02-12T15:07:30.973",
-  "lastModified": "2021-06-24T14:41:12.107",
-  "titles": [
-    {
-      "title": "NR Electric PCS-9611",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.nrec.com/en/index.php/product/productInfo/56.html",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:nrec:pcs-9611:-:*:*:*:*:*:*:*",
+	"cpeNameId": "0EE10BA8-883A-4843-A357-ED49B7630A6C",
+	"created": "2018-02-12T15:07:30.973",
+	"lastModified": "2021-06-24T14:41:12.107",
+	"titles": [
+		{
+			"title": "NR Electric PCS-9611",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.nrec.com/en/index.php/product/productInfo/56.html",
+			"type": "Product"
+		}
+	]
 }

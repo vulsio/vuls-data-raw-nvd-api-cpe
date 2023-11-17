@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:cisco:ios_xe:3.7s:*:*:*:*:*:*:*",
-  "cpeNameId": "F68A3401-D9B2-4E83-95D8-A31C5CAB6497",
-  "created": "2015-03-26T19:08:01.903",
-  "lastModified": "2015-04-20T14:49:32.647",
-  "titles": [
-    {
-      "title": "Cisco IOS XE Software 3.7S",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www.cisco.com/c/en/us/products/ios-nx-os-software/ios-xe/index.html",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:cisco:ios_xe:3.7s:*:*:*:*:*:*:*",
+	"cpeNameId": "F68A3401-D9B2-4E83-95D8-A31C5CAB6497",
+	"created": "2015-03-26T19:08:01.903",
+	"lastModified": "2015-04-20T14:49:32.647",
+	"titles": [
+		{
+			"title": "Cisco IOS XE Software 3.7S",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.cisco.com/c/en/us/products/ios-nx-os-software/ios-xe/index.html",
+			"type": "Product"
+		}
+	]
 }

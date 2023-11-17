@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:nullsoft:nullsoft_scriptable_install_system:2.23:*:*:*:*:*:*:*",
-  "cpeNameId": "E4D24A6C-7132-4E56-8743-F88DCB4682FA",
-  "created": "2019-08-19T16:07:24.593",
-  "lastModified": "2019-08-19T16:07:24.593",
-  "titles": [
-    {
-      "title": "Nullsoft Scriptable Install System (NSIS) 2.23",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://nsis.sourceforge.net/Docs/AppendixF.html#history",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://nullsoft.com",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:nullsoft:nullsoft_scriptable_install_system:2.23:*:*:*:*:*:*:*",
+	"cpeNameId": "E4D24A6C-7132-4E56-8743-F88DCB4682FA",
+	"created": "2019-08-19T16:07:24.593",
+	"lastModified": "2019-08-19T16:07:24.593",
+	"titles": [
+		{
+			"title": "Nullsoft Scriptable Install System (NSIS) 2.23",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://nsis.sourceforge.net/Docs/AppendixF.html#history",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://nullsoft.com",
+			"type": "Vendor"
+		}
+	]
 }

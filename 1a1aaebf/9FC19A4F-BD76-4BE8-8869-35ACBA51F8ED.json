@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:easyrobotics:er200:-:*:*:*:*:*:*:*",
-  "cpeNameId": "9FC19A4F-BD76-4BE8-8869-35ACBA51F8ED",
-  "created": "2021-09-14T17:19:30.973",
-  "lastModified": "2022-04-20T23:57:37.587",
-  "titles": [
-    {
-      "title": "Easyrobotics Er200 ",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/aliasrobotics/RVD/issues/2568",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:easyrobotics:er200:-:*:*:*:*:*:*:*",
+	"cpeNameId": "9FC19A4F-BD76-4BE8-8869-35ACBA51F8ED",
+	"created": "2021-09-14T17:19:30.973",
+	"lastModified": "2022-04-20T23:57:37.587",
+	"titles": [
+		{
+			"title": "Easyrobotics Er200 ",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/aliasrobotics/RVD/issues/2568",
+			"type": "Advisory"
+		}
+	]
 }

@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:dahuasecurity:dvr0404hd-a:-:*:*:*:*:*:*:*",
-  "cpeNameId": "3F307CAC-BBB2-48DA-8049-EAD6231D2B64",
-  "created": "2013-09-17T15:53:44.910",
-  "lastModified": "2013-09-17T16:16:35.263",
-  "titles": [
-    {
-      "title": "dahuasecurity DVR0404HD-A",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www.dahuasecurity.com/products_category/dvr-2.html"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:dahuasecurity:dvr0404hd-a:-:*:*:*:*:*:*:*",
+	"cpeNameId": "3F307CAC-BBB2-48DA-8049-EAD6231D2B64",
+	"created": "2013-09-17T15:53:44.910",
+	"lastModified": "2013-09-17T16:16:35.263",
+	"titles": [
+		{
+			"title": "dahuasecurity DVR0404HD-A",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.dahuasecurity.com/products_category/dvr-2.html"
+		}
+	]
 }

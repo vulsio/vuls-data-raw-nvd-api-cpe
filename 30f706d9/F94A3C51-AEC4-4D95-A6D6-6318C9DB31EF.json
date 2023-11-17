@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:paloaltonetworks:vm-700:-:*:*:*:*:*:*:*",
-  "cpeNameId": "F94A3C51-AEC4-4D95-A6D6-6318C9DB31EF",
-  "created": "2018-12-17T14:28:25.437",
-  "lastModified": "2018-12-17T14:28:25.437",
-  "titles": [
-    {
-      "title": "Palo Alto Networks VM-700",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.paloaltonetworks.com/documentation/platforms",
-      "type": "Product"
-    },
-    {
-      "ref": "https://www.paloaltonetworks.com/products/product-selection",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:paloaltonetworks:vm-700:-:*:*:*:*:*:*:*",
+	"cpeNameId": "F94A3C51-AEC4-4D95-A6D6-6318C9DB31EF",
+	"created": "2018-12-17T14:28:25.437",
+	"lastModified": "2018-12-17T14:28:25.437",
+	"titles": [
+		{
+			"title": "Palo Alto Networks VM-700",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.paloaltonetworks.com/documentation/platforms",
+			"type": "Product"
+		},
+		{
+			"ref": "https://www.paloaltonetworks.com/products/product-selection",
+			"type": "Product"
+		}
+	]
 }

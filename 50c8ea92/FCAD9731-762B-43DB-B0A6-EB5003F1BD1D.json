@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:citrix:xenserver:6.0:*:*:*:*:*:*:*",
-  "cpeNameId": "FCAD9731-762B-43DB-B0A6-EB5003F1BD1D",
-  "created": "2012-11-26T17:26:50.753",
-  "lastModified": "2012-11-28T03:35:47.050",
-  "titles": [
-    {
-      "title": "Citrix XenServer 6.0",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:citrix:xenserver:6.0:*:*:*:*:*:*:*",
+	"cpeNameId": "FCAD9731-762B-43DB-B0A6-EB5003F1BD1D",
+	"created": "2012-11-26T17:26:50.753",
+	"lastModified": "2012-11-28T03:35:47.050",
+	"titles": [
+		{
+			"title": "Citrix XenServer 6.0",
+			"lang": "en"
+		}
+	]
 }

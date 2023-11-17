@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:samba:samba:4.7.12:*:*:*:*:*:*:*",
-  "cpeNameId": "EB58B5AD-04B6-424B-9643-AC5A85D7A4FD",
-  "created": "2019-03-07T14:39:49.860",
-  "lastModified": "2019-03-07T14:39:49.860",
-  "titles": [
-    {
-      "title": "Samba 4.7.12",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.samba.org/samba/history/",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:samba:samba:4.7.12:*:*:*:*:*:*:*",
+	"cpeNameId": "EB58B5AD-04B6-424B-9643-AC5A85D7A4FD",
+	"created": "2019-03-07T14:39:49.860",
+	"lastModified": "2019-03-07T14:39:49.860",
+	"titles": [
+		{
+			"title": "Samba 4.7.12",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.samba.org/samba/history/",
+			"type": "Change Log"
+		}
+	]
 }

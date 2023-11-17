@@ -1,21 +1,21 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:civicrm:civicrm:4.2.14:*:*:*:*:*:*:*",
-  "cpeNameId": "D5C6BC0D-FF41-4B27-8D81-C9B3F9F5C239",
-  "created": "2013-11-29T13:47:01.127",
-  "lastModified": "2013-11-29T14:08:04.377",
-  "titles": [
-    {
-      "title": "CiviCRM 4.2.14",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://sourceforge.net/projects/civicrm/files/"
-    },
-    {
-      "ref": "https://civicrm.org"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:civicrm:civicrm:4.2.14:*:*:*:*:*:*:*",
+	"cpeNameId": "D5C6BC0D-FF41-4B27-8D81-C9B3F9F5C239",
+	"created": "2013-11-29T13:47:01.127",
+	"lastModified": "2013-11-29T14:08:04.377",
+	"titles": [
+		{
+			"title": "CiviCRM 4.2.14",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://sourceforge.net/projects/civicrm/files/"
+		},
+		{
+			"ref": "https://civicrm.org"
+		}
+	]
 }

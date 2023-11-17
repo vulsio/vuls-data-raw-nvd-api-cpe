@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:wowonder:wowonder:4.1.1:*:*:*:*:*:*:*",
-  "cpeNameId": "CC697DA0-9C92-4FAA-B746-C22AD994D43B",
-  "created": "2022-11-15T15:13:55.930",
-  "lastModified": "2022-11-15T15:16:13.997",
-  "titles": [
-    {
-      "title": "WoWonder 4.1.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://docs.wowonder.com/#idocs_changelog",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://www.wowonder.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:wowonder:wowonder:4.1.1:*:*:*:*:*:*:*",
+	"cpeNameId": "CC697DA0-9C92-4FAA-B746-C22AD994D43B",
+	"created": "2022-11-15T15:13:55.930",
+	"lastModified": "2022-11-15T15:16:13.997",
+	"titles": [
+		{
+			"title": "WoWonder 4.1.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://docs.wowonder.com/#idocs_changelog",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://www.wowonder.com/",
+			"type": "Vendor"
+		}
+	]
 }

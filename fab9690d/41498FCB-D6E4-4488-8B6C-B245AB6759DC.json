@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:dadabik:dadabik:3.2:*:*:*:*:*:*:*",
-  "cpeNameId": "41498FCB-D6E4-4488-8B6C-B245AB6759DC",
-  "created": "2010-12-02T14:29:44.193",
-  "lastModified": "2010-12-09T20:24:43.227",
-  "titles": [
-    {
-      "title": "DaDaBIK 3.2",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:dadabik:dadabik:3.2:*:*:*:*:*:*:*",
+	"cpeNameId": "41498FCB-D6E4-4488-8B6C-B245AB6759DC",
+	"created": "2010-12-02T14:29:44.193",
+	"lastModified": "2010-12-09T20:24:43.227",
+	"titles": [
+		{
+			"title": "DaDaBIK 3.2",
+			"lang": "en"
+		}
+	]
 }

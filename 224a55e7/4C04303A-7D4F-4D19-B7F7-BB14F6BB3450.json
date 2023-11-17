@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:asterisk:open_source:17.8.1:*:*:*:*:*:*:*",
-  "cpeNameId": "4C04303A-7D4F-4D19-B7F7-BB14F6BB3450",
-  "created": "2020-12-04T17:59:01.483",
-  "lastModified": "2020-12-04T17:59:01.483",
-  "titles": [
-    {
-      "title": "Asterisk Open Source 17.8.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://downloads.asterisk.org/pub/security/AST-2020-001.html",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:asterisk:open_source:17.8.1:*:*:*:*:*:*:*",
+	"cpeNameId": "4C04303A-7D4F-4D19-B7F7-BB14F6BB3450",
+	"created": "2020-12-04T17:59:01.483",
+	"lastModified": "2020-12-04T17:59:01.483",
+	"titles": [
+		{
+			"title": "Asterisk Open Source 17.8.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://downloads.asterisk.org/pub/security/AST-2020-001.html",
+			"type": "Advisory"
+		}
+	]
 }

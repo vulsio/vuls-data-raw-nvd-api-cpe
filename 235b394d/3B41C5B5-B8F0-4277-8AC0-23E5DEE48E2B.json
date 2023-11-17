@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:monstaftp:monstaftp:2.9.2:*:*:*:*:*:*:*",
-  "cpeNameId": "3B41C5B5-B8F0-4277-8AC0-23E5DEE48E2B",
-  "created": "2022-09-14T03:33:04.380",
-  "lastModified": "2022-09-15T14:27:26.280",
-  "titles": [
-    {
-      "title": "MonstaFTP MonstaFTP 2.9.2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.monstaftp.com/notes/",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:monstaftp:monstaftp:2.9.2:*:*:*:*:*:*:*",
+	"cpeNameId": "3B41C5B5-B8F0-4277-8AC0-23E5DEE48E2B",
+	"created": "2022-09-14T03:33:04.380",
+	"lastModified": "2022-09-15T14:27:26.280",
+	"titles": [
+		{
+			"title": "MonstaFTP MonstaFTP 2.9.2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.monstaftp.com/notes/",
+			"type": "Change Log"
+		}
+	]
 }

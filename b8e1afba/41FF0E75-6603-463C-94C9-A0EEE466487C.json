@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:enalean:tuleap:8.16-2:*:*:*:*:*:*:*",
-  "cpeNameId": "41FF0E75-6603-463C-94C9-A0EEE466487C",
-  "created": "2019-07-03T12:33:13.973",
-  "lastModified": "2019-07-03T12:33:13.973",
-  "titles": [
-    {
-      "title": "Enalean Tuleap 8.16-2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/Enalean/tuleap/tags",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:enalean:tuleap:8.16-2:*:*:*:*:*:*:*",
+	"cpeNameId": "41FF0E75-6603-463C-94C9-A0EEE466487C",
+	"created": "2019-07-03T12:33:13.973",
+	"lastModified": "2019-07-03T12:33:13.973",
+	"titles": [
+		{
+			"title": "Enalean Tuleap 8.16-2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/Enalean/tuleap/tags",
+			"type": "Version"
+		}
+	]
 }

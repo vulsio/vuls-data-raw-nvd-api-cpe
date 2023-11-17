@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:apple:itunes:4.6.0:*:*:*:*:*:*:*",
-  "cpeNameId": "9869F891-11F3-4F49-A850-299E63F849BD",
-  "created": "2009-03-04T13:01:25.530",
-  "lastModified": "2009-03-04T13:01:25.530",
-  "titles": [
-    {
-      "title": "Apple iTunes 4.6.0",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:apple:itunes:4.6.0:*:*:*:*:*:*:*",
+	"cpeNameId": "9869F891-11F3-4F49-A850-299E63F849BD",
+	"created": "2009-03-04T13:01:25.530",
+	"lastModified": "2009-03-04T13:01:25.530",
+	"titles": [
+		{
+			"title": "Apple iTunes 4.6.0",
+			"lang": "en"
+		}
+	]
 }

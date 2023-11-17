@@ -1,31 +1,31 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:siderolabs:talos_linux:0.7.0:alpha8:*:*:*:*:*:*",
-  "cpeNameId": "2E82CC10-3ECC-45DE-9704-DB99211AA6FF",
-  "created": "2022-10-28T18:59:30.503",
-  "lastModified": "2022-10-28T19:08:12.000",
-  "titles": [
-    {
-      "title": "SideroLabs Talos Linux 0.7.0 Alpha 8",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/siderolabs/talos/releases",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://github.com/siderolabs/talos",
-      "type": "Product"
-    },
-    {
-      "ref": "https://www.talos.dev/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://www.siderolabs.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:siderolabs:talos_linux:0.7.0:alpha8:*:*:*:*:*:*",
+	"cpeNameId": "2E82CC10-3ECC-45DE-9704-DB99211AA6FF",
+	"created": "2022-10-28T18:59:30.503",
+	"lastModified": "2022-10-28T19:08:12.000",
+	"titles": [
+		{
+			"title": "SideroLabs Talos Linux 0.7.0 Alpha 8",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/siderolabs/talos/releases",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://github.com/siderolabs/talos",
+			"type": "Product"
+		},
+		{
+			"ref": "https://www.talos.dev/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://www.siderolabs.com/",
+			"type": "Vendor"
+		}
+	]
 }

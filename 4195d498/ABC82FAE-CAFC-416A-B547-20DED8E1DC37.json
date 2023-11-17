@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:hummingbird:enterprise_collaboration:5.2:*:*:*:*:*:*:*",
-  "cpeNameId": "ABC82FAE-CAFC-416A-B547-20DED8E1DC37",
-  "created": "2007-08-23T21:16:59.567",
-  "lastModified": "2008-04-01T15:04:04.993",
-  "titles": [
-    {
-      "title": "Hummingbird Hummingbird Enterprise Collaboration 5.2",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:hummingbird:enterprise_collaboration:5.2:*:*:*:*:*:*:*",
+	"cpeNameId": "ABC82FAE-CAFC-416A-B547-20DED8E1DC37",
+	"created": "2007-08-23T21:16:59.567",
+	"lastModified": "2008-04-01T15:04:04.993",
+	"titles": [
+		{
+			"title": "Hummingbird Hummingbird Enterprise Collaboration 5.2",
+			"lang": "en"
+		}
+	]
 }

@@ -1,29 +1,29 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:openharmony:openharmony:1.1.5:*:*:*:lts:*:*:*",
-  "cpeNameId": "38D5F404-21D9-4121-90AB-2AC10FACF36C",
-  "created": "2022-12-12T14:43:19.307",
-  "lastModified": "2023-03-14T13:22:51.020",
-  "titles": [
-    {
-      "title": "OpenHarmony 1.1.5 LTS Edition",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://gitee.com/openharmony/security/blob/master/en/security-disclosure/2022/2022-12.md",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://gitee.com/openharmony/docs/tree/master/zh-cn/release-notes",
-      "type": "Change Log"
-    }
-  ],
-  "deprecates": [
-    {
-      "cpeName": "cpe:2.3:a:openharmony:openharmony:1.1.5:long_term_support:*:*:*:*:*:*",
-      "cpeNameId": "092EEA7D-ECFE-4CC0-9F35-0675A6D57FE3"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:openharmony:openharmony:1.1.5:*:*:*:lts:*:*:*",
+	"cpeNameId": "38D5F404-21D9-4121-90AB-2AC10FACF36C",
+	"created": "2022-12-12T14:43:19.307",
+	"lastModified": "2023-03-14T13:22:51.020",
+	"titles": [
+		{
+			"title": "OpenHarmony 1.1.5 LTS Edition",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://gitee.com/openharmony/security/blob/master/en/security-disclosure/2022/2022-12.md",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://gitee.com/openharmony/docs/tree/master/zh-cn/release-notes",
+			"type": "Change Log"
+		}
+	],
+	"deprecates": [
+		{
+			"cpeName": "cpe:2.3:a:openharmony:openharmony:1.1.5:long_term_support:*:*:*:*:*:*",
+			"cpeNameId": "092EEA7D-ECFE-4CC0-9F35-0675A6D57FE3"
+		}
+	]
 }

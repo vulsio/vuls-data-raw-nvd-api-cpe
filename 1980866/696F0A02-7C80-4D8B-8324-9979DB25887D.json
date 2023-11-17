@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:jenkins:skype_notifier:1.0:*:*:*:*:jenkins:*:*",
-  "cpeNameId": "696F0A02-7C80-4D8B-8324-9979DB25887D",
-  "created": "2022-11-23T01:13:43.970",
-  "lastModified": "2022-11-23T01:22:09.677",
-  "titles": [
-    {
-      "title": "Jenkins Skype Notifier 1.0 for Jenkins",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://plugins.jenkins.io/skype-notifier/#releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:jenkins:skype_notifier:1.0:*:*:*:*:jenkins:*:*",
+	"cpeNameId": "696F0A02-7C80-4D8B-8324-9979DB25887D",
+	"created": "2022-11-23T01:13:43.970",
+	"lastModified": "2022-11-23T01:22:09.677",
+	"titles": [
+		{
+			"title": "Jenkins Skype Notifier 1.0 for Jenkins",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://plugins.jenkins.io/skype-notifier/#releases",
+			"type": "Change Log"
+		}
+	]
 }

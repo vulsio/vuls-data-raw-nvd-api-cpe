@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:droppy_project:droppy:5.1.18:*:*:*:*:node.js:*:*",
-  "cpeNameId": "B10F54AC-2320-45CA-8158-354B2EB0075F",
-  "created": "2019-09-24T10:55:31.977",
-  "lastModified": "2019-09-24T10:55:31.977",
-  "titles": [
-    {
-      "title": "droppy project droppy 5.1.18 for Node.js",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.npmjs.com/package/droppy",
-      "type": "Version"
-    },
-    {
-      "ref": "https://github.com/silverwind/droppy#readme",
-      "type": "Project"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:droppy_project:droppy:5.1.18:*:*:*:*:node.js:*:*",
+	"cpeNameId": "B10F54AC-2320-45CA-8158-354B2EB0075F",
+	"created": "2019-09-24T10:55:31.977",
+	"lastModified": "2019-09-24T10:55:31.977",
+	"titles": [
+		{
+			"title": "droppy project droppy 5.1.18 for Node.js",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.npmjs.com/package/droppy",
+			"type": "Version"
+		},
+		{
+			"ref": "https://github.com/silverwind/droppy#readme",
+			"type": "Project"
+		}
+	]
 }

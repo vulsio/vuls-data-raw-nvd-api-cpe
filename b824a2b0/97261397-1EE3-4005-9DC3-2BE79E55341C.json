@@ -1,17 +1,17 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:rocomotion:p_forum:1.27:*:*:*:*:*:*:*",
-  "cpeNameId": "97261397-1EE3-4005-9DC3-2BE79E55341C",
-  "created": "2009-12-23T17:48:54.047",
-  "lastModified": "2011-02-08T13:53:30.463",
-  "titles": [
-    {
-      "title": "Rocomotion P Forum 1.27",
-      "lang": "en"
-    },
-    {
-      "title": "Rocomotion P Forum 1.27",
-      "lang": "ja"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:rocomotion:p_forum:1.27:*:*:*:*:*:*:*",
+	"cpeNameId": "97261397-1EE3-4005-9DC3-2BE79E55341C",
+	"created": "2009-12-23T17:48:54.047",
+	"lastModified": "2011-02-08T13:53:30.463",
+	"titles": [
+		{
+			"title": "Rocomotion P Forum 1.27",
+			"lang": "en"
+		},
+		{
+			"title": "Rocomotion P Forum 1.27",
+			"lang": "ja"
+		}
+	]
 }

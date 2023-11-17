@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:whatsapp:whatsapp:2.11.670:*:*:*:*:windows_phone:*:*",
-  "cpeNameId": "124CF07C-FF74-4C61-968B-1AAC92E4D37E",
-  "created": "2019-10-28T19:24:33.447",
-  "lastModified": "2019-10-28T19:24:33.447",
-  "titles": [
-    {
-      "title": "WhatsApp WhatsApp 2.11.670 for Windows Phone",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://allmychanges.com/p/ios/whatsapp/",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:whatsapp:whatsapp:2.11.670:*:*:*:*:windows_phone:*:*",
+	"cpeNameId": "124CF07C-FF74-4C61-968B-1AAC92E4D37E",
+	"created": "2019-10-28T19:24:33.447",
+	"lastModified": "2019-10-28T19:24:33.447",
+	"titles": [
+		{
+			"title": "WhatsApp WhatsApp 2.11.670 for Windows Phone",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://allmychanges.com/p/ios/whatsapp/",
+			"type": "Change Log"
+		}
+	]
 }

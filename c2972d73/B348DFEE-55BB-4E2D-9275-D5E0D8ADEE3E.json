@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:qnap:qts:4.3.6.0993:*:*:*:*:*:*:*",
-  "cpeNameId": "B348DFEE-55BB-4E2D-9275-D5E0D8ADEE3E",
-  "created": "2020-03-19T11:42:52.687",
-  "lastModified": "2020-03-19T11:42:52.687",
-  "titles": [
-    {
-      "title": "QNAP QTS 4.3.6.0993",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.qnap.com/zh-hk/release-notes/qts/4.4.2.1247/20200318",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:qnap:qts:4.3.6.0993:*:*:*:*:*:*:*",
+	"cpeNameId": "B348DFEE-55BB-4E2D-9275-D5E0D8ADEE3E",
+	"created": "2020-03-19T11:42:52.687",
+	"lastModified": "2020-03-19T11:42:52.687",
+	"titles": [
+		{
+			"title": "QNAP QTS 4.3.6.0993",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.qnap.com/zh-hk/release-notes/qts/4.4.2.1247/20200318",
+			"type": "Change Log"
+		}
+	]
 }

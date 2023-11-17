@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:uri-js_project:uri-js:4.4.0:*:*:*:*:node.js:*:*",
-  "cpeNameId": "14CEB24F-7AF2-41A8-8C9E-17DEFB856F61",
-  "created": "2022-11-29T14:52:53.883",
-  "lastModified": "2022-11-29T14:53:51.527",
-  "titles": [
-    {
-      "title": "Uri-js Project Uri-js 4.4.0 for Node.js",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.npmjs.com/package/uri-js",
-      "type": "Product"
-    },
-    {
-      "ref": "https://github.com/garycourt/uri-js",
-      "type": "Project"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:uri-js_project:uri-js:4.4.0:*:*:*:*:node.js:*:*",
+	"cpeNameId": "14CEB24F-7AF2-41A8-8C9E-17DEFB856F61",
+	"created": "2022-11-29T14:52:53.883",
+	"lastModified": "2022-11-29T14:53:51.527",
+	"titles": [
+		{
+			"title": "Uri-js Project Uri-js 4.4.0 for Node.js",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.npmjs.com/package/uri-js",
+			"type": "Product"
+		},
+		{
+			"ref": "https://github.com/garycourt/uri-js",
+			"type": "Project"
+		}
+	]
 }

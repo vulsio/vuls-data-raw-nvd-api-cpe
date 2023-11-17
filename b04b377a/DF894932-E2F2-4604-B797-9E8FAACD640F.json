@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:twistedmatrix:twisted:21.7.0:rc3:*:*:*:*:*:*",
-  "cpeNameId": "DF894932-E2F2-4604-B797-9E8FAACD640F",
-  "created": "2022-02-09T15:06:59.277",
-  "lastModified": "2022-02-09T19:19:31.827",
-  "titles": [
-    {
-      "title": "Twisted Matrix Twisted 21.7.0 Release Candidate 3",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.twistedmatrix.com/trac/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/twisted/twisted/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:twistedmatrix:twisted:21.7.0:rc3:*:*:*:*:*:*",
+	"cpeNameId": "DF894932-E2F2-4604-B797-9E8FAACD640F",
+	"created": "2022-02-09T15:06:59.277",
+	"lastModified": "2022-02-09T19:19:31.827",
+	"titles": [
+		{
+			"title": "Twisted Matrix Twisted 21.7.0 Release Candidate 3",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.twistedmatrix.com/trac/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/twisted/twisted/releases",
+			"type": "Change Log"
+		}
+	]
 }

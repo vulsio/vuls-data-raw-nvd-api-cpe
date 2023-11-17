@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:gnu:glibc:1.06.11:*:*:*:*:*:*:*",
-  "cpeNameId": "4ECBDE88-F12B-49F4-8F2E-B80D9916C173",
-  "created": "2018-05-24T14:29:17.047",
-  "lastModified": "2018-05-24T14:29:17.047",
-  "titles": [
-    {
-      "title": "GNU glibc 1.06.11",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://ftp.gnu.org/gnu/libc/",
-      "type": "Version"
-    },
-    {
-      "ref": "https://www.gnu.org/software/libc/",
-      "type": "Project"
-    },
-    {
-      "ref": "https://sourceware.org/glibc/wiki/Glibc%20Timeline",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:gnu:glibc:1.06.11:*:*:*:*:*:*:*",
+	"cpeNameId": "4ECBDE88-F12B-49F4-8F2E-B80D9916C173",
+	"created": "2018-05-24T14:29:17.047",
+	"lastModified": "2018-05-24T14:29:17.047",
+	"titles": [
+		{
+			"title": "GNU glibc 1.06.11",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://ftp.gnu.org/gnu/libc/",
+			"type": "Version"
+		},
+		{
+			"ref": "https://www.gnu.org/software/libc/",
+			"type": "Project"
+		},
+		{
+			"ref": "https://sourceware.org/glibc/wiki/Glibc%20Timeline",
+			"type": "Version"
+		}
+	]
 }

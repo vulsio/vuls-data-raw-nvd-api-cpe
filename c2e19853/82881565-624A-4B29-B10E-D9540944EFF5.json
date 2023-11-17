@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:wpmanageninja:fluentcrm:2.5.95:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "82881565-624A-4B29-B10E-D9540944EFF5",
-  "created": "2023-06-15T14:40:32.747",
-  "lastModified": "2023-06-15T14:43:41.317",
-  "titles": [
-    {
-      "title": "WPManageNinja FluentCRM 2.5.95 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wpmanageninja.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://wordpress.org/plugins/fluent-crm/#developers",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://fluentcrm.com/",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:wpmanageninja:fluentcrm:2.5.95:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "82881565-624A-4B29-B10E-D9540944EFF5",
+	"created": "2023-06-15T14:40:32.747",
+	"lastModified": "2023-06-15T14:43:41.317",
+	"titles": [
+		{
+			"title": "WPManageNinja FluentCRM 2.5.95 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wpmanageninja.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/fluent-crm/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://fluentcrm.com/",
+			"type": "Product"
+		}
+	]
 }

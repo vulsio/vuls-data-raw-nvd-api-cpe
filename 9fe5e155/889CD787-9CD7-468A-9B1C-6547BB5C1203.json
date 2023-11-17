@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:nokia:qtdemobrowser:-:*:*:*:*:*:*:*",
-  "cpeNameId": "889CD787-9CD7-468A-9B1C-6547BB5C1203",
-  "created": "2010-08-03T16:54:39.047",
-  "lastModified": "2010-09-24T01:19:29.733",
-  "titles": [
-    {
-      "title": "Nokia QtDemoBrowser",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:nokia:qtdemobrowser:-:*:*:*:*:*:*:*",
+	"cpeNameId": "889CD787-9CD7-468A-9B1C-6547BB5C1203",
+	"created": "2010-08-03T16:54:39.047",
+	"lastModified": "2010-09-24T01:19:29.733",
+	"titles": [
+		{
+			"title": "Nokia QtDemoBrowser",
+			"lang": "en"
+		}
+	]
 }

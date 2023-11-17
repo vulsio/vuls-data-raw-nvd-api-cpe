@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:bestpractical:request_tracker:3.6.10:*:*:*:*:*:*:*",
-  "cpeNameId": "A4AE4D82-1470-46DC-A39F-66A013BC728A",
-  "created": "2013-05-13T13:28:39.747",
-  "lastModified": "2013-05-14T23:26:02.557",
-  "titles": [
-    {
-      "title": "bestpractical request_tracker 3.6.10",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:bestpractical:request_tracker:3.6.10:*:*:*:*:*:*:*",
+	"cpeNameId": "A4AE4D82-1470-46DC-A39F-66A013BC728A",
+	"created": "2013-05-13T13:28:39.747",
+	"lastModified": "2013-05-14T23:26:02.557",
+	"titles": [
+		{
+			"title": "bestpractical request_tracker 3.6.10",
+			"lang": "en"
+		}
+	]
 }

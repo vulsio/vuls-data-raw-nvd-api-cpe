@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.2.3:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "FE7CF73E-B4BF-455A-A208-0746A27E523D",
-  "created": "2019-07-16T17:46:23.010",
-  "lastModified": "2019-07-16T17:46:23.010",
-  "titles": [
-    {
-      "title": "WooCommerce 3.2.3 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://woocommerce.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/woocommerce/woocommerce/",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:woocommerce:woocommerce:3.2.3:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "FE7CF73E-B4BF-455A-A208-0746A27E523D",
+	"created": "2019-07-16T17:46:23.010",
+	"lastModified": "2019-07-16T17:46:23.010",
+	"titles": [
+		{
+			"title": "WooCommerce 3.2.3 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://woocommerce.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/woocommerce/woocommerce/",
+			"type": "Version"
+		}
+	]
 }

@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:tribe29:checkmk:2.0.0:b5:*:*:*:*:*:*",
-  "cpeNameId": "10A2CC5B-B424-47C9-B6D8-71ADC184951D",
-  "created": "2022-03-02T14:27:50.630",
-  "lastModified": "2022-03-02T14:51:53.557",
-  "titles": [
-    {
-      "title": "tribe29 checkmk 2.0.0 B5",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://checkmk.com/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://tribe29.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/tribe29/checkmk/tags",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:tribe29:checkmk:2.0.0:b5:*:*:*:*:*:*",
+	"cpeNameId": "10A2CC5B-B424-47C9-B6D8-71ADC184951D",
+	"created": "2022-03-02T14:27:50.630",
+	"lastModified": "2022-03-02T14:51:53.557",
+	"titles": [
+		{
+			"title": "tribe29 checkmk 2.0.0 B5",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://checkmk.com/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://tribe29.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/tribe29/checkmk/tags",
+			"type": "Change Log"
+		}
+	]
 }

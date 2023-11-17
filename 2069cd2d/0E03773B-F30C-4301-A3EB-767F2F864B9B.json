@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:wp-championship_project:wp-championship:1.8:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "0E03773B-F30C-4301-A3EB-767F2F864B9B",
-  "created": "2022-07-11T16:48:04.320",
-  "lastModified": "2022-07-11T16:54:21.620",
-  "titles": [
-    {
-      "title": "wp-championship Project wp-championship 1.8 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wordpress.org/plugins/wp-championship/#developers",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:wp-championship_project:wp-championship:1.8:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "0E03773B-F30C-4301-A3EB-767F2F864B9B",
+	"created": "2022-07-11T16:48:04.320",
+	"lastModified": "2022-07-11T16:54:21.620",
+	"titles": [
+		{
+			"title": "wp-championship Project wp-championship 1.8 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/wp-championship/#developers",
+			"type": "Change Log"
+		}
+	]
 }

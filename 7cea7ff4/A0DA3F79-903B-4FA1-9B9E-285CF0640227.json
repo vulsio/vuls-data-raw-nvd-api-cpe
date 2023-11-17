@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:stormshield:network_security:-:*:*:*:*:*:*:*",
-  "cpeNameId": "A0DA3F79-903B-4FA1-9B9E-285CF0640227",
-  "created": "2021-03-03T13:01:02.923",
-  "lastModified": "2021-04-21T18:26:30.430",
-  "titles": [
-    {
-      "title": "Stormshield Network Security",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://advisories.stormshield.eu/2020-049/",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://www.stormshield.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://www.stormshield.com/products-services/products/network-security/",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:stormshield:network_security:-:*:*:*:*:*:*:*",
+	"cpeNameId": "A0DA3F79-903B-4FA1-9B9E-285CF0640227",
+	"created": "2021-03-03T13:01:02.923",
+	"lastModified": "2021-04-21T18:26:30.430",
+	"titles": [
+		{
+			"title": "Stormshield Network Security",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://advisories.stormshield.eu/2020-049/",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://www.stormshield.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://www.stormshield.com/products-services/products/network-security/",
+			"type": "Product"
+		}
+	]
 }

@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:couchbase:bleve:2.0.6:*:*:*:*:*:*:*",
-  "cpeNameId": "54A7C9B0-7CDF-48A9-82B0-7B4C3E85BD3E",
-  "created": "2022-06-08T13:43:30.880",
-  "lastModified": "2022-06-08T16:15:13.080",
-  "titles": [
-    {
-      "title": "Couchbase Bleve 2.0.6",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://blevesearch.com/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://github.com/blevesearch/bleve",
-      "type": "Product"
-    },
-    {
-      "ref": "https://developer.couchbase.com/open-source-projects/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:couchbase:bleve:2.0.6:*:*:*:*:*:*:*",
+	"cpeNameId": "54A7C9B0-7CDF-48A9-82B0-7B4C3E85BD3E",
+	"created": "2022-06-08T13:43:30.880",
+	"lastModified": "2022-06-08T16:15:13.080",
+	"titles": [
+		{
+			"title": "Couchbase Bleve 2.0.6",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://blevesearch.com/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://github.com/blevesearch/bleve",
+			"type": "Product"
+		},
+		{
+			"ref": "https://developer.couchbase.com/open-source-projects/",
+			"type": "Vendor"
+		}
+	]
 }

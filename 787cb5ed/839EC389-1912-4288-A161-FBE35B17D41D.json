@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:pcfreetime:format_factory:4.00:*:*:*:*:*:*:*",
-  "cpeNameId": "839EC389-1912-4288-A161-FBE35B17D41D",
-  "created": "2020-05-28T12:08:04.507",
-  "lastModified": "2020-05-28T12:08:04.507",
-  "titles": [
-    {
-      "title": "PC Free Time Format Factory 4.00",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www.pcfreetime.com/formatfactory/",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:pcfreetime:format_factory:4.00:*:*:*:*:*:*:*",
+	"cpeNameId": "839EC389-1912-4288-A161-FBE35B17D41D",
+	"created": "2020-05-28T12:08:04.507",
+	"lastModified": "2020-05-28T12:08:04.507",
+	"titles": [
+		{
+			"title": "PC Free Time Format Factory 4.00",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.pcfreetime.com/formatfactory/",
+			"type": "Product"
+		}
+	]
 }

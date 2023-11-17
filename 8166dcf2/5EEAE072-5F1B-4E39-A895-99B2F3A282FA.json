@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:iij:seil_x86_fuji_firmware:1.76:*:*:*:*:*:*:*",
-  "cpeNameId": "5EEAE072-5F1B-4E39-A895-99B2F3A282FA",
-  "created": "2014-12-08T16:04:55.377",
-  "lastModified": "2015-01-12T17:30:49.150",
-  "titles": [
-    {
-      "title": "Internet Initiative Japan Seil x86 Fuji Firmware 1.76",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www.seil.jp/support/tech/doc/"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:iij:seil_x86_fuji_firmware:1.76:*:*:*:*:*:*:*",
+	"cpeNameId": "5EEAE072-5F1B-4E39-A895-99B2F3A282FA",
+	"created": "2014-12-08T16:04:55.377",
+	"lastModified": "2015-01-12T17:30:49.150",
+	"titles": [
+		{
+			"title": "Internet Initiative Japan Seil x86 Fuji Firmware 1.76",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.seil.jp/support/tech/doc/"
+		}
+	]
 }

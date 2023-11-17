@@ -1,25 +1,25 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:hitachienergy:foxman-un:r14a:*:*:*:*:*:*:*",
-  "cpeNameId": "4701651F-5A70-42BF-9DB6-AC574E9F6C78",
-  "created": "2023-01-23T18:54:29.350",
-  "lastModified": "2023-01-23T19:35:37.827",
-  "titles": [
-    {
-      "title": "Hitachi Energy FOXMAN-UN R14A",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.hitachienergy.com/us/en/products-and-solutions/communication-networks/fox-multiservice-platform/foxman",
-      "type": "Product"
-    }
-  ],
-  "deprecates": [
-    {
-      "cpeName": "cpe:2.3:a:hitachi:foxman-un:r14a:*:*:*:*:*:*:*",
-      "cpeNameId": "C5F1FAED-12E9-404C-B96B-EE1FD8D64EF6"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:hitachienergy:foxman-un:r14a:*:*:*:*:*:*:*",
+	"cpeNameId": "4701651F-5A70-42BF-9DB6-AC574E9F6C78",
+	"created": "2023-01-23T18:54:29.350",
+	"lastModified": "2023-01-23T19:35:37.827",
+	"titles": [
+		{
+			"title": "Hitachi Energy FOXMAN-UN R14A",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.hitachienergy.com/us/en/products-and-solutions/communication-networks/fox-multiservice-platform/foxman",
+			"type": "Product"
+		}
+	],
+	"deprecates": [
+		{
+			"cpeName": "cpe:2.3:a:hitachi:foxman-un:r14a:*:*:*:*:*:*:*",
+			"cpeNameId": "C5F1FAED-12E9-404C-B96B-EE1FD8D64EF6"
+		}
+	]
 }

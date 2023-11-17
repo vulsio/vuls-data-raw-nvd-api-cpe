@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:canonical:ubuntu_linux:7.04:*:*:*:*:*:*:*",
-  "cpeNameId": "3E74B2CF-97D7-4914-9B42-10DE3DED83DA",
-  "created": "2010-08-30T20:07:15.547",
-  "lastModified": "2010-08-30T20:07:15.547",
-  "titles": [
-    {
-      "title": "Canonical Ubuntu Linux 7.04",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:canonical:ubuntu_linux:7.04:*:*:*:*:*:*:*",
+	"cpeNameId": "3E74B2CF-97D7-4914-9B42-10DE3DED83DA",
+	"created": "2010-08-30T20:07:15.547",
+	"lastModified": "2010-08-30T20:07:15.547",
+	"titles": [
+		{
+			"title": "Canonical Ubuntu Linux 7.04",
+			"lang": "en"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:cleantalk:antispam:5.159.6:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "F2955B35-C412-4965-B1DF-6F408FACE1CC",
-  "created": "2022-11-21T17:36:52.263",
-  "lastModified": "2022-11-21T17:38:09.507",
-  "titles": [
-    {
-      "title": "Cleantalk Antispam 5.159.6 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/CleanTalk/wordpress-antispam/releases",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:cleantalk:antispam:5.159.6:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "F2955B35-C412-4965-B1DF-6F408FACE1CC",
+	"created": "2022-11-21T17:36:52.263",
+	"lastModified": "2022-11-21T17:38:09.507",
+	"titles": [
+		{
+			"title": "Cleantalk Antispam 5.159.6 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/CleanTalk/wordpress-antispam/releases",
+			"type": "Version"
+		}
+	]
 }

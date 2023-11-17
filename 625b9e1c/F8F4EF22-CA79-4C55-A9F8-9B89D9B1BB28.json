@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:openautomationsoftware:oas_platform:16.00.0112:*:*:*:*:*:*:*",
-  "cpeNameId": "F8F4EF22-CA79-4C55-A9F8-9B89D9B1BB28",
-  "created": "2022-05-31T14:40:58.957",
-  "lastModified": "2022-10-24T14:19:48.603",
-  "titles": [
-    {
-      "title": "Open Automation Software OAS Platform 16.00.0112",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://talosintelligence.com/vulnerability_reports/TALOS-2022-1491",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://openautomationsoftware.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://openautomationsoftware.com/downloads/",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:openautomationsoftware:oas_platform:16.00.0112:*:*:*:*:*:*:*",
+	"cpeNameId": "F8F4EF22-CA79-4C55-A9F8-9B89D9B1BB28",
+	"created": "2022-05-31T14:40:58.957",
+	"lastModified": "2022-10-24T14:19:48.603",
+	"titles": [
+		{
+			"title": "Open Automation Software OAS Platform 16.00.0112",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://talosintelligence.com/vulnerability_reports/TALOS-2022-1491",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://openautomationsoftware.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://openautomationsoftware.com/downloads/",
+			"type": "Product"
+		}
+	]
 }

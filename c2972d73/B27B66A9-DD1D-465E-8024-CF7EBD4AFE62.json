@@ -1,29 +1,29 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:qnap:qts:4.3.4.1463:*:*:*:*:*:*:*",
-  "cpeNameId": "B27B66A9-DD1D-465E-8024-CF7EBD4AFE62",
-  "created": "2021-04-23T13:20:37.710",
-  "lastModified": "2023-11-14T19:26:47.020",
-  "titles": [
-    {
-      "title": "QNAP QTS 4.3.4.1463",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.qnap.com/en-us/release-notes/qts/4.5.2.1594/20210302",
-      "type": "Version"
-    },
-    {
-      "ref": "https://www.qnap.com/en-us/",
-      "type": "Vendor"
-    }
-  ],
-  "deprecates": [
-    {
-      "cpeName": "cpe:2.3:a:qnap:qts:4.3.4.1463:*:*:*:*:*:*:*",
-      "cpeNameId": "F43BAB1D-6519-4F74-828D-085A55540366"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:qnap:qts:4.3.4.1463:*:*:*:*:*:*:*",
+	"cpeNameId": "B27B66A9-DD1D-465E-8024-CF7EBD4AFE62",
+	"created": "2021-04-23T13:20:37.710",
+	"lastModified": "2023-11-14T19:26:47.020",
+	"titles": [
+		{
+			"title": "QNAP QTS 4.3.4.1463",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.qnap.com/en-us/release-notes/qts/4.5.2.1594/20210302",
+			"type": "Version"
+		},
+		{
+			"ref": "https://www.qnap.com/en-us/",
+			"type": "Vendor"
+		}
+	],
+	"deprecates": [
+		{
+			"cpeName": "cpe:2.3:a:qnap:qts:4.3.4.1463:*:*:*:*:*:*:*",
+			"cpeNameId": "F43BAB1D-6519-4F74-828D-085A55540366"
+		}
+	]
 }

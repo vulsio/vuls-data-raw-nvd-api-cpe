@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:nodejs:node.js:12.3.0:*:*:*:lts:*:*:*",
-  "cpeNameId": "629A7D28-D1CF-477B-A9A5-A7DEEB086565",
-  "created": "2020-02-13T15:21:40.580",
-  "lastModified": "2020-02-13T15:21:40.580",
-  "titles": [
-    {
-      "title": "Nodejs Node.js 12.3.0 LTS Edition",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/nodejs/node/releases",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://nodejs.org/en/blog/vulnerability/february-2020-security-releases/",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:nodejs:node.js:12.3.0:*:*:*:lts:*:*:*",
+	"cpeNameId": "629A7D28-D1CF-477B-A9A5-A7DEEB086565",
+	"created": "2020-02-13T15:21:40.580",
+	"lastModified": "2020-02-13T15:21:40.580",
+	"titles": [
+		{
+			"title": "Nodejs Node.js 12.3.0 LTS Edition",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/nodejs/node/releases",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://nodejs.org/en/blog/vulnerability/february-2020-security-releases/",
+			"type": "Advisory"
+		}
+	]
 }

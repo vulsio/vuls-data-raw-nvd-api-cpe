@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:woocommerce:woocommerce:2.6.8:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "A17361DE-3EF7-4CD2-B155-D3D8E47293B2",
-  "created": "2017-01-04T18:55:26.733",
-  "lastModified": "2017-01-04T18:55:26.733",
-  "titles": [
-    {
-      "title": "Woocommerce 2.6.8 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wordpress.org/plugins/woocommerce/changelog/",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://woocommerce.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:woocommerce:woocommerce:2.6.8:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "A17361DE-3EF7-4CD2-B155-D3D8E47293B2",
+	"created": "2017-01-04T18:55:26.733",
+	"lastModified": "2017-01-04T18:55:26.733",
+	"titles": [
+		{
+			"title": "Woocommerce 2.6.8 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/woocommerce/changelog/",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://woocommerce.com/",
+			"type": "Vendor"
+		}
+	]
 }

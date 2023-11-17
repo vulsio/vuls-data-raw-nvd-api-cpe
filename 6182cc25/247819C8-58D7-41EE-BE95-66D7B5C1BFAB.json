@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:nodebb:nodebb:2.4.1:*:*:*:*:*:*:*",
-  "cpeNameId": "247819C8-58D7-41EE-BE95-66D7B5C1BFAB",
-  "created": "2022-11-18T15:19:12.983",
-  "lastModified": "2022-11-18T18:58:24.817",
-  "titles": [
-    {
-      "title": "NodeBB 2.4.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/NodeBB/NodeBB/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:nodebb:nodebb:2.4.1:*:*:*:*:*:*:*",
+	"cpeNameId": "247819C8-58D7-41EE-BE95-66D7B5C1BFAB",
+	"created": "2022-11-18T15:19:12.983",
+	"lastModified": "2022-11-18T18:58:24.817",
+	"titles": [
+		{
+			"title": "NodeBB 2.4.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/NodeBB/NodeBB/releases",
+			"type": "Change Log"
+		}
+	]
 }

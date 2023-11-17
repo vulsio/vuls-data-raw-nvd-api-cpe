@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:casbin:casdoor:1.55.0:*:*:*:*:*:*:*",
-  "cpeNameId": "0C0BD480-54A2-408B-9B24-0F31C044C6FB",
-  "created": "2023-06-28T13:51:24.040",
-  "lastModified": "2023-06-28T13:53:15.960",
-  "titles": [
-    {
-      "title": "Casbin Casdoor 1.55.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://casdoor.org/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://casbin.org/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/casdoor/casdoor/releases",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:casbin:casdoor:1.55.0:*:*:*:*:*:*:*",
+	"cpeNameId": "0C0BD480-54A2-408B-9B24-0F31C044C6FB",
+	"created": "2023-06-28T13:51:24.040",
+	"lastModified": "2023-06-28T13:53:15.960",
+	"titles": [
+		{
+			"title": "Casbin Casdoor 1.55.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://casdoor.org/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://casbin.org/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/casdoor/casdoor/releases",
+			"type": "Version"
+		}
+	]
 }

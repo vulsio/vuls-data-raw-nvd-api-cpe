@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:hitachienergy:foxman_un:r9c:*:*:*:*:*:*:*",
-  "cpeNameId": "B8B58D4C-8897-4D83-A230-534245747F22",
-  "created": "2023-06-06T17:30:53.500",
-  "lastModified": "2023-07-12T09:47:51.930",
-  "titles": [
-    {
-      "title": "Hitachi Energy Foxman Un R9c",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://search.abb.com/library/Download.aspx?DocumentID=8DBD000155&LanguageCode=en&DocumentPartId=&Action=Launch",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:hitachienergy:foxman_un:r9c:*:*:*:*:*:*:*",
+	"cpeNameId": "B8B58D4C-8897-4D83-A230-534245747F22",
+	"created": "2023-06-06T17:30:53.500",
+	"lastModified": "2023-07-12T09:47:51.930",
+	"titles": [
+		{
+			"title": "Hitachi Energy Foxman Un R9c",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://search.abb.com/library/Download.aspx?DocumentID=8DBD000155&LanguageCode=en&DocumentPartId=&Action=Launch",
+			"type": "Advisory"
+		}
+	]
 }

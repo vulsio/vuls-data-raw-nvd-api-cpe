@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:bootstrapped:wp_recipe_maker:5.6.0:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "D663C741-AC32-47B8-B03B-F980DBF6041C",
-  "created": "2023-03-02T15:03:19.413",
-  "lastModified": "2023-03-02T16:26:15.397",
-  "titles": [
-    {
-      "title": "Bootstrapped Ventures WP Recipe Maker 5.6.0 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://bootstrapped.ventures/wp-recipe-maker/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://wordpress.org/plugins/wp-recipe-maker/#developers",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://wordpress.org/plugins/wp-recipe-maker/",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:bootstrapped:wp_recipe_maker:5.6.0:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "D663C741-AC32-47B8-B03B-F980DBF6041C",
+	"created": "2023-03-02T15:03:19.413",
+	"lastModified": "2023-03-02T16:26:15.397",
+	"titles": [
+		{
+			"title": "Bootstrapped Ventures WP Recipe Maker 5.6.0 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://bootstrapped.ventures/wp-recipe-maker/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/wp-recipe-maker/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/wp-recipe-maker/",
+			"type": "Product"
+		}
+	]
 }

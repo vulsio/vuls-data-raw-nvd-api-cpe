@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:pmail:mercury_mail_server:-:*:*:*:*:*:*:*",
-  "cpeNameId": "9771FD11-B2ED-4548-B9AC-132FE1393A08",
-  "created": "2007-08-23T21:05:57.937",
-  "lastModified": "2008-03-25T19:16:10.227",
-  "titles": [
-    {
-      "title": "Mercury Mercury Mail Server",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:pmail:mercury_mail_server:-:*:*:*:*:*:*:*",
+	"cpeNameId": "9771FD11-B2ED-4548-B9AC-132FE1393A08",
+	"created": "2007-08-23T21:05:57.937",
+	"lastModified": "2008-03-25T19:16:10.227",
+	"titles": [
+		{
+			"title": "Mercury Mercury Mail Server",
+			"lang": "en"
+		}
+	]
 }

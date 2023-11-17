@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:anuko:time_tracker:1.7.5.3070:*:*:*:*:*:*:*",
-  "cpeNameId": "173E88CE-D1CB-4DDA-A75A-552DF9DDDB92",
-  "created": "2021-04-16T00:46:22.033",
-  "lastModified": "2021-04-20T15:49:15.030",
-  "titles": [
-    {
-      "title": "Anuko Time Tracker 1.7.5.3070",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.anuko.com/time-tracker/change-log/index.htm",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:anuko:time_tracker:1.7.5.3070:*:*:*:*:*:*:*",
+	"cpeNameId": "173E88CE-D1CB-4DDA-A75A-552DF9DDDB92",
+	"created": "2021-04-16T00:46:22.033",
+	"lastModified": "2021-04-20T15:49:15.030",
+	"titles": [
+		{
+			"title": "Anuko Time Tracker 1.7.5.3070",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.anuko.com/time-tracker/change-log/index.htm",
+			"type": "Change Log"
+		}
+	]
 }

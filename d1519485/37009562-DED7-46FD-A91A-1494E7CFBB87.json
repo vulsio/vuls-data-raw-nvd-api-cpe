@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:opennms:opennms:15.0.2-1:*:*:*:*:*:*:*",
-  "cpeNameId": "37009562-DED7-46FD-A91A-1494E7CFBB87",
-  "created": "2021-06-08T15:11:54.440",
-  "lastModified": "2021-06-08T15:25:15.623",
-  "titles": [
-    {
-      "title": "OpenNMS 15.0.2-1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/OpenNMS/opennms",
-      "type": "Version"
-    },
-    {
-      "ref": "https://www.opennms.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:opennms:opennms:15.0.2-1:*:*:*:*:*:*:*",
+	"cpeNameId": "37009562-DED7-46FD-A91A-1494E7CFBB87",
+	"created": "2021-06-08T15:11:54.440",
+	"lastModified": "2021-06-08T15:25:15.623",
+	"titles": [
+		{
+			"title": "OpenNMS 15.0.2-1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/OpenNMS/opennms",
+			"type": "Version"
+		},
+		{
+			"ref": "https://www.opennms.com/",
+			"type": "Vendor"
+		}
+	]
 }

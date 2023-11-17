@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:reputeinfosystems:bookingpress:1.0.19:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "568B932A-1707-41D3-9894-BCDCAFF0E0BC",
-  "created": "2022-08-12T17:21:11.443",
-  "lastModified": "2022-08-12T17:23:53.287",
-  "titles": [
-    {
-      "title": "Repute Infosystems BookingPress 1.0.19 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wordpress.org/plugins/bookingpress-appointment-booking/#developers",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://www.reputeinfosystems.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://www.bookingpressplugin.com/",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:reputeinfosystems:bookingpress:1.0.19:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "568B932A-1707-41D3-9894-BCDCAFF0E0BC",
+	"created": "2022-08-12T17:21:11.443",
+	"lastModified": "2022-08-12T17:23:53.287",
+	"titles": [
+		{
+			"title": "Repute Infosystems BookingPress 1.0.19 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/bookingpress-appointment-booking/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://www.reputeinfosystems.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://www.bookingpressplugin.com/",
+			"type": "Product"
+		}
+	]
 }

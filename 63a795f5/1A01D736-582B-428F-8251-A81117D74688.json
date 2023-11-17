@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:cisco:firepower_management_center:3.0.0:*:*:*:*:*:*:*",
-  "cpeNameId": "1A01D736-582B-428F-8251-A81117D74688",
-  "created": "2019-12-06T19:22:24.007",
-  "lastModified": "2019-12-06T19:22:24.007",
-  "titles": [
-    {
-      "title": "Cisco Firepower Management Center 3.0.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190816-ftd-http",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://software.cisco.com/download/home/286259685",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:cisco:firepower_management_center:3.0.0:*:*:*:*:*:*:*",
+	"cpeNameId": "1A01D736-582B-428F-8251-A81117D74688",
+	"created": "2019-12-06T19:22:24.007",
+	"lastModified": "2019-12-06T19:22:24.007",
+	"titles": [
+		{
+			"title": "Cisco Firepower Management Center 3.0.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190816-ftd-http",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://software.cisco.com/download/home/286259685",
+			"type": "Product"
+		}
+	]
 }

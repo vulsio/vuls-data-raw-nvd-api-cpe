@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:rdbrck:shift:2.7:*:*:*:*:*:*:*",
-  "cpeNameId": "D4D3E427-AC67-4CFC-9192-52683049C7EF",
-  "created": "2019-07-19T12:18:32.987",
-  "lastModified": "2019-07-19T12:18:32.987",
-  "titles": [
-    {
-      "title": "Redbrick Shift 2.7",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://support.tryshift.com/kb/article/206-shift-34-released-on-january-23-2019/",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://rdbrck.com/shift/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://rdbrck.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:rdbrck:shift:2.7:*:*:*:*:*:*:*",
+	"cpeNameId": "D4D3E427-AC67-4CFC-9192-52683049C7EF",
+	"created": "2019-07-19T12:18:32.987",
+	"lastModified": "2019-07-19T12:18:32.987",
+	"titles": [
+		{
+			"title": "Redbrick Shift 2.7",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://support.tryshift.com/kb/article/206-shift-34-released-on-january-23-2019/",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://rdbrck.com/shift/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://rdbrck.com/",
+			"type": "Vendor"
+		}
+	]
 }

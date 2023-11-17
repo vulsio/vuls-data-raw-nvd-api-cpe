@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:steedos:steedos-platform:1.8.1:*:*:*:*:*:*:*",
-  "cpeNameId": "6DBCD879-4D05-4757-92F3-2EB45938573F",
-  "created": "2020-12-28T13:34:51.943",
-  "lastModified": "2020-12-28T13:34:51.943",
-  "titles": [
-    {
-      "title": "Steedos Steedos-platform 1.8.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/steedos/steedos-platform",
-      "type": "Version"
-    },
-    {
-      "ref": "https://www.steedos.org/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:steedos:steedos-platform:1.8.1:*:*:*:*:*:*:*",
+	"cpeNameId": "6DBCD879-4D05-4757-92F3-2EB45938573F",
+	"created": "2020-12-28T13:34:51.943",
+	"lastModified": "2020-12-28T13:34:51.943",
+	"titles": [
+		{
+			"title": "Steedos Steedos-platform 1.8.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/steedos/steedos-platform",
+			"type": "Version"
+		},
+		{
+			"ref": "https://www.steedos.org/",
+			"type": "Vendor"
+		}
+	]
 }

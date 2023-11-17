@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:djvulibre_project:djvulibre:3.5.25:*:*:*:*:*:*:*",
-  "cpeNameId": "9D26687F-B348-4CB1-92BE-892D01CA7D4E",
-  "created": "2013-12-03T16:02:16.820",
-  "lastModified": "2013-12-20T01:29:29.890",
-  "titles": [
-    {
-      "title": "DjVuLibre Project DjVuLibre 3.5.25",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://sourceforge.net/projects/djvu/files/DjVuLibre/",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:djvulibre_project:djvulibre:3.5.25:*:*:*:*:*:*:*",
+	"cpeNameId": "9D26687F-B348-4CB1-92BE-892D01CA7D4E",
+	"created": "2013-12-03T16:02:16.820",
+	"lastModified": "2013-12-20T01:29:29.890",
+	"titles": [
+		{
+			"title": "DjVuLibre Project DjVuLibre 3.5.25",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://sourceforge.net/projects/djvu/files/DjVuLibre/",
+			"type": "Version"
+		}
+	]
 }

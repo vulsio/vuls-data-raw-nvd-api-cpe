@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:oracle:sun_fire_x4540:-:*:*:*:*:*:*:*",
-  "cpeNameId": "AF2A0749-8D89-4DDA-B446-3924CC9ADA7A",
-  "created": "2011-07-21T15:59:28.380",
-  "lastModified": "2011-07-27T16:03:11.750",
-  "titles": [
-    {
-      "title": "Oracle Sun Fire X4540",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:oracle:sun_fire_x4540:-:*:*:*:*:*:*:*",
+	"cpeNameId": "AF2A0749-8D89-4DDA-B446-3924CC9ADA7A",
+	"created": "2011-07-21T15:59:28.380",
+	"lastModified": "2011-07-27T16:03:11.750",
+	"titles": [
+		{
+			"title": "Oracle Sun Fire X4540",
+			"lang": "en"
+		}
+	]
 }

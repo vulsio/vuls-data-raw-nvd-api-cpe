@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:wp-members_project:wp-members:3.3.9:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "66D233FA-D1B9-47FC-B31C-C9ACA156B1D6",
-  "created": "2023-07-18T16:46:06.573",
-  "lastModified": "2023-07-18T18:10:27.150",
-  "titles": [
-    {
-      "title": "Wp-members Project Wp-members 3.3.9 for Wordpress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wordpress.org/plugins/wp-members/#developers",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wp-members/wp-members-membership-3473-missing-authorization-to-settings-update",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:wp-members_project:wp-members:3.3.9:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "66D233FA-D1B9-47FC-B31C-C9ACA156B1D6",
+	"created": "2023-07-18T16:46:06.573",
+	"lastModified": "2023-07-18T18:10:27.150",
+	"titles": [
+		{
+			"title": "Wp-members Project Wp-members 3.3.9 for Wordpress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/wp-members/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wp-members/wp-members-membership-3473-missing-authorization-to-settings-update",
+			"type": "Advisory"
+		}
+	]
 }

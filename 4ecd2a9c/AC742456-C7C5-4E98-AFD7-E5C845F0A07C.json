@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:vmware:esxi:4.0:4:*:*:*:*:*:*",
-  "cpeNameId": "AC742456-C7C5-4E98-AFD7-E5C845F0A07C",
-  "created": "2012-02-10T20:09:54.360",
-  "lastModified": "2012-02-10T20:09:54.360",
-  "titles": [
-    {
-      "title": "VMWare ESXi 4.0 update 4",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:vmware:esxi:4.0:4:*:*:*:*:*:*",
+	"cpeNameId": "AC742456-C7C5-4E98-AFD7-E5C845F0A07C",
+	"created": "2012-02-10T20:09:54.360",
+	"lastModified": "2012-02-10T20:09:54.360",
+	"titles": [
+		{
+			"title": "VMWare ESXi 4.0 update 4",
+			"lang": "en"
+		}
+	]
 }

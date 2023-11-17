@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:microsoft:office:2011:*:mac:*:*:*:*:*",
-  "cpeNameId": "363EE9AE-F4C1-4001-B293-4475805C991F",
-  "created": "2010-11-10T18:55:18.280",
-  "lastModified": "2012-11-14T13:42:04.837",
-  "titles": [
-    {
-      "title": "Microsoft Office 2011 Mac",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:microsoft:office:2011:*:mac:*:*:*:*:*",
+	"cpeNameId": "363EE9AE-F4C1-4001-B293-4475805C991F",
+	"created": "2010-11-10T18:55:18.280",
+	"lastModified": "2012-11-14T13:42:04.837",
+	"titles": [
+		{
+			"title": "Microsoft Office 2011 Mac",
+			"lang": "en"
+		}
+	]
 }

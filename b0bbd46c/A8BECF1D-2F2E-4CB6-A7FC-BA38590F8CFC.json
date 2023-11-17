@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:alcatel:aos:6.3.1.966:*:*:*:*:*:*:*",
-  "cpeNameId": "A8BECF1D-2F2E-4CB6-A7FC-BA38590F8CFC",
-  "created": "2008-10-06T18:06:53.197",
-  "lastModified": "2008-10-06T18:06:53.197",
-  "titles": [
-    {
-      "title": "Alcatel AOS 6.3.1.966",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:alcatel:aos:6.3.1.966:*:*:*:*:*:*:*",
+	"cpeNameId": "A8BECF1D-2F2E-4CB6-A7FC-BA38590F8CFC",
+	"created": "2008-10-06T18:06:53.197",
+	"lastModified": "2008-10-06T18:06:53.197",
+	"titles": [
+		{
+			"title": "Alcatel AOS 6.3.1.966",
+			"lang": "en"
+		}
+	]
 }

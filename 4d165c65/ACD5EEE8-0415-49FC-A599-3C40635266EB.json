@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:shareaholic:shareaholic:7.6.0.5:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "ACD5EEE8-0415-49FC-A599-3C40635266EB",
-  "created": "2021-10-07T14:38:04.077",
-  "lastModified": "2021-10-21T16:44:16.163",
-  "titles": [
-    {
-      "title": "Shareaholic 7.6.0.5 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wordpress.org/plugins/shareaholic/#developers",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:shareaholic:shareaholic:7.6.0.5:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "ACD5EEE8-0415-49FC-A599-3C40635266EB",
+	"created": "2021-10-07T14:38:04.077",
+	"lastModified": "2021-10-21T16:44:16.163",
+	"titles": [
+		{
+			"title": "Shareaholic 7.6.0.5 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/shareaholic/#developers",
+			"type": "Change Log"
+		}
+	]
 }

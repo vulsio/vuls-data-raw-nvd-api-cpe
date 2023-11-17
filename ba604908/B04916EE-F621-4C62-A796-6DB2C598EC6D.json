@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:cakefoundation:cakephp:4.1.5:*:*:*:*:*:*:*",
-  "cpeNameId": "B04916EE-F621-4C62-A796-6DB2C598EC6D",
-  "created": "2021-02-01T15:02:42.617",
-  "lastModified": "2021-02-01T15:02:42.617",
-  "titles": [
-    {
-      "title": "Cake Software Foundation CakePHP 4.1.5",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/cakephp/cakephp/tags",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://cakephp.org/",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:cakefoundation:cakephp:4.1.5:*:*:*:*:*:*:*",
+	"cpeNameId": "B04916EE-F621-4C62-A796-6DB2C598EC6D",
+	"created": "2021-02-01T15:02:42.617",
+	"lastModified": "2021-02-01T15:02:42.617",
+	"titles": [
+		{
+			"title": "Cake Software Foundation CakePHP 4.1.5",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/cakephp/cakephp/tags",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://cakephp.org/",
+			"type": "Product"
+		}
+	]
 }

@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:osgeo:gdal:3.4.1:-:*:*:*:*:*:*",
-  "cpeNameId": "469EF998-0AC8-4C9E-AB79-06A763FE93AC",
-  "created": "2022-01-10T17:23:24.720",
-  "lastModified": "2022-01-10T19:35:25.760",
-  "titles": [
-    {
-      "title": "OSGeo GDAL 3.4.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.osgeo.org/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://gdal.org/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://github.com/OSGeo/gdal/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:osgeo:gdal:3.4.1:-:*:*:*:*:*:*",
+	"cpeNameId": "469EF998-0AC8-4C9E-AB79-06A763FE93AC",
+	"created": "2022-01-10T17:23:24.720",
+	"lastModified": "2022-01-10T19:35:25.760",
+	"titles": [
+		{
+			"title": "OSGeo GDAL 3.4.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.osgeo.org/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://gdal.org/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://github.com/OSGeo/gdal/releases",
+			"type": "Change Log"
+		}
+	]
 }

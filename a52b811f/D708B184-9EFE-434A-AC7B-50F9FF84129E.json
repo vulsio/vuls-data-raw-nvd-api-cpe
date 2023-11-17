@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:yunohost:yunohost:4.4.2:*:*:*:*:*:*:*",
-  "cpeNameId": "D708B184-9EFE-434A-AC7B-50F9FF84129E",
-  "created": "2022-10-27T15:44:35.540",
-  "lastModified": "2022-10-27T15:46:37.140",
-  "titles": [
-    {
-      "title": "YunoHost 4.4.2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://yunohost.org/#/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/YunoHost/yunohost/",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:yunohost:yunohost:4.4.2:*:*:*:*:*:*:*",
+	"cpeNameId": "D708B184-9EFE-434A-AC7B-50F9FF84129E",
+	"created": "2022-10-27T15:44:35.540",
+	"lastModified": "2022-10-27T15:46:37.140",
+	"titles": [
+		{
+			"title": "YunoHost 4.4.2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://yunohost.org/#/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/YunoHost/yunohost/",
+			"type": "Version"
+		}
+	]
 }

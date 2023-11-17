@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:basixonline:nex-forms:1.0.4:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "E10652DC-BAE2-4DD5-B6FE-37A128073E28",
-  "created": "2022-08-10T15:19:27.740",
-  "lastModified": "2022-08-11T14:00:09.677",
-  "titles": [
-    {
-      "title": "Basixonline Nex-forms 1.0.4 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://basixonline.net/nex-forms-wordpress-form-builder-demo/change-log/",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:basixonline:nex-forms:1.0.4:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "E10652DC-BAE2-4DD5-B6FE-37A128073E28",
+	"created": "2022-08-10T15:19:27.740",
+	"lastModified": "2022-08-11T14:00:09.677",
+	"titles": [
+		{
+			"title": "Basixonline Nex-forms 1.0.4 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://basixonline.net/nex-forms-wordpress-form-builder-demo/change-log/",
+			"type": "Change Log"
+		}
+	]
 }

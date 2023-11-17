@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:sonatype:nexus_repository_manager_3:3.18.0:*:*:*:*:*:*:*",
-  "cpeNameId": "9DAAA3FC-8648-4CF5-AA96-DE1DEF5D873E",
-  "created": "2019-10-25T14:15:09.053",
-  "lastModified": "2019-10-25T14:15:09.053",
-  "titles": [
-    {
-      "title": "Sonatype Nexus Repository Manager 3 3.18.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://help.sonatype.com/repomanager3/release-notes/2018-release-notes",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:sonatype:nexus_repository_manager_3:3.18.0:*:*:*:*:*:*:*",
+	"cpeNameId": "9DAAA3FC-8648-4CF5-AA96-DE1DEF5D873E",
+	"created": "2019-10-25T14:15:09.053",
+	"lastModified": "2019-10-25T14:15:09.053",
+	"titles": [
+		{
+			"title": "Sonatype Nexus Repository Manager 3 3.18.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://help.sonatype.com/repomanager3/release-notes/2018-release-notes",
+			"type": "Change Log"
+		}
+	]
 }

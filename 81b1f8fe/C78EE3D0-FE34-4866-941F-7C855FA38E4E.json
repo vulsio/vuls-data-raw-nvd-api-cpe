@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:eqs:integrity_line:-:*:*:*:professional:*:*:*",
-  "cpeNameId": "C78EE3D0-FE34-4866-941F-7C855FA38E4E",
-  "created": "2022-08-19T14:48:28.603",
-  "lastModified": "2022-11-04T19:37:14.323",
-  "titles": [
-    {
-      "title": "EQS Integrity Line Professional Edition",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.integrityline.com/product/pricing/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://github.com/CVEProject/cvelist/blob/master/2022/34xxx/CVE-2022-34007.json",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://www.eqs.com/en-us/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:eqs:integrity_line:-:*:*:*:professional:*:*:*",
+	"cpeNameId": "C78EE3D0-FE34-4866-941F-7C855FA38E4E",
+	"created": "2022-08-19T14:48:28.603",
+	"lastModified": "2022-11-04T19:37:14.323",
+	"titles": [
+		{
+			"title": "EQS Integrity Line Professional Edition",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.integrityline.com/product/pricing/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://github.com/CVEProject/cvelist/blob/master/2022/34xxx/CVE-2022-34007.json",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://www.eqs.com/en-us/",
+			"type": "Vendor"
+		}
+	]
 }

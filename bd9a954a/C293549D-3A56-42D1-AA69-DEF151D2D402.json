@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:boltcms:bolt:4.1.2:*:*:*:*:*:*:*",
-  "cpeNameId": "C293549D-3A56-42D1-AA69-DEF151D2D402",
-  "created": "2021-02-18T17:55:00.107",
-  "lastModified": "2021-02-18T17:55:00.107",
-  "titles": [
-    {
-      "title": "BoltCMS Bolt 4.1.2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/bolt/core",
-      "type": "Version"
-    },
-    {
-      "ref": "https://boltcms.io/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:boltcms:bolt:4.1.2:*:*:*:*:*:*:*",
+	"cpeNameId": "C293549D-3A56-42D1-AA69-DEF151D2D402",
+	"created": "2021-02-18T17:55:00.107",
+	"lastModified": "2021-02-18T17:55:00.107",
+	"titles": [
+		{
+			"title": "BoltCMS Bolt 4.1.2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/bolt/core",
+			"type": "Version"
+		},
+		{
+			"ref": "https://boltcms.io/",
+			"type": "Vendor"
+		}
+	]
 }

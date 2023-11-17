@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:carspot_project:carspot:1.0.6:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "087CE3F0-4162-489A-8943-5B791ECBCA50",
-  "created": "2019-09-12T12:54:35.727",
-  "lastModified": "2019-09-12T12:54:35.727",
-  "titles": [
-    {
-      "title": "Carspot Project Carspot 1.0.6 for Wordpress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://themeforest.net/item/carspot-automotive-car-dealer-wordpress-classified-theme/20195539",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:carspot_project:carspot:1.0.6:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "087CE3F0-4162-489A-8943-5B791ECBCA50",
+	"created": "2019-09-12T12:54:35.727",
+	"lastModified": "2019-09-12T12:54:35.727",
+	"titles": [
+		{
+			"title": "Carspot Project Carspot 1.0.6 for Wordpress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://themeforest.net/item/carspot-automotive-car-dealer-wordpress-classified-theme/20195539",
+			"type": "Change Log"
+		}
+	]
 }

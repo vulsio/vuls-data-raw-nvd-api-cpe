@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:zemana:antimalware:2.70.1.312:beta:*:*:*:*:*:*",
-  "cpeNameId": "5846FC21-6B8C-4F46-90BC-D5255C1AB3EB",
-  "created": "2019-03-20T14:00:47.993",
-  "lastModified": "2019-03-20T14:00:47.993",
-  "titles": [
-    {
-      "title": "Zemana AntiMalware 2.70.1.312 Beta",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.zemana.com/whats-new?ProductID=2",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:zemana:antimalware:2.70.1.312:beta:*:*:*:*:*:*",
+	"cpeNameId": "5846FC21-6B8C-4F46-90BC-D5255C1AB3EB",
+	"created": "2019-03-20T14:00:47.993",
+	"lastModified": "2019-03-20T14:00:47.993",
+	"titles": [
+		{
+			"title": "Zemana AntiMalware 2.70.1.312 Beta",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.zemana.com/whats-new?ProductID=2",
+			"type": "Change Log"
+		}
+	]
 }

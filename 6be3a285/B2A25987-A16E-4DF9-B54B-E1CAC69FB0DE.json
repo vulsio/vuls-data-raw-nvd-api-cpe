@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:openssl:openssl:1.0.1n:*:*:*:*:*:*:*",
-  "cpeNameId": "B2A25987-A16E-4DF9-B54B-E1CAC69FB0DE",
-  "created": "2015-07-09T19:45:56.663",
-  "lastModified": "2015-07-10T20:24:28.553",
-  "titles": [
-    {
-      "title": "OpenSSL Project OpenSSL 1.0.1n",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www.openssl.org",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:openssl:openssl:1.0.1n:*:*:*:*:*:*:*",
+	"cpeNameId": "B2A25987-A16E-4DF9-B54B-E1CAC69FB0DE",
+	"created": "2015-07-09T19:45:56.663",
+	"lastModified": "2015-07-10T20:24:28.553",
+	"titles": [
+		{
+			"title": "OpenSSL Project OpenSSL 1.0.1n",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.openssl.org",
+			"type": "Vendor"
+		}
+	]
 }

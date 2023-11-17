@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:cisco:anyconnect_secure_mobility_client:-:*:*:*:*:*:*:*",
-  "cpeNameId": "8CC97394-C33B-4E84-B396-78E2088DED04",
-  "created": "2013-04-11T15:58:53.143",
-  "lastModified": "2013-04-12T14:18:32.367",
-  "titles": [
-    {
-      "title": "Cisco AnyConnect Secure Mobility Client",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:cisco:anyconnect_secure_mobility_client:-:*:*:*:*:*:*:*",
+	"cpeNameId": "8CC97394-C33B-4E84-B396-78E2088DED04",
+	"created": "2013-04-11T15:58:53.143",
+	"lastModified": "2013-04-12T14:18:32.367",
+	"titles": [
+		{
+			"title": "Cisco AnyConnect Secure Mobility Client",
+			"lang": "en"
+		}
+	]
 }

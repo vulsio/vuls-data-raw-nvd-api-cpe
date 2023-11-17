@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:nodejs:node.js:13.10.1:*:*:*:lts:*:*:*",
-  "cpeNameId": "42493112-4C7A-4EC6-831F-B8BC17885A17",
-  "created": "2021-10-08T14:30:25.480",
-  "lastModified": "2021-10-08T14:39:57.400",
-  "titles": [
-    {
-      "title": "Nodejs Node.js 13.10.1 LTS Edition",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://nodejs.org/en/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/nodejs/node/releases",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://nodejs.org/en/download/releases/",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:nodejs:node.js:13.10.1:*:*:*:lts:*:*:*",
+	"cpeNameId": "42493112-4C7A-4EC6-831F-B8BC17885A17",
+	"created": "2021-10-08T14:30:25.480",
+	"lastModified": "2021-10-08T14:39:57.400",
+	"titles": [
+		{
+			"title": "Nodejs Node.js 13.10.1 LTS Edition",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://nodejs.org/en/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/nodejs/node/releases",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://nodejs.org/en/download/releases/",
+			"type": "Version"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:microsoft:azure_rtos_filex:6.1.5:*:*:*:*:*:*:*",
-  "cpeNameId": "32DBE965-1972-4B16-8364-5557A4D35433",
-  "created": "2022-11-08T15:33:08.600",
-  "lastModified": "2022-11-15T15:17:12.687",
-  "titles": [
-    {
-      "title": "Microsoft Azure Real Time Operating System FileX 6.1.5",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/azure-rtos/filex/tags",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:microsoft:azure_rtos_filex:6.1.5:*:*:*:*:*:*:*",
+	"cpeNameId": "32DBE965-1972-4B16-8364-5557A4D35433",
+	"created": "2022-11-08T15:33:08.600",
+	"lastModified": "2022-11-15T15:17:12.687",
+	"titles": [
+		{
+			"title": "Microsoft Azure Real Time Operating System FileX 6.1.5",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/azure-rtos/filex/tags",
+			"type": "Change Log"
+		}
+	]
 }

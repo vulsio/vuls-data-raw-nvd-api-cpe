@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:ibm:informix_dynamic_server:10.0.xc3:*:*:*:*:*:*:*",
-  "cpeNameId": "67073855-92E0-4E53-867D-80D2CBEB727A",
-  "created": "2007-08-23T21:16:59.567",
-  "lastModified": "2008-04-01T16:39:17.890",
-  "titles": [
-    {
-      "title": "IBM Informix IDS 10.0.xC3",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:ibm:informix_dynamic_server:10.0.xc3:*:*:*:*:*:*:*",
+	"cpeNameId": "67073855-92E0-4E53-867D-80D2CBEB727A",
+	"created": "2007-08-23T21:16:59.567",
+	"lastModified": "2008-04-01T16:39:17.890",
+	"titles": [
+		{
+			"title": "IBM Informix IDS 10.0.xC3",
+			"lang": "en"
+		}
+	]
 }

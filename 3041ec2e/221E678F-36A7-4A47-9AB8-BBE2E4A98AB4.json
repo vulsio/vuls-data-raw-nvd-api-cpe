@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:mozilla:firefox:97.0.2:*:*:*:*:*:*:*",
-  "cpeNameId": "221E678F-36A7-4A47-9AB8-BBE2E4A98AB4",
-  "created": "2022-12-27T13:08:30.813",
-  "lastModified": "2022-12-27T14:06:22.157",
-  "titles": [
-    {
-      "title": "Mozilla Firefox 97.0.2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.mozilla.org/en-US/firefox/97.0.2/releasenotes/",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:mozilla:firefox:97.0.2:*:*:*:*:*:*:*",
+	"cpeNameId": "221E678F-36A7-4A47-9AB8-BBE2E4A98AB4",
+	"created": "2022-12-27T13:08:30.813",
+	"lastModified": "2022-12-27T14:06:22.157",
+	"titles": [
+		{
+			"title": "Mozilla Firefox 97.0.2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.mozilla.org/en-US/firefox/97.0.2/releasenotes/",
+			"type": "Change Log"
+		}
+	]
 }

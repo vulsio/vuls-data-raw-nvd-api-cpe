@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:umbraco:umbraco_cms:7.6.1:*:*:*:*:*:*:*",
-  "cpeNameId": "935BA9F0-0803-46AD-BD8B-BDE701012844",
-  "created": "2019-06-18T16:28:07.503",
-  "lastModified": "2019-06-18T16:28:07.503",
-  "titles": [
-    {
-      "title": "Umbraco CMS 7.6.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://umbraco.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/umbraco/Umbraco-CMS",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:umbraco:umbraco_cms:7.6.1:*:*:*:*:*:*:*",
+	"cpeNameId": "935BA9F0-0803-46AD-BD8B-BDE701012844",
+	"created": "2019-06-18T16:28:07.503",
+	"lastModified": "2019-06-18T16:28:07.503",
+	"titles": [
+		{
+			"title": "Umbraco CMS 7.6.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://umbraco.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/umbraco/Umbraco-CMS",
+			"type": "Version"
+		}
+	]
 }

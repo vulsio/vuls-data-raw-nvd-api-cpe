@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:hp:laserjet_m203_g3q48a_firmware:-:*:*:*:*:*:*:*",
-  "cpeNameId": "5A05F53F-FB96-4865-93BB-0B3310B36CA0",
-  "created": "2022-12-29T15:26:20.810",
-  "lastModified": "2023-01-12T13:57:43.380",
-  "titles": [
-    {
-      "title": "HP Laserjet M203 G3q48a Firmware -",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://support.hp.com/us-en/document/ish_5948778-5949142-16/hpsbpi03780",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:hp:laserjet_m203_g3q48a_firmware:-:*:*:*:*:*:*:*",
+	"cpeNameId": "5A05F53F-FB96-4865-93BB-0B3310B36CA0",
+	"created": "2022-12-29T15:26:20.810",
+	"lastModified": "2023-01-12T13:57:43.380",
+	"titles": [
+		{
+			"title": "HP Laserjet M203 G3q48a Firmware -",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://support.hp.com/us-en/document/ish_5948778-5949142-16/hpsbpi03780",
+			"type": "Advisory"
+		}
+	]
 }

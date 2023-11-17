@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:detekt:detekt:1.0.0:m7_beta1:*:*:*:*:*:*",
-  "cpeNameId": "4CB71D9E-2252-48A6-AE73-3633A02A61DA",
-  "created": "2022-04-27T14:34:05.073",
-  "lastModified": "2022-04-27T16:14:14.580",
-  "titles": [
-    {
-      "title": "Detekt 1.0.0 Milestone 7 Beta1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/detekt/detekt/tags",
-      "type": "Version"
-    },
-    {
-      "ref": "https://detekt.dev/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:detekt:detekt:1.0.0:m7_beta1:*:*:*:*:*:*",
+	"cpeNameId": "4CB71D9E-2252-48A6-AE73-3633A02A61DA",
+	"created": "2022-04-27T14:34:05.073",
+	"lastModified": "2022-04-27T16:14:14.580",
+	"titles": [
+		{
+			"title": "Detekt 1.0.0 Milestone 7 Beta1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/detekt/detekt/tags",
+			"type": "Version"
+		},
+		{
+			"ref": "https://detekt.dev/",
+			"type": "Vendor"
+		}
+	]
 }

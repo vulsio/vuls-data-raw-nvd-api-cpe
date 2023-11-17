@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:noscript:noscript:11.0.2:-:*:*:*:*:*:*",
-  "cpeNameId": "E235312D-7A0F-4524-B511-1EF1728749CF",
-  "created": "2019-09-23T17:19:51.040",
-  "lastModified": "2019-09-23T17:19:51.040",
-  "titles": [
-    {
-      "title": "NoScript 11.0.2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://noscript.net/changelog",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://github.com/hackademix/noscript/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:noscript:noscript:11.0.2:-:*:*:*:*:*:*",
+	"cpeNameId": "E235312D-7A0F-4524-B511-1EF1728749CF",
+	"created": "2019-09-23T17:19:51.040",
+	"lastModified": "2019-09-23T17:19:51.040",
+	"titles": [
+		{
+			"title": "NoScript 11.0.2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://noscript.net/changelog",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://github.com/hackademix/noscript/releases",
+			"type": "Change Log"
+		}
+	]
 }

@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:drupal:drupal:6.0:beta3:*:*:*:*:*:*",
-  "cpeNameId": "EEF26B78-8AD5-41FC-985E-905B1244C372",
-  "created": "2008-10-29T20:25:21.360",
-  "lastModified": "2010-10-13T02:46:17.883",
-  "titles": [
-    {
-      "title": "Drupal 6.0 beta3",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:drupal:drupal:6.0:beta3:*:*:*:*:*:*",
+	"cpeNameId": "EEF26B78-8AD5-41FC-985E-905B1244C372",
+	"created": "2008-10-29T20:25:21.360",
+	"lastModified": "2010-10-13T02:46:17.883",
+	"titles": [
+		{
+			"title": "Drupal 6.0 beta3",
+			"lang": "en"
+		}
+	]
 }

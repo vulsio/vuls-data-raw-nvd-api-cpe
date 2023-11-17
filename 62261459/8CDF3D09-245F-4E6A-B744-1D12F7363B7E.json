@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:d-bus_project:d-bus:1.15.6:*:*:*:*:*:*:*",
-  "cpeNameId": "8CDF3D09-245F-4E6A-B744-1D12F7363B7E",
-  "created": "2023-06-16T14:34:24.337",
-  "lastModified": "2023-07-05T12:37:25.880",
-  "titles": [
-    {
-      "title": "D-Bus Project D-Bus 1.15.6",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://gitlab.freedesktop.org/dbus/dbus/-/issues/457",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://gitlab.freedesktop.org/dbus/dbus/-/tags",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:d-bus_project:d-bus:1.15.6:*:*:*:*:*:*:*",
+	"cpeNameId": "8CDF3D09-245F-4E6A-B744-1D12F7363B7E",
+	"created": "2023-06-16T14:34:24.337",
+	"lastModified": "2023-07-05T12:37:25.880",
+	"titles": [
+		{
+			"title": "D-Bus Project D-Bus 1.15.6",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://gitlab.freedesktop.org/dbus/dbus/-/issues/457",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://gitlab.freedesktop.org/dbus/dbus/-/tags",
+			"type": "Version"
+		}
+	]
 }

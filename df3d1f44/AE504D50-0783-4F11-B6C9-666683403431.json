@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:google:chrome:22.0.1229.65:*:*:*:*:*:*:*",
-  "cpeNameId": "AE504D50-0783-4F11-B6C9-666683403431",
-  "created": "2012-10-03T17:51:26.707",
-  "lastModified": "2012-10-05T18:25:41.067",
-  "titles": [
-    {
-      "title": "Google Chrome 22.0.1229.65",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:google:chrome:22.0.1229.65:*:*:*:*:*:*:*",
+	"cpeNameId": "AE504D50-0783-4F11-B6C9-666683403431",
+	"created": "2012-10-03T17:51:26.707",
+	"lastModified": "2012-10-05T18:25:41.067",
+	"titles": [
+		{
+			"title": "Google Chrome 22.0.1229.65",
+			"lang": "en"
+		}
+	]
 }

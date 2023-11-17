@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:ssh.net_project:ssh.net:2012.21.12:*:*:*:*:.net:*:*",
-  "cpeNameId": "8C3231BB-9B5B-475C-8411-01BCCCDB430D",
-  "created": "2022-06-08T15:14:46.857",
-  "lastModified": "2022-06-08T16:15:13.080",
-  "titles": [
-    {
-      "title": "SSH.NET Project SSH.NET 2012.21.12 for .NET",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/sshnet/SSH.NET",
-      "type": "Product"
-    },
-    {
-      "ref": "https://www.nuget.org/packages/SSH.NET",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:ssh.net_project:ssh.net:2012.21.12:*:*:*:*:.net:*:*",
+	"cpeNameId": "8C3231BB-9B5B-475C-8411-01BCCCDB430D",
+	"created": "2022-06-08T15:14:46.857",
+	"lastModified": "2022-06-08T16:15:13.080",
+	"titles": [
+		{
+			"title": "SSH.NET Project SSH.NET 2012.21.12 for .NET",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/sshnet/SSH.NET",
+			"type": "Product"
+		},
+		{
+			"ref": "https://www.nuget.org/packages/SSH.NET",
+			"type": "Product"
+		}
+	]
 }

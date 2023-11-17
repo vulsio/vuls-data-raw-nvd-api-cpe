@@ -1,41 +1,41 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:nodejs:node.js:4.7.3:*:*:*:-:*:*:*",
-  "cpeNameId": "EB789534-0C81-4389-AE96-82295860DB28",
-  "created": "2020-02-10T17:57:31.467",
-  "lastModified": "2020-02-10T17:57:31.467",
-  "titles": [
-    {
-      "title": "Nodejs Node.js 4.7.3",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://nodejs.org/docs/",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://nodejs.org/en/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://nodejs.org/en/download/releases/",
-      "type": "Version"
-    },
-    {
-      "ref": "https://github.com/nodejs/node/blob/master/CHANGELOG.md",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://nodejs.org/download/docs/",
-      "type": "Version"
-    }
-  ],
-  "deprecates": [
-    {
-      "cpeName": "cpe:2.3:a:nodejs:node.js:4.7.3:*:*:*:*:*:*:*",
-      "cpeNameId": "8E57458C-584E-455A-8FB2-5E87C18E60D1"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:nodejs:node.js:4.7.3:*:*:*:-:*:*:*",
+	"cpeNameId": "EB789534-0C81-4389-AE96-82295860DB28",
+	"created": "2020-02-10T17:57:31.467",
+	"lastModified": "2020-02-10T17:57:31.467",
+	"titles": [
+		{
+			"title": "Nodejs Node.js 4.7.3",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://nodejs.org/docs/",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://nodejs.org/en/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://nodejs.org/en/download/releases/",
+			"type": "Version"
+		},
+		{
+			"ref": "https://github.com/nodejs/node/blob/master/CHANGELOG.md",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://nodejs.org/download/docs/",
+			"type": "Version"
+		}
+	],
+	"deprecates": [
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:4.7.3:*:*:*:*:*:*:*",
+			"cpeNameId": "8E57458C-584E-455A-8FB2-5E87C18E60D1"
+		}
+	]
 }

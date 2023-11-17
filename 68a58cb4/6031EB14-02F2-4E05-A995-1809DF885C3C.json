@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:smallpdf:json-pointer:0.2.1:*:*:*:*:node.js:*:*",
-  "cpeNameId": "6031EB14-02F2-4E05-A995-1809DF885C3C",
-  "created": "2020-10-06T16:33:14.220",
-  "lastModified": "2020-10-06T16:33:14.220",
-  "titles": [
-    {
-      "title": "Smallpdf Json-pointer 0.2.1 for Node.js",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.npmjs.com/package/json-pointer",
-      "type": "Product"
-    },
-    {
-      "ref": "https://smallpdf.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://snyk.io/vuln/SNYK-JS-JSONPOINTER-596925",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:smallpdf:json-pointer:0.2.1:*:*:*:*:node.js:*:*",
+	"cpeNameId": "6031EB14-02F2-4E05-A995-1809DF885C3C",
+	"created": "2020-10-06T16:33:14.220",
+	"lastModified": "2020-10-06T16:33:14.220",
+	"titles": [
+		{
+			"title": "Smallpdf Json-pointer 0.2.1 for Node.js",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.npmjs.com/package/json-pointer",
+			"type": "Product"
+		},
+		{
+			"ref": "https://smallpdf.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://snyk.io/vuln/SNYK-JS-JSONPOINTER-596925",
+			"type": "Advisory"
+		}
+	]
 }

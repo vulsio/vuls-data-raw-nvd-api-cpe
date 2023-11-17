@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:optimizepress:optimizepress:1.61:-:-:*:-:wordpress:*:*",
-  "cpeNameId": "09B7FBF2-8F0C-47B7-999B-F678AB4D361A",
-  "created": "2013-12-24T22:05:06.880",
-  "lastModified": "2013-12-26T16:34:30.477",
-  "titles": [
-    {
-      "title": "OptimizePress for WordPress 1.61",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www.optimizepress.com"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:optimizepress:optimizepress:1.61:-:-:*:-:wordpress:*:*",
+	"cpeNameId": "09B7FBF2-8F0C-47B7-999B-F678AB4D361A",
+	"created": "2013-12-24T22:05:06.880",
+	"lastModified": "2013-12-26T16:34:30.477",
+	"titles": [
+		{
+			"title": "OptimizePress for WordPress 1.61",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.optimizepress.com"
+		}
+	]
 }

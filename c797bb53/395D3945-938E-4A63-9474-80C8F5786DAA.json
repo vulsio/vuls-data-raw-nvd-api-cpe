@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:spotweb_project:spotweb:1.4.8:*:*:*:*:*:*:*",
-  "cpeNameId": "395D3945-938E-4A63-9474-80C8F5786DAA",
-  "created": "2020-12-18T18:37:36.017",
-  "lastModified": "2020-12-18T18:37:36.017",
-  "titles": [
-    {
-      "title": "Spotweb Project Spotweb 1.4.8",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/spotweb/spotweb",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:spotweb_project:spotweb:1.4.8:*:*:*:*:*:*:*",
+	"cpeNameId": "395D3945-938E-4A63-9474-80C8F5786DAA",
+	"created": "2020-12-18T18:37:36.017",
+	"lastModified": "2020-12-18T18:37:36.017",
+	"titles": [
+		{
+			"title": "Spotweb Project Spotweb 1.4.8",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/spotweb/spotweb",
+			"type": "Version"
+		}
+	]
 }

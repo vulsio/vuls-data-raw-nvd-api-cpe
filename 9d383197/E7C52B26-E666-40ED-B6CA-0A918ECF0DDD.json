@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:qwizcards_project:qwizcards:2.22:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "E7C52B26-E666-40ED-B6CA-0A918ECF0DDD",
-  "created": "2021-11-11T01:59:26.277",
-  "lastModified": "2021-11-11T02:02:56.690",
-  "titles": [
-    {
-      "title": "Qwizcards Project Qwizcards 2.22 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wordpress.org/plugins/qwiz-online-quizzes-and-flashcards/#developers",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:qwizcards_project:qwizcards:2.22:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "E7C52B26-E666-40ED-B6CA-0A918ECF0DDD",
+	"created": "2021-11-11T01:59:26.277",
+	"lastModified": "2021-11-11T02:02:56.690",
+	"titles": [
+		{
+			"title": "Qwizcards Project Qwizcards 2.22 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/qwiz-online-quizzes-and-flashcards/#developers",
+			"type": "Change Log"
+		}
+	]
 }

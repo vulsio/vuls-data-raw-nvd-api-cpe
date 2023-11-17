@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:mozilla:firefox:101:*:*:*:*:*:*:*",
-  "cpeNameId": "F3ADA861-5ECC-4168-A9A1-9B5D7D8EF3DD",
-  "created": "2022-12-23T20:14:19.683",
-  "lastModified": "2022-12-27T18:05:08.333",
-  "titles": [
-    {
-      "title": "Mozilla Firefox 101",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.mozilla.org/en-US/security/advisories/mfsa2022-20/",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:mozilla:firefox:101:*:*:*:*:*:*:*",
+	"cpeNameId": "F3ADA861-5ECC-4168-A9A1-9B5D7D8EF3DD",
+	"created": "2022-12-23T20:14:19.683",
+	"lastModified": "2022-12-27T18:05:08.333",
+	"titles": [
+		{
+			"title": "Mozilla Firefox 101",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.mozilla.org/en-US/security/advisories/mfsa2022-20/",
+			"type": "Advisory"
+		}
+	]
 }

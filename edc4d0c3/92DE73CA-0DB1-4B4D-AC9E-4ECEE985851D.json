@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:apple:safari:2.0.2:*:*:*:*:*:*:*",
-  "cpeNameId": "92DE73CA-0DB1-4B4D-AC9E-4ECEE985851D",
-  "created": "2007-08-23T21:16:59.567",
-  "lastModified": "2008-04-15T22:37:35.990",
-  "titles": [
-    {
-      "title": "Apple Safari 2.0.2",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:apple:safari:2.0.2:*:*:*:*:*:*:*",
+	"cpeNameId": "92DE73CA-0DB1-4B4D-AC9E-4ECEE985851D",
+	"created": "2007-08-23T21:16:59.567",
+	"lastModified": "2008-04-15T22:37:35.990",
+	"titles": [
+		{
+			"title": "Apple Safari 2.0.2",
+			"lang": "en"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:cisco:firepower_management_center:6.4.0.11:*:*:*:*:*:*:*",
-  "cpeNameId": "D7901E0F-26C0-4515-A630-72902EFD6B17",
-  "created": "2021-05-05T15:20:20.653",
-  "lastModified": "2021-05-06T15:43:25.273",
-  "titles": [
-    {
-      "title": "Cisco Firepower Management Center (FMC) 6.4.0.11",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-fmc-xss-yT8LNSeA",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:cisco:firepower_management_center:6.4.0.11:*:*:*:*:*:*:*",
+	"cpeNameId": "D7901E0F-26C0-4515-A630-72902EFD6B17",
+	"created": "2021-05-05T15:20:20.653",
+	"lastModified": "2021-05-06T15:43:25.273",
+	"titles": [
+		{
+			"title": "Cisco Firepower Management Center (FMC) 6.4.0.11",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-fmc-xss-yT8LNSeA",
+			"type": "Advisory"
+		}
+	]
 }

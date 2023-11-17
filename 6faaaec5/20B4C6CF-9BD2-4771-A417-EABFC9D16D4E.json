@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:mozilla:firefox_esr:38.2.0:*:*:*:*:*:x64:*",
-  "cpeNameId": "20B4C6CF-9BD2-4771-A417-EABFC9D16D4E",
-  "created": "2015-12-16T15:36:13.097",
-  "lastModified": "2015-12-16T15:36:13.097",
-  "titles": [
-    {
-      "title": "Mozilla Firefox ESR 38.2.0 (64 bit)",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.mozilla.org/en-US/firefox/organizations/",
-      "type": "Version"
-    },
-    {
-      "ref": "https://www.mozilla.org/en-US/firefox/releases/",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:mozilla:firefox_esr:38.2.0:*:*:*:*:*:x64:*",
+	"cpeNameId": "20B4C6CF-9BD2-4771-A417-EABFC9D16D4E",
+	"created": "2015-12-16T15:36:13.097",
+	"lastModified": "2015-12-16T15:36:13.097",
+	"titles": [
+		{
+			"title": "Mozilla Firefox ESR 38.2.0 (64 bit)",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.mozilla.org/en-US/firefox/organizations/",
+			"type": "Version"
+		},
+		{
+			"ref": "https://www.mozilla.org/en-US/firefox/releases/",
+			"type": "Change Log"
+		}
+	]
 }

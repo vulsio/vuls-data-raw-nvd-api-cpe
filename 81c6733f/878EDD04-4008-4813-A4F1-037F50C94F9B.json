@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:radare:radare2:0.9.6:*:*:*:*:*:*:*",
-  "cpeNameId": "878EDD04-4008-4813-A4F1-037F50C94F9B",
-  "created": "2019-03-21T15:29:36.343",
-  "lastModified": "2019-03-21T15:29:36.343",
-  "titles": [
-    {
-      "title": "radare2 0.9.6",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/radare/radare2",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:radare:radare2:0.9.6:*:*:*:*:*:*:*",
+	"cpeNameId": "878EDD04-4008-4813-A4F1-037F50C94F9B",
+	"created": "2019-03-21T15:29:36.343",
+	"lastModified": "2019-03-21T15:29:36.343",
+	"titles": [
+		{
+			"title": "radare2 0.9.6",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/radare/radare2",
+			"type": "Product"
+		}
+	]
 }

@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:korenix:jetnet5310:-:*:*:*:*:*:*:*",
-  "cpeNameId": "62EDEB98-ECC9-453C-81DD-D13EADFD3FE6",
-  "created": "2022-03-03T20:58:42.010",
-  "lastModified": "2022-04-20T14:25:53.070",
-  "titles": [
-    {
-      "title": "Korenix JetNet5310",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.korenixstore.com/searchresults.asp?Search=jetnet&Submit=",
-      "type": "Product"
-    },
-    {
-      "ref": "http://www.korenix.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:korenix:jetnet5310:-:*:*:*:*:*:*:*",
+	"cpeNameId": "62EDEB98-ECC9-453C-81DD-D13EADFD3FE6",
+	"created": "2022-03-03T20:58:42.010",
+	"lastModified": "2022-04-20T14:25:53.070",
+	"titles": [
+		{
+			"title": "Korenix JetNet5310",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.korenixstore.com/searchresults.asp?Search=jetnet&Submit=",
+			"type": "Product"
+		},
+		{
+			"ref": "http://www.korenix.com/",
+			"type": "Vendor"
+		}
+	]
 }

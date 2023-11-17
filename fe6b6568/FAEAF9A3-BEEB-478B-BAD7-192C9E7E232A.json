@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:thulasidas:easy-adsense-lite:2.00:*:*:*:*:*:*:*",
-  "cpeNameId": "FAEAF9A3-BEEB-478B-BAD7-192C9E7E232A",
-  "created": "2013-05-06T14:15:32.517",
-  "lastModified": "2013-05-08T14:52:09.470",
-  "titles": [
-    {
-      "title": "thulasidas Easy AdSense Lite plugin (easy-adsense-lite) 2.00",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:thulasidas:easy-adsense-lite:2.00:*:*:*:*:*:*:*",
+	"cpeNameId": "FAEAF9A3-BEEB-478B-BAD7-192C9E7E232A",
+	"created": "2013-05-06T14:15:32.517",
+	"lastModified": "2013-05-08T14:52:09.470",
+	"titles": [
+		{
+			"title": "thulasidas Easy AdSense Lite plugin (easy-adsense-lite) 2.00",
+			"lang": "en"
+		}
+	]
 }

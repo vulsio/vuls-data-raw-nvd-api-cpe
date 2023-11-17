@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:triplea-game:triplea:1.10.0.0.12579:*:*:*:*:*:*:*",
-  "cpeNameId": "0AA95EB9-8108-4634-8856-1E21E5023EFA",
-  "created": "2020-03-09T12:50:07.183",
-  "lastModified": "2020-03-09T12:50:07.183",
-  "titles": [
-    {
-      "title": "TripleA 1.10.0.0.12579",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://triplea-game.org/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/triplea-game/triplea",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:triplea-game:triplea:1.10.0.0.12579:*:*:*:*:*:*:*",
+	"cpeNameId": "0AA95EB9-8108-4634-8856-1E21E5023EFA",
+	"created": "2020-03-09T12:50:07.183",
+	"lastModified": "2020-03-09T12:50:07.183",
+	"titles": [
+		{
+			"title": "TripleA 1.10.0.0.12579",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://triplea-game.org/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/triplea-game/triplea",
+			"type": "Version"
+		}
+	]
 }

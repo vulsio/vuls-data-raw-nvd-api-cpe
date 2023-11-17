@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:user_registration_\\&_login_and_user_management_system_project:user_registration_\\&_login_and_user_management_system:2.1:*:*:*:*:*:*:*",
-  "cpeNameId": "D176D285-5DCD-4905-A8CA-4DD304F78FFE",
-  "created": "2020-11-23T23:37:04.477",
-  "lastModified": "2020-11-23T23:37:04.477",
-  "titles": [
-    {
-      "title": "User Registration & Login And User Management System Project User Registration & Login And User Management System 2.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://phpgurukul.com/user-registration-login-and-user-management-system-with-admin-panel/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://medium.com/bugbountywriteup/cve-2020-25952-f60fff8ffac",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:user_registration_\\&_login_and_user_management_system_project:user_registration_\\&_login_and_user_management_system:2.1:*:*:*:*:*:*:*",
+	"cpeNameId": "D176D285-5DCD-4905-A8CA-4DD304F78FFE",
+	"created": "2020-11-23T23:37:04.477",
+	"lastModified": "2020-11-23T23:37:04.477",
+	"titles": [
+		{
+			"title": "User Registration & Login And User Management System Project User Registration & Login And User Management System 2.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://phpgurukul.com/user-registration-login-and-user-management-system-with-admin-panel/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://medium.com/bugbountywriteup/cve-2020-25952-f60fff8ffac",
+			"type": "Advisory"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:pulsesecure:pulse_connect_secure:7.1:r16.0:*:*:*:*:*:*",
-  "cpeNameId": "526AF6E1-FFA8-4C95-B561-A55B5C41BE7E",
-  "created": "2019-06-26T15:56:24.483",
-  "lastModified": "2019-06-26T15:56:24.483",
-  "titles": [
-    {
-      "title": "PulseSecure Pulse Connect Secure (PCS) 7.1 R16.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www-prev.pulsesecure.net/techpubs/pulse-connect-secure/pcs/7.1rx",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:pulsesecure:pulse_connect_secure:7.1:r16.0:*:*:*:*:*:*",
+	"cpeNameId": "526AF6E1-FFA8-4C95-B561-A55B5C41BE7E",
+	"created": "2019-06-26T15:56:24.483",
+	"lastModified": "2019-06-26T15:56:24.483",
+	"titles": [
+		{
+			"title": "PulseSecure Pulse Connect Secure (PCS) 7.1 R16.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www-prev.pulsesecure.net/techpubs/pulse-connect-secure/pcs/7.1rx",
+			"type": "Version"
+		}
+	]
 }

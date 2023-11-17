@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:dotcms:dotcms:21.06.1:*:*:*:*:*:*:*",
-  "cpeNameId": "97F24599-20A5-4303-9BC1-094A528B7A0C",
-  "created": "2022-11-11T14:34:51.683",
-  "lastModified": "2022-11-11T14:36:13.080",
-  "titles": [
-    {
-      "title": "dotCMS 21.06.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/dotCMS/core/tags",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:dotcms:dotcms:21.06.1:*:*:*:*:*:*:*",
+	"cpeNameId": "97F24599-20A5-4303-9BC1-094A528B7A0C",
+	"created": "2022-11-11T14:34:51.683",
+	"lastModified": "2022-11-11T14:36:13.080",
+	"titles": [
+		{
+			"title": "dotCMS 21.06.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/dotCMS/core/tags",
+			"type": "Change Log"
+		}
+	]
 }

@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:craftcms:craft_cms:3.0.0:beta8:*:*:*:*:*:*",
-  "cpeNameId": "4BA6C1C6-616E-498B-8A87-512D1FAC981C",
-  "created": "2020-02-05T17:07:30.013",
-  "lastModified": "2020-02-05T17:07:30.013",
-  "titles": [
-    {
-      "title": "Craft CMS 3.0.0 Beta 8",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://craftcms.com/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://github.com/craftcms/cms/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:craftcms:craft_cms:3.0.0:beta8:*:*:*:*:*:*",
+	"cpeNameId": "4BA6C1C6-616E-498B-8A87-512D1FAC981C",
+	"created": "2020-02-05T17:07:30.013",
+	"lastModified": "2020-02-05T17:07:30.013",
+	"titles": [
+		{
+			"title": "Craft CMS 3.0.0 Beta 8",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://craftcms.com/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://github.com/craftcms/cms/releases",
+			"type": "Change Log"
+		}
+	]
 }

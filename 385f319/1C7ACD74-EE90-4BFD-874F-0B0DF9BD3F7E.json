@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:supermicro:c7z370i_firmware:-:*:*:*:*:*:*:*",
-  "cpeNameId": "1C7ACD74-EE90-4BFD-874F-0B0DF9BD3F7E",
-  "created": "2018-09-06T15:17:28.393",
-  "lastModified": "2021-05-26T18:13:01.680",
-  "titles": [
-    {
-      "title": "Supermicro C7z370i Firmware",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.supermicro.com/index.cfm",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:supermicro:c7z370i_firmware:-:*:*:*:*:*:*:*",
+	"cpeNameId": "1C7ACD74-EE90-4BFD-874F-0B0DF9BD3F7E",
+	"created": "2018-09-06T15:17:28.393",
+	"lastModified": "2021-05-26T18:13:01.680",
+	"titles": [
+		{
+			"title": "Supermicro C7z370i Firmware",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.supermicro.com/index.cfm",
+			"type": "Vendor"
+		}
+	]
 }

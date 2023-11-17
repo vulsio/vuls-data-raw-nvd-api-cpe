@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:crawltrack:crawltrack:3.1.0:*:*:*:*:*:*:*",
-  "cpeNameId": "BCE35239-C8EA-487D-A1E1-75EFD7423825",
-  "created": "2011-01-14T15:40:09.590",
-  "lastModified": "2011-07-27T15:35:29.623",
-  "titles": [
-    {
-      "title": "CrawlTrack 3.1.0",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:crawltrack:crawltrack:3.1.0:*:*:*:*:*:*:*",
+	"cpeNameId": "BCE35239-C8EA-487D-A1E1-75EFD7423825",
+	"created": "2011-01-14T15:40:09.590",
+	"lastModified": "2011-07-27T15:35:29.623",
+	"titles": [
+		{
+			"title": "CrawlTrack 3.1.0",
+			"lang": "en"
+		}
+	]
 }

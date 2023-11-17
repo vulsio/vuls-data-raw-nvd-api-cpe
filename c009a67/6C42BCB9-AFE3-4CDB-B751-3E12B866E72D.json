@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:rxvt-unicode_project:rxvt-unicode:5.8:*:*:*:*:*:*:*",
-  "cpeNameId": "6C42BCB9-AFE3-4CDB-B751-3E12B866E72D",
-  "created": "2021-07-29T18:18:47.790",
-  "lastModified": "2021-07-30T16:35:11.583",
-  "titles": [
-    {
-      "title": "rxvt-unicode Project rxvt-unicode 5.8",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/exg/rxvt-unicode/tags",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:rxvt-unicode_project:rxvt-unicode:5.8:*:*:*:*:*:*:*",
+	"cpeNameId": "6C42BCB9-AFE3-4CDB-B751-3E12B866E72D",
+	"created": "2021-07-29T18:18:47.790",
+	"lastModified": "2021-07-30T16:35:11.583",
+	"titles": [
+		{
+			"title": "rxvt-unicode Project rxvt-unicode 5.8",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/exg/rxvt-unicode/tags",
+			"type": "Version"
+		}
+	]
 }

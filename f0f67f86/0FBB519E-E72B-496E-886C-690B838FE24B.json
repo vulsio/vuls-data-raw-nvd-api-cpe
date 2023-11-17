@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:cisco:ciscoworks_common_services:3.3:*:*:*:*:*:*:*",
-  "cpeNameId": "0FBB519E-E72B-496E-886C-690B838FE24B",
-  "created": "2010-11-01T13:16:09.460",
-  "lastModified": "2010-11-05T14:32:30.187",
-  "titles": [
-    {
-      "title": "Cisco CiscoWorks Common Services 3.3",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:cisco:ciscoworks_common_services:3.3:*:*:*:*:*:*:*",
+	"cpeNameId": "0FBB519E-E72B-496E-886C-690B838FE24B",
+	"created": "2010-11-01T13:16:09.460",
+	"lastModified": "2010-11-05T14:32:30.187",
+	"titles": [
+		{
+			"title": "Cisco CiscoWorks Common Services 3.3",
+			"lang": "en"
+		}
+	]
 }

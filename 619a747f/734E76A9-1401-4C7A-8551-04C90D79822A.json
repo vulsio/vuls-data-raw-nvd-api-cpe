@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:mortbay:jetty:2.1.6:*:*:*:*:*:*:*",
-  "cpeNameId": "734E76A9-1401-4C7A-8551-04C90D79822A",
-  "created": "2009-05-06T20:10:25.780",
-  "lastModified": "2011-08-16T14:59:57.427",
-  "titles": [
-    {
-      "title": "Mortbay Jetty 2.1.6",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:mortbay:jetty:2.1.6:*:*:*:*:*:*:*",
+	"cpeNameId": "734E76A9-1401-4C7A-8551-04C90D79822A",
+	"created": "2009-05-06T20:10:25.780",
+	"lastModified": "2011-08-16T14:59:57.427",
+	"titles": [
+		{
+			"title": "Mortbay Jetty 2.1.6",
+			"lang": "en"
+		}
+	]
 }

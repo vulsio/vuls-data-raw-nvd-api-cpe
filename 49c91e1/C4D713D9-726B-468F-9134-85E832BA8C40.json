@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:qnap:quts_hero:h4.5.4.1971:*:*:*:*:*:*:*",
-  "cpeNameId": "C4D713D9-726B-468F-9134-85E832BA8C40",
-  "created": "2023-08-31T11:11:00.053",
-  "lastModified": "2023-09-01T03:42:36.997",
-  "titles": [
-    {
-      "title": "QNAP QuTS hero h4.5.4.1971",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.qnap.com/en/security-advisory/qsa-23-60",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://www.qnap.com/en/release-notes/quts_hero/overview/h4.5.4",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:qnap:quts_hero:h4.5.4.1971:*:*:*:*:*:*:*",
+	"cpeNameId": "C4D713D9-726B-468F-9134-85E832BA8C40",
+	"created": "2023-08-31T11:11:00.053",
+	"lastModified": "2023-09-01T03:42:36.997",
+	"titles": [
+		{
+			"title": "QNAP QuTS hero h4.5.4.1971",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.qnap.com/en/security-advisory/qsa-23-60",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://www.qnap.com/en/release-notes/quts_hero/overview/h4.5.4",
+			"type": "Version"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:mirc:mirc:7.43:*:*:*:*:*:*:*",
-  "cpeNameId": "BE12AD24-21CE-4574-BCC9-99F857E14990",
-  "created": "2019-09-19T12:11:19.343",
-  "lastModified": "2019-09-19T12:11:19.343",
-  "titles": [
-    {
-      "title": "mIRC 7.43",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.mirc.com/newsold.html",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:mirc:mirc:7.43:*:*:*:*:*:*:*",
+	"cpeNameId": "BE12AD24-21CE-4574-BCC9-99F857E14990",
+	"created": "2019-09-19T12:11:19.343",
+	"lastModified": "2019-09-19T12:11:19.343",
+	"titles": [
+		{
+			"title": "mIRC 7.43",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.mirc.com/newsold.html",
+			"type": "Version"
+		}
+	]
 }

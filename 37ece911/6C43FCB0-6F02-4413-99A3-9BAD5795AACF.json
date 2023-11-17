@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:rockwellautomation:pavilion8:5.20:*:*:*:*:*:*:*",
-  "cpeNameId": "6C43FCB0-6F02-4413-99A3-9BAD5795AACF",
-  "created": "2023-09-28T11:09:50.100",
-  "lastModified": "2023-09-28T11:09:50.100",
-  "titles": [
-    {
-      "title": "Rockwell Automation Pavilion8 5.20",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/CVEProject/cvelist/blob/master/2023/29xxx/CVE-2023-29463.json",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:rockwellautomation:pavilion8:5.20:*:*:*:*:*:*:*",
+	"cpeNameId": "6C43FCB0-6F02-4413-99A3-9BAD5795AACF",
+	"created": "2023-09-28T11:09:50.100",
+	"lastModified": "2023-09-28T11:09:50.100",
+	"titles": [
+		{
+			"title": "Rockwell Automation Pavilion8 5.20",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/CVEProject/cvelist/blob/master/2023/29xxx/CVE-2023-29463.json",
+			"type": "Advisory"
+		}
+	]
 }

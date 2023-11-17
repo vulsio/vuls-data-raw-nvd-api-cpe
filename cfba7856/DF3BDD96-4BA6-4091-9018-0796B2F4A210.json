@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:gnome:evolution:3.25.4:*:*:*:*:*:*:*",
-  "cpeNameId": "DF3BDD96-4BA6-4091-9018-0796B2F4A210",
-  "created": "2019-10-29T16:37:07.907",
-  "lastModified": "2019-10-29T16:37:07.907",
-  "titles": [
-    {
-      "title": "GNOME Evolution 3.25.4",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/GNOME/evolution-data-server",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:gnome:evolution:3.25.4:*:*:*:*:*:*:*",
+	"cpeNameId": "DF3BDD96-4BA6-4091-9018-0796B2F4A210",
+	"created": "2019-10-29T16:37:07.907",
+	"lastModified": "2019-10-29T16:37:07.907",
+	"titles": [
+		{
+			"title": "GNOME Evolution 3.25.4",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/GNOME/evolution-data-server",
+			"type": "Version"
+		}
+	]
 }

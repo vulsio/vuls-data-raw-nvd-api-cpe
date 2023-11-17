@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:ssh:ssh2:2.0.7:*:*:*:*:*:*:*",
-  "cpeNameId": "41B8FD7C-8821-4AE6-B33E-AD3BBC3A8E30",
-  "created": "2007-08-23T21:16:59.567",
-  "lastModified": "2008-03-25T19:18:01.600",
-  "titles": [
-    {
-      "title": "SSH Communications Security SSH2 2.0.7",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:ssh:ssh2:2.0.7:*:*:*:*:*:*:*",
+	"cpeNameId": "41B8FD7C-8821-4AE6-B33E-AD3BBC3A8E30",
+	"created": "2007-08-23T21:16:59.567",
+	"lastModified": "2008-03-25T19:18:01.600",
+	"titles": [
+		{
+			"title": "SSH Communications Security SSH2 2.0.7",
+			"lang": "en"
+		}
+	]
 }

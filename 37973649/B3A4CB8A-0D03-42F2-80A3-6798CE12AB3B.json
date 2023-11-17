@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:hapijs:hoek:2.7.0:*:*:*:*:node.js:*:*",
-  "cpeNameId": "B3A4CB8A-0D03-42F2-80A3-6798CE12AB3B",
-  "created": "2019-07-02T14:22:26.143",
-  "lastModified": "2019-07-02T14:22:26.143",
-  "titles": [
-    {
-      "title": "Hapijs Hoek 2.7.0 for Node.js",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/hapijs/hoek",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:hapijs:hoek:2.7.0:*:*:*:*:node.js:*:*",
+	"cpeNameId": "B3A4CB8A-0D03-42F2-80A3-6798CE12AB3B",
+	"created": "2019-07-02T14:22:26.143",
+	"lastModified": "2019-07-02T14:22:26.143",
+	"titles": [
+		{
+			"title": "Hapijs Hoek 2.7.0 for Node.js",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/hapijs/hoek",
+			"type": "Version"
+		}
+	]
 }

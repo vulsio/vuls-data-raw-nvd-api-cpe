@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:adobe:shockwave_player:10.1.1.016:*:*:*:*:*:*:*",
-  "cpeNameId": "BE342BA5-4FB8-4A32-85C3-C488B949FEDF",
-  "created": "2010-08-27T16:49:55.817",
-  "lastModified": "2010-08-30T20:08:07.373",
-  "titles": [
-    {
-      "title": "Adobe Shockwave Player 10.1.1.016",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:adobe:shockwave_player:10.1.1.016:*:*:*:*:*:*:*",
+	"cpeNameId": "BE342BA5-4FB8-4A32-85C3-C488B949FEDF",
+	"created": "2010-08-27T16:49:55.817",
+	"lastModified": "2010-08-30T20:08:07.373",
+	"titles": [
+		{
+			"title": "Adobe Shockwave Player 10.1.1.016",
+			"lang": "en"
+		}
+	]
 }

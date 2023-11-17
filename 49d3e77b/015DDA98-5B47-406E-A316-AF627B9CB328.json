@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:emc:rsa_data_protection_manager_software_server:2.7.0:*:*:*:*:*:*:*",
-  "cpeNameId": "015DDA98-5B47-406E-A316-AF627B9CB328",
-  "created": "2012-11-16T13:34:42.963",
-  "lastModified": "2012-11-21T17:15:25.057",
-  "titles": [
-    {
-      "title": "EMC RSA Data Protection Manager Software Server 2.7.0",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:emc:rsa_data_protection_manager_software_server:2.7.0:*:*:*:*:*:*:*",
+	"cpeNameId": "015DDA98-5B47-406E-A316-AF627B9CB328",
+	"created": "2012-11-16T13:34:42.963",
+	"lastModified": "2012-11-21T17:15:25.057",
+	"titles": [
+		{
+			"title": "EMC RSA Data Protection Manager Software Server 2.7.0",
+			"lang": "en"
+		}
+	]
 }

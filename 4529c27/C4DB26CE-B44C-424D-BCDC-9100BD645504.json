@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:cgminer_project:cgminer:3.4.1:*:*:*:*:*:*:*",
-  "cpeNameId": "C4DB26CE-B44C-424D-BCDC-9100BD645504",
-  "created": "2014-07-23T18:21:29.273",
-  "lastModified": "2014-07-23T18:50:40.897",
-  "titles": [
-    {
-      "title": "cgminer project cgminer 3.4.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/ckolivas/cgminer/releases",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:cgminer_project:cgminer:3.4.1:*:*:*:*:*:*:*",
+	"cpeNameId": "C4DB26CE-B44C-424D-BCDC-9100BD645504",
+	"created": "2014-07-23T18:21:29.273",
+	"lastModified": "2014-07-23T18:50:40.897",
+	"titles": [
+		{
+			"title": "cgminer project cgminer 3.4.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/ckolivas/cgminer/releases",
+			"type": "Version"
+		}
+	]
 }

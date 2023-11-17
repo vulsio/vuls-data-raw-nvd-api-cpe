@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:laravel:laravel:3.1.7:*:*:*:*:*:*:*",
-  "cpeNameId": "E1116E16-80A9-4783-8738-176F990973CC",
-  "created": "2019-06-11T12:03:41.853",
-  "lastModified": "2019-06-11T12:03:41.853",
-  "titles": [
-    {
-      "title": "Laravel 3.1.7",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/laravel/laravel/",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:laravel:laravel:3.1.7:*:*:*:*:*:*:*",
+	"cpeNameId": "E1116E16-80A9-4783-8738-176F990973CC",
+	"created": "2019-06-11T12:03:41.853",
+	"lastModified": "2019-06-11T12:03:41.853",
+	"titles": [
+		{
+			"title": "Laravel 3.1.7",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/laravel/laravel/",
+			"type": "Version"
+		}
+	]
 }

@@ -1,29 +1,29 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:mappresspro:mappress:2.72.1:*:*:*:free:wordpress:*:*",
-  "cpeNameId": "4879EF8D-5A0A-4572-BB51-0D0E8B59C5AF",
-  "created": "2023-02-06T20:31:09.317",
-  "lastModified": "2023-02-06T21:05:50.670",
-  "titles": [
-    {
-      "title": "MapPressPro MapPress 2.72.1 Free Edition for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wordpress.org/plugins/mappress-google-maps-for-wordpress/#developers",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://mappresspro.com/",
-      "type": "Vendor"
-    }
-  ],
-  "deprecates": [
-    {
-      "cpeName": "cpe:2.3:a:mappresspro:mappress_maps:2.72.1:*:*:*:*:wordpress:*:*",
-      "cpeNameId": "11D2F896-308E-4A9A-A080-0C5EF4A9B7AE"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:mappresspro:mappress:2.72.1:*:*:*:free:wordpress:*:*",
+	"cpeNameId": "4879EF8D-5A0A-4572-BB51-0D0E8B59C5AF",
+	"created": "2023-02-06T20:31:09.317",
+	"lastModified": "2023-02-06T21:05:50.670",
+	"titles": [
+		{
+			"title": "MapPressPro MapPress 2.72.1 Free Edition for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/mappress-google-maps-for-wordpress/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://mappresspro.com/",
+			"type": "Vendor"
+		}
+	],
+	"deprecates": [
+		{
+			"cpeName": "cpe:2.3:a:mappresspro:mappress_maps:2.72.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "11D2F896-308E-4A9A-A080-0C5EF4A9B7AE"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:aiohttp-session_project:aiohttp-session:2.1.0:*:*:*:*:*:*:*",
-  "cpeNameId": "1144C49E-104E-42A6-945F-1F87CE09B13A",
-  "created": "2019-09-19T14:18:36.740",
-  "lastModified": "2019-09-19T14:18:36.740",
-  "titles": [
-    {
-      "title": "aiohttp-session Project aiohttp-session 2.1.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/aio-libs/aiohttp-session/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:aiohttp-session_project:aiohttp-session:2.1.0:*:*:*:*:*:*:*",
+	"cpeNameId": "1144C49E-104E-42A6-945F-1F87CE09B13A",
+	"created": "2019-09-19T14:18:36.740",
+	"lastModified": "2019-09-19T14:18:36.740",
+	"titles": [
+		{
+			"title": "aiohttp-session Project aiohttp-session 2.1.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/aio-libs/aiohttp-session/releases",
+			"type": "Change Log"
+		}
+	]
 }

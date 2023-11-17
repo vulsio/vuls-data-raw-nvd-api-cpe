@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:gitlab:gitlab:14.4.3:*:*:*:enterprise:*:*:*",
-  "cpeNameId": "90DB8E56-EAEA-4D29-859F-4960C240645B",
-  "created": "2022-01-24T14:22:41.190",
-  "lastModified": "2022-01-24T16:39:28.880",
-  "titles": [
-    {
-      "title": "GitLab 14.4.3 Enterprise Edition",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://gitlab.com/gitlab-org/omnibus-gitlab/blob/master/CHANGELOG.md",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://about.gitlab.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:gitlab:gitlab:14.4.3:*:*:*:enterprise:*:*:*",
+	"cpeNameId": "90DB8E56-EAEA-4D29-859F-4960C240645B",
+	"created": "2022-01-24T14:22:41.190",
+	"lastModified": "2022-01-24T16:39:28.880",
+	"titles": [
+		{
+			"title": "GitLab 14.4.3 Enterprise Edition",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://gitlab.com/gitlab-org/omnibus-gitlab/blob/master/CHANGELOG.md",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://about.gitlab.com/",
+			"type": "Vendor"
+		}
+	]
 }

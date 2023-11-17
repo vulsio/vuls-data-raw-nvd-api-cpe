@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:libpng:libpng:1.0.6:*:*:*:*:*:*:*",
-  "cpeNameId": "6F16E508-D5D6-4390-A060-14F3FA8C06CA",
-  "created": "2008-09-05T20:02:23.817",
-  "lastModified": "2012-06-15T15:21:38.000",
-  "titles": [
-    {
-      "title": "libpng  1.0.6",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:libpng:libpng:1.0.6:*:*:*:*:*:*:*",
+	"cpeNameId": "6F16E508-D5D6-4390-A060-14F3FA8C06CA",
+	"created": "2008-09-05T20:02:23.817",
+	"lastModified": "2012-06-15T15:21:38.000",
+	"titles": [
+		{
+			"title": "libpng  1.0.6",
+			"lang": "en"
+		}
+	]
 }

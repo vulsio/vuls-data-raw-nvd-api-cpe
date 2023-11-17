@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:phpmyfaq:phpmyfaq:1.5.8:*:*:*:*:*:*:*",
-  "cpeNameId": "DFF39423-BA7B-42FC-860D-A081C0D9E3C3",
-  "created": "2008-12-09T19:17:51.200",
-  "lastModified": "2012-10-23T20:58:38.440",
-  "titles": [
-    {
-      "title": "phpMyFAQ 1.5.8",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:phpmyfaq:phpmyfaq:1.5.8:*:*:*:*:*:*:*",
+	"cpeNameId": "DFF39423-BA7B-42FC-860D-A081C0D9E3C3",
+	"created": "2008-12-09T19:17:51.200",
+	"lastModified": "2012-10-23T20:58:38.440",
+	"titles": [
+		{
+			"title": "phpMyFAQ 1.5.8",
+			"lang": "en"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:owncloud:owncloud:8.1.7:*:*:*:*:*:*:*",
-  "cpeNameId": "FAEEFFCA-66D5-4A1C-814B-D6DBF96D53A6",
-  "created": "2018-06-13T14:33:52.737",
-  "lastModified": "2018-06-13T14:33:52.737",
-  "titles": [
-    {
-      "title": "ownCloud 8.1.7",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://owncloud.org/changelog/server/",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:owncloud:owncloud:8.1.7:*:*:*:*:*:*:*",
+	"cpeNameId": "FAEEFFCA-66D5-4A1C-814B-D6DBF96D53A6",
+	"created": "2018-06-13T14:33:52.737",
+	"lastModified": "2018-06-13T14:33:52.737",
+	"titles": [
+		{
+			"title": "ownCloud 8.1.7",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://owncloud.org/changelog/server/",
+			"type": "Change Log"
+		}
+	]
 }

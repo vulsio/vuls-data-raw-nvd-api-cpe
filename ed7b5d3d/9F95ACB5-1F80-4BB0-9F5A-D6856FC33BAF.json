@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:typo3:typo3:4.3.1:*:*:*:*:*:*:*",
-  "cpeNameId": "9F95ACB5-1F80-4BB0-9F5A-D6856FC33BAF",
-  "created": "2010-04-21T20:03:54.017",
-  "lastModified": "2012-05-31T17:01:08.233",
-  "titles": [
-    {
-      "title": "TYPO3 4.3.1",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:typo3:typo3:4.3.1:*:*:*:*:*:*:*",
+	"cpeNameId": "9F95ACB5-1F80-4BB0-9F5A-D6856FC33BAF",
+	"created": "2010-04-21T20:03:54.017",
+	"lastModified": "2012-05-31T17:01:08.233",
+	"titles": [
+		{
+			"title": "TYPO3 4.3.1",
+			"lang": "en"
+		}
+	]
 }

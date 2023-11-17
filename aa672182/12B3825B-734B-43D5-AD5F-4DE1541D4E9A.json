@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:oisf:suricata:1.4.2:*:*:*:*:*:*:*",
-  "cpeNameId": "12B3825B-734B-43D5-AD5F-4DE1541D4E9A",
-  "created": "2019-07-22T11:24:25.287",
-  "lastModified": "2019-07-22T11:24:25.287",
-  "titles": [
-    {
-      "title": "OISF 1.4.2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/OISF/suricata/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:oisf:suricata:1.4.2:*:*:*:*:*:*:*",
+	"cpeNameId": "12B3825B-734B-43D5-AD5F-4DE1541D4E9A",
+	"created": "2019-07-22T11:24:25.287",
+	"lastModified": "2019-07-22T11:24:25.287",
+	"titles": [
+		{
+			"title": "OISF 1.4.2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/OISF/suricata/releases",
+			"type": "Change Log"
+		}
+	]
 }

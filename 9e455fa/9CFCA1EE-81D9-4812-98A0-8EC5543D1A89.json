@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:karmasis:infraskope_security_event_manager:-:*:*:*:*:*:*:*",
-  "cpeNameId": "9CFCA1EE-81D9-4812-98A0-8EC5543D1A89",
-  "created": "2022-11-16T16:48:51.787",
-  "lastModified": "2023-02-21T17:43:46.510",
-  "titles": [
-    {
-      "title": "Karmasis Infraskope Security Event Manager -",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/CVEProject/cvelist/blob/master/2022/24xxx/CVE-2022-24036.json",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://karmasis.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://www.usom.gov.tr/bildirim/tr-22-0691",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:karmasis:infraskope_security_event_manager:-:*:*:*:*:*:*:*",
+	"cpeNameId": "9CFCA1EE-81D9-4812-98A0-8EC5543D1A89",
+	"created": "2022-11-16T16:48:51.787",
+	"lastModified": "2023-02-21T17:43:46.510",
+	"titles": [
+		{
+			"title": "Karmasis Infraskope Security Event Manager -",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/CVEProject/cvelist/blob/master/2022/24xxx/CVE-2022-24036.json",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://karmasis.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://www.usom.gov.tr/bildirim/tr-22-0691",
+			"type": "Advisory"
+		}
+	]
 }

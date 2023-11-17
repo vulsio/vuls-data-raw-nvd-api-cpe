@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:sencha:connect:2.29.0:*:*:*:*:node.js:*:*",
-  "cpeNameId": "6F222768-7AA2-456D-ACFB-DE8C997F170D",
-  "created": "2019-07-23T16:49:16.443",
-  "lastModified": "2019-07-23T16:49:16.443",
-  "titles": [
-    {
-      "title": "Sencha Labs Connect 2.29.0 for Node.js",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/senchalabs/connect/releases",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://www.npmjs.com/package/connect",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:sencha:connect:2.29.0:*:*:*:*:node.js:*:*",
+	"cpeNameId": "6F222768-7AA2-456D-ACFB-DE8C997F170D",
+	"created": "2019-07-23T16:49:16.443",
+	"lastModified": "2019-07-23T16:49:16.443",
+	"titles": [
+		{
+			"title": "Sencha Labs Connect 2.29.0 for Node.js",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/senchalabs/connect/releases",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://www.npmjs.com/package/connect",
+			"type": "Change Log"
+		}
+	]
 }

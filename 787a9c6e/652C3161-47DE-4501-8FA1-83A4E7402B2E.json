@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:hitachienergy:foxman_un:r14a:*:*:*:*:*:*:*",
-  "cpeNameId": "652C3161-47DE-4501-8FA1-83A4E7402B2E",
-  "created": "2023-06-06T17:30:53.500",
-  "lastModified": "2023-07-12T09:47:51.930",
-  "titles": [
-    {
-      "title": "Hitachi Energy Foxman Un R14a",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://search.abb.com/library/Download.aspx?DocumentID=8DBD000155&LanguageCode=en&DocumentPartId=&Action=Launch",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:hitachienergy:foxman_un:r14a:*:*:*:*:*:*:*",
+	"cpeNameId": "652C3161-47DE-4501-8FA1-83A4E7402B2E",
+	"created": "2023-06-06T17:30:53.500",
+	"lastModified": "2023-07-12T09:47:51.930",
+	"titles": [
+		{
+			"title": "Hitachi Energy Foxman Un R14a",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://search.abb.com/library/Download.aspx?DocumentID=8DBD000155&LanguageCode=en&DocumentPartId=&Action=Launch",
+			"type": "Advisory"
+		}
+	]
 }

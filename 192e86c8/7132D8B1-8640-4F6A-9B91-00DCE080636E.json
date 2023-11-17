@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:gluster:glusterfs:3.7.0:-:*:*:*:*:*:*",
-  "cpeNameId": "7132D8B1-8640-4F6A-9B91-00DCE080636E",
-  "created": "2019-05-09T15:37:02.713",
-  "lastModified": "2019-05-09T15:37:02.713",
-  "titles": [
-    {
-      "title": "Gluster GlusterFS 3.7.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/gluster/glusterfs/releases",
-      "type": "Version"
-    },
-    {
-      "ref": "https://www.gluster.org/",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:gluster:glusterfs:3.7.0:-:*:*:*:*:*:*",
+	"cpeNameId": "7132D8B1-8640-4F6A-9B91-00DCE080636E",
+	"created": "2019-05-09T15:37:02.713",
+	"lastModified": "2019-05-09T15:37:02.713",
+	"titles": [
+		{
+			"title": "Gluster GlusterFS 3.7.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/gluster/glusterfs/releases",
+			"type": "Version"
+		},
+		{
+			"ref": "https://www.gluster.org/",
+			"type": "Product"
+		}
+	]
 }

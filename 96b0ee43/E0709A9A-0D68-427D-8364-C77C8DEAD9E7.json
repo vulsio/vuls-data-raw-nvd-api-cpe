@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:exiftool_project:exiftool:8.50:*:*:*:*:*:*:*",
-  "cpeNameId": "E0709A9A-0D68-427D-8364-C77C8DEAD9E7",
-  "created": "2019-05-29T13:53:44.247",
-  "lastModified": "2023-02-16T17:25:48.977",
-  "titles": [
-    {
-      "title": "ExifTool Project ExifTool 8.50",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://owl.phy.queensu.ca/~phil/exiftool/history.html",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://github.com/exiftool/exiftool",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:exiftool_project:exiftool:8.50:*:*:*:*:*:*:*",
+	"cpeNameId": "E0709A9A-0D68-427D-8364-C77C8DEAD9E7",
+	"created": "2019-05-29T13:53:44.247",
+	"lastModified": "2023-02-16T17:25:48.977",
+	"titles": [
+		{
+			"title": "ExifTool Project ExifTool 8.50",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://owl.phy.queensu.ca/~phil/exiftool/history.html",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://github.com/exiftool/exiftool",
+			"type": "Product"
+		}
+	]
 }

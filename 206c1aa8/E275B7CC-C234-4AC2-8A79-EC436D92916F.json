@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:intel:d845pt_motherboard:p04-0023:*:*:*:*:*:*:*",
-  "cpeNameId": "E275B7CC-C234-4AC2-8A79-EC436D92916F",
-  "created": "2007-08-23T21:16:59.567",
-  "lastModified": "2008-04-07T14:14:41.720",
-  "titles": [
-    {
-      "title": "Intel D845PT Motherboard P04_0023",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:intel:d845pt_motherboard:p04-0023:*:*:*:*:*:*:*",
+	"cpeNameId": "E275B7CC-C234-4AC2-8A79-EC436D92916F",
+	"created": "2007-08-23T21:16:59.567",
+	"lastModified": "2008-04-07T14:14:41.720",
+	"titles": [
+		{
+			"title": "Intel D845PT Motherboard P04_0023",
+			"lang": "en"
+		}
+	]
 }

@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:roderich_schupp:par-packer_module:1.002:*:*:*:*:*:*:*",
-  "cpeNameId": "09FA13B7-AB74-473C-B161-83020A9B5CCE",
-  "created": "2012-01-16T15:11:18.443",
-  "lastModified": "2012-01-16T20:27:56.943",
-  "titles": [
-    {
-      "title": "Roderich Schupp PAR::Packer (Par-Packer) module 1.002",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:roderich_schupp:par-packer_module:1.002:*:*:*:*:*:*:*",
+	"cpeNameId": "09FA13B7-AB74-473C-B161-83020A9B5CCE",
+	"created": "2012-01-16T15:11:18.443",
+	"lastModified": "2012-01-16T20:27:56.943",
+	"titles": [
+		{
+			"title": "Roderich Schupp PAR::Packer (Par-Packer) module 1.002",
+			"lang": "en"
+		}
+	]
 }

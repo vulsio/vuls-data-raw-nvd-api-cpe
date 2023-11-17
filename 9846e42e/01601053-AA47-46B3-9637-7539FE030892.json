@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:rubyonrails:actionpack_page-caching:-:*:*:*:*:*:*:*",
-  "cpeNameId": "01601053-AA47-46B3-9637-7539FE030892",
-  "created": "2021-06-10T15:33:24.337",
-  "lastModified": "2022-10-03T17:18:34.010",
-  "titles": [
-    {
-      "title": "Rubyonrails Actionpack Page-caching -",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/rails/actionpack-action_caching",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:rubyonrails:actionpack_page-caching:-:*:*:*:*:*:*:*",
+	"cpeNameId": "01601053-AA47-46B3-9637-7539FE030892",
+	"created": "2021-06-10T15:33:24.337",
+	"lastModified": "2022-10-03T17:18:34.010",
+	"titles": [
+		{
+			"title": "Rubyonrails Actionpack Page-caching -",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/rails/actionpack-action_caching",
+			"type": "Product"
+		}
+	]
 }

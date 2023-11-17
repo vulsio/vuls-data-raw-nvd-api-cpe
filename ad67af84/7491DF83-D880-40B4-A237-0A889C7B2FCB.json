@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:imdpen:video_conferencing_with_zoom:3.9.6:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "7491DF83-D880-40B4-A237-0A889C7B2FCB",
-  "created": "2023-08-02T16:58:25.260",
-  "lastModified": "2023-08-02T16:59:56.337",
-  "titles": [
-    {
-      "title": "ImDPen Video Conferencing with Zoom 3.9.6 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wordpress.org/plugins/video-conferencing-with-zoom-api/#developers",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://www.imdpen.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:imdpen:video_conferencing_with_zoom:3.9.6:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "7491DF83-D880-40B4-A237-0A889C7B2FCB",
+	"created": "2023-08-02T16:58:25.260",
+	"lastModified": "2023-08-02T16:59:56.337",
+	"titles": [
+		{
+			"title": "ImDPen Video Conferencing with Zoom 3.9.6 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/video-conferencing-with-zoom-api/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://www.imdpen.com/",
+			"type": "Vendor"
+		}
+	]
 }

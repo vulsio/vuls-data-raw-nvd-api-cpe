@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:cisco:ios:12.1ya:*:*:*:*:*:*:*",
-  "cpeNameId": "C2783BD6-27E2-4555-860B-2C2AA9B0B030",
-  "created": "2007-08-23T21:16:59.567",
-  "lastModified": "2012-05-30T20:30:26.593",
-  "titles": [
-    {
-      "title": "Cisco IOS 12.1YA",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:cisco:ios:12.1ya:*:*:*:*:*:*:*",
+	"cpeNameId": "C2783BD6-27E2-4555-860B-2C2AA9B0B030",
+	"created": "2007-08-23T21:16:59.567",
+	"lastModified": "2012-05-30T20:30:26.593",
+	"titles": [
+		{
+			"title": "Cisco IOS 12.1YA",
+			"lang": "en"
+		}
+	]
 }

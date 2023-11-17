@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:apache:axis:-:beta1:*:*:*:*:*:*",
-  "cpeNameId": "71B44743-3C1E-4EC2-90F7-5CB68A3EFB5B",
-  "created": "2012-11-05T17:36:32.983",
-  "lastModified": "2012-11-13T23:56:10.187",
-  "titles": [
-    {
-      "title": "Apache Software Foundation Axis Beta1",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:apache:axis:-:beta1:*:*:*:*:*:*",
+	"cpeNameId": "71B44743-3C1E-4EC2-90F7-5CB68A3EFB5B",
+	"created": "2012-11-05T17:36:32.983",
+	"lastModified": "2012-11-13T23:56:10.187",
+	"titles": [
+		{
+			"title": "Apache Software Foundation Axis Beta1",
+			"lang": "en"
+		}
+	]
 }

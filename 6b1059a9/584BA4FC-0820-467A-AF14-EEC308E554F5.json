@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:joedolson:my-calendar:1.10.8:*:*:*:*:*:*:*",
-  "cpeNameId": "584BA4FC-0820-467A-AF14-EEC308E554F5",
-  "created": "2013-02-06T19:55:26.267",
-  "lastModified": "2013-02-06T19:55:26.267",
-  "titles": [
-    {
-      "title": "joedolson My Calendar plugin (my-calendar) 1.10.8",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:joedolson:my-calendar:1.10.8:*:*:*:*:*:*:*",
+	"cpeNameId": "584BA4FC-0820-467A-AF14-EEC308E554F5",
+	"created": "2013-02-06T19:55:26.267",
+	"lastModified": "2013-02-06T19:55:26.267",
+	"titles": [
+		{
+			"title": "joedolson My Calendar plugin (my-calendar) 1.10.8",
+			"lang": "en"
+		}
+	]
 }

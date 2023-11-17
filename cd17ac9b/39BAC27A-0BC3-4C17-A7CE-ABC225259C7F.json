@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:odude:user_post_gallery:2.19:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "39BAC27A-0BC3-4C17-A7CE-ABC225259C7F",
-  "created": "2023-01-09T13:01:05.467",
-  "lastModified": "2023-03-03T16:05:27.227",
-  "titles": [
-    {
-      "title": "ODude User Post Gallery 2.19 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://odude.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://odude.com/upg-user-post-gallery/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://www.cybersecurity-help.cz/vdb/odude/wp-upg/2.19/",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:odude:user_post_gallery:2.19:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "39BAC27A-0BC3-4C17-A7CE-ABC225259C7F",
+	"created": "2023-01-09T13:01:05.467",
+	"lastModified": "2023-03-03T16:05:27.227",
+	"titles": [
+		{
+			"title": "ODude User Post Gallery 2.19 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://odude.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://odude.com/upg-user-post-gallery/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://www.cybersecurity-help.cz/vdb/odude/wp-upg/2.19/",
+			"type": "Advisory"
+		}
+	]
 }

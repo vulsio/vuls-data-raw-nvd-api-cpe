@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:symantec:mail_security:5.1.2.28:*:*:*:*:*:*:*",
-  "cpeNameId": "4946B7CB-882A-4814-AEB0-F3A7E9A9E72F",
-  "created": "2007-10-08T15:41:09.863",
-  "lastModified": "2007-10-08T15:41:09.863",
-  "titles": [
-    {
-      "title": "Symantec Mail Security 5.1.2.28",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:symantec:mail_security:5.1.2.28:*:*:*:*:*:*:*",
+	"cpeNameId": "4946B7CB-882A-4814-AEB0-F3A7E9A9E72F",
+	"created": "2007-10-08T15:41:09.863",
+	"lastModified": "2007-10-08T15:41:09.863",
+	"titles": [
+		{
+			"title": "Symantec Mail Security 5.1.2.28",
+			"lang": "en"
+		}
+	]
 }

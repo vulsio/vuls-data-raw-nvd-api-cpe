@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:mybb:mybb:1.6.10:*:*:*:*:*:*:*",
-  "cpeNameId": "FDF41B16-6F87-4EAC-B1D8-83616614928A",
-  "created": "2014-01-09T17:17:25.540",
-  "lastModified": "2014-03-03T17:48:42.897",
-  "titles": [
-    {
-      "title": "MyBB 1.6.10",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/mybb/mybb",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:mybb:mybb:1.6.10:*:*:*:*:*:*:*",
+	"cpeNameId": "FDF41B16-6F87-4EAC-B1D8-83616614928A",
+	"created": "2014-01-09T17:17:25.540",
+	"lastModified": "2014-03-03T17:48:42.897",
+	"titles": [
+		{
+			"title": "MyBB 1.6.10",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/mybb/mybb",
+			"type": "Version"
+		}
+	]
 }

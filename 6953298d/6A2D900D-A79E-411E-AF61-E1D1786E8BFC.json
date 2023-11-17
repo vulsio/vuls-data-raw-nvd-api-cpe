@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:rsyslog:rsyslog:2.0.3:*:*:*:*:*:*:*",
-  "cpeNameId": "6A2D900D-A79E-411E-AF61-E1D1786E8BFC",
-  "created": "2019-07-02T12:49:56.890",
-  "lastModified": "2019-07-02T12:49:56.890",
-  "titles": [
-    {
-      "title": "RSYSLOG 2.0.3",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/rsyslog/rsyslog/tags",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:rsyslog:rsyslog:2.0.3:*:*:*:*:*:*:*",
+	"cpeNameId": "6A2D900D-A79E-411E-AF61-E1D1786E8BFC",
+	"created": "2019-07-02T12:49:56.890",
+	"lastModified": "2019-07-02T12:49:56.890",
+	"titles": [
+		{
+			"title": "RSYSLOG 2.0.3",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/rsyslog/rsyslog/tags",
+			"type": "Change Log"
+		}
+	]
 }

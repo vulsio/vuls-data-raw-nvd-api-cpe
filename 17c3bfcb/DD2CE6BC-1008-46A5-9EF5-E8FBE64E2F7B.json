@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:budibase:budibase:1.0.190:-:*:*:*:*:*:*",
-  "cpeNameId": "DD2CE6BC-1008-46A5-9EF5-E8FBE64E2F7B",
-  "created": "2023-01-18T22:06:44.343",
-  "lastModified": "2023-01-19T12:23:10.523",
-  "titles": [
-    {
-      "title": "Budibase 1.0.190",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://budibase.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/Budibase/budibase",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:budibase:budibase:1.0.190:-:*:*:*:*:*:*",
+	"cpeNameId": "DD2CE6BC-1008-46A5-9EF5-E8FBE64E2F7B",
+	"created": "2023-01-18T22:06:44.343",
+	"lastModified": "2023-01-19T12:23:10.523",
+	"titles": [
+		{
+			"title": "Budibase 1.0.190",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://budibase.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/Budibase/budibase",
+			"type": "Version"
+		}
+	]
 }

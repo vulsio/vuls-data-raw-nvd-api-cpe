@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:concretecms:concrete_cms:8.5.9:*:*:*:*:*:*:*",
-  "cpeNameId": "726A6B55-6E58-4266-8A67-A489A4006D11",
-  "created": "2022-11-15T11:37:08.107",
-  "lastModified": "2022-11-15T11:38:27.180",
-  "titles": [
-    {
-      "title": "Concrete CMS 8.5.9",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.concretecms.org/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://documentation.concretecms.org/developers/introduction/version-history/8510-release-notes",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:concretecms:concrete_cms:8.5.9:*:*:*:*:*:*:*",
+	"cpeNameId": "726A6B55-6E58-4266-8A67-A489A4006D11",
+	"created": "2022-11-15T11:37:08.107",
+	"lastModified": "2022-11-15T11:38:27.180",
+	"titles": [
+		{
+			"title": "Concrete CMS 8.5.9",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.concretecms.org/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://documentation.concretecms.org/developers/introduction/version-history/8510-release-notes",
+			"type": "Change Log"
+		}
+	]
 }

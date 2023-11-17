@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:compaq:tru64:4.0f:*:*:*:*:*:*:*",
-  "cpeNameId": "C3E42AFD-B8A8-4B46-B6C8-F8D3F4592BFD",
-  "created": "2007-08-23T21:16:59.567",
-  "lastModified": "2007-09-14T17:36:49.090",
-  "titles": [
-    {
-      "title": "Compaq Tru64 4.0f",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:compaq:tru64:4.0f:*:*:*:*:*:*:*",
+	"cpeNameId": "C3E42AFD-B8A8-4B46-B6C8-F8D3F4592BFD",
+	"created": "2007-08-23T21:16:59.567",
+	"lastModified": "2007-09-14T17:36:49.090",
+	"titles": [
+		{
+			"title": "Compaq Tru64 4.0f",
+			"lang": "en"
+		}
+	]
 }

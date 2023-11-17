@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:process-one:ejabberd:2.1.2:*:*:*:*:*:*:*",
-  "cpeNameId": "88CDF36F-CA77-4A41-928C-99FF7EBB5DCE",
-  "created": "2010-02-04T18:20:09.140",
-  "lastModified": "2011-06-30T15:06:17.363",
-  "titles": [
-    {
-      "title": "Process-one ejabberd 2.1.2",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:process-one:ejabberd:2.1.2:*:*:*:*:*:*:*",
+	"cpeNameId": "88CDF36F-CA77-4A41-928C-99FF7EBB5DCE",
+	"created": "2010-02-04T18:20:09.140",
+	"lastModified": "2011-06-30T15:06:17.363",
+	"titles": [
+		{
+			"title": "Process-one ejabberd 2.1.2",
+			"lang": "en"
+		}
+	]
 }

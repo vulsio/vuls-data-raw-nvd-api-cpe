@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:plexus-utils_project:plexus-utils:3.0.14:*:*:*:*:*:*:*",
-  "cpeNameId": "6A69A0B6-D614-4F2C-BF8C-AE988B54F9A9",
-  "created": "2019-09-18T18:14:33.763",
-  "lastModified": "2019-09-18T18:14:33.763",
-  "titles": [
-    {
-      "title": "Plexus-Utils Project Plexus-Utils 3.0.14",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://codehaus-plexus.github.io/plexus-utils/",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:plexus-utils_project:plexus-utils:3.0.14:*:*:*:*:*:*:*",
+	"cpeNameId": "6A69A0B6-D614-4F2C-BF8C-AE988B54F9A9",
+	"created": "2019-09-18T18:14:33.763",
+	"lastModified": "2019-09-18T18:14:33.763",
+	"titles": [
+		{
+			"title": "Plexus-Utils Project Plexus-Utils 3.0.14",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://codehaus-plexus.github.io/plexus-utils/",
+			"type": "Product"
+		}
+	]
 }

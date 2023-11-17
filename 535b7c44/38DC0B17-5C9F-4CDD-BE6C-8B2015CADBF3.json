@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:zonelabs:zonealarm:-:*:*:*:*:*:*:*",
-  "cpeNameId": "38DC0B17-5C9F-4CDD-BE6C-8B2015CADBF3",
-  "created": "2007-08-23T21:05:57.937",
-  "lastModified": "2008-03-25T19:18:23.257",
-  "titles": [
-    {
-      "title": "Zone Labs ZoneAlarm",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:zonelabs:zonealarm:-:*:*:*:*:*:*:*",
+	"cpeNameId": "38DC0B17-5C9F-4CDD-BE6C-8B2015CADBF3",
+	"created": "2007-08-23T21:05:57.937",
+	"lastModified": "2008-03-25T19:18:23.257",
+	"titles": [
+		{
+			"title": "Zone Labs ZoneAlarm",
+			"lang": "en"
+		}
+	]
 }

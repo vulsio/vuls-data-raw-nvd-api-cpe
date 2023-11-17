@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:veyon:veyon:4.4.1:*:*:*:*:*:*:*",
-  "cpeNameId": "C23BED68-B13D-4F90-9EA0-B61052C6989B",
-  "created": "2020-11-10T17:55:23.150",
-  "lastModified": "2020-11-10T17:55:23.150",
-  "titles": [
-    {
-      "title": "Veyon 4.4.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/veyon/veyon/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:veyon:veyon:4.4.1:*:*:*:*:*:*:*",
+	"cpeNameId": "C23BED68-B13D-4F90-9EA0-B61052C6989B",
+	"created": "2020-11-10T17:55:23.150",
+	"lastModified": "2020-11-10T17:55:23.150",
+	"titles": [
+		{
+			"title": "Veyon 4.4.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/veyon/veyon/releases",
+			"type": "Change Log"
+		}
+	]
 }

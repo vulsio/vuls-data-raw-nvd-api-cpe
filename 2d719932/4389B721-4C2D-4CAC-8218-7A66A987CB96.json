@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:supermicro:h8sme-f:-:*:*:*:*:*:*:*",
-  "cpeNameId": "4389B721-4C2D-4CAC-8218-7A66A987CB96",
-  "created": "2013-09-09T15:23:24.610",
-  "lastModified": "2014-07-15T19:14:32.660",
-  "titles": [
-    {
-      "title": "SuperMicro H8SME-F",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www.kb.cert.org/vuls/id/648646"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:supermicro:h8sme-f:-:*:*:*:*:*:*:*",
+	"cpeNameId": "4389B721-4C2D-4CAC-8218-7A66A987CB96",
+	"created": "2013-09-09T15:23:24.610",
+	"lastModified": "2014-07-15T19:14:32.660",
+	"titles": [
+		{
+			"title": "SuperMicro H8SME-F",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.kb.cert.org/vuls/id/648646"
+		}
+	]
 }

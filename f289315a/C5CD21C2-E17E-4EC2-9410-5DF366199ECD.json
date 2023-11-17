@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:facebook:react:16.8.6:*:*:*:*:*:*:*",
-  "cpeNameId": "C5CD21C2-E17E-4EC2-9410-5DF366199ECD",
-  "created": "2021-07-30T16:08:13.277",
-  "lastModified": "2021-07-30T16:35:11.583",
-  "titles": [
-    {
-      "title": "Facebook React 16.8.6",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/facebook/react/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:facebook:react:16.8.6:*:*:*:*:*:*:*",
+	"cpeNameId": "C5CD21C2-E17E-4EC2-9410-5DF366199ECD",
+	"created": "2021-07-30T16:08:13.277",
+	"lastModified": "2021-07-30T16:35:11.583",
+	"titles": [
+		{
+			"title": "Facebook React 16.8.6",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/facebook/react/releases",
+			"type": "Change Log"
+		}
+	]
 }

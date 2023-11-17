@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:nlnetlabs:unbound:1.16.1:*:*:*:*:*:*:*",
-  "cpeNameId": "B86DC83F-4631-446D-A33F-FE17669C8208",
-  "created": "2022-08-05T18:29:47.633",
-  "lastModified": "2022-11-09T15:10:25.333",
-  "titles": [
-    {
-      "title": "NLnet Labs Unbound 1.16.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.nlnetlabs.nl/downloads/unbound/CVE-2022-30698_CVE-2022-30699.txt",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://nlnetlabs.nl/downloads/unbound/",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:nlnetlabs:unbound:1.16.1:*:*:*:*:*:*:*",
+	"cpeNameId": "B86DC83F-4631-446D-A33F-FE17669C8208",
+	"created": "2022-08-05T18:29:47.633",
+	"lastModified": "2022-11-09T15:10:25.333",
+	"titles": [
+		{
+			"title": "NLnet Labs Unbound 1.16.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.nlnetlabs.nl/downloads/unbound/CVE-2022-30698_CVE-2022-30699.txt",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://nlnetlabs.nl/downloads/unbound/",
+			"type": "Version"
+		}
+	]
 }

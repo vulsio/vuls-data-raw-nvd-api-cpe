@@ -1,21 +1,21 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:gcspublishing:steyr_forum:3.9.12:*:*:*:*:android:*:*",
-  "cpeNameId": "BF4EB87B-BDC7-4F51-88FC-D700EA04777C",
-  "created": "2014-11-10T16:18:38.887",
-  "lastModified": "2014-11-10T16:55:24.733",
-  "titles": [
-    {
-      "title": "gcspublishing Steyr Forum (aka com.tapatalk.steyrclubcomvb) for android 3.9.12",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www.gcspublishing.com/"
-    },
-    {
-      "ref": "https://play.google.com/store/apps/details?id=com.tapatalk.steyrclubcomvb"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:gcspublishing:steyr_forum:3.9.12:*:*:*:*:android:*:*",
+	"cpeNameId": "BF4EB87B-BDC7-4F51-88FC-D700EA04777C",
+	"created": "2014-11-10T16:18:38.887",
+	"lastModified": "2014-11-10T16:55:24.733",
+	"titles": [
+		{
+			"title": "gcspublishing Steyr Forum (aka com.tapatalk.steyrclubcomvb) for android 3.9.12",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.gcspublishing.com/"
+		},
+		{
+			"ref": "https://play.google.com/store/apps/details?id=com.tapatalk.steyrclubcomvb"
+		}
+	]
 }

@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:kodcloud:kodexplorer:4.47:*:*:*:*:*:*:*",
-  "cpeNameId": "0705F06C-39AA-453D-8AE4-64B405A8D9E6",
-  "created": "2022-12-08T16:50:00.120",
-  "lastModified": "2022-12-08T16:52:14.977",
-  "titles": [
-    {
-      "title": "Kodcloud KodExplorer 4.47",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/kalcaddle/KodExplorer/tags",
-      "type": "Change Log"
-    },
-    {
-      "ref": "http://kodcloud.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:kodcloud:kodexplorer:4.47:*:*:*:*:*:*:*",
+	"cpeNameId": "0705F06C-39AA-453D-8AE4-64B405A8D9E6",
+	"created": "2022-12-08T16:50:00.120",
+	"lastModified": "2022-12-08T16:52:14.977",
+	"titles": [
+		{
+			"title": "Kodcloud KodExplorer 4.47",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/kalcaddle/KodExplorer/tags",
+			"type": "Change Log"
+		},
+		{
+			"ref": "http://kodcloud.com/",
+			"type": "Vendor"
+		}
+	]
 }

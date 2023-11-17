@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:blair_williams:pretty_link_lite:1.6.1:*:*:*:*:*:*:*",
-  "cpeNameId": "B5BA3F09-43AA-47FC-9A6B-3BC932691609",
-  "created": "2014-03-13T14:50:31.963",
-  "lastModified": "2014-03-14T18:53:12.367",
-  "titles": [
-    {
-      "title": "Blair Williams Pretty Link Lite 1.6.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://wordpress.org/plugins/pretty-link/changelog/"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:blair_williams:pretty_link_lite:1.6.1:*:*:*:*:*:*:*",
+	"cpeNameId": "B5BA3F09-43AA-47FC-9A6B-3BC932691609",
+	"created": "2014-03-13T14:50:31.963",
+	"lastModified": "2014-03-14T18:53:12.367",
+	"titles": [
+		{
+			"title": "Blair Williams Pretty Link Lite 1.6.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://wordpress.org/plugins/pretty-link/changelog/"
+		}
+	]
 }

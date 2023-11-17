@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:w1.fi:hostapd:0.6.2:*:*:*:*:*:*:*",
-  "cpeNameId": "290C9A0F-A1AF-4BA3-AB2B-BCD5FAFA402C",
-  "created": "2012-06-22T14:36:11.410",
-  "lastModified": "2012-07-09T13:52:39.683",
-  "titles": [
-    {
-      "title": "w1.fi Hostapd 0.6.2",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:w1.fi:hostapd:0.6.2:*:*:*:*:*:*:*",
+	"cpeNameId": "290C9A0F-A1AF-4BA3-AB2B-BCD5FAFA402C",
+	"created": "2012-06-22T14:36:11.410",
+	"lastModified": "2012-07-09T13:52:39.683",
+	"titles": [
+		{
+			"title": "w1.fi Hostapd 0.6.2",
+			"lang": "en"
+		}
+	]
 }

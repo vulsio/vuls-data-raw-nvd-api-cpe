@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:deliciousdays:cforms:7.2:*:*:*:*:*:*:*",
-  "cpeNameId": "622AAA98-132B-4C77-8EE3-752C10BBA99D",
-  "created": "2010-11-03T18:46:25.437",
-  "lastModified": "2010-11-05T14:35:47.923",
-  "titles": [
-    {
-      "title": "deliciousdays cforms WordPress plugin 7.2",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:deliciousdays:cforms:7.2:*:*:*:*:*:*:*",
+	"cpeNameId": "622AAA98-132B-4C77-8EE3-752C10BBA99D",
+	"created": "2010-11-03T18:46:25.437",
+	"lastModified": "2010-11-05T14:35:47.923",
+	"titles": [
+		{
+			"title": "deliciousdays cforms WordPress plugin 7.2",
+			"lang": "en"
+		}
+	]
 }

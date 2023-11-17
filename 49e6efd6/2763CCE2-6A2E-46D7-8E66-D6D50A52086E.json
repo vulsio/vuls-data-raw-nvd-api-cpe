@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:ibm:os2_ftp_server:-:*:*:*:*:*:*:*",
-  "cpeNameId": "2763CCE2-6A2E-46D7-8E66-D6D50A52086E",
-  "created": "2007-08-23T21:05:57.937",
-  "lastModified": "2008-04-01T16:39:21.060",
-  "titles": [
-    {
-      "title": "IBM OS_2 FTP Server",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:ibm:os2_ftp_server:-:*:*:*:*:*:*:*",
+	"cpeNameId": "2763CCE2-6A2E-46D7-8E66-D6D50A52086E",
+	"created": "2007-08-23T21:05:57.937",
+	"lastModified": "2008-04-01T16:39:21.060",
+	"titles": [
+		{
+			"title": "IBM OS_2 FTP Server",
+			"lang": "en"
+		}
+	]
 }

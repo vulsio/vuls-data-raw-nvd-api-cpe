@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:blynk:blynk-server:0.28.7:*:*:*:*:*:*:*",
-  "cpeNameId": "DE00C102-D05A-41DE-BB9A-7B5E9556819F",
-  "created": "2019-06-17T15:35:18.127",
-  "lastModified": "2019-06-17T15:35:18.127",
-  "titles": [
-    {
-      "title": "Blynk-server 0.28.7",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/blynkkk/blynk-server/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:blynk:blynk-server:0.28.7:*:*:*:*:*:*:*",
+	"cpeNameId": "DE00C102-D05A-41DE-BB9A-7B5E9556819F",
+	"created": "2019-06-17T15:35:18.127",
+	"lastModified": "2019-06-17T15:35:18.127",
+	"titles": [
+		{
+			"title": "Blynk-server 0.28.7",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/blynkkk/blynk-server/releases",
+			"type": "Change Log"
+		}
+	]
 }

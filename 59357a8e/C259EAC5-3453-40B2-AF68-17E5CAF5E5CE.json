@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:smithmicro:vzaccess_manager:7.6.35:*:*:*:*:*:*:*",
-  "cpeNameId": "C259EAC5-3453-40B2-AF68-17E5CAF5E5CE",
-  "created": "2012-07-10T03:19:45.697",
-  "lastModified": "2012-07-10T03:19:45.697",
-  "titles": [
-    {
-      "title": "Smithmicro Vzaccess Manager 7.6.35",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:smithmicro:vzaccess_manager:7.6.35:*:*:*:*:*:*:*",
+	"cpeNameId": "C259EAC5-3453-40B2-AF68-17E5CAF5E5CE",
+	"created": "2012-07-10T03:19:45.697",
+	"lastModified": "2012-07-10T03:19:45.697",
+	"titles": [
+		{
+			"title": "Smithmicro Vzaccess Manager 7.6.35",
+			"lang": "en"
+		}
+	]
 }

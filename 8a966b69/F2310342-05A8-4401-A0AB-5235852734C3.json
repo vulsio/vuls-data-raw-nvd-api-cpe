@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:microsoft:windows_ce:1.0:*:*:*:*:*:*:*",
-  "cpeNameId": "F2310342-05A8-4401-A0AB-5235852734C3",
-  "created": "2007-08-28T21:31:25.630",
-  "lastModified": "2007-09-14T17:36:49.090",
-  "titles": [
-    {
-      "title": "Microsoft windows_ce 1.0",
-      "lang": "en"
-    }
-  ],
-  "deprecates": [
-    {
-      "cpeName": "cpe:2.3:o:microsoft:windows-ce:1.0:*:*:*:*:*:*:*",
-      "cpeNameId": "E1CEC68B-856B-494E-89D1-D160EDDE5C06"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:microsoft:windows_ce:1.0:*:*:*:*:*:*:*",
+	"cpeNameId": "F2310342-05A8-4401-A0AB-5235852734C3",
+	"created": "2007-08-28T21:31:25.630",
+	"lastModified": "2007-09-14T17:36:49.090",
+	"titles": [
+		{
+			"title": "Microsoft windows_ce 1.0",
+			"lang": "en"
+		}
+	],
+	"deprecates": [
+		{
+			"cpeName": "cpe:2.3:o:microsoft:windows-ce:1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "E1CEC68B-856B-494E-89D1-D160EDDE5C06"
+		}
+	]
 }

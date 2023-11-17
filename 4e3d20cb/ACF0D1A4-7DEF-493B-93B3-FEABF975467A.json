@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:gnome:glib:1.2.2:*:*:*:*:*:*:*",
-  "cpeNameId": "ACF0D1A4-7DEF-493B-93B3-FEABF975467A",
-  "created": "2012-01-16T19:05:27.087",
-  "lastModified": "2012-01-16T20:28:52.820",
-  "titles": [
-    {
-      "title": "GNOME Glib 1.2.2",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:gnome:glib:1.2.2:*:*:*:*:*:*:*",
+	"cpeNameId": "ACF0D1A4-7DEF-493B-93B3-FEABF975467A",
+	"created": "2012-01-16T19:05:27.087",
+	"lastModified": "2012-01-16T20:28:52.820",
+	"titles": [
+		{
+			"title": "GNOME Glib 1.2.2",
+			"lang": "en"
+		}
+	]
 }

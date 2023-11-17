@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:nextcloud:nextcloud_mail:1.9.5:*:*:*:*:*:*:*",
-  "cpeNameId": "3936D6BD-5902-4130-9A9C-F67536823C22",
-  "created": "2021-06-08T16:01:25.143",
-  "lastModified": "2021-06-08T16:21:48.280",
-  "titles": [
-    {
-      "title": "Nextcloud Mail 1.9.5",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/nextcloud/mail",
-      "type": "Project"
-    },
-    {
-      "ref": "https://github.com/nextcloud/mail/releases",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://nextcloud.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:nextcloud:nextcloud_mail:1.9.5:*:*:*:*:*:*:*",
+	"cpeNameId": "3936D6BD-5902-4130-9A9C-F67536823C22",
+	"created": "2021-06-08T16:01:25.143",
+	"lastModified": "2021-06-08T16:21:48.280",
+	"titles": [
+		{
+			"title": "Nextcloud Mail 1.9.5",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/nextcloud/mail",
+			"type": "Project"
+		},
+		{
+			"ref": "https://github.com/nextcloud/mail/releases",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://nextcloud.com/",
+			"type": "Vendor"
+		}
+	]
 }

@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:pmb_project:pmb:5.0.6:*:*:*:*:*:*:*",
-  "cpeNameId": "B06FF724-53D8-4D9D-806F-1D9229ABD934",
-  "created": "2022-06-29T17:58:58.280",
-  "lastModified": "2022-07-01T00:25:46.010",
-  "titles": [
-    {
-      "title": "PMB Project PMB 5.0.6",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://forge.sigb.net/projects/pmb",
-      "type": "Product"
-    },
-    {
-      "ref": "https://forge.sigb.net/projects/pmb/files",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:pmb_project:pmb:5.0.6:*:*:*:*:*:*:*",
+	"cpeNameId": "B06FF724-53D8-4D9D-806F-1D9229ABD934",
+	"created": "2022-06-29T17:58:58.280",
+	"lastModified": "2022-07-01T00:25:46.010",
+	"titles": [
+		{
+			"title": "PMB Project PMB 5.0.6",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://forge.sigb.net/projects/pmb",
+			"type": "Product"
+		},
+		{
+			"ref": "https://forge.sigb.net/projects/pmb/files",
+			"type": "Version"
+		}
+	]
 }

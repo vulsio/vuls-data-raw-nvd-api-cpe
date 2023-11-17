@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:ibm:sterling_selling_and_fulfillment_foundation:9.2.0.6:*:*:*:*:*:*:*",
-  "cpeNameId": "10B69149-C3C9-4353-B17A-6B1DAF208ADF",
-  "created": "2013-05-10T14:07:52.713",
-  "lastModified": "2013-05-14T22:55:48.757",
-  "titles": [
-    {
-      "title": "IBM Sterling Selling and Fulfillment Foundation 9.2.0.6",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:ibm:sterling_selling_and_fulfillment_foundation:9.2.0.6:*:*:*:*:*:*:*",
+	"cpeNameId": "10B69149-C3C9-4353-B17A-6B1DAF208ADF",
+	"created": "2013-05-10T14:07:52.713",
+	"lastModified": "2013-05-14T22:55:48.757",
+	"titles": [
+		{
+			"title": "IBM Sterling Selling and Fulfillment Foundation 9.2.0.6",
+			"lang": "en"
+		}
+	]
 }

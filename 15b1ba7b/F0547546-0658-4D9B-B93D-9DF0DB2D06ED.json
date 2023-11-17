@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:inedo:proget:5.1.8:*:*:*:*:*:*:*",
-  "cpeNameId": "F0547546-0658-4D9B-B93D-9DF0DB2D06ED",
-  "created": "2018-11-26T14:40:33.280",
-  "lastModified": "2018-11-26T14:40:33.280",
-  "titles": [
-    {
-      "title": "Inedo ProGet 5.1.8",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://inedo.com/proget/versions",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:inedo:proget:5.1.8:*:*:*:*:*:*:*",
+	"cpeNameId": "F0547546-0658-4D9B-B93D-9DF0DB2D06ED",
+	"created": "2018-11-26T14:40:33.280",
+	"lastModified": "2018-11-26T14:40:33.280",
+	"titles": [
+		{
+			"title": "Inedo ProGet 5.1.8",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://inedo.com/proget/versions",
+			"type": "Change Log"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:linux:linux_kernel:4.14.114:*:*:*:*:*:*:*",
-  "cpeNameId": "A3653829-0B32-4838-90F0-B2CCC32580DB",
-  "created": "2019-07-01T13:32:18.907",
-  "lastModified": "2019-07-01T13:32:18.907",
-  "titles": [
-    {
-      "title": "Linux Kernel 4.14.114",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://cdn.kernel.org/pub/linux/kernel/",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:linux:linux_kernel:4.14.114:*:*:*:*:*:*:*",
+	"cpeNameId": "A3653829-0B32-4838-90F0-B2CCC32580DB",
+	"created": "2019-07-01T13:32:18.907",
+	"lastModified": "2019-07-01T13:32:18.907",
+	"titles": [
+		{
+			"title": "Linux Kernel 4.14.114",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://cdn.kernel.org/pub/linux/kernel/",
+			"type": "Version"
+		}
+	]
 }

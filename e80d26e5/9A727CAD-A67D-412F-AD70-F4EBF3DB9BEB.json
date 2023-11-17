@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:mailenable:mailenable:9.80:*:*:*:professional:*:*:*",
-  "cpeNameId": "9A727CAD-A67D-412F-AD70-F4EBF3DB9BEB",
-  "created": "2019-10-01T16:31:30.503",
-  "lastModified": "2019-10-01T16:31:30.503",
-  "titles": [
-    {
-      "title": "MailEnable 9.80 Professional Edition",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.mailenable.com/Professional-ReleaseNotes9.txt",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:mailenable:mailenable:9.80:*:*:*:professional:*:*:*",
+	"cpeNameId": "9A727CAD-A67D-412F-AD70-F4EBF3DB9BEB",
+	"created": "2019-10-01T16:31:30.503",
+	"lastModified": "2019-10-01T16:31:30.503",
+	"titles": [
+		{
+			"title": "MailEnable 9.80 Professional Edition",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.mailenable.com/Professional-ReleaseNotes9.txt",
+			"type": "Change Log"
+		}
+	]
 }

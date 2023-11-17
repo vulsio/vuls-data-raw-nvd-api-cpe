@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:zohocorp:manageengine_password_manager_pro:12.1:build12124:*:*:*:*:*:*",
-  "cpeNameId": "1199B291-B71A-42F9-974C-7E83773ED182",
-  "created": "2023-01-10T14:51:34.143",
-  "lastModified": "2023-01-20T15:16:16.040",
-  "titles": [
-    {
-      "title": "ZohoCorp ManageEngine Password Manager Pro 12.1 Build 12124",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.manageengine.com/products/passwordmanagerpro/release-notes.html",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:zohocorp:manageengine_password_manager_pro:12.1:build12124:*:*:*:*:*:*",
+	"cpeNameId": "1199B291-B71A-42F9-974C-7E83773ED182",
+	"created": "2023-01-10T14:51:34.143",
+	"lastModified": "2023-01-20T15:16:16.040",
+	"titles": [
+		{
+			"title": "ZohoCorp ManageEngine Password Manager Pro 12.1 Build 12124",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.manageengine.com/products/passwordmanagerpro/release-notes.html",
+			"type": "Change Log"
+		}
+	]
 }

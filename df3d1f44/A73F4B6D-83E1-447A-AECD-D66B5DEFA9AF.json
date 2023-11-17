@@ -1,17 +1,17 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:google:chrome:13.0.782.107:*:*:*:*:*:*:*",
-  "cpeNameId": "A73F4B6D-83E1-447A-AECD-D66B5DEFA9AF",
-  "created": "2011-08-29T18:10:48.597",
-  "lastModified": "2012-05-10T15:22:10.363",
-  "titles": [
-    {
-      "title": "Google Chrome 13.0.782.107",
-      "lang": "en"
-    },
-    {
-      "title": "グーグル クローム 13.0.782.107",
-      "lang": "ja"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:google:chrome:13.0.782.107:*:*:*:*:*:*:*",
+	"cpeNameId": "A73F4B6D-83E1-447A-AECD-D66B5DEFA9AF",
+	"created": "2011-08-29T18:10:48.597",
+	"lastModified": "2012-05-10T15:22:10.363",
+	"titles": [
+		{
+			"title": "Google Chrome 13.0.782.107",
+			"lang": "en"
+		},
+		{
+			"title": "グーグル クローム 13.0.782.107",
+			"lang": "ja"
+		}
+	]
 }

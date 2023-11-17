@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:nodejs:node.js:12.22.4:*:*:*:-:*:*:*",
-  "cpeNameId": "F27D2963-9338-49CE-B143-060FB507EE12",
-  "created": "2021-08-23T11:59:17.680",
-  "lastModified": "2021-08-23T13:00:01.270",
-  "titles": [
-    {
-      "title": "Nodejs Node.js 12.22.4",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://nodejs.org/en/blog/vulnerability/aug-2021-security-releases/",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://github.com/nodejs/node/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:nodejs:node.js:12.22.4:*:*:*:-:*:*:*",
+	"cpeNameId": "F27D2963-9338-49CE-B143-060FB507EE12",
+	"created": "2021-08-23T11:59:17.680",
+	"lastModified": "2021-08-23T13:00:01.270",
+	"titles": [
+		{
+			"title": "Nodejs Node.js 12.22.4",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://nodejs.org/en/blog/vulnerability/aug-2021-security-releases/",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://github.com/nodejs/node/releases",
+			"type": "Change Log"
+		}
+	]
 }

@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:no-margin-for-errors:prettyphoto:3.1.4:*:*:*:*:*:*:*",
-  "cpeNameId": "23E6BC65-DD1E-46DD-9763-18636D900EEE",
-  "created": "2013-12-19T19:46:25.893",
-  "lastModified": "2013-12-19T19:49:01.397",
-  "titles": [
-    {
-      "title": "no-margin-for-errors prettyPhoto 3.1.4",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www.no-margin-for-errors.com/projects"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:no-margin-for-errors:prettyphoto:3.1.4:*:*:*:*:*:*:*",
+	"cpeNameId": "23E6BC65-DD1E-46DD-9763-18636D900EEE",
+	"created": "2013-12-19T19:46:25.893",
+	"lastModified": "2013-12-19T19:49:01.397",
+	"titles": [
+		{
+			"title": "no-margin-for-errors prettyPhoto 3.1.4",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.no-margin-for-errors.com/projects"
+		}
+	]
 }

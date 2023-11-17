@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:ua-parser-js_project:ua-parser-js:0.7.24:*:*:*:*:node.js:*:*",
-  "cpeNameId": "D62DFF2A-EE80-4960-ACF5-3F2D567F66ED",
-  "created": "2021-07-26T13:18:10.067",
-  "lastModified": "2021-07-26T17:39:52.580",
-  "titles": [
-    {
-      "title": "ua-parser-js Project ua-parser-js 0.7.24 for Node.js",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.npmjs.com/package/ua-parser-js",
-      "type": "Project"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:ua-parser-js_project:ua-parser-js:0.7.24:*:*:*:*:node.js:*:*",
+	"cpeNameId": "D62DFF2A-EE80-4960-ACF5-3F2D567F66ED",
+	"created": "2021-07-26T13:18:10.067",
+	"lastModified": "2021-07-26T17:39:52.580",
+	"titles": [
+		{
+			"title": "ua-parser-js Project ua-parser-js 0.7.24 for Node.js",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.npmjs.com/package/ua-parser-js",
+			"type": "Project"
+		}
+	]
 }

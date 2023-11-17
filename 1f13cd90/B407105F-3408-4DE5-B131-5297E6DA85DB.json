@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:netgear:dg834gt:-:*:*:*:*:*:*:*",
-  "cpeNameId": "B407105F-3408-4DE5-B131-5297E6DA85DB",
-  "created": "2007-08-23T21:05:57.937",
-  "lastModified": "2007-09-14T17:36:49.090",
-  "titles": [
-    {
-      "title": "NetGear DG834GT",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:netgear:dg834gt:-:*:*:*:*:*:*:*",
+	"cpeNameId": "B407105F-3408-4DE5-B131-5297E6DA85DB",
+	"created": "2007-08-23T21:05:57.937",
+	"lastModified": "2007-09-14T17:36:49.090",
+	"titles": [
+		{
+			"title": "NetGear DG834GT",
+			"lang": "en"
+		}
+	]
 }

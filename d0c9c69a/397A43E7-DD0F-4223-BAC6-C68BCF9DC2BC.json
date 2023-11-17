@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:seagullproject:seagull:0.6.6:*:*:*:*:*:*:*",
-  "cpeNameId": "397A43E7-DD0F-4223-BAC6-C68BCF9DC2BC",
-  "created": "2010-10-13T02:38:48.603",
-  "lastModified": "2010-10-13T18:57:43.837",
-  "titles": [
-    {
-      "title": "seagullproject seagull 0.6.6",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:seagullproject:seagull:0.6.6:*:*:*:*:*:*:*",
+	"cpeNameId": "397A43E7-DD0F-4223-BAC6-C68BCF9DC2BC",
+	"created": "2010-10-13T02:38:48.603",
+	"lastModified": "2010-10-13T18:57:43.837",
+	"titles": [
+		{
+			"title": "seagullproject seagull 0.6.6",
+			"lang": "en"
+		}
+	]
 }

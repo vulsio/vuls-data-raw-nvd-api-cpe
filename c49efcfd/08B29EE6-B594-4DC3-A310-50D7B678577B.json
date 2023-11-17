@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:calendarscripts:watupro:5.1:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "08B29EE6-B594-4DC3-A310-50D7B678577B",
-  "created": "2022-06-06T14:27:52.723",
-  "lastModified": "2022-06-06T17:13:31.497",
-  "titles": [
-    {
-      "title": "Calendarscripts Watupro 5.1 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://blog.calendarscripts.info/watupro-changelog-archive/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:calendarscripts:watupro:5.1:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "08B29EE6-B594-4DC3-A310-50D7B678577B",
+	"created": "2022-06-06T14:27:52.723",
+	"lastModified": "2022-06-06T17:13:31.497",
+	"titles": [
+		{
+			"title": "Calendarscripts Watupro 5.1 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://blog.calendarscripts.info/watupro-changelog-archive/",
+			"type": "Vendor"
+		}
+	]
 }

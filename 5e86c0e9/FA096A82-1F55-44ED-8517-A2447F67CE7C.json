@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:hylafax:hylafax:6.0.0:*:*:*:*:*:*:*",
-  "cpeNameId": "FA096A82-1F55-44ED-8517-A2447F67CE7C",
-  "created": "2021-07-20T18:40:08.270",
-  "lastModified": "2021-07-21T16:09:54.050",
-  "titles": [
-    {
-      "title": "HylaFAX 6.0.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.hylafax.org/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://www.hylafax.org/news/",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:hylafax:hylafax:6.0.0:*:*:*:*:*:*:*",
+	"cpeNameId": "FA096A82-1F55-44ED-8517-A2447F67CE7C",
+	"created": "2021-07-20T18:40:08.270",
+	"lastModified": "2021-07-21T16:09:54.050",
+	"titles": [
+		{
+			"title": "HylaFAX 6.0.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.hylafax.org/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://www.hylafax.org/news/",
+			"type": "Version"
+		}
+	]
 }

@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:iterm2:iterm2:3.1.6:-:*:*:*:*:*:*",
-  "cpeNameId": "360F6667-1DDB-4459-B392-169A92A95343",
-  "created": "2019-10-15T12:37:28.667",
-  "lastModified": "2019-10-15T12:37:28.667",
-  "titles": [
-    {
-      "title": "iTerm2 3.1.6",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.iterm2.com/downloads.html",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://www.iterm2.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:iterm2:iterm2:3.1.6:-:*:*:*:*:*:*",
+	"cpeNameId": "360F6667-1DDB-4459-B392-169A92A95343",
+	"created": "2019-10-15T12:37:28.667",
+	"lastModified": "2019-10-15T12:37:28.667",
+	"titles": [
+		{
+			"title": "iTerm2 3.1.6",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.iterm2.com/downloads.html",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://www.iterm2.com/",
+			"type": "Vendor"
+		}
+	]
 }

@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:hashicorp:vagrant:0.3.4:*:*:*:*:*:*:*",
-  "cpeNameId": "639E648B-F5BC-41C1-966F-5193DAE2B1FE",
-  "created": "2022-10-18T16:56:57.587",
-  "lastModified": "2022-10-19T03:22:24.767",
-  "titles": [
-    {
-      "title": "HashiCorp Vagrant 0.3.4",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.hashicorp.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://www.vagrantup.com/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://github.com/hashicorp/vagrant",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:hashicorp:vagrant:0.3.4:*:*:*:*:*:*:*",
+	"cpeNameId": "639E648B-F5BC-41C1-966F-5193DAE2B1FE",
+	"created": "2022-10-18T16:56:57.587",
+	"lastModified": "2022-10-19T03:22:24.767",
+	"titles": [
+		{
+			"title": "HashiCorp Vagrant 0.3.4",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.hashicorp.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://www.vagrantup.com/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://github.com/hashicorp/vagrant",
+			"type": "Version"
+		}
+	]
 }

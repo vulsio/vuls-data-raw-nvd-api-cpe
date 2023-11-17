@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:zohocorp:manageengine_password_manager_pro:11.2:11201:*:*:*:*:*:*",
-  "cpeNameId": "9045EF32-7DA6-41B6-949E-5BC9D2D07653",
-  "created": "2021-08-05T17:11:57.710",
-  "lastModified": "2021-08-09T15:58:30.800",
-  "titles": [
-    {
-      "title": "Zoho Corporation ManageEngine Password Manager Pro 11.2 11201",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.manageengine.com/products/passwordmanagerpro/release-notes.html#pmp11200",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:zohocorp:manageengine_password_manager_pro:11.2:11201:*:*:*:*:*:*",
+	"cpeNameId": "9045EF32-7DA6-41B6-949E-5BC9D2D07653",
+	"created": "2021-08-05T17:11:57.710",
+	"lastModified": "2021-08-09T15:58:30.800",
+	"titles": [
+		{
+			"title": "Zoho Corporation ManageEngine Password Manager Pro 11.2 11201",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.manageengine.com/products/passwordmanagerpro/release-notes.html#pmp11200",
+			"type": "Change Log"
+		}
+	]
 }

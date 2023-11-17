@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:rockwellautomation:arena_simulation:16.20.01:*:*:*:*:*:*:*",
-  "cpeNameId": "89BE1F75-C8A1-49FD-81F1-8DB2228C0AAB",
-  "created": "2023-05-17T18:26:52.363",
-  "lastModified": "2023-07-29T02:59:29.993",
-  "titles": [
-    {
-      "title": "Rockwell Automation Arena Simulation 16.20.01",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.rockwellautomation.com/en-us/products/software/arena-simulation/buying-options/download.html",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:rockwellautomation:arena_simulation:16.20.01:*:*:*:*:*:*:*",
+	"cpeNameId": "89BE1F75-C8A1-49FD-81F1-8DB2228C0AAB",
+	"created": "2023-05-17T18:26:52.363",
+	"lastModified": "2023-07-29T02:59:29.993",
+	"titles": [
+		{
+			"title": "Rockwell Automation Arena Simulation 16.20.01",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.rockwellautomation.com/en-us/products/software/arena-simulation/buying-options/download.html",
+			"type": "Product"
+		}
+	]
 }

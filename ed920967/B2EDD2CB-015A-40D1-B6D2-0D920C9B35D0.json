@@ -1,22 +1,22 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:mozilla:seamonkey:2.23:beta2:*:*:*:*:*:*",
-  "cpeNameId": "B2EDD2CB-015A-40D1-B6D2-0D920C9B35D0",
-  "created": "2015-05-08T15:40:50.830",
-  "lastModified": "2015-05-11T15:57:44.903",
-  "titles": [
-    {
-      "title": "Mozilla Seamonkey 2.23 beta2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www.seamonkey-project.org/releases/"
-    },
-    {
-      "ref": "https://www.mozilla.org/en-US/firefox/organizations/",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:mozilla:seamonkey:2.23:beta2:*:*:*:*:*:*",
+	"cpeNameId": "B2EDD2CB-015A-40D1-B6D2-0D920C9B35D0",
+	"created": "2015-05-08T15:40:50.830",
+	"lastModified": "2015-05-11T15:57:44.903",
+	"titles": [
+		{
+			"title": "Mozilla Seamonkey 2.23 beta2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.seamonkey-project.org/releases/"
+		},
+		{
+			"ref": "https://www.mozilla.org/en-US/firefox/organizations/",
+			"type": "Version"
+		}
+	]
 }

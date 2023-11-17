@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:jenkins:metrics:4.0.2.5:*:*:*:*:jenkins:*:*",
-  "cpeNameId": "0B0E1B09-A2B0-4BA7-A9E4-6CA9865770AF",
-  "created": "2022-10-14T22:29:34.820",
-  "lastModified": "2022-10-14T22:30:51.937",
-  "titles": [
-    {
-      "title": "Jenkins Metrics 4.0.2.5 for Jenkins",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/jenkinsci/metrics-plugin/releases",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:jenkins:metrics:4.0.2.5:*:*:*:*:jenkins:*:*",
+	"cpeNameId": "0B0E1B09-A2B0-4BA7-A9E4-6CA9865770AF",
+	"created": "2022-10-14T22:29:34.820",
+	"lastModified": "2022-10-14T22:30:51.937",
+	"titles": [
+		{
+			"title": "Jenkins Metrics 4.0.2.5 for Jenkins",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/jenkinsci/metrics-plugin/releases",
+			"type": "Version"
+		}
+	]
 }

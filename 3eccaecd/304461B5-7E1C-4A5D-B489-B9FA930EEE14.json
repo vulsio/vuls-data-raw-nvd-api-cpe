@@ -1,31 +1,31 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:nextcloud:nextcloud_mail:1.7.1:*:*:*:*:*:*:*",
-  "cpeNameId": "304461B5-7E1C-4A5D-B489-B9FA930EEE14",
-  "created": "2021-06-08T15:43:22.467",
-  "lastModified": "2021-06-08T16:21:48.280",
-  "titles": [
-    {
-      "title": "Nextcloud Mail 1.7.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/nextcloud/mail/releases",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://github.com/nextcloud/security-advisories/security/advisories/GHSA-mxx2-6rg9-v2vc",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://nextcloud.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/nextcloud/mail",
-      "type": "Project"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:nextcloud:nextcloud_mail:1.7.1:*:*:*:*:*:*:*",
+	"cpeNameId": "304461B5-7E1C-4A5D-B489-B9FA930EEE14",
+	"created": "2021-06-08T15:43:22.467",
+	"lastModified": "2021-06-08T16:21:48.280",
+	"titles": [
+		{
+			"title": "Nextcloud Mail 1.7.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/nextcloud/mail/releases",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://github.com/nextcloud/security-advisories/security/advisories/GHSA-mxx2-6rg9-v2vc",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://nextcloud.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/nextcloud/mail",
+			"type": "Project"
+		}
+	]
 }

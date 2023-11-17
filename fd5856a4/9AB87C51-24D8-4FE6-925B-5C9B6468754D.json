@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:vandyke:absoluteftp:2.2.4:*:*:*:*:*:*:*",
-  "cpeNameId": "9AB87C51-24D8-4FE6-925B-5C9B6468754D",
-  "created": "2012-09-17T14:42:16.110",
-  "lastModified": "2012-09-17T23:42:39.407",
-  "titles": [
-    {
-      "title": "VanDyke Software AbsoluteFTP 2.2.4",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:vandyke:absoluteftp:2.2.4:*:*:*:*:*:*:*",
+	"cpeNameId": "9AB87C51-24D8-4FE6-925B-5C9B6468754D",
+	"created": "2012-09-17T14:42:16.110",
+	"lastModified": "2012-09-17T23:42:39.407",
+	"titles": [
+		{
+			"title": "VanDyke Software AbsoluteFTP 2.2.4",
+			"lang": "en"
+		}
+	]
 }

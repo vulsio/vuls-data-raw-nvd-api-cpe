@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:github:enterprise_server:3.2.4:*:*:*:*:*:*:*",
-  "cpeNameId": "60665678-128C-4FB8-BBF3-C94D61E095F9",
-  "created": "2022-01-31T15:27:08.117",
-  "lastModified": "2022-01-31T16:19:43.530",
-  "titles": [
-    {
-      "title": "Github Enterprise Server 3.2.4",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://docs.github.com/en/enterprise-server@3.3/admin/release-notes",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:github:enterprise_server:3.2.4:*:*:*:*:*:*:*",
+	"cpeNameId": "60665678-128C-4FB8-BBF3-C94D61E095F9",
+	"created": "2022-01-31T15:27:08.117",
+	"lastModified": "2022-01-31T16:19:43.530",
+	"titles": [
+		{
+			"title": "Github Enterprise Server 3.2.4",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://docs.github.com/en/enterprise-server@3.3/admin/release-notes",
+			"type": "Change Log"
+		}
+	]
 }

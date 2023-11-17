@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:redhat:resteasy:3.0.2:*:*:*:*:*:*:*",
-  "cpeNameId": "FAFD764E-1C8A-4557-B604-A56775F606DC",
-  "created": "2014-08-20T14:44:58.050",
-  "lastModified": "2014-08-22T21:39:37.160",
-  "titles": [
-    {
-      "title": "RedHat RESTeasy 3.0.2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://resteasy.jboss.org/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://github.com/resteasy/Resteasy/releases",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:redhat:resteasy:3.0.2:*:*:*:*:*:*:*",
+	"cpeNameId": "FAFD764E-1C8A-4557-B604-A56775F606DC",
+	"created": "2014-08-20T14:44:58.050",
+	"lastModified": "2014-08-22T21:39:37.160",
+	"titles": [
+		{
+			"title": "RedHat RESTeasy 3.0.2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://resteasy.jboss.org/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://github.com/resteasy/Resteasy/releases",
+			"type": "Version"
+		}
+	]
 }

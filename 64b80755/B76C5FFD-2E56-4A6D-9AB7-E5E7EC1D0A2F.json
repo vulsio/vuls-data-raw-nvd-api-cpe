@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:funadmin:funadmin:2.2.11:*:*:*:*:*:*:*",
-  "cpeNameId": "B76C5FFD-2E56-4A6D-9AB7-E5E7EC1D0A2F",
-  "created": "2023-05-08T17:56:05.433",
-  "lastModified": "2023-05-10T14:00:11.063",
-  "titles": [
-    {
-      "title": "FunAdmin 2.2.11",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.funadmin.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://gitee.com/funadmin/funadmin/issues/I6W2YL",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://gitee.com/funadmin/funadmin/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:funadmin:funadmin:2.2.11:*:*:*:*:*:*:*",
+	"cpeNameId": "B76C5FFD-2E56-4A6D-9AB7-E5E7EC1D0A2F",
+	"created": "2023-05-08T17:56:05.433",
+	"lastModified": "2023-05-10T14:00:11.063",
+	"titles": [
+		{
+			"title": "FunAdmin 2.2.11",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.funadmin.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://gitee.com/funadmin/funadmin/issues/I6W2YL",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://gitee.com/funadmin/funadmin/releases",
+			"type": "Change Log"
+		}
+	]
 }

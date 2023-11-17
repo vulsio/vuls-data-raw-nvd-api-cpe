@@ -1,21 +1,21 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:neorcha:usek:1.0.8:*:*:*:*:android:*:*",
-  "cpeNameId": "F24CAADD-D714-4DCF-845A-34FA0538DB8C",
-  "created": "2014-11-10T16:17:09.220",
-  "lastModified": "2014-11-10T17:01:30.447",
-  "titles": [
-    {
-      "title": "neorcha USEK (aka com.university.usek) for android 1.0.8",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www.neorcha.com"
-    },
-    {
-      "ref": "https://play.google.com/store/apps/details?id=com.university.usek"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:neorcha:usek:1.0.8:*:*:*:*:android:*:*",
+	"cpeNameId": "F24CAADD-D714-4DCF-845A-34FA0538DB8C",
+	"created": "2014-11-10T16:17:09.220",
+	"lastModified": "2014-11-10T17:01:30.447",
+	"titles": [
+		{
+			"title": "neorcha USEK (aka com.university.usek) for android 1.0.8",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.neorcha.com"
+		},
+		{
+			"ref": "https://play.google.com/store/apps/details?id=com.university.usek"
+		}
+	]
 }

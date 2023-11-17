@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:ponsoftware:explzh:2.87:*:*:*:*:*:*:*",
-  "cpeNameId": "64F88829-B26E-49C8-9710-1612C77A780E",
-  "created": "2010-06-28T14:28:08.267",
-  "lastModified": "2010-06-30T19:34:43.753",
-  "titles": [
-    {
-      "title": "pon Software Explzh 2.87",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:ponsoftware:explzh:2.87:*:*:*:*:*:*:*",
+	"cpeNameId": "64F88829-B26E-49C8-9710-1612C77A780E",
+	"created": "2010-06-28T14:28:08.267",
+	"lastModified": "2010-06-30T19:34:43.753",
+	"titles": [
+		{
+			"title": "pon Software Explzh 2.87",
+			"lang": "en"
+		}
+	]
 }

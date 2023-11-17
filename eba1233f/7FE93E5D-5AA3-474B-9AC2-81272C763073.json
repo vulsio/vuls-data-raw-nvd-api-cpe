@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:flightgear:flightgear:1.9.1:*:*:*:*:*:*:*",
-  "cpeNameId": "7FE93E5D-5AA3-474B-9AC2-81272C763073",
-  "created": "2012-06-18T20:34:52.060",
-  "lastModified": "2012-12-21T16:43:11.473",
-  "titles": [
-    {
-      "title": "FlightGear 1.9.1",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:flightgear:flightgear:1.9.1:*:*:*:*:*:*:*",
+	"cpeNameId": "7FE93E5D-5AA3-474B-9AC2-81272C763073",
+	"created": "2012-06-18T20:34:52.060",
+	"lastModified": "2012-12-21T16:43:11.473",
+	"titles": [
+		{
+			"title": "FlightGear 1.9.1",
+			"lang": "en"
+		}
+	]
 }

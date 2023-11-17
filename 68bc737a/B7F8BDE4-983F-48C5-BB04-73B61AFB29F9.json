@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:bitcoincore:bitcoin_core:0.5.0:*:*:*:*:*:*:*",
-  "cpeNameId": "B7F8BDE4-983F-48C5-BB04-73B61AFB29F9",
-  "created": "2018-08-25T12:12:00.297",
-  "lastModified": "2021-03-16T18:08:02.160",
-  "titles": [
-    {
-      "title": "Bitcoincore Bitcoin Core 0.5.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://bitcoin.org/en/version-history",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:bitcoincore:bitcoin_core:0.5.0:*:*:*:*:*:*:*",
+	"cpeNameId": "B7F8BDE4-983F-48C5-BB04-73B61AFB29F9",
+	"created": "2018-08-25T12:12:00.297",
+	"lastModified": "2021-03-16T18:08:02.160",
+	"titles": [
+		{
+			"title": "Bitcoincore Bitcoin Core 0.5.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://bitcoin.org/en/version-history",
+			"type": "Version"
+		}
+	]
 }

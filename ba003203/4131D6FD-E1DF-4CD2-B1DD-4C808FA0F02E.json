@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:zen_project:zen:8.x-7.0:alpha11:*:*:*:drupal:*:*",
-  "cpeNameId": "4131D6FD-E1DF-4CD2-B1DD-4C808FA0F02E",
-  "created": "2019-07-09T18:17:03.067",
-  "lastModified": "2019-07-09T18:17:03.067",
-  "titles": [
-    {
-      "title": "Zen Project Zen 8.x-7.0 Alpha 11 for Drupal",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.drupal.org/project/zen/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:zen_project:zen:8.x-7.0:alpha11:*:*:*:drupal:*:*",
+	"cpeNameId": "4131D6FD-E1DF-4CD2-B1DD-4C808FA0F02E",
+	"created": "2019-07-09T18:17:03.067",
+	"lastModified": "2019-07-09T18:17:03.067",
+	"titles": [
+		{
+			"title": "Zen Project Zen 8.x-7.0 Alpha 11 for Drupal",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.drupal.org/project/zen/releases",
+			"type": "Change Log"
+		}
+	]
 }

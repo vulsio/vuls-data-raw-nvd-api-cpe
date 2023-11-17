@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:wpdevart:booking_calendar:1.9.3:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "8596F8D6-5FDC-4B27-A752-E5376510DE3D",
-  "created": "2019-07-19T13:21:36.737",
-  "lastModified": "2019-07-19T13:21:36.737",
-  "titles": [
-    {
-      "title": "WpDevArt Booking Calendar 1.9.3 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wordpress.org/plugins/booking-calendar/#developers",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://wpdevart.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:wpdevart:booking_calendar:1.9.3:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "8596F8D6-5FDC-4B27-A752-E5376510DE3D",
+	"created": "2019-07-19T13:21:36.737",
+	"lastModified": "2019-07-19T13:21:36.737",
+	"titles": [
+		{
+			"title": "WpDevArt Booking Calendar 1.9.3 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/booking-calendar/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://wpdevart.com/",
+			"type": "Vendor"
+		}
+	]
 }

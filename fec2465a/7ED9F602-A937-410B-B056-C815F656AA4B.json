@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:hp:service_manager:9.21:*:*:*:*:*:*:*",
-  "cpeNameId": "7ED9F602-A937-410B-B056-C815F656AA4B",
-  "created": "2011-06-14T18:24:57.987",
-  "lastModified": "2011-07-27T16:02:24.583",
-  "titles": [
-    {
-      "title": "HP Service Manager 9.21",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:hp:service_manager:9.21:*:*:*:*:*:*:*",
+	"cpeNameId": "7ED9F602-A937-410B-B056-C815F656AA4B",
+	"created": "2011-06-14T18:24:57.987",
+	"lastModified": "2011-07-27T16:02:24.583",
+	"titles": [
+		{
+			"title": "HP Service Manager 9.21",
+			"lang": "en"
+		}
+	]
 }

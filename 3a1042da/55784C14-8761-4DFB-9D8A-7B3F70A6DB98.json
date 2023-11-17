@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:intel:core_i5-12450h:-:*:*:*:*:*:*:*",
-  "cpeNameId": "55784C14-8761-4DFB-9D8A-7B3F70A6DB98",
-  "created": "2022-03-17T17:42:20.840",
-  "lastModified": "2022-03-21T17:41:09.220",
-  "titles": [
-    {
-      "title": "Intel Core I5-12450h ",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.intel.com/content/www/us/en/developer/topic-technology/software-security-guidance/processors-affected-consolidated-product-cpu-model.html",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:intel:core_i5-12450h:-:*:*:*:*:*:*:*",
+	"cpeNameId": "55784C14-8761-4DFB-9D8A-7B3F70A6DB98",
+	"created": "2022-03-17T17:42:20.840",
+	"lastModified": "2022-03-21T17:41:09.220",
+	"titles": [
+		{
+			"title": "Intel Core I5-12450h ",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.intel.com/content/www/us/en/developer/topic-technology/software-security-guidance/processors-affected-consolidated-product-cpu-model.html",
+			"type": "Advisory"
+		}
+	]
 }

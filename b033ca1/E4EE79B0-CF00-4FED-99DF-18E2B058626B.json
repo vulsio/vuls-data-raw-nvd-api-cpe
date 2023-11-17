@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:python:python:3.9.15:*:*:*:*:*:*:*",
-  "cpeNameId": "E4EE79B0-CF00-4FED-99DF-18E2B058626B",
-  "created": "2022-11-09T19:42:28.480",
-  "lastModified": "2022-11-09T19:43:53.020",
-  "titles": [
-    {
-      "title": "Python 3.9.15",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/python/cpython/tags",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:python:python:3.9.15:*:*:*:*:*:*:*",
+	"cpeNameId": "E4EE79B0-CF00-4FED-99DF-18E2B058626B",
+	"created": "2022-11-09T19:42:28.480",
+	"lastModified": "2022-11-09T19:43:53.020",
+	"titles": [
+		{
+			"title": "Python 3.9.15",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/python/cpython/tags",
+			"type": "Change Log"
+		}
+	]
 }

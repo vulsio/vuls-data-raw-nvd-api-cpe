@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:fortinet:fortianalyzer:6.2.7:*:*:*:*:*:*:*",
-  "cpeNameId": "90ED9EF2-9308-441A-8D63-1226C17F600E",
-  "created": "2021-07-26T14:13:29.983",
-  "lastModified": "2021-07-26T17:47:36.360",
-  "titles": [
-    {
-      "title": "Fortinet FortiAnalyzer 6.2.7",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.fortiguard.com/psirt/FG-IR-20-194",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:fortinet:fortianalyzer:6.2.7:*:*:*:*:*:*:*",
+	"cpeNameId": "90ED9EF2-9308-441A-8D63-1226C17F600E",
+	"created": "2021-07-26T14:13:29.983",
+	"lastModified": "2021-07-26T17:47:36.360",
+	"titles": [
+		{
+			"title": "Fortinet FortiAnalyzer 6.2.7",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.fortiguard.com/psirt/FG-IR-20-194",
+			"type": "Advisory"
+		}
+	]
 }

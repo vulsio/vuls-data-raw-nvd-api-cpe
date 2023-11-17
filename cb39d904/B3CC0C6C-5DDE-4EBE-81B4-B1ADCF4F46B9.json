@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:adobe:experience_manager:6.2.0.0:sp1-cfp15:*:*:*:*:*:*",
-  "cpeNameId": "B3CC0C6C-5DDE-4EBE-81B4-B1ADCF4F46B9",
-  "created": "2020-09-16T10:52:16.313",
-  "lastModified": "2020-09-16T10:52:16.313",
-  "titles": [
-    {
-      "title": "Adobe Experience Manager 6.2.0.0 Service Pack 1-Cumulative Fix Pack 15",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://helpx.adobe.com/experience-manager/release-notes--aem-6-2-cumulative-fix-pack.html",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html",
-      "type": "Version"
-    },
-    {
-      "ref": "https://www.adobe.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:adobe:experience_manager:6.2.0.0:sp1-cfp15:*:*:*:*:*:*",
+	"cpeNameId": "B3CC0C6C-5DDE-4EBE-81B4-B1ADCF4F46B9",
+	"created": "2020-09-16T10:52:16.313",
+	"lastModified": "2020-09-16T10:52:16.313",
+	"titles": [
+		{
+			"title": "Adobe Experience Manager 6.2.0.0 Service Pack 1-Cumulative Fix Pack 15",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://helpx.adobe.com/experience-manager/release-notes--aem-6-2-cumulative-fix-pack.html",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html",
+			"type": "Version"
+		},
+		{
+			"ref": "https://www.adobe.com/",
+			"type": "Vendor"
+		}
+	]
 }

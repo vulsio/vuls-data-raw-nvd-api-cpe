@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:ctolog:thinkadmin:3.0:*:*:*:*:*:*:*",
-  "cpeNameId": "4F9C9F4A-C96D-477E-B051-C064E7025AFE",
-  "created": "2020-09-15T12:05:02.123",
-  "lastModified": "2020-09-15T12:05:02.123",
-  "titles": [
-    {
-      "title": "Ctolog ThinkAdmin 3.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://gitee.com/zoujingli/ThinkAdmin",
-      "type": "Version"
-    },
-    {
-      "ref": "http://www.ctolog.com",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:ctolog:thinkadmin:3.0:*:*:*:*:*:*:*",
+	"cpeNameId": "4F9C9F4A-C96D-477E-B051-C064E7025AFE",
+	"created": "2020-09-15T12:05:02.123",
+	"lastModified": "2020-09-15T12:05:02.123",
+	"titles": [
+		{
+			"title": "Ctolog ThinkAdmin 3.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://gitee.com/zoujingli/ThinkAdmin",
+			"type": "Version"
+		},
+		{
+			"ref": "http://www.ctolog.com",
+			"type": "Vendor"
+		}
+	]
 }

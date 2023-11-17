@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:mcdata:sphereon_3232_fabric_switch:-:*:*:*:*:*:*:*",
-  "cpeNameId": "C458A72D-A885-4730-8CAF-53EC92053A22",
-  "created": "2007-08-23T21:16:59.567",
-  "lastModified": "2008-04-07T14:17:40.360",
-  "titles": [
-    {
-      "title": "McDATA Fiber Fabric Switch Sphereon 3232",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:mcdata:sphereon_3232_fabric_switch:-:*:*:*:*:*:*:*",
+	"cpeNameId": "C458A72D-A885-4730-8CAF-53EC92053A22",
+	"created": "2007-08-23T21:16:59.567",
+	"lastModified": "2008-04-07T14:17:40.360",
+	"titles": [
+		{
+			"title": "McDATA Fiber Fabric Switch Sphereon 3232",
+			"lang": "en"
+		}
+	]
 }

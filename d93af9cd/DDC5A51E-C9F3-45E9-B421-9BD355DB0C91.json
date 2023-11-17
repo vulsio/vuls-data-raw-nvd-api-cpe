@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:nodejs:node.js:6.7.0:*:*:*:lts:*:*:*",
-  "cpeNameId": "DDC5A51E-C9F3-45E9-B421-9BD355DB0C91",
-  "created": "2020-06-22T11:45:03.100",
-  "lastModified": "2020-06-22T11:45:03.100",
-  "titles": [
-    {
-      "title": "Nodejs Node.js 6.7.0 LTS Edition",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://nodejs.org/en/about/releases/",
-      "type": "Version"
-    },
-    {
-      "ref": "https://nodejs.org/download/release/",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:nodejs:node.js:6.7.0:*:*:*:lts:*:*:*",
+	"cpeNameId": "DDC5A51E-C9F3-45E9-B421-9BD355DB0C91",
+	"created": "2020-06-22T11:45:03.100",
+	"lastModified": "2020-06-22T11:45:03.100",
+	"titles": [
+		{
+			"title": "Nodejs Node.js 6.7.0 LTS Edition",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://nodejs.org/en/about/releases/",
+			"type": "Version"
+		},
+		{
+			"ref": "https://nodejs.org/download/release/",
+			"type": "Change Log"
+		}
+	]
 }

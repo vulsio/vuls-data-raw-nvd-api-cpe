@@ -1,33 +1,33 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:qnap:qts:4.5.4.1741:*:*:*:*:*:*:*",
-  "cpeNameId": "ABE9726E-713B-4B87-8C33-6E685956646B",
-  "created": "2022-05-13T12:53:50.770",
-  "lastModified": "2023-11-14T19:26:47.020",
-  "titles": [
-    {
-      "title": "QNAP QTS 4.5.4.1741",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.qnap.com/en/security-advisory/qsa-22-13",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://www.qnap.com/en-us/release-notes/qts/5.0.0.1986/20220324",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://www.qnap.com/en-us/",
-      "type": "Vendor"
-    }
-  ],
-  "deprecates": [
-    {
-      "cpeName": "cpe:2.3:a:qnap:qts:4.5.4.1741:*:*:*:*:*:*:*",
-      "cpeNameId": "543AA3CF-8EBB-4159-9922-4C4C1E6BBD3F"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:qnap:qts:4.5.4.1741:*:*:*:*:*:*:*",
+	"cpeNameId": "ABE9726E-713B-4B87-8C33-6E685956646B",
+	"created": "2022-05-13T12:53:50.770",
+	"lastModified": "2023-11-14T19:26:47.020",
+	"titles": [
+		{
+			"title": "QNAP QTS 4.5.4.1741",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.qnap.com/en/security-advisory/qsa-22-13",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://www.qnap.com/en-us/release-notes/qts/5.0.0.1986/20220324",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://www.qnap.com/en-us/",
+			"type": "Vendor"
+		}
+	],
+	"deprecates": [
+		{
+			"cpeName": "cpe:2.3:a:qnap:qts:4.5.4.1741:*:*:*:*:*:*:*",
+			"cpeNameId": "543AA3CF-8EBB-4159-9922-4C4C1E6BBD3F"
+		}
+	]
 }

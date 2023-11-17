@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:1password:command-line:1.9.1:*:*:*:*:*:*:*",
-  "cpeNameId": "4C735A57-D53F-43DE-9BB0-4498C517176C",
-  "created": "2021-07-12T17:52:21.163",
-  "lastModified": "2021-07-12T17:58:13.950",
-  "titles": [
-    {
-      "title": "1Password Command Line 1.9.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://app-updates.agilebits.com/product_history/CLI",
-      "type": "Version"
-    },
-    {
-      "ref": "https://1password.com/downloads/command-line/",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:1password:command-line:1.9.1:*:*:*:*:*:*:*",
+	"cpeNameId": "4C735A57-D53F-43DE-9BB0-4498C517176C",
+	"created": "2021-07-12T17:52:21.163",
+	"lastModified": "2021-07-12T17:58:13.950",
+	"titles": [
+		{
+			"title": "1Password Command Line 1.9.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://app-updates.agilebits.com/product_history/CLI",
+			"type": "Version"
+		},
+		{
+			"ref": "https://1password.com/downloads/command-line/",
+			"type": "Product"
+		}
+	]
 }

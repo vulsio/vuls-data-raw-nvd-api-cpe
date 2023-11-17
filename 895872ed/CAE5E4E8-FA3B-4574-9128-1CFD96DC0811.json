@@ -1,25 +1,25 @@
 {
-  "deprecated": true,
-  "cpeName": "cpe:2.3:a:vega_project:vega:3.0.0:beta17:*:*:*:*:*:*",
-  "cpeNameId": "CAE5E4E8-FA3B-4574-9128-1CFD96DC0811",
-  "created": "2020-03-12T21:00:55.527",
-  "lastModified": "2021-01-06T16:40:58.837",
-  "titles": [
-    {
-      "title": "Vega Project Vega 3.0.0 Beta 17",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/vega/vega/releases",
-      "type": "Change Log"
-    }
-  ],
-  "deprecatedBy": [
-    {
-      "cpeName": "cpe:2.3:a:vega_project:vega:3.0.0:beta17:*:*:*:-:*:*",
-      "cpeNameId": "128C7F22-C6F6-4EC6-A7F6-DCF618A10E66"
-    }
-  ]
+	"deprecated": true,
+	"cpeName": "cpe:2.3:a:vega_project:vega:3.0.0:beta17:*:*:*:*:*:*",
+	"cpeNameId": "CAE5E4E8-FA3B-4574-9128-1CFD96DC0811",
+	"created": "2020-03-12T21:00:55.527",
+	"lastModified": "2021-01-06T16:40:58.837",
+	"titles": [
+		{
+			"title": "Vega Project Vega 3.0.0 Beta 17",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/vega/vega/releases",
+			"type": "Change Log"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:vega_project:vega:3.0.0:beta17:*:*:*:-:*:*",
+			"cpeNameId": "128C7F22-C6F6-4EC6-A7F6-DCF618A10E66"
+		}
+	]
 }

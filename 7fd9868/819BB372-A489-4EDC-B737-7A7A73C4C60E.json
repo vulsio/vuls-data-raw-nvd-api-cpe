@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:eclipse:jgit:3.6.1:*:*:*:*:*:*:*",
-  "cpeNameId": "819BB372-A489-4EDC-B737-7A7A73C4C60E",
-  "created": "2021-05-17T12:26:05.230",
-  "lastModified": "2021-05-17T12:28:14.010",
-  "titles": [
-    {
-      "title": "Eclipse JGit 3.6.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://projects.eclipse.org/projects/technology.jgit/governance",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:eclipse:jgit:3.6.1:*:*:*:*:*:*:*",
+	"cpeNameId": "819BB372-A489-4EDC-B737-7A7A73C4C60E",
+	"created": "2021-05-17T12:26:05.230",
+	"lastModified": "2021-05-17T12:28:14.010",
+	"titles": [
+		{
+			"title": "Eclipse JGit 3.6.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://projects.eclipse.org/projects/technology.jgit/governance",
+			"type": "Version"
+		}
+	]
 }

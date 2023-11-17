@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:hp:laserjet_enterprise_mfp_m632fht_firmware:-:*:*:*:*:*:*:*",
-  "cpeNameId": "D1E271FB-62BF-4C48-8979-A90A9132866C",
-  "created": "2019-04-23T15:36:42.557",
-  "lastModified": "2021-05-24T15:51:05.703",
-  "titles": [
-    {
-      "title": "Hp Laserjet Enterprise Mfp M632fht Firmware -",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://support.hp.com/us-en/document/c06169434",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:hp:laserjet_enterprise_mfp_m632fht_firmware:-:*:*:*:*:*:*:*",
+	"cpeNameId": "D1E271FB-62BF-4C48-8979-A90A9132866C",
+	"created": "2019-04-23T15:36:42.557",
+	"lastModified": "2021-05-24T15:51:05.703",
+	"titles": [
+		{
+			"title": "Hp Laserjet Enterprise Mfp M632fht Firmware -",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://support.hp.com/us-en/document/c06169434",
+			"type": "Product"
+		}
+	]
 }

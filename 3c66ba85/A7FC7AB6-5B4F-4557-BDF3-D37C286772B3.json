@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:libxmljs_project:libxmljs:0.18.8:*:*:*:*:node.js:*:*",
-  "cpeNameId": "A7FC7AB6-5B4F-4557-BDF3-D37C286772B3",
-  "created": "2022-08-27T00:30:22.843",
-  "lastModified": "2022-08-27T00:43:41.173",
-  "titles": [
-    {
-      "title": "Libxmljs Project Libxmljs 0.18.8 for Node.js",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/libxmljs/libxmljs/releases",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:libxmljs_project:libxmljs:0.18.8:*:*:*:*:node.js:*:*",
+	"cpeNameId": "A7FC7AB6-5B4F-4557-BDF3-D37C286772B3",
+	"created": "2022-08-27T00:30:22.843",
+	"lastModified": "2022-08-27T00:43:41.173",
+	"titles": [
+		{
+			"title": "Libxmljs Project Libxmljs 0.18.8 for Node.js",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/libxmljs/libxmljs/releases",
+			"type": "Version"
+		}
+	]
 }

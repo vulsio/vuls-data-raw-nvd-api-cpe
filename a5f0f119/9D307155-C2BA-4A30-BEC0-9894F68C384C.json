@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:wpdownloadmanager:wordpress_download_manager:3.2.34:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "9D307155-C2BA-4A30-BEC0-9894F68C384C",
-  "created": "2022-03-09T15:19:17.080",
-  "lastModified": "2022-03-09T16:44:57.900",
-  "titles": [
-    {
-      "title": "WordPress Download Manager 3.2.34 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wpscan.com/vulnerability/d7ceafae-65ec-4e05-9ed1-59470771bf07",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://www.wpdownloadmanager.com/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://wordpress.org/plugins/download-manager/#developers",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:wpdownloadmanager:wordpress_download_manager:3.2.34:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "9D307155-C2BA-4A30-BEC0-9894F68C384C",
+	"created": "2022-03-09T15:19:17.080",
+	"lastModified": "2022-03-09T16:44:57.900",
+	"titles": [
+		{
+			"title": "WordPress Download Manager 3.2.34 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wpscan.com/vulnerability/d7ceafae-65ec-4e05-9ed1-59470771bf07",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://www.wpdownloadmanager.com/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/download-manager/#developers",
+			"type": "Change Log"
+		}
+	]
 }

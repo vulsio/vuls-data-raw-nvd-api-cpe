@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:relatedcode:messenger:-:*:*:*:*:*:*:*",
-  "cpeNameId": "07D4A7BD-81C6-416A-A762-FB825843440D",
-  "created": "2022-10-20T18:02:36.073",
-  "lastModified": "2022-11-09T16:47:58.307",
-  "titles": [
-    {
-      "title": "Related Code Messenger",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/relatedcode/Messenger",
-      "type": "Product"
-    },
-    {
-      "ref": "https://relatedcode.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://fluidattacks.com/advisories/coldplay/",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:relatedcode:messenger:-:*:*:*:*:*:*:*",
+	"cpeNameId": "07D4A7BD-81C6-416A-A762-FB825843440D",
+	"created": "2022-10-20T18:02:36.073",
+	"lastModified": "2022-11-09T16:47:58.307",
+	"titles": [
+		{
+			"title": "Related Code Messenger",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/relatedcode/Messenger",
+			"type": "Product"
+		},
+		{
+			"ref": "https://relatedcode.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://fluidattacks.com/advisories/coldplay/",
+			"type": "Advisory"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:chevereto:chevereto:3.12.3:*:*:*:*:*:*:*",
-  "cpeNameId": "23B466C6-2697-4244-86C6-4105721AAC3A",
-  "created": "2019-08-19T12:00:56.637",
-  "lastModified": "2019-08-19T12:00:56.637",
-  "titles": [
-    {
-      "title": "Chevereto 3.12.3",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://chevereto.com/changelog",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:chevereto:chevereto:3.12.3:*:*:*:*:*:*:*",
+	"cpeNameId": "23B466C6-2697-4244-86C6-4105721AAC3A",
+	"created": "2019-08-19T12:00:56.637",
+	"lastModified": "2019-08-19T12:00:56.637",
+	"titles": [
+		{
+			"title": "Chevereto 3.12.3",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://chevereto.com/changelog",
+			"type": "Version"
+		}
+	]
 }

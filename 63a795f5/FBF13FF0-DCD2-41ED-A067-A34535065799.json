@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:cisco:firepower_management_center:6.4.0.10:*:*:*:*:*:*:*",
-  "cpeNameId": "FBF13FF0-DCD2-41ED-A067-A34535065799",
-  "created": "2020-12-02T15:42:38.843",
-  "lastModified": "2020-12-02T15:42:38.843",
-  "titles": [
-    {
-      "title": "Cisco Firepower Management Center 6.4.0.10",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.cisco.com/c/en/us/td/docs/security/firepower/640/640x/relnotes/firepower-release-notes-640x/welcome.html",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:cisco:firepower_management_center:6.4.0.10:*:*:*:*:*:*:*",
+	"cpeNameId": "FBF13FF0-DCD2-41ED-A067-A34535065799",
+	"created": "2020-12-02T15:42:38.843",
+	"lastModified": "2020-12-02T15:42:38.843",
+	"titles": [
+		{
+			"title": "Cisco Firepower Management Center 6.4.0.10",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.cisco.com/c/en/us/td/docs/security/firepower/640/640x/relnotes/firepower-release-notes-640x/welcome.html",
+			"type": "Version"
+		}
+	]
 }

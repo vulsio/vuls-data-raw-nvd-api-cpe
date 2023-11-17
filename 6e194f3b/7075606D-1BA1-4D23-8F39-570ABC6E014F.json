@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:is-svg_project:is-svg:2.0.0:*:*:*:*:node.js:*:*",
-  "cpeNameId": "7075606D-1BA1-4D23-8F39-570ABC6E014F",
-  "created": "2021-09-02T19:59:38.477",
-  "lastModified": "2021-09-03T20:02:49.983",
-  "titles": [
-    {
-      "title": "Is-svg Project Is-svg 2.0.0 for Node.js",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/sindresorhus/is-svg/releases",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:is-svg_project:is-svg:2.0.0:*:*:*:*:node.js:*:*",
+	"cpeNameId": "7075606D-1BA1-4D23-8F39-570ABC6E014F",
+	"created": "2021-09-02T19:59:38.477",
+	"lastModified": "2021-09-03T20:02:49.983",
+	"titles": [
+		{
+			"title": "Is-svg Project Is-svg 2.0.0 for Node.js",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/sindresorhus/is-svg/releases",
+			"type": "Version"
+		}
+	]
 }

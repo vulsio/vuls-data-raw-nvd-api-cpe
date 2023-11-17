@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:themeum:tutor_lms:1.8.8:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "EC748A08-9A0F-41A7-A3C0-AAC8F541FFE9",
-  "created": "2021-04-29T00:48:05.427",
-  "lastModified": "2021-05-04T16:08:11.910",
-  "titles": [
-    {
-      "title": "Themeum Tutor LMS 1.8.8 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wordpress.org/plugins/tutor/#developers",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://wpscan.com/vulnerability/20f3e63a-31d8-49a0-b4ef-209749feff5c",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://www.themeum.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:themeum:tutor_lms:1.8.8:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "EC748A08-9A0F-41A7-A3C0-AAC8F541FFE9",
+	"created": "2021-04-29T00:48:05.427",
+	"lastModified": "2021-05-04T16:08:11.910",
+	"titles": [
+		{
+			"title": "Themeum Tutor LMS 1.8.8 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/tutor/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://wpscan.com/vulnerability/20f3e63a-31d8-49a0-b4ef-209749feff5c",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://www.themeum.com/",
+			"type": "Vendor"
+		}
+	]
 }

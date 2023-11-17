@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:iij:seil_x1_firmware:4.10:*:*:*:*:*:*:*",
-  "cpeNameId": "695A04D1-2E09-4CED-A0D6-33C54EC28FEB",
-  "created": "2014-12-08T18:10:03.017",
-  "lastModified": "2014-12-08T18:59:16.997",
-  "titles": [
-    {
-      "title": "Internet Initiative Japan SEIL x1 Firmware 4.10",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www.seil.jp/support/tech/doc/"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:iij:seil_x1_firmware:4.10:*:*:*:*:*:*:*",
+	"cpeNameId": "695A04D1-2E09-4CED-A0D6-33C54EC28FEB",
+	"created": "2014-12-08T18:10:03.017",
+	"lastModified": "2014-12-08T18:59:16.997",
+	"titles": [
+		{
+			"title": "Internet Initiative Japan SEIL x1 Firmware 4.10",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.seil.jp/support/tech/doc/"
+		}
+	]
 }

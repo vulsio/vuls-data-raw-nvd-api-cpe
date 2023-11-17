@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:redhat:interchange:4.8.1:*:*:*:*:*:*:*",
-  "cpeNameId": "89F2E5E8-5695-432B-A916-50445A48C32A",
-  "created": "2007-08-23T21:16:59.567",
-  "lastModified": "2008-03-25T19:17:11.117",
-  "titles": [
-    {
-      "title": "Red Hat Interchange 4.8.1",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:redhat:interchange:4.8.1:*:*:*:*:*:*:*",
+	"cpeNameId": "89F2E5E8-5695-432B-A916-50445A48C32A",
+	"created": "2007-08-23T21:16:59.567",
+	"lastModified": "2008-03-25T19:17:11.117",
+	"titles": [
+		{
+			"title": "Red Hat Interchange 4.8.1",
+			"lang": "en"
+		}
+	]
 }

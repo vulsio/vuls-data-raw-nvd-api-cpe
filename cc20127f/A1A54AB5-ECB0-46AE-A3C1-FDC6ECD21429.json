@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:openelec:openelec:7.0.0:*:*:*:*:*:*:*",
-  "cpeNameId": "A1A54AB5-ECB0-46AE-A3C1-FDC6ECD21429",
-  "created": "2020-06-09T17:46:12.727",
-  "lastModified": "2020-06-09T17:46:12.727",
-  "titles": [
-    {
-      "title": "OpenELEC 7.0.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://openelec.tv/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/OpenELEC/OpenELEC.tv/releases",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:openelec:openelec:7.0.0:*:*:*:*:*:*:*",
+	"cpeNameId": "A1A54AB5-ECB0-46AE-A3C1-FDC6ECD21429",
+	"created": "2020-06-09T17:46:12.727",
+	"lastModified": "2020-06-09T17:46:12.727",
+	"titles": [
+		{
+			"title": "OpenELEC 7.0.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://openelec.tv/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/OpenELEC/OpenELEC.tv/releases",
+			"type": "Version"
+		}
+	]
 }

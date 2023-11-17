@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:codeasily:grand_flagallery:5.4.0:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "2EA67134-FC70-4C14-AFF5-2E71C56B52AA",
-  "created": "2019-10-31T15:29:29.037",
-  "lastModified": "2019-10-31T15:29:29.037",
-  "titles": [
-    {
-      "title": "CodEasily Grand Flagallery 5.4.0 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wordpress.org/plugins/flash-album-gallery/#developers",
-      "type": "Version"
-    },
-    {
-      "ref": "https://codeasily.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:codeasily:grand_flagallery:5.4.0:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "2EA67134-FC70-4C14-AFF5-2E71C56B52AA",
+	"created": "2019-10-31T15:29:29.037",
+	"lastModified": "2019-10-31T15:29:29.037",
+	"titles": [
+		{
+			"title": "CodEasily Grand Flagallery 5.4.0 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/flash-album-gallery/#developers",
+			"type": "Version"
+		},
+		{
+			"ref": "https://codeasily.com/",
+			"type": "Vendor"
+		}
+	]
 }

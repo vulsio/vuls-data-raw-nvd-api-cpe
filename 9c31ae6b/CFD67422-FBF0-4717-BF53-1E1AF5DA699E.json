@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:woocommerce_vietnam_checkout_project:woocommerce_vietnam_checkout:1.0.5:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "CFD67422-FBF0-4717-BF53-1E1AF5DA699E",
-  "created": "2023-03-29T15:33:12.353",
-  "lastModified": "2023-04-04T15:03:26.147",
-  "titles": [
-    {
-      "title": "WooCommerce Vietnam Checkout Project WooCommerce Vietnam Checkout 1.0.5 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://patchstack.com/database/vulnerability/woo-vietnam-checkout/wordpress-woocommerce-vietnam-checkout-plugin-2-0-4-cross-site-scripting-xss?_s_id=cve",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://wordpress.org/plugins/woo-vietnam-checkout/#developers",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:woocommerce_vietnam_checkout_project:woocommerce_vietnam_checkout:1.0.5:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "CFD67422-FBF0-4717-BF53-1E1AF5DA699E",
+	"created": "2023-03-29T15:33:12.353",
+	"lastModified": "2023-04-04T15:03:26.147",
+	"titles": [
+		{
+			"title": "WooCommerce Vietnam Checkout Project WooCommerce Vietnam Checkout 1.0.5 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://patchstack.com/database/vulnerability/woo-vietnam-checkout/wordpress-woocommerce-vietnam-checkout-plugin-2-0-4-cross-site-scripting-xss?_s_id=cve",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/woo-vietnam-checkout/#developers",
+			"type": "Change Log"
+		}
+	]
 }

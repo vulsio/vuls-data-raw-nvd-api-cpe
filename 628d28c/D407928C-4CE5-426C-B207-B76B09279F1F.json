@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:supermicro:h8dct-hibqf:-:*:*:*:*:*:*:*",
-  "cpeNameId": "D407928C-4CE5-426C-B207-B76B09279F1F",
-  "created": "2013-09-09T15:25:59.063",
-  "lastModified": "2014-07-15T19:14:34.770",
-  "titles": [
-    {
-      "title": "SuperMicro H8DCT-HIBQF",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www.kb.cert.org/vuls/id/648646"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:supermicro:h8dct-hibqf:-:*:*:*:*:*:*:*",
+	"cpeNameId": "D407928C-4CE5-426C-B207-B76B09279F1F",
+	"created": "2013-09-09T15:25:59.063",
+	"lastModified": "2014-07-15T19:14:34.770",
+	"titles": [
+		{
+			"title": "SuperMicro H8DCT-HIBQF",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.kb.cert.org/vuls/id/648646"
+		}
+	]
 }

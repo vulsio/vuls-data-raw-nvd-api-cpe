@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:cisco:ios:15.2\\\\(2\\\\)jn2:*:*:*:*:*:*:*",
-  "cpeNameId": "EFDDE002-29C0-47EF-B7F8-595E1B741513",
-  "created": "2020-05-11T11:56:56.943",
-  "lastModified": "2020-05-11T11:56:56.943",
-  "titles": [
-    {
-      "title": "Cisco IOS 15.2\\(2\\)JN2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://software.cisco.com/download/find/ios",
-      "type": "Version"
-    },
-    {
-      "ref": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160323-l4f",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:cisco:ios:15.2\\\\(2\\\\)jn2:*:*:*:*:*:*:*",
+	"cpeNameId": "EFDDE002-29C0-47EF-B7F8-595E1B741513",
+	"created": "2020-05-11T11:56:56.943",
+	"lastModified": "2020-05-11T11:56:56.943",
+	"titles": [
+		{
+			"title": "Cisco IOS 15.2\\(2\\)JN2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://software.cisco.com/download/find/ios",
+			"type": "Version"
+		},
+		{
+			"ref": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160323-l4f",
+			"type": "Advisory"
+		}
+	]
 }

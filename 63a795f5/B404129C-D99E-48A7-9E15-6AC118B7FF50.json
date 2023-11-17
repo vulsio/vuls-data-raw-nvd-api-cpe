@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:cisco:firepower_management_center:2.9.9:*:*:*:*:*:*:*",
-  "cpeNameId": "B404129C-D99E-48A7-9E15-6AC118B7FF50",
-  "created": "2018-12-06T14:53:00.317",
-  "lastModified": "2018-12-06T14:53:00.317",
-  "titles": [
-    {
-      "title": "Cisco FirePOWER Management Center 2.9.9",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.cisco.com/c/en/us/products/security/firepower-management-center/index.html",
-      "type": "Product"
-    },
-    {
-      "ref": "https://www.cisco.com/c/en/us/td/docs/security/firepower/compatibility/firepower-compatibility.html#id_67425",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:cisco:firepower_management_center:2.9.9:*:*:*:*:*:*:*",
+	"cpeNameId": "B404129C-D99E-48A7-9E15-6AC118B7FF50",
+	"created": "2018-12-06T14:53:00.317",
+	"lastModified": "2018-12-06T14:53:00.317",
+	"titles": [
+		{
+			"title": "Cisco FirePOWER Management Center 2.9.9",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.cisco.com/c/en/us/products/security/firepower-management-center/index.html",
+			"type": "Product"
+		},
+		{
+			"ref": "https://www.cisco.com/c/en/us/td/docs/security/firepower/compatibility/firepower-compatibility.html#id_67425",
+			"type": "Version"
+		}
+	]
 }

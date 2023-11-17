@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:nodejs:node.js:8.5.0:*:*:*:lts:*:*:*",
-  "cpeNameId": "01D19165-F14C-4C8C-A53A-E8AF44C2F393",
-  "created": "2020-06-22T11:45:05.630",
-  "lastModified": "2020-06-22T11:45:05.630",
-  "titles": [
-    {
-      "title": "Nodejs Node.js 8.5.0 LTS Edition",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://nodejs.org/en/about/releases/",
-      "type": "Version"
-    },
-    {
-      "ref": "https://nodejs.org/download/release/",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:nodejs:node.js:8.5.0:*:*:*:lts:*:*:*",
+	"cpeNameId": "01D19165-F14C-4C8C-A53A-E8AF44C2F393",
+	"created": "2020-06-22T11:45:05.630",
+	"lastModified": "2020-06-22T11:45:05.630",
+	"titles": [
+		{
+			"title": "Nodejs Node.js 8.5.0 LTS Edition",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://nodejs.org/en/about/releases/",
+			"type": "Version"
+		},
+		{
+			"ref": "https://nodejs.org/download/release/",
+			"type": "Change Log"
+		}
+	]
 }

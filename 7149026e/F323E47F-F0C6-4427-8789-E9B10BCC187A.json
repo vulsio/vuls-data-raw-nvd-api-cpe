@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:genivia:gsoap:1.2w:*:*:*:*:*:*:*",
-  "cpeNameId": "F323E47F-F0C6-4427-8789-E9B10BCC187A",
-  "created": "2019-06-18T11:12:38.807",
-  "lastModified": "2019-06-18T11:12:38.807",
-  "titles": [
-    {
-      "title": "Genivia gSOAP 1.2w",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.genivia.com/changelog.html",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:genivia:gsoap:1.2w:*:*:*:*:*:*:*",
+	"cpeNameId": "F323E47F-F0C6-4427-8789-E9B10BCC187A",
+	"created": "2019-06-18T11:12:38.807",
+	"lastModified": "2019-06-18T11:12:38.807",
+	"titles": [
+		{
+			"title": "Genivia gSOAP 1.2w",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.genivia.com/changelog.html",
+			"type": "Change Log"
+		}
+	]
 }

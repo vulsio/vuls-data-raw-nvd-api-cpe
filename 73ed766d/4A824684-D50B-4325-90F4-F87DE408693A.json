@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:plone:plone:4.2.6:*:*:*:*:*:*:*",
-  "cpeNameId": "4A824684-D50B-4325-90F4-F87DE408693A",
-  "created": "2014-01-22T19:34:37.617",
-  "lastModified": "2014-01-22T19:43:03.817",
-  "titles": [
-    {
-      "title": "Plone 4.2.6",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://plone.org/products/plone/releases"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:plone:plone:4.2.6:*:*:*:*:*:*:*",
+	"cpeNameId": "4A824684-D50B-4325-90F4-F87DE408693A",
+	"created": "2014-01-22T19:34:37.617",
+	"lastModified": "2014-01-22T19:43:03.817",
+	"titles": [
+		{
+			"title": "Plone 4.2.6",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://plone.org/products/plone/releases"
+		}
+	]
 }

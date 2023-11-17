@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:ifdefined:bugtracker.net:2.5.2:*:*:*:*:*:*:*",
-  "cpeNameId": "E1921EDE-6C5A-409B-A642-BC9B403467EE",
-  "created": "2010-09-01T14:24:18.397",
-  "lastModified": "2010-10-13T02:38:06.163",
-  "titles": [
-    {
-      "title": "ifdefined BugTracker.NET 2.5.2",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:ifdefined:bugtracker.net:2.5.2:*:*:*:*:*:*:*",
+	"cpeNameId": "E1921EDE-6C5A-409B-A642-BC9B403467EE",
+	"created": "2010-09-01T14:24:18.397",
+	"lastModified": "2010-10-13T02:38:06.163",
+	"titles": [
+		{
+			"title": "ifdefined BugTracker.NET 2.5.2",
+			"lang": "en"
+		}
+	]
 }

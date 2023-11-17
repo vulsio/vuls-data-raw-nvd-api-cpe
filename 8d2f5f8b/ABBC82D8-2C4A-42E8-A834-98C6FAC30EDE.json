@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:xnview:xnview:1.36:*:*:*:*:*:*:*",
-  "cpeNameId": "ABBC82D8-2C4A-42E8-A834-98C6FAC30EDE",
-  "created": "2010-03-15T14:23:26.133",
-  "lastModified": "2012-07-31T21:12:47.577",
-  "titles": [
-    {
-      "title": "XnView 1.36",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:xnview:xnview:1.36:*:*:*:*:*:*:*",
+	"cpeNameId": "ABBC82D8-2C4A-42E8-A834-98C6FAC30EDE",
+	"created": "2010-03-15T14:23:26.133",
+	"lastModified": "2012-07-31T21:12:47.577",
+	"titles": [
+		{
+			"title": "XnView 1.36",
+			"lang": "en"
+		}
+	]
 }

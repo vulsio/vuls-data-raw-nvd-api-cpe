@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:squid-cache:squid:3.2.9:*:*:*:*:*:*:*",
-  "cpeNameId": "3305F14A-01AE-4D9D-87F6-4DE2F8C2CDFC",
-  "created": "2013-09-17T14:12:57.500",
-  "lastModified": "2013-09-17T14:19:44.947",
-  "titles": [
-    {
-      "title": "squid-cache.org Squid 3.2.9",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www.squid-cache.org/Versions/v3/3.2/"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:squid-cache:squid:3.2.9:*:*:*:*:*:*:*",
+	"cpeNameId": "3305F14A-01AE-4D9D-87F6-4DE2F8C2CDFC",
+	"created": "2013-09-17T14:12:57.500",
+	"lastModified": "2013-09-17T14:19:44.947",
+	"titles": [
+		{
+			"title": "squid-cache.org Squid 3.2.9",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.squid-cache.org/Versions/v3/3.2/"
+		}
+	]
 }

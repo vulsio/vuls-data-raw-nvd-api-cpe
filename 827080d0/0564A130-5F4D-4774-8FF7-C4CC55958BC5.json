@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:rockwellautomation:arena:2.00.00:*:*:*:*:*:*:*",
-  "cpeNameId": "0564A130-5F4D-4774-8FF7-C4CC55958BC5",
-  "created": "2019-11-04T19:39:41.667",
-  "lastModified": "2019-11-04T19:39:41.667",
-  "titles": [
-    {
-      "title": "Rockwell Automation Arena 2.00.00",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://compatibility.rockwellautomation.com/Pages/MultiProductCompareSelections.aspx?crumb=113&versions=56903,56501,55302,53518,51988,54099,50421,50004,50003,50379,50378,50324,50323,50325,54097,54098,50322,50321",
-      "type": "Version"
-    },
-    {
-      "ref": "https://www.rockwellautomation.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://www.arenasimulation.com/",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:rockwellautomation:arena:2.00.00:*:*:*:*:*:*:*",
+	"cpeNameId": "0564A130-5F4D-4774-8FF7-C4CC55958BC5",
+	"created": "2019-11-04T19:39:41.667",
+	"lastModified": "2019-11-04T19:39:41.667",
+	"titles": [
+		{
+			"title": "Rockwell Automation Arena 2.00.00",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://compatibility.rockwellautomation.com/Pages/MultiProductCompareSelections.aspx?crumb=113&versions=56903,56501,55302,53518,51988,54099,50421,50004,50003,50379,50378,50324,50323,50325,54097,54098,50322,50321",
+			"type": "Version"
+		},
+		{
+			"ref": "https://www.rockwellautomation.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://www.arenasimulation.com/",
+			"type": "Product"
+		}
+	]
 }

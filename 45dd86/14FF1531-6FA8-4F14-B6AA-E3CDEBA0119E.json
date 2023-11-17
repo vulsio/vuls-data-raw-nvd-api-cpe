@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:jeff_ortel:suds:0.3.5:*:*:*:*:*:*:*",
-  "cpeNameId": "14FF1531-6FA8-4F14-B6AA-E3CDEBA0119E",
-  "created": "2013-09-24T14:49:01.463",
-  "lastModified": "2013-09-24T15:06:52.890",
-  "titles": [
-    {
-      "title": "Jeff Ortel Suds 0.3.5",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://fedorahosted.org/suds/wiki/ReleaseHistory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:jeff_ortel:suds:0.3.5:*:*:*:*:*:*:*",
+	"cpeNameId": "14FF1531-6FA8-4F14-B6AA-E3CDEBA0119E",
+	"created": "2013-09-24T14:49:01.463",
+	"lastModified": "2013-09-24T15:06:52.890",
+	"titles": [
+		{
+			"title": "Jeff Ortel Suds 0.3.5",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://fedorahosted.org/suds/wiki/ReleaseHistory"
+		}
+	]
 }

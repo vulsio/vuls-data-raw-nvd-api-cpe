@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:arm:trusted_firmware-m:1.4.0:rc1:*:*:*:*:*:*",
-  "cpeNameId": "B4AB4561-6ED3-4DE4-B4B7-260CBB6CA6EF",
-  "created": "2022-04-04T17:43:28.103",
-  "lastModified": "2022-04-05T21:33:26.367",
-  "titles": [
-    {
-      "title": "ARM Trusted Firmware-m 1.4.0 Release Candidate 1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://git.trustedfirmware.org/TF-M/trusted-firmware-m.git/",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:arm:trusted_firmware-m:1.4.0:rc1:*:*:*:*:*:*",
+	"cpeNameId": "B4AB4561-6ED3-4DE4-B4B7-260CBB6CA6EF",
+	"created": "2022-04-04T17:43:28.103",
+	"lastModified": "2022-04-05T21:33:26.367",
+	"titles": [
+		{
+			"title": "ARM Trusted Firmware-m 1.4.0 Release Candidate 1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://git.trustedfirmware.org/TF-M/trusted-firmware-m.git/",
+			"type": "Version"
+		}
+	]
 }

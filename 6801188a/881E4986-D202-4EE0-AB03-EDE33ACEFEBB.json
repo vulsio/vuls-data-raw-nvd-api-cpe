@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:analogic:poste.io:1.0.7:*:*:*:*:*:*:*",
-  "cpeNameId": "881E4986-D202-4EE0-AB03-EDE33ACEFEBB",
-  "created": "2019-07-11T16:47:16.463",
-  "lastModified": "2019-07-11T16:47:16.463",
-  "titles": [
-    {
-      "title": "Analogic Poste.io 1.0.7",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://poste.io/changelog",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:analogic:poste.io:1.0.7:*:*:*:*:*:*:*",
+	"cpeNameId": "881E4986-D202-4EE0-AB03-EDE33ACEFEBB",
+	"created": "2019-07-11T16:47:16.463",
+	"lastModified": "2019-07-11T16:47:16.463",
+	"titles": [
+		{
+			"title": "Analogic Poste.io 1.0.7",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://poste.io/changelog",
+			"type": "Change Log"
+		}
+	]
 }

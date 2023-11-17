@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:wow-estore:side_menu:2.2.1:*:*:*:lite:wordpress:*:*",
-  "cpeNameId": "AC50114A-8486-4464-A675-99F0598C9E16",
-  "created": "2021-08-16T12:27:28.810",
-  "lastModified": "2021-08-18T22:41:13.633",
-  "titles": [
-    {
-      "title": "Wow-estore Side Menu 2.2.1 Lite Edition for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wordpress.org/plugins/side-menu-lite/#developers",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:wow-estore:side_menu:2.2.1:*:*:*:lite:wordpress:*:*",
+	"cpeNameId": "AC50114A-8486-4464-A675-99F0598C9E16",
+	"created": "2021-08-16T12:27:28.810",
+	"lastModified": "2021-08-18T22:41:13.633",
+	"titles": [
+		{
+			"title": "Wow-estore Side Menu 2.2.1 Lite Edition for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/side-menu-lite/#developers",
+			"type": "Change Log"
+		}
+	]
 }

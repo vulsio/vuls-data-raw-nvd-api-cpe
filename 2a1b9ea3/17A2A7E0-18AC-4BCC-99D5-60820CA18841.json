@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:sonicwall:sonicos:6.5.3.1:*:*:*:*:*:*:*",
-  "cpeNameId": "17A2A7E0-18AC-4BCC-99D5-60820CA18841",
-  "created": "2019-04-04T18:11:35.960",
-  "lastModified": "2021-05-26T19:21:57.480",
-  "titles": [
-    {
-      "title": "SonicWall SonicOS 6.5.3.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2019-0003",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:sonicwall:sonicos:6.5.3.1:*:*:*:*:*:*:*",
+	"cpeNameId": "17A2A7E0-18AC-4BCC-99D5-60820CA18841",
+	"created": "2019-04-04T18:11:35.960",
+	"lastModified": "2021-05-26T19:21:57.480",
+	"titles": [
+		{
+			"title": "SonicWall SonicOS 6.5.3.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2019-0003",
+			"type": "Version"
+		}
+	]
 }

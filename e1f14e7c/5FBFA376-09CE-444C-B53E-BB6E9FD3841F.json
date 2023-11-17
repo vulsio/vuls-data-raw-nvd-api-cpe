@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:digium:asterisk:14.1:*:*:*:*:*:*:*",
-  "cpeNameId": "5FBFA376-09CE-444C-B53E-BB6E9FD3841F",
-  "created": "2017-01-04T15:35:16.123",
-  "lastModified": "2017-01-04T15:35:16.123",
-  "titles": [
-    {
-      "title": "Digium Asterisk 14.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www.asterisk.org/downloads/asterisk/all-asterisk-versions",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:digium:asterisk:14.1:*:*:*:*:*:*:*",
+	"cpeNameId": "5FBFA376-09CE-444C-B53E-BB6E9FD3841F",
+	"created": "2017-01-04T15:35:16.123",
+	"lastModified": "2017-01-04T15:35:16.123",
+	"titles": [
+		{
+			"title": "Digium Asterisk 14.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.asterisk.org/downloads/asterisk/all-asterisk-versions",
+			"type": "Version"
+		}
+	]
 }

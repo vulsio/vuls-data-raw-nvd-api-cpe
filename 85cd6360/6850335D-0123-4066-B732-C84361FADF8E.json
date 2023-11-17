@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:hp:nonstop_server_software:h06.19.00:*:*:*:*:*:*:*",
-  "cpeNameId": "6850335D-0123-4066-B732-C84361FADF8E",
-  "created": "2011-10-03T14:35:46.587",
-  "lastModified": "2013-04-02T16:59:10.837",
-  "titles": [
-    {
-      "title": "HP nonstop Server software H06.19.00",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:hp:nonstop_server_software:h06.19.00:*:*:*:*:*:*:*",
+	"cpeNameId": "6850335D-0123-4066-B732-C84361FADF8E",
+	"created": "2011-10-03T14:35:46.587",
+	"lastModified": "2013-04-02T16:59:10.837",
+	"titles": [
+		{
+			"title": "HP nonstop Server software H06.19.00",
+			"lang": "en"
+		}
+	]
 }

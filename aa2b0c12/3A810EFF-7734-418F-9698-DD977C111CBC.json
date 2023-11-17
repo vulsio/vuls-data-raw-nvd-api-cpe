@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:archlinux:arch_linux:-:*:*:*:*:*:*:*",
-  "cpeNameId": "3A810EFF-7734-418F-9698-DD977C111CBC",
-  "created": "2020-04-09T20:00:44.507",
-  "lastModified": "2020-04-09T20:00:44.507",
-  "titles": [
-    {
-      "title": "Archlinux Arch Linux",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.archlinux.org/",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:archlinux:arch_linux:-:*:*:*:*:*:*:*",
+	"cpeNameId": "3A810EFF-7734-418F-9698-DD977C111CBC",
+	"created": "2020-04-09T20:00:44.507",
+	"lastModified": "2020-04-09T20:00:44.507",
+	"titles": [
+		{
+			"title": "Archlinux Arch Linux",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.archlinux.org/",
+			"type": "Product"
+		}
+	]
 }

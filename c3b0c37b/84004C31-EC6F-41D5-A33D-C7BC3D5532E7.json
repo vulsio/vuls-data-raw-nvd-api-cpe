@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:apache:tomcat:9.0.0:m13:*:*:*:*:*:*",
-  "cpeNameId": "84004C31-EC6F-41D5-A33D-C7BC3D5532E7",
-  "created": "2017-03-14T19:58:58.757",
-  "lastModified": "2017-03-14T19:58:58.757",
-  "titles": [
-    {
-      "title": "Apache Software Foundation Tomcat 9.0.0 M13",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://archive.apache.org/dist/tomcat/tomcat-9/",
-      "type": "Version"
-    },
-    {
-      "ref": "http://tomcat.apache.org/",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:apache:tomcat:9.0.0:m13:*:*:*:*:*:*",
+	"cpeNameId": "84004C31-EC6F-41D5-A33D-C7BC3D5532E7",
+	"created": "2017-03-14T19:58:58.757",
+	"lastModified": "2017-03-14T19:58:58.757",
+	"titles": [
+		{
+			"title": "Apache Software Foundation Tomcat 9.0.0 M13",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://archive.apache.org/dist/tomcat/tomcat-9/",
+			"type": "Version"
+		},
+		{
+			"ref": "http://tomcat.apache.org/",
+			"type": "Product"
+		}
+	]
 }

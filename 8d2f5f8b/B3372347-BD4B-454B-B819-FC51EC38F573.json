@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:xnview:xnview:2.12:*:*:*:*:*:*:*",
-  "cpeNameId": "B3372347-BD4B-454B-B819-FC51EC38F573",
-  "created": "2014-03-19T13:58:50.857",
-  "lastModified": "2014-03-19T21:18:35.990",
-  "titles": [
-    {
-      "title": "XnView 2.12",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www.xnview.com/en/xnview/"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:xnview:xnview:2.12:*:*:*:*:*:*:*",
+	"cpeNameId": "B3372347-BD4B-454B-B819-FC51EC38F573",
+	"created": "2014-03-19T13:58:50.857",
+	"lastModified": "2014-03-19T21:18:35.990",
+	"titles": [
+		{
+			"title": "XnView 2.12",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.xnview.com/en/xnview/"
+		}
+	]
 }

@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:plone:plone:4.1.6:*:*:*:*:*:*:*",
-  "cpeNameId": "08964037-39F2-4860-9DEF-4861C1FB5C2F",
-  "created": "2014-05-05T11:36:12.547",
-  "lastModified": "2014-05-15T01:14:06.250",
-  "titles": [
-    {
-      "title": "Plone 4.1.6",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://plone.org/security/20131210/path-leak"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:plone:plone:4.1.6:*:*:*:*:*:*:*",
+	"cpeNameId": "08964037-39F2-4860-9DEF-4861C1FB5C2F",
+	"created": "2014-05-05T11:36:12.547",
+	"lastModified": "2014-05-15T01:14:06.250",
+	"titles": [
+		{
+			"title": "Plone 4.1.6",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://plone.org/security/20131210/path-leak"
+		}
+	]
 }

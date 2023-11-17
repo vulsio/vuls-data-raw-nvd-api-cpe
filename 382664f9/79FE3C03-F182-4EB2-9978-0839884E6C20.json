@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:phpseclib:phpseclib:2.0.7:*:*:*:*:*:*:*",
-  "cpeNameId": "79FE3C03-F182-4EB2-9978-0839884E6C20",
-  "created": "2021-07-14T15:48:14.690",
-  "lastModified": "2021-07-14T16:02:34.923",
-  "titles": [
-    {
-      "title": "phpseclib 2.0.7",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://phpseclib.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/phpseclib/phpseclib/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:phpseclib:phpseclib:2.0.7:*:*:*:*:*:*:*",
+	"cpeNameId": "79FE3C03-F182-4EB2-9978-0839884E6C20",
+	"created": "2021-07-14T15:48:14.690",
+	"lastModified": "2021-07-14T16:02:34.923",
+	"titles": [
+		{
+			"title": "phpseclib 2.0.7",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://phpseclib.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/phpseclib/phpseclib/releases",
+			"type": "Change Log"
+		}
+	]
 }

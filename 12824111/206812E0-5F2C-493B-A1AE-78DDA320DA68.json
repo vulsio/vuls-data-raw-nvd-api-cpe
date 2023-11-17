@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:microsoft:sql_server:2022:*:*:*:*:*:x64:*",
-  "cpeNameId": "206812E0-5F2C-493B-A1AE-78DDA320DA68",
-  "created": "2023-02-21T20:40:56.640",
-  "lastModified": "2023-03-06T14:59:11.617",
-  "titles": [
-    {
-      "title": "Microsoft SQL Server 2022 on x64",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.microsoft.com/en-us/sql-server/sql-server-2022",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:microsoft:sql_server:2022:*:*:*:*:*:x64:*",
+	"cpeNameId": "206812E0-5F2C-493B-A1AE-78DDA320DA68",
+	"created": "2023-02-21T20:40:56.640",
+	"lastModified": "2023-03-06T14:59:11.617",
+	"titles": [
+		{
+			"title": "Microsoft SQL Server 2022 on x64",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.microsoft.com/en-us/sql-server/sql-server-2022",
+			"type": "Product"
+		}
+	]
 }

@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:theforeman:foreman:0.4.1:*:*:*:*:*:*:*",
-  "cpeNameId": "9F35B4FF-E2EC-493C-AFC5-BC0661DFEEDC",
-  "created": "2014-05-08T15:22:55.140",
-  "lastModified": "2014-05-13T13:07:30.910",
-  "titles": [
-    {
-      "title": "theforeman Foreman 0.4.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://projects.theforeman.org/projects/foreman/files"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:theforeman:foreman:0.4.1:*:*:*:*:*:*:*",
+	"cpeNameId": "9F35B4FF-E2EC-493C-AFC5-BC0661DFEEDC",
+	"created": "2014-05-08T15:22:55.140",
+	"lastModified": "2014-05-13T13:07:30.910",
+	"titles": [
+		{
+			"title": "theforeman Foreman 0.4.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://projects.theforeman.org/projects/foreman/files"
+		}
+	]
 }

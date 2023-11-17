@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:asus:rt-ac66u_firmware:-:*:*:*:*:*:*:*",
-  "cpeNameId": "766154E6-FACE-46D8-8CBB-7FD662551CBC",
-  "created": "2017-03-14T21:21:29.013",
-  "lastModified": "2021-05-18T14:42:24.737",
-  "titles": [
-    {
-      "title": "Asus RT-AC66U Firmware",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.asus.com/us/Networking/RTAC66U/",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:asus:rt-ac66u_firmware:-:*:*:*:*:*:*:*",
+	"cpeNameId": "766154E6-FACE-46D8-8CBB-7FD662551CBC",
+	"created": "2017-03-14T21:21:29.013",
+	"lastModified": "2021-05-18T14:42:24.737",
+	"titles": [
+		{
+			"title": "Asus RT-AC66U Firmware",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.asus.com/us/Networking/RTAC66U/",
+			"type": "Product"
+		}
+	]
 }

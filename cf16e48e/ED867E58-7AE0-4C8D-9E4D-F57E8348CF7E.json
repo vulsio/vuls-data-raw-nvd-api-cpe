@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:laravel:framework:5.0.8:*:*:*:*:*:*:*",
-  "cpeNameId": "ED867E58-7AE0-4C8D-9E4D-F57E8348CF7E",
-  "created": "2019-03-18T18:27:49.783",
-  "lastModified": "2019-03-18T18:27:49.783",
-  "titles": [
-    {
-      "title": "Laravel Framework 5.0.8",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://laravel.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/laravel/framework",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:laravel:framework:5.0.8:*:*:*:*:*:*:*",
+	"cpeNameId": "ED867E58-7AE0-4C8D-9E4D-F57E8348CF7E",
+	"created": "2019-03-18T18:27:49.783",
+	"lastModified": "2019-03-18T18:27:49.783",
+	"titles": [
+		{
+			"title": "Laravel Framework 5.0.8",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://laravel.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/laravel/framework",
+			"type": "Version"
+		}
+	]
 }

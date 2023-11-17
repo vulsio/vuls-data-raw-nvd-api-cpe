@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:covercms_project:covercms:1.1.6:*:*:*:*:*:*:*",
-  "cpeNameId": "4BEC694E-BF3D-4A5B-A2B6-EE3492630CA0",
-  "created": "2020-04-21T13:42:54.343",
-  "lastModified": "2020-04-21T13:42:54.343",
-  "titles": [
-    {
-      "title": "CoverCMS Project CoverCMS 1.1.6",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/qingrenyanlei/CoverCMS",
-      "type": "Project"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:covercms_project:covercms:1.1.6:*:*:*:*:*:*:*",
+	"cpeNameId": "4BEC694E-BF3D-4A5B-A2B6-EE3492630CA0",
+	"created": "2020-04-21T13:42:54.343",
+	"lastModified": "2020-04-21T13:42:54.343",
+	"titles": [
+		{
+			"title": "CoverCMS Project CoverCMS 1.1.6",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/qingrenyanlei/CoverCMS",
+			"type": "Project"
+		}
+	]
 }

@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:dreamer_cms_project:dreamer_cms:-:*:*:*:*:*:*:*",
-  "cpeNameId": "4B7033A6-2BD0-4BE3-9B4B-DA38A7E1EE44",
-  "created": "2022-03-28T15:42:28.427",
-  "lastModified": "2022-04-07T19:46:33.167",
-  "titles": [
-    {
-      "title": "Dreamer CMS Project Dreamer Content Management System",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://gitee.com/isoftforce/dreamer_cms/issues/I4F93V",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://gitee.com/isoftforce/dreamer_cms/tags",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:dreamer_cms_project:dreamer_cms:-:*:*:*:*:*:*:*",
+	"cpeNameId": "4B7033A6-2BD0-4BE3-9B4B-DA38A7E1EE44",
+	"created": "2022-03-28T15:42:28.427",
+	"lastModified": "2022-04-07T19:46:33.167",
+	"titles": [
+		{
+			"title": "Dreamer CMS Project Dreamer Content Management System",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://gitee.com/isoftforce/dreamer_cms/issues/I4F93V",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://gitee.com/isoftforce/dreamer_cms/tags",
+			"type": "Version"
+		}
+	]
 }

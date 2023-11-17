@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:apache:tomcat:3.1:*:*:*:*:*:*:*",
-  "cpeNameId": "3F4DDCD9-82B7-4ABC-9B44-159806CBBC77",
-  "created": "2007-08-23T21:16:59.567",
-  "lastModified": "2008-03-25T18:12:12.483",
-  "titles": [
-    {
-      "title": "Apache Software Foundation Tomcat 3.1",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:apache:tomcat:3.1:*:*:*:*:*:*:*",
+	"cpeNameId": "3F4DDCD9-82B7-4ABC-9B44-159806CBBC77",
+	"created": "2007-08-23T21:16:59.567",
+	"lastModified": "2008-03-25T18:12:12.483",
+	"titles": [
+		{
+			"title": "Apache Software Foundation Tomcat 3.1",
+			"lang": "en"
+		}
+	]
 }

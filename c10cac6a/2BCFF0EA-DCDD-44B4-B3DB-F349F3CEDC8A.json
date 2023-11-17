@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:sapplica:sentrifugo:3.0:*:*:*:*:*:*:*",
-  "cpeNameId": "2BCFF0EA-DCDD-44B4-B3DB-F349F3CEDC8A",
-  "created": "2019-09-16T17:38:46.217",
-  "lastModified": "2019-09-16T17:38:46.217",
-  "titles": [
-    {
-      "title": "Sapplica Sentrifugo 3.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www.sentrifugo.com/downloadzip/1539955467",
-      "type": "Version"
-    },
-    {
-      "ref": "http://www.sapplica.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:sapplica:sentrifugo:3.0:*:*:*:*:*:*:*",
+	"cpeNameId": "2BCFF0EA-DCDD-44B4-B3DB-F349F3CEDC8A",
+	"created": "2019-09-16T17:38:46.217",
+	"lastModified": "2019-09-16T17:38:46.217",
+	"titles": [
+		{
+			"title": "Sapplica Sentrifugo 3.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.sentrifugo.com/downloadzip/1539955467",
+			"type": "Version"
+		},
+		{
+			"ref": "http://www.sapplica.com/",
+			"type": "Vendor"
+		}
+	]
 }

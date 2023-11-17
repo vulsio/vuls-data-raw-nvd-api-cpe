@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:polrproject:polr:1.2.5:beta:*:*:*:*:*:*",
-  "cpeNameId": "64D17706-EC54-44AD-82CB-2DAAEDCDFDAA",
-  "created": "2021-02-08T13:55:40.750",
-  "lastModified": "2021-02-08T13:55:40.750",
-  "titles": [
-    {
-      "title": "Polrproject Polr 1.2.5 Beta",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/cydrobolt/polr/tags",
-      "type": "Version"
-    },
-    {
-      "ref": "https://polrproject.org/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:polrproject:polr:1.2.5:beta:*:*:*:*:*:*",
+	"cpeNameId": "64D17706-EC54-44AD-82CB-2DAAEDCDFDAA",
+	"created": "2021-02-08T13:55:40.750",
+	"lastModified": "2021-02-08T13:55:40.750",
+	"titles": [
+		{
+			"title": "Polrproject Polr 1.2.5 Beta",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/cydrobolt/polr/tags",
+			"type": "Version"
+		},
+		{
+			"ref": "https://polrproject.org/",
+			"type": "Vendor"
+		}
+	]
 }

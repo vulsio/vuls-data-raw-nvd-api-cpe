@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:python:pycryptodome:3.6.1:*:*:*:*:*:*:*",
-  "cpeNameId": "C14F9E41-BB64-4137-BF2F-2307401D89E0",
-  "created": "2019-11-05T15:05:20.267",
-  "lastModified": "2019-11-05T15:05:20.267",
-  "titles": [
-    {
-      "title": "Python Pycryptodome 3.6.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://pypi.org/project/pycryptodome/#history",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:python:pycryptodome:3.6.1:*:*:*:*:*:*:*",
+	"cpeNameId": "C14F9E41-BB64-4137-BF2F-2307401D89E0",
+	"created": "2019-11-05T15:05:20.267",
+	"lastModified": "2019-11-05T15:05:20.267",
+	"titles": [
+		{
+			"title": "Python Pycryptodome 3.6.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://pypi.org/project/pycryptodome/#history",
+			"type": "Version"
+		}
+	]
 }

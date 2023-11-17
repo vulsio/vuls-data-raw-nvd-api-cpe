@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:sagemcom:livebox:-:*:*:*:*:*:*:*",
-  "cpeNameId": "F0E70AE0-9701-4850-A103-71AAC3708667",
-  "created": "2017-03-10T19:35:56.690",
-  "lastModified": "2021-08-09T13:46:53.040",
-  "titles": [
-    {
-      "title": "Sagemcom Livebox",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.sagemcom.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:sagemcom:livebox:-:*:*:*:*:*:*:*",
+	"cpeNameId": "F0E70AE0-9701-4850-A103-71AAC3708667",
+	"created": "2017-03-10T19:35:56.690",
+	"lastModified": "2021-08-09T13:46:53.040",
+	"titles": [
+		{
+			"title": "Sagemcom Livebox",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.sagemcom.com/",
+			"type": "Vendor"
+		}
+	]
 }

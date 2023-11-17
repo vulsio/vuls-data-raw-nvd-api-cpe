@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:phoenix:securecore_technology:-:*:*:*:*:*:*:*",
-  "cpeNameId": "E8D1FECB-D36E-4D0F-A63E-AA34F072AEF1",
-  "created": "2019-12-04T19:15:49.007",
-  "lastModified": "2019-12-04T19:15:49.007",
-  "titles": [
-    {
-      "title": "Phoenix SecureCore Technology (SCT)",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.phoenix.com/products/phoenix-securecore-technology/index.html",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:phoenix:securecore_technology:-:*:*:*:*:*:*:*",
+	"cpeNameId": "E8D1FECB-D36E-4D0F-A63E-AA34F072AEF1",
+	"created": "2019-12-04T19:15:49.007",
+	"lastModified": "2019-12-04T19:15:49.007",
+	"titles": [
+		{
+			"title": "Phoenix SecureCore Technology (SCT)",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.phoenix.com/products/phoenix-securecore-technology/index.html",
+			"type": "Product"
+		}
+	]
 }

@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:gnu:gnutls:1.7.16:*:*:*:*:*:*:*",
-  "cpeNameId": "7C05E4FA-4BAB-481D-A917-8A6C04060B48",
-  "created": "2008-09-05T20:04:54.400",
-  "lastModified": "2012-03-16T19:54:36.207",
-  "titles": [
-    {
-      "title": "GNU GnuTLS 1.7.16",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:gnu:gnutls:1.7.16:*:*:*:*:*:*:*",
+	"cpeNameId": "7C05E4FA-4BAB-481D-A917-8A6C04060B48",
+	"created": "2008-09-05T20:04:54.400",
+	"lastModified": "2012-03-16T19:54:36.207",
+	"titles": [
+		{
+			"title": "GNU GnuTLS 1.7.16",
+			"lang": "en"
+		}
+	]
 }

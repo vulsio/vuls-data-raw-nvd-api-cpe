@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:jenkins:claim:2.2:*:*:*:*:jenkins:*:*",
-  "cpeNameId": "2358C371-225D-4C8C-9AD1-AE787F6752F8",
-  "created": "2021-08-30T15:32:43.287",
-  "lastModified": "2021-08-30T17:07:22.500",
-  "titles": [
-    {
-      "title": "Jenkins Claim 2.2 for Jenkins",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/jenkinsci/claim-plugin/tags",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:jenkins:claim:2.2:*:*:*:*:jenkins:*:*",
+	"cpeNameId": "2358C371-225D-4C8C-9AD1-AE787F6752F8",
+	"created": "2021-08-30T15:32:43.287",
+	"lastModified": "2021-08-30T17:07:22.500",
+	"titles": [
+		{
+			"title": "Jenkins Claim 2.2 for Jenkins",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/jenkinsci/claim-plugin/tags",
+			"type": "Change Log"
+		}
+	]
 }

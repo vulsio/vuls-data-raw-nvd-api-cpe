@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:owncloud:owncloud:8.1.2:*:*:*:*:*:*:*",
-  "cpeNameId": "2A44DC77-0F82-4FAB-B35D-0BCFAC243AEA",
-  "created": "2022-06-30T13:05:51.647",
-  "lastModified": "2022-06-30T13:06:39.087",
-  "titles": [
-    {
-      "title": "OwnCloud 8.1.2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/owncloud/core",
-      "type": "Version"
-    },
-    {
-      "ref": "https://owncloud.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:owncloud:owncloud:8.1.2:*:*:*:*:*:*:*",
+	"cpeNameId": "2A44DC77-0F82-4FAB-B35D-0BCFAC243AEA",
+	"created": "2022-06-30T13:05:51.647",
+	"lastModified": "2022-06-30T13:06:39.087",
+	"titles": [
+		{
+			"title": "OwnCloud 8.1.2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/owncloud/core",
+			"type": "Version"
+		},
+		{
+			"ref": "https://owncloud.com/",
+			"type": "Vendor"
+		}
+	]
 }

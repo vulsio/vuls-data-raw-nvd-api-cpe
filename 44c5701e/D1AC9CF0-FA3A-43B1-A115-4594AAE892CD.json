@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:xerox:workcentre_275:-:*:*:*:*:*:*:*",
-  "cpeNameId": "D1AC9CF0-FA3A-43B1-A115-4594AAE892CD",
-  "created": "2007-08-23T21:16:59.567",
-  "lastModified": "2008-04-07T14:54:19.847",
-  "titles": [
-    {
-      "title": "Xerox WorkCentre 275",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:xerox:workcentre_275:-:*:*:*:*:*:*:*",
+	"cpeNameId": "D1AC9CF0-FA3A-43B1-A115-4594AAE892CD",
+	"created": "2007-08-23T21:16:59.567",
+	"lastModified": "2008-04-07T14:54:19.847",
+	"titles": [
+		{
+			"title": "Xerox WorkCentre 275",
+			"lang": "en"
+		}
+	]
 }

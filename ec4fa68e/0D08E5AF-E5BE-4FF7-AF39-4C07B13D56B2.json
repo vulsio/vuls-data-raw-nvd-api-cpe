@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:netgear:stora:-:*:*:*:*:*:*:*",
-  "cpeNameId": "0D08E5AF-E5BE-4FF7-AF39-4C07B13D56B2",
-  "created": "2020-07-13T10:20:49.990",
-  "lastModified": "2020-07-13T10:20:49.990",
-  "titles": [
-    {
-      "title": "NETGEAR STORA",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.netgear.com/support/product/MS2110.aspx",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:netgear:stora:-:*:*:*:*:*:*:*",
+	"cpeNameId": "0D08E5AF-E5BE-4FF7-AF39-4C07B13D56B2",
+	"created": "2020-07-13T10:20:49.990",
+	"lastModified": "2020-07-13T10:20:49.990",
+	"titles": [
+		{
+			"title": "NETGEAR STORA",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.netgear.com/support/product/MS2110.aspx",
+			"type": "Product"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:1byte:exactspy:-:*:*:*:*:*:*:*",
-  "cpeNameId": "A4248457-BB51-46B4-81BC-8EFDDACC55FF",
-  "created": "2022-03-04T16:30:00.620",
-  "lastModified": "2022-09-12T13:51:26.700",
-  "titles": [
-    {
-      "title": "1byte Exactspy",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.kb.cert.org/vuls/id/229438",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:1byte:exactspy:-:*:*:*:*:*:*:*",
+	"cpeNameId": "A4248457-BB51-46B4-81BC-8EFDDACC55FF",
+	"created": "2022-03-04T16:30:00.620",
+	"lastModified": "2022-09-12T13:51:26.700",
+	"titles": [
+		{
+			"title": "1byte Exactspy",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.kb.cert.org/vuls/id/229438",
+			"type": "Advisory"
+		}
+	]
 }

@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:gfi:archiver:-:*:*:*:*:*:*:*",
-  "cpeNameId": "8FAA5AF6-7622-4A15-B55D-8535113B212A",
-  "created": "2022-07-12T17:24:31.243",
-  "lastModified": "2022-07-14T18:33:00.897",
-  "titles": [
-    {
-      "title": "GFI Archiver",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.gfi.com/products-and-solutions/network-security-solutions/gfi-archiver/specifications/product-editions",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://aminbohio.com/gfi-mail-archiver-15-1-telerik-ui-component-arbitrary-file-upload-unauthenticated-exploit/",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:gfi:archiver:-:*:*:*:*:*:*:*",
+	"cpeNameId": "8FAA5AF6-7622-4A15-B55D-8535113B212A",
+	"created": "2022-07-12T17:24:31.243",
+	"lastModified": "2022-07-14T18:33:00.897",
+	"titles": [
+		{
+			"title": "GFI Archiver",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.gfi.com/products-and-solutions/network-security-solutions/gfi-archiver/specifications/product-editions",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://aminbohio.com/gfi-mail-archiver-15-1-telerik-ui-component-arbitrary-file-upload-unauthenticated-exploit/",
+			"type": "Advisory"
+		}
+	]
 }

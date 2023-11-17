@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:file-upload-with-preview_project:file-upload-with-preview:3.1.2:*:*:*:*:node.js:*:*",
-  "cpeNameId": "A83B54B3-6D0A-4B61-91C1-651246F6F828",
-  "created": "2021-09-08T15:53:30.553",
-  "lastModified": "2021-09-08T15:54:41.093",
-  "titles": [
-    {
-      "title": "file-upload-with-preview Project file-upload-with-preview 3.1.2 for Node.js",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.npmjs.com/package/file-upload-with-preview",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:file-upload-with-preview_project:file-upload-with-preview:3.1.2:*:*:*:*:node.js:*:*",
+	"cpeNameId": "A83B54B3-6D0A-4B61-91C1-651246F6F828",
+	"created": "2021-09-08T15:53:30.553",
+	"lastModified": "2021-09-08T15:54:41.093",
+	"titles": [
+		{
+			"title": "file-upload-with-preview Project file-upload-with-preview 3.1.2 for Node.js",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.npmjs.com/package/file-upload-with-preview",
+			"type": "Version"
+		}
+	]
 }

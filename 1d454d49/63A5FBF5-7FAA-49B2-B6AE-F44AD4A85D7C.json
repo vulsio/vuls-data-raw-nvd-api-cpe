@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:vim:vim:8.2.5011:*:*:*:*:*:*:*",
-  "cpeNameId": "63A5FBF5-7FAA-49B2-B6AE-F44AD4A85D7C",
-  "created": "2022-06-02T14:33:53.847",
-  "lastModified": "2022-06-02T14:35:19.303",
-  "titles": [
-    {
-      "title": "Vim 8.2.5011",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.vim.org/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/vim/vim/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:vim:vim:8.2.5011:*:*:*:*:*:*:*",
+	"cpeNameId": "63A5FBF5-7FAA-49B2-B6AE-F44AD4A85D7C",
+	"created": "2022-06-02T14:33:53.847",
+	"lastModified": "2022-06-02T14:35:19.303",
+	"titles": [
+		{
+			"title": "Vim 8.2.5011",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.vim.org/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/vim/vim/releases",
+			"type": "Change Log"
+		}
+	]
 }

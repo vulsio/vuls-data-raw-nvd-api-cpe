@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:ibm:cognos_analytics:11.2.4:-:*:*:*:*:*:*",
-  "cpeNameId": "358682ED-2129-4BEC-9FCA-E47042BDE6CC",
-  "created": "2023-07-28T13:22:47.277",
-  "lastModified": "2023-07-28T21:13:21.840",
-  "titles": [
-    {
-      "title": "IBM Cognos Analytics 11.2.4",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.ibm.com/support/pages/node/6195689",
-      "type": "Version"
-    },
-    {
-      "ref": "https://www.ibm.com/support/pages/node/7012621",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:ibm:cognos_analytics:11.2.4:-:*:*:*:*:*:*",
+	"cpeNameId": "358682ED-2129-4BEC-9FCA-E47042BDE6CC",
+	"created": "2023-07-28T13:22:47.277",
+	"lastModified": "2023-07-28T21:13:21.840",
+	"titles": [
+		{
+			"title": "IBM Cognos Analytics 11.2.4",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.ibm.com/support/pages/node/6195689",
+			"type": "Version"
+		},
+		{
+			"ref": "https://www.ibm.com/support/pages/node/7012621",
+			"type": "Advisory"
+		}
+	]
 }

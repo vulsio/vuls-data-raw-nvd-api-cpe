@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:jenkins:security_inspector:0.5:*:*:*:*:jenkins:*:*",
-  "cpeNameId": "B987B99E-F808-4FD4-886B-20C71FA4AF99",
-  "created": "2022-11-23T12:43:50.803",
-  "lastModified": "2022-11-23T12:48:36.190",
-  "titles": [
-    {
-      "title": "Jenkins Security Inspector 0.5 for Jenkins",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://plugins.jenkins.io/security-inspector/#releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:jenkins:security_inspector:0.5:*:*:*:*:jenkins:*:*",
+	"cpeNameId": "B987B99E-F808-4FD4-886B-20C71FA4AF99",
+	"created": "2022-11-23T12:43:50.803",
+	"lastModified": "2022-11-23T12:48:36.190",
+	"titles": [
+		{
+			"title": "Jenkins Security Inspector 0.5 for Jenkins",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://plugins.jenkins.io/security-inspector/#releases",
+			"type": "Change Log"
+		}
+	]
 }

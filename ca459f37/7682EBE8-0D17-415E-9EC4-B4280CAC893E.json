@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:wekan_project:wekan:3.54:*:*:*:*:*:*:*",
-  "cpeNameId": "7682EBE8-0D17-415E-9EC4-B4280CAC893E",
-  "created": "2021-02-16T15:35:37.640",
-  "lastModified": "2021-02-16T15:35:37.640",
-  "titles": [
-    {
-      "title": "Wekan Project Wekan 3.54",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/wekan/wekan",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:wekan_project:wekan:3.54:*:*:*:*:*:*:*",
+	"cpeNameId": "7682EBE8-0D17-415E-9EC4-B4280CAC893E",
+	"created": "2021-02-16T15:35:37.640",
+	"lastModified": "2021-02-16T15:35:37.640",
+	"titles": [
+		{
+			"title": "Wekan Project Wekan 3.54",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/wekan/wekan",
+			"type": "Version"
+		}
+	]
 }

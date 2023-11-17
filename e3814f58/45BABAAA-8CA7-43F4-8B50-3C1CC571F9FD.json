@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:facebook:thrift:2018.01.29.00:*:*:*:*:*:*:*",
-  "cpeNameId": "45BABAAA-8CA7-43F4-8B50-3C1CC571F9FD",
-  "created": "2019-05-07T15:28:57.773",
-  "lastModified": "2019-05-07T15:28:57.773",
-  "titles": [
-    {
-      "title": "Facebook Thrift 2018.01.29.00",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/facebook/fbthrift",
-      "type": "Version"
-    },
-    {
-      "ref": "https://opensource.facebook.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:facebook:thrift:2018.01.29.00:*:*:*:*:*:*:*",
+	"cpeNameId": "45BABAAA-8CA7-43F4-8B50-3C1CC571F9FD",
+	"created": "2019-05-07T15:28:57.773",
+	"lastModified": "2019-05-07T15:28:57.773",
+	"titles": [
+		{
+			"title": "Facebook Thrift 2018.01.29.00",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/facebook/fbthrift",
+			"type": "Version"
+		},
+		{
+			"ref": "https://opensource.facebook.com/",
+			"type": "Vendor"
+		}
+	]
 }

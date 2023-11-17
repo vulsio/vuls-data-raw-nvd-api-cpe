@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:frappe:frappe:13.57.2:*:*:*:*:*:*:*",
-  "cpeNameId": "F36DACDD-B8E1-40B4-B8C3-FB20FCC3CF84",
-  "created": "2023-09-11T12:13:23.400",
-  "lastModified": "2023-09-11T12:18:00.980",
-  "titles": [
-    {
-      "title": "Frappé 13.57.2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://frappe.io/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/frappe/frappe/releases",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:frappe:frappe:13.57.2:*:*:*:*:*:*:*",
+	"cpeNameId": "F36DACDD-B8E1-40B4-B8C3-FB20FCC3CF84",
+	"created": "2023-09-11T12:13:23.400",
+	"lastModified": "2023-09-11T12:18:00.980",
+	"titles": [
+		{
+			"title": "Frappé 13.57.2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://frappe.io/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/frappe/frappe/releases",
+			"type": "Advisory"
+		}
+	]
 }

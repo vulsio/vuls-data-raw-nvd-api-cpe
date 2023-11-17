@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:mozilla:firefox:112.0.1:*:*:*:*:*:*:*",
-  "cpeNameId": "AA084CE8-6042-4A88-8F93-ED2809EAB734",
-  "created": "2023-09-21T17:55:37.093",
-  "lastModified": "2023-09-21T17:55:37.093",
-  "titles": [
-    {
-      "title": "Mozilla Firefox 112.0.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.mozilla.org/en-US/firefox/releases/",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:mozilla:firefox:112.0.1:*:*:*:*:*:*:*",
+	"cpeNameId": "AA084CE8-6042-4A88-8F93-ED2809EAB734",
+	"created": "2023-09-21T17:55:37.093",
+	"lastModified": "2023-09-21T17:55:37.093",
+	"titles": [
+		{
+			"title": "Mozilla Firefox 112.0.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.mozilla.org/en-US/firefox/releases/",
+			"type": "Change Log"
+		}
+	]
 }

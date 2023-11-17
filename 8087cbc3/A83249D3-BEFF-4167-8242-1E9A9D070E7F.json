@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:upx_project:upx:3.94:*:*:*:*:*:*:*",
-  "cpeNameId": "A83249D3-BEFF-4167-8242-1E9A9D070E7F",
-  "created": "2019-10-17T12:34:06.043",
-  "lastModified": "2019-10-17T12:34:06.043",
-  "titles": [
-    {
-      "title": "UPX Project UPX (Ultimate Packer for eXecutables) 3.94",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/upx/upx",
-      "type": "Project"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:upx_project:upx:3.94:*:*:*:*:*:*:*",
+	"cpeNameId": "A83249D3-BEFF-4167-8242-1E9A9D070E7F",
+	"created": "2019-10-17T12:34:06.043",
+	"lastModified": "2019-10-17T12:34:06.043",
+	"titles": [
+		{
+			"title": "UPX Project UPX (Ultimate Packer for eXecutables) 3.94",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/upx/upx",
+			"type": "Project"
+		}
+	]
 }

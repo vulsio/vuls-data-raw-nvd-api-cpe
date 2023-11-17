@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:endeavorsystems:openfisma:2.16.1:*:*:*:*:*:*:*",
-  "cpeNameId": "09B9ACE3-D989-4ABF-BF02-82079270688C",
-  "created": "2011-12-21T20:46:20.367",
-  "lastModified": "2011-12-21T20:46:20.367",
-  "titles": [
-    {
-      "title": "OpenFISMA 2.16.1",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:endeavorsystems:openfisma:2.16.1:*:*:*:*:*:*:*",
+	"cpeNameId": "09B9ACE3-D989-4ABF-BF02-82079270688C",
+	"created": "2011-12-21T20:46:20.367",
+	"lastModified": "2011-12-21T20:46:20.367",
+	"titles": [
+		{
+			"title": "OpenFISMA 2.16.1",
+			"lang": "en"
+		}
+	]
 }

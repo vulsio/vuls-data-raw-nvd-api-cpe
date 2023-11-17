@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:gnulib:gnulib:2017-04-25:*:*:*:*:*:*:*",
-  "cpeNameId": "9FE193CB-2EBD-44CA-86D0-AAA091B77B77",
-  "created": "2017-05-12T18:43:09.147",
-  "lastModified": "2021-06-02T17:31:44.497",
-  "titles": [
-    {
-      "title": "gnulib 2017-04-25",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://git.savannah.gnu.org/gitweb/?p=gnulib.git;a=summary",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:gnulib:gnulib:2017-04-25:*:*:*:*:*:*:*",
+	"cpeNameId": "9FE193CB-2EBD-44CA-86D0-AAA091B77B77",
+	"created": "2017-05-12T18:43:09.147",
+	"lastModified": "2021-06-02T17:31:44.497",
+	"titles": [
+		{
+			"title": "gnulib 2017-04-25",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://git.savannah.gnu.org/gitweb/?p=gnulib.git;a=summary",
+			"type": "Product"
+		}
+	]
 }

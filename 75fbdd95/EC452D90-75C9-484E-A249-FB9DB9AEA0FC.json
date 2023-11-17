@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:juniper:network_connect:6.4.0.15779:*:*:*:*:*:*:*",
-  "cpeNameId": "EC452D90-75C9-484E-A249-FB9DB9AEA0FC",
-  "created": "2012-06-21T19:07:29.817",
-  "lastModified": "2012-06-21T19:07:29.817",
-  "titles": [
-    {
-      "title": "Juniper Network Connect 6.4.0.15779",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:juniper:network_connect:6.4.0.15779:*:*:*:*:*:*:*",
+	"cpeNameId": "EC452D90-75C9-484E-A249-FB9DB9AEA0FC",
+	"created": "2012-06-21T19:07:29.817",
+	"lastModified": "2012-06-21T19:07:29.817",
+	"titles": [
+		{
+			"title": "Juniper Network Connect 6.4.0.15779",
+			"lang": "en"
+		}
+	]
 }

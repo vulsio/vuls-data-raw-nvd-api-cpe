@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:jenkins:jira:3.1.0:*:*:*:*:jenkins:*:*",
-  "cpeNameId": "F30895EA-1BAB-433F-992D-4C30A542DA4B",
-  "created": "2022-11-23T16:45:39.467",
-  "lastModified": "2022-11-23T16:46:18.570",
-  "titles": [
-    {
-      "title": "Jenkins Jira 3.1.0 for Jenkins",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://plugins.jenkins.io/jira/#releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:jenkins:jira:3.1.0:*:*:*:*:jenkins:*:*",
+	"cpeNameId": "F30895EA-1BAB-433F-992D-4C30A542DA4B",
+	"created": "2022-11-23T16:45:39.467",
+	"lastModified": "2022-11-23T16:46:18.570",
+	"titles": [
+		{
+			"title": "Jenkins Jira 3.1.0 for Jenkins",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://plugins.jenkins.io/jira/#releases",
+			"type": "Change Log"
+		}
+	]
 }

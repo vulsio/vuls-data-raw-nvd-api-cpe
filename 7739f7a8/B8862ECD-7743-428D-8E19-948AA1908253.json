@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:microfocus:enterpriselink:5.0:*:*:*:*:*:*:*",
-  "cpeNameId": "B8862ECD-7743-428D-8E19-948AA1908253",
-  "created": "2012-06-21T19:08:49.050",
-  "lastModified": "2012-06-21T19:08:49.050",
-  "titles": [
-    {
-      "title": "Microfocus Enterpriselink 5.0",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:microfocus:enterpriselink:5.0:*:*:*:*:*:*:*",
+	"cpeNameId": "B8862ECD-7743-428D-8E19-948AA1908253",
+	"created": "2012-06-21T19:08:49.050",
+	"lastModified": "2012-06-21T19:08:49.050",
+	"titles": [
+		{
+			"title": "Microfocus Enterpriselink 5.0",
+			"lang": "en"
+		}
+	]
 }

@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:hummingbird:cyberdocs:3.1:*:*:*:*:*:*:*",
-  "cpeNameId": "B45C35FC-3D5A-4112-AD20-093545BE41DD",
-  "created": "2007-08-23T21:16:59.567",
-  "lastModified": "2007-09-14T17:36:49.090",
-  "titles": [
-    {
-      "title": "Hummingbird CyberDOCS 3.1",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:hummingbird:cyberdocs:3.1:*:*:*:*:*:*:*",
+	"cpeNameId": "B45C35FC-3D5A-4112-AD20-093545BE41DD",
+	"created": "2007-08-23T21:16:59.567",
+	"lastModified": "2007-09-14T17:36:49.090",
+	"titles": [
+		{
+			"title": "Hummingbird CyberDOCS 3.1",
+			"lang": "en"
+		}
+	]
 }

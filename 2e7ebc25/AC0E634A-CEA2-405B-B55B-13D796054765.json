@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:calibre-web_project:calibre-web:0.6.15:*:*:*:*:*:*:*",
-  "cpeNameId": "AC0E634A-CEA2-405B-B55B-13D796054765",
-  "created": "2022-02-01T16:11:13.460",
-  "lastModified": "2022-02-02T19:03:53.413",
-  "titles": [
-    {
-      "title": "Calibre-Web Project Calibre-Web 0.6.15",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/janeczku/calibre-web/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:calibre-web_project:calibre-web:0.6.15:*:*:*:*:*:*:*",
+	"cpeNameId": "AC0E634A-CEA2-405B-B55B-13D796054765",
+	"created": "2022-02-01T16:11:13.460",
+	"lastModified": "2022-02-02T19:03:53.413",
+	"titles": [
+		{
+			"title": "Calibre-Web Project Calibre-Web 0.6.15",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/janeczku/calibre-web/releases",
+			"type": "Change Log"
+		}
+	]
 }

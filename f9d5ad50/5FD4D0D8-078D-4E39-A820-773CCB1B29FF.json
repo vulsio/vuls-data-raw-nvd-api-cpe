@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:digitaldruid:hotel_druid:3.0.4:*:*:*:*:*:*:*",
-  "cpeNameId": "5FD4D0D8-078D-4E39-A820-773CCB1B29FF",
-  "created": "2023-05-08T16:55:41.450",
-  "lastModified": "2023-08-19T03:58:59.643",
-  "titles": [
-    {
-      "title": "Digitaldruid Hotel Druid 3.0.4",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/jichngan/CVE-2023-29839",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://www.hoteldruid.com/",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:digitaldruid:hotel_druid:3.0.4:*:*:*:*:*:*:*",
+	"cpeNameId": "5FD4D0D8-078D-4E39-A820-773CCB1B29FF",
+	"created": "2023-05-08T16:55:41.450",
+	"lastModified": "2023-08-19T03:58:59.643",
+	"titles": [
+		{
+			"title": "Digitaldruid Hotel Druid 3.0.4",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/jichngan/CVE-2023-29839",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://www.hoteldruid.com/",
+			"type": "Product"
+		}
+	]
 }

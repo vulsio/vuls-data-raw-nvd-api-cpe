@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:rubyonrails:rails:5.1.7:-:*:*:*:*:*:*",
-  "cpeNameId": "0FF4985F-4FFC-425A-B27B-DF974CEDE26D",
-  "created": "2019-05-07T16:23:12.677",
-  "lastModified": "2019-05-07T16:23:12.677",
-  "titles": [
-    {
-      "title": "Ruby on Rails Rails 5.1.7",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/rails/rails",
-      "type": "Version"
-    },
-    {
-      "ref": "https://rubyonrails.org/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:rubyonrails:rails:5.1.7:-:*:*:*:*:*:*",
+	"cpeNameId": "0FF4985F-4FFC-425A-B27B-DF974CEDE26D",
+	"created": "2019-05-07T16:23:12.677",
+	"lastModified": "2019-05-07T16:23:12.677",
+	"titles": [
+		{
+			"title": "Ruby on Rails Rails 5.1.7",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/rails/rails",
+			"type": "Version"
+		},
+		{
+			"ref": "https://rubyonrails.org/",
+			"type": "Vendor"
+		}
+	]
 }

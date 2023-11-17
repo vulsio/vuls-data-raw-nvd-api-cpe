@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:oracle:virtualization:4.71:*:*:*:*:*:*:*",
-  "cpeNameId": "FB7A02EA-E5E6-4167-814D-DAA835F3AECC",
-  "created": "2013-07-17T16:53:55.477",
-  "lastModified": "2013-07-18T16:44:54.237",
-  "titles": [
-    {
-      "title": "Oracle Virtualization 4.71",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:oracle:virtualization:4.71:*:*:*:*:*:*:*",
+	"cpeNameId": "FB7A02EA-E5E6-4167-814D-DAA835F3AECC",
+	"created": "2013-07-17T16:53:55.477",
+	"lastModified": "2013-07-18T16:44:54.237",
+	"titles": [
+		{
+			"title": "Oracle Virtualization 4.71",
+			"lang": "en"
+		}
+	]
 }

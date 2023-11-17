@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:apple:imac:mb398xx\\/a:*:*:*:*:*:*:*",
-  "cpeNameId": "DC2677A7-BE0C-4D0C-8CB5-CD73241E69DE",
-  "created": "2011-02-22T16:45:40.290",
-  "lastModified": "2011-02-22T16:45:40.290",
-  "titles": [
-    {
-      "title": "Apple iMac Model MB398XX/A",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:apple:imac:mb398xx\\/a:*:*:*:*:*:*:*",
+	"cpeNameId": "DC2677A7-BE0C-4D0C-8CB5-CD73241E69DE",
+	"created": "2011-02-22T16:45:40.290",
+	"lastModified": "2011-02-22T16:45:40.290",
+	"titles": [
+		{
+			"title": "Apple iMac Model MB398XX/A",
+			"lang": "en"
+		}
+	]
 }

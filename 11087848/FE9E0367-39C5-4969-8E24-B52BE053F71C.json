@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:vuetifyjs:vuetify:1.5.7:*:*:*:*:*:*:*",
-  "cpeNameId": "FE9E0367-39C5-4969-8E24-B52BE053F71C",
-  "created": "2022-09-19T12:45:05.870",
-  "lastModified": "2022-09-19T13:05:59.017",
-  "titles": [
-    {
-      "title": "Vuetify 1.5.7",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/vuetifyjs/vuetify/tags",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://vuetifyjs.com/en/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:vuetifyjs:vuetify:1.5.7:*:*:*:*:*:*:*",
+	"cpeNameId": "FE9E0367-39C5-4969-8E24-B52BE053F71C",
+	"created": "2022-09-19T12:45:05.870",
+	"lastModified": "2022-09-19T13:05:59.017",
+	"titles": [
+		{
+			"title": "Vuetify 1.5.7",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/vuetifyjs/vuetify/tags",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://vuetifyjs.com/en/",
+			"type": "Vendor"
+		}
+	]
 }

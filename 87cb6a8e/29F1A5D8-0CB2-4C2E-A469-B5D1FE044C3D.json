@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:apache:wss4j:2.1.11:*:*:*:*:*:*:*",
-  "cpeNameId": "29F1A5D8-0CB2-4C2E-A469-B5D1FE044C3D",
-  "created": "2019-09-19T17:33:14.143",
-  "lastModified": "2019-09-19T17:33:14.143",
-  "titles": [
-    {
-      "title": "Apache Software Foundation WSS4J 2.1.11",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://archive.apache.org/dist/ws/wss4j/",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:apache:wss4j:2.1.11:*:*:*:*:*:*:*",
+	"cpeNameId": "29F1A5D8-0CB2-4C2E-A469-B5D1FE044C3D",
+	"created": "2019-09-19T17:33:14.143",
+	"lastModified": "2019-09-19T17:33:14.143",
+	"titles": [
+		{
+			"title": "Apache Software Foundation WSS4J 2.1.11",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://archive.apache.org/dist/ws/wss4j/",
+			"type": "Version"
+		}
+	]
 }

@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:ctolog:thinkadmin:6.0:*:*:*:*:*:*:*",
-  "cpeNameId": "E37E042F-DDFA-4FAB-86C7-0D27A1320D25",
-  "created": "2020-09-15T12:05:02.357",
-  "lastModified": "2020-09-15T12:05:02.357",
-  "titles": [
-    {
-      "title": "Ctolog ThinkAdmin 6.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/zoujingli/ThinkAdmin/issues/244",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://gitee.com/zoujingli/ThinkAdmin",
-      "type": "Version"
-    },
-    {
-      "ref": "http://www.ctolog.com",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:ctolog:thinkadmin:6.0:*:*:*:*:*:*:*",
+	"cpeNameId": "E37E042F-DDFA-4FAB-86C7-0D27A1320D25",
+	"created": "2020-09-15T12:05:02.357",
+	"lastModified": "2020-09-15T12:05:02.357",
+	"titles": [
+		{
+			"title": "Ctolog ThinkAdmin 6.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/zoujingli/ThinkAdmin/issues/244",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://gitee.com/zoujingli/ThinkAdmin",
+			"type": "Version"
+		},
+		{
+			"ref": "http://www.ctolog.com",
+			"type": "Vendor"
+		}
+	]
 }

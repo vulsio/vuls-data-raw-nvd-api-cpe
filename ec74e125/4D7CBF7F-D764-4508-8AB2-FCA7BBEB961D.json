@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:inist:ezmaster:2.5.14:*:*:*:*:*:*:*",
-  "cpeNameId": "4D7CBF7F-D764-4508-8AB2-FCA7BBEB961D",
-  "created": "2019-12-17T12:24:48.057",
-  "lastModified": "2019-12-17T12:24:48.057",
-  "titles": [
-    {
-      "title": "Inist EzMaster 2.5.14",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/Inist-CNRS/ezmaster/releases",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://www.inist.fr/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:inist:ezmaster:2.5.14:*:*:*:*:*:*:*",
+	"cpeNameId": "4D7CBF7F-D764-4508-8AB2-FCA7BBEB961D",
+	"created": "2019-12-17T12:24:48.057",
+	"lastModified": "2019-12-17T12:24:48.057",
+	"titles": [
+		{
+			"title": "Inist EzMaster 2.5.14",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/Inist-CNRS/ezmaster/releases",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://www.inist.fr/",
+			"type": "Vendor"
+		}
+	]
 }

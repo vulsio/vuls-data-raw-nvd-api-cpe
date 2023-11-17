@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:udev_project:udev:126:*:*:*:*:*:*:*",
-  "cpeNameId": "617DF7C5-A944-4C20-A926-E418740B2E77",
-  "created": "2022-06-03T13:23:04.610",
-  "lastModified": "2022-06-03T13:26:18.080",
-  "titles": [
-    {
-      "title": "udev Project udev 126",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/mfwitten/udev",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:udev_project:udev:126:*:*:*:*:*:*:*",
+	"cpeNameId": "617DF7C5-A944-4C20-A926-E418740B2E77",
+	"created": "2022-06-03T13:23:04.610",
+	"lastModified": "2022-06-03T13:26:18.080",
+	"titles": [
+		{
+			"title": "udev Project udev 126",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/mfwitten/udev",
+			"type": "Version"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:internationalization_project:internationalization:6.x-1.1:*:*:*:*:drupal:*:*",
-  "cpeNameId": "993E0418-F50A-448A-9DB1-0E8C324868FE",
-  "created": "2019-07-24T13:39:28.107",
-  "lastModified": "2019-07-24T13:39:28.107",
-  "titles": [
-    {
-      "title": "Internationalization Project Internationalization (i18n) 6.x-1.1 for Drupal",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.drupal.org/project/i18n/releases?api_version%5B%5D=39794",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:internationalization_project:internationalization:6.x-1.1:*:*:*:*:drupal:*:*",
+	"cpeNameId": "993E0418-F50A-448A-9DB1-0E8C324868FE",
+	"created": "2019-07-24T13:39:28.107",
+	"lastModified": "2019-07-24T13:39:28.107",
+	"titles": [
+		{
+			"title": "Internationalization Project Internationalization (i18n) 6.x-1.1 for Drupal",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.drupal.org/project/i18n/releases?api_version%5B%5D=39794",
+			"type": "Change Log"
+		}
+	]
 }

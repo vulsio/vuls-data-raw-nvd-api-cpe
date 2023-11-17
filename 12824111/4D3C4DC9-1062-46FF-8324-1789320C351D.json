@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:microsoft:sql_server:2016:sp3:*:*:*:*:x64:*",
-  "cpeNameId": "4D3C4DC9-1062-46FF-8324-1789320C351D",
-  "created": "2022-06-22T14:50:56.457",
-  "lastModified": "2022-06-24T20:21:53.093",
-  "titles": [
-    {
-      "title": "Microsoft SQLServer 2016 Service Pack 3 on x64",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.microsoft.com/en-us/download/details.aspx?id=103440",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:microsoft:sql_server:2016:sp3:*:*:*:*:x64:*",
+	"cpeNameId": "4D3C4DC9-1062-46FF-8324-1789320C351D",
+	"created": "2022-06-22T14:50:56.457",
+	"lastModified": "2022-06-24T20:21:53.093",
+	"titles": [
+		{
+			"title": "Microsoft SQLServer 2016 Service Pack 3 on x64",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.microsoft.com/en-us/download/details.aspx?id=103440",
+			"type": "Product"
+		}
+	]
 }

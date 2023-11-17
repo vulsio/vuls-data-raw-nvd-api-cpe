@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:janrain:rpx:6.x-1.2:rc2:*:*:*:*:*:*",
-  "cpeNameId": "EB35CF34-FC37-4D39-AEDE-D229A910108F",
-  "created": "2012-07-26T17:43:51.183",
-  "lastModified": "2012-07-28T13:43:49.163",
-  "titles": [
-    {
-      "title": "Janrain Engine RPX module for Drupal 6.x-1.2 release canidate 2",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:janrain:rpx:6.x-1.2:rc2:*:*:*:*:*:*",
+	"cpeNameId": "EB35CF34-FC37-4D39-AEDE-D229A910108F",
+	"created": "2012-07-26T17:43:51.183",
+	"lastModified": "2012-07-28T13:43:49.163",
+	"titles": [
+		{
+			"title": "Janrain Engine RPX module for Drupal 6.x-1.2 release canidate 2",
+			"lang": "en"
+		}
+	]
 }

@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:anji-plus:report:0.9.6.1:*:*:*:*:*:*:*",
-  "cpeNameId": "3D1D48B0-AAE5-4F92-8A23-5B49F254AF14",
-  "created": "2022-11-04T14:28:30.667",
-  "lastModified": "2022-11-04T17:44:41.387",
-  "titles": [
-    {
-      "title": "Anji-plus Report 0.9.6.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/anji-plus/report/tags",
-      "type": "Version"
-    },
-    {
-      "ref": "http://www.anji-plus.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:anji-plus:report:0.9.6.1:*:*:*:*:*:*:*",
+	"cpeNameId": "3D1D48B0-AAE5-4F92-8A23-5B49F254AF14",
+	"created": "2022-11-04T14:28:30.667",
+	"lastModified": "2022-11-04T17:44:41.387",
+	"titles": [
+		{
+			"title": "Anji-plus Report 0.9.6.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/anji-plus/report/tags",
+			"type": "Version"
+		},
+		{
+			"ref": "http://www.anji-plus.com/",
+			"type": "Vendor"
+		}
+	]
 }

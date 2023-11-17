@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:civicrm:civicrm:4.6.27:*:*:*:*:*:*:*",
-  "cpeNameId": "F0FBB78E-6F10-4233-A893-9D72B0BFB1D0",
-  "created": "2018-09-25T16:24:33.143",
-  "lastModified": "2021-03-04T01:15:52.787",
-  "titles": [
-    {
-      "title": "CiviCRM 4.6.27",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://civicrm.org/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/civicrm/civicrm-core",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:civicrm:civicrm:4.6.27:*:*:*:*:*:*:*",
+	"cpeNameId": "F0FBB78E-6F10-4233-A893-9D72B0BFB1D0",
+	"created": "2018-09-25T16:24:33.143",
+	"lastModified": "2021-03-04T01:15:52.787",
+	"titles": [
+		{
+			"title": "CiviCRM 4.6.27",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://civicrm.org/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/civicrm/civicrm-core",
+			"type": "Version"
+		}
+	]
 }

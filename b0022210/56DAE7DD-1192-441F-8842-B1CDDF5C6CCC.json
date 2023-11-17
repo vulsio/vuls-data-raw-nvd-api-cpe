@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:shinephp:thank_you_counter_button:1.8.6:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "56DAE7DD-1192-441F-8842-B1CDDF5C6CCC",
-  "created": "2014-03-10T16:51:30.550",
-  "lastModified": "2014-03-10T17:21:16.610",
-  "titles": [
-    {
-      "title": "shinephp Thank You Counter Button plugin for WordPress 1.8.6",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://shinephp.com/thank-you-counter-button-wordpress-plugin/2/#changlog"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:shinephp:thank_you_counter_button:1.8.6:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "56DAE7DD-1192-441F-8842-B1CDDF5C6CCC",
+	"created": "2014-03-10T16:51:30.550",
+	"lastModified": "2014-03-10T17:21:16.610",
+	"titles": [
+		{
+			"title": "shinephp Thank You Counter Button plugin for WordPress 1.8.6",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://shinephp.com/thank-you-counter-button-wordpress-plugin/2/#changlog"
+		}
+	]
 }

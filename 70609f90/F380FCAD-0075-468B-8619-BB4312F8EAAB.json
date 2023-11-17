@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:miniupnp_project:ngiflib:0.4:*:*:*:*:*:*:*",
-  "cpeNameId": "F380FCAD-0075-468B-8619-BB4312F8EAAB",
-  "created": "2019-12-02T16:26:32.693",
-  "lastModified": "2019-12-02T16:26:32.693",
-  "titles": [
-    {
-      "title": "MiniUPnP Project ngiflib 0.4",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/miniupnp/ngiflib",
-      "type": "Version"
-    },
-    {
-      "ref": "http://miniupnp.free.fr/",
-      "type": "Project"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:miniupnp_project:ngiflib:0.4:*:*:*:*:*:*:*",
+	"cpeNameId": "F380FCAD-0075-468B-8619-BB4312F8EAAB",
+	"created": "2019-12-02T16:26:32.693",
+	"lastModified": "2019-12-02T16:26:32.693",
+	"titles": [
+		{
+			"title": "MiniUPnP Project ngiflib 0.4",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/miniupnp/ngiflib",
+			"type": "Version"
+		},
+		{
+			"ref": "http://miniupnp.free.fr/",
+			"type": "Project"
+		}
+	]
 }

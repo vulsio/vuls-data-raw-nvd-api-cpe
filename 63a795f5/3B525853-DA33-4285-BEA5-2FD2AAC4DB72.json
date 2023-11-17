@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:cisco:firepower_management_center:6.5.0.4:*:*:*:*:*:*:*",
-  "cpeNameId": "3B525853-DA33-4285-BEA5-2FD2AAC4DB72",
-  "created": "2020-12-02T15:45:03.723",
-  "lastModified": "2020-12-02T15:45:03.723",
-  "titles": [
-    {
-      "title": "Cisco Firepower Management Center 6.5.0.4",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.cisco.com/c/en/us/td/docs/security/firepower/hotfix/Firepower_Hotfix_Release_Notes/available-hotfixes.html",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:cisco:firepower_management_center:6.5.0.4:*:*:*:*:*:*:*",
+	"cpeNameId": "3B525853-DA33-4285-BEA5-2FD2AAC4DB72",
+	"created": "2020-12-02T15:45:03.723",
+	"lastModified": "2020-12-02T15:45:03.723",
+	"titles": [
+		{
+			"title": "Cisco Firepower Management Center 6.5.0.4",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.cisco.com/c/en/us/td/docs/security/firepower/hotfix/Firepower_Hotfix_Release_Notes/available-hotfixes.html",
+			"type": "Version"
+		}
+	]
 }

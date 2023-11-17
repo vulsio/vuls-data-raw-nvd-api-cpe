@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:dell:latitude_12_5289_2-in-1_firmware:-:*:*:*:*:*:*:*",
-  "cpeNameId": "1F3C3B90-2E14-4284-9A70-9249DACB24D3",
-  "created": "2022-02-02T15:42:00.257",
-  "lastModified": "2022-03-04T19:37:31.503",
-  "titles": [
-    {
-      "title": "Dell Latitude 12 5289 2-in-1 Firmware",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.dell.com/support/kbdoc/en-us/000193321/dsa-2021-240",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:dell:latitude_12_5289_2-in-1_firmware:-:*:*:*:*:*:*:*",
+	"cpeNameId": "1F3C3B90-2E14-4284-9A70-9249DACB24D3",
+	"created": "2022-02-02T15:42:00.257",
+	"lastModified": "2022-03-04T19:37:31.503",
+	"titles": [
+		{
+			"title": "Dell Latitude 12 5289 2-in-1 Firmware",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.dell.com/support/kbdoc/en-us/000193321/dsa-2021-240",
+			"type": "Advisory"
+		}
+	]
 }

@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:idrive:remotepc:1.0.2:*:*:*:*:linux:*:*",
-  "cpeNameId": "C974B426-6505-499F-876D-3EFBBC3AB729",
-  "created": "2021-07-21T13:48:26.757",
-  "lastModified": "2021-07-21T13:53:13.857",
-  "titles": [
-    {
-      "title": "IDrive RemotePC 1.0.2 for Linux",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.idrive.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://www.remotepc.com/release-info#linux",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:idrive:remotepc:1.0.2:*:*:*:*:linux:*:*",
+	"cpeNameId": "C974B426-6505-499F-876D-3EFBBC3AB729",
+	"created": "2021-07-21T13:48:26.757",
+	"lastModified": "2021-07-21T13:53:13.857",
+	"titles": [
+		{
+			"title": "IDrive RemotePC 1.0.2 for Linux",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.idrive.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://www.remotepc.com/release-info#linux",
+			"type": "Change Log"
+		}
+	]
 }

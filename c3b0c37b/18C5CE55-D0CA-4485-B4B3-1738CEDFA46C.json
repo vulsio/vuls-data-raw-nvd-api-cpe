@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:apache:tomcat:9.0.0:m27:*:*:*:*:*:*",
-  "cpeNameId": "18C5CE55-D0CA-4485-B4B3-1738CEDFA46C",
-  "created": "2019-04-26T11:53:58.417",
-  "lastModified": "2019-04-26T11:53:58.417",
-  "titles": [
-    {
-      "title": "Apache Software Foundation Tomcat 9.0.0 M27",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://tomcat.apache.org/",
-      "type": "Product"
-    },
-    {
-      "ref": "http://tomcat.apache.org/tomcat-9.0-doc/changelog.html",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:apache:tomcat:9.0.0:m27:*:*:*:*:*:*",
+	"cpeNameId": "18C5CE55-D0CA-4485-B4B3-1738CEDFA46C",
+	"created": "2019-04-26T11:53:58.417",
+	"lastModified": "2019-04-26T11:53:58.417",
+	"titles": [
+		{
+			"title": "Apache Software Foundation Tomcat 9.0.0 M27",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://tomcat.apache.org/",
+			"type": "Product"
+		},
+		{
+			"ref": "http://tomcat.apache.org/tomcat-9.0-doc/changelog.html",
+			"type": "Change Log"
+		}
+	]
 }

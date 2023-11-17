@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:python:python:3.10.0:-:*:*:*:*:*:*",
-  "cpeNameId": "167CF4D3-C3FB-4F3D-A241-E353BD08B3DD",
-  "created": "2022-03-14T14:26:18.850",
-  "lastModified": "2022-03-18T18:07:08.173",
-  "titles": [
-    {
-      "title": "Python 3.10.0 -",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://bugs.python.org/issue43075",
-      "type": "Advisory"
-    },
-    {
-      "ref": "https://bugzilla.redhat.com/show_bug.cgi?id=1995234",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:python:python:3.10.0:-:*:*:*:*:*:*",
+	"cpeNameId": "167CF4D3-C3FB-4F3D-A241-E353BD08B3DD",
+	"created": "2022-03-14T14:26:18.850",
+	"lastModified": "2022-03-18T18:07:08.173",
+	"titles": [
+		{
+			"title": "Python 3.10.0 -",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://bugs.python.org/issue43075",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://bugzilla.redhat.com/show_bug.cgi?id=1995234",
+			"type": "Advisory"
+		}
+	]
 }

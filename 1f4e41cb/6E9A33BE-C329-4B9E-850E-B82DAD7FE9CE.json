@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:apache:flink:1.15.0:*:*:*:*:*:*:*",
-  "cpeNameId": "6E9A33BE-C329-4B9E-850E-B82DAD7FE9CE",
-  "created": "2022-11-15T15:20:58.257",
-  "lastModified": "2022-11-15T15:28:57.207",
-  "titles": [
-    {
-      "title": "Apache Software Foundation Flink 1.15.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/apache/flink/tags",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:apache:flink:1.15.0:*:*:*:*:*:*:*",
+	"cpeNameId": "6E9A33BE-C329-4B9E-850E-B82DAD7FE9CE",
+	"created": "2022-11-15T15:20:58.257",
+	"lastModified": "2022-11-15T15:28:57.207",
+	"titles": [
+		{
+			"title": "Apache Software Foundation Flink 1.15.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/apache/flink/tags",
+			"type": "Version"
+		}
+	]
 }

@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:s9y:serendipity:1.0.2:*:*:*:*:*:*:*",
-  "cpeNameId": "26360CC9-0124-4033-BB78-538B62DFE643",
-  "created": "2008-09-05T20:03:12.237",
-  "lastModified": "2012-06-29T14:54:13.140",
-  "titles": [
-    {
-      "title": "S9Y Serendipity 1.0.2",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:s9y:serendipity:1.0.2:*:*:*:*:*:*:*",
+	"cpeNameId": "26360CC9-0124-4033-BB78-538B62DFE643",
+	"created": "2008-09-05T20:03:12.237",
+	"lastModified": "2012-06-29T14:54:13.140",
+	"titles": [
+		{
+			"title": "S9Y Serendipity 1.0.2",
+			"lang": "en"
+		}
+	]
 }

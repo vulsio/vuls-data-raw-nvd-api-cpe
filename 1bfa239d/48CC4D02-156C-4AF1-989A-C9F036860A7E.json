@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:mediawiki:mediawiki:1.24.3:*:*:*:*:*:*:*",
-  "cpeNameId": "48CC4D02-156C-4AF1-989A-C9F036860A7E",
-  "created": "2015-11-10T14:18:26.183",
-  "lastModified": "2015-11-13T22:23:57.620",
-  "titles": [
-    {
-      "title": "MediaWiki 1.24.3",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www.mediawiki.org/wiki/MediaWiki"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:mediawiki:mediawiki:1.24.3:*:*:*:*:*:*:*",
+	"cpeNameId": "48CC4D02-156C-4AF1-989A-C9F036860A7E",
+	"created": "2015-11-10T14:18:26.183",
+	"lastModified": "2015-11-13T22:23:57.620",
+	"titles": [
+		{
+			"title": "MediaWiki 1.24.3",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.mediawiki.org/wiki/MediaWiki"
+		}
+	]
 }

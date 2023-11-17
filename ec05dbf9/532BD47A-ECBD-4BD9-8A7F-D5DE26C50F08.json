@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:hp:support_solution_framework:11.51.0027:*:*:*:*:*:*:*",
-  "cpeNameId": "532BD47A-ECBD-4BD9-8A7F-D5DE26C50F08",
-  "created": "2015-04-15T17:45:02.027",
-  "lastModified": "2015-06-17T18:34:05.927",
-  "titles": [
-    {
-      "title": "HP Support Solution Framework 11.51.0027",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://h20564.www2.hp.com/hpsc/doc/public/display?docId=emr_na-c04634535"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:hp:support_solution_framework:11.51.0027:*:*:*:*:*:*:*",
+	"cpeNameId": "532BD47A-ECBD-4BD9-8A7F-D5DE26C50F08",
+	"created": "2015-04-15T17:45:02.027",
+	"lastModified": "2015-06-17T18:34:05.927",
+	"titles": [
+		{
+			"title": "HP Support Solution Framework 11.51.0027",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://h20564.www2.hp.com/hpsc/doc/public/display?docId=emr_na-c04634535"
+		}
+	]
 }

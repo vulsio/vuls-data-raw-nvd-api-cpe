@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:flask-appbuilder_project:flask-appbuilder:4.1.2:*:*:*:*:*:*:*",
-  "cpeNameId": "0FF4E9E1-8FEC-4B81-9C70-03BA8F4240AD",
-  "created": "2022-08-05T19:45:02.280",
-  "lastModified": "2022-08-08T11:48:19.267",
-  "titles": [
-    {
-      "title": "Flask-AppBuilder Project Flask-AppBuilder 4.1.2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/dpgaspar/Flask-AppBuilder",
-      "type": "Project"
-    },
-    {
-      "ref": "https://github.com/dpgaspar/Flask-AppBuilder/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:flask-appbuilder_project:flask-appbuilder:4.1.2:*:*:*:*:*:*:*",
+	"cpeNameId": "0FF4E9E1-8FEC-4B81-9C70-03BA8F4240AD",
+	"created": "2022-08-05T19:45:02.280",
+	"lastModified": "2022-08-08T11:48:19.267",
+	"titles": [
+		{
+			"title": "Flask-AppBuilder Project Flask-AppBuilder 4.1.2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/dpgaspar/Flask-AppBuilder",
+			"type": "Project"
+		},
+		{
+			"ref": "https://github.com/dpgaspar/Flask-AppBuilder/releases",
+			"type": "Change Log"
+		}
+	]
 }

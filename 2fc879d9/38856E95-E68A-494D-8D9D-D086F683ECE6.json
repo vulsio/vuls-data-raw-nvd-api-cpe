@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:ibm:maximo_asset_management_essentials:7.5.0.3:*:*:*:*:*:*:*",
-  "cpeNameId": "38856E95-E68A-494D-8D9D-D086F683ECE6",
-  "created": "2013-12-18T18:48:04.477",
-  "lastModified": "2013-12-18T19:06:15.330",
-  "titles": [
-    {
-      "title": "IBM Maximo Asset Management Essentials 7.5.0.3",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www-01.ibm.com/support/docview.wss?uid=swg21660032"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:ibm:maximo_asset_management_essentials:7.5.0.3:*:*:*:*:*:*:*",
+	"cpeNameId": "38856E95-E68A-494D-8D9D-D086F683ECE6",
+	"created": "2013-12-18T18:48:04.477",
+	"lastModified": "2013-12-18T19:06:15.330",
+	"titles": [
+		{
+			"title": "IBM Maximo Asset Management Essentials 7.5.0.3",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www-01.ibm.com/support/docview.wss?uid=swg21660032"
+		}
+	]
 }

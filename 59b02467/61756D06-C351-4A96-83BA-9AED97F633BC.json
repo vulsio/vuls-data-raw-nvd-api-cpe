@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:apple:darwin_streaming_server:4.1.3g:*:*:*:*:*:*:*",
-  "cpeNameId": "61756D06-C351-4A96-83BA-9AED97F633BC",
-  "created": "2007-08-23T21:16:59.567",
-  "lastModified": "2007-09-14T17:36:49.090",
-  "titles": [
-    {
-      "title": "Apple Darwin Streaming Server 4.1.3g",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:apple:darwin_streaming_server:4.1.3g:*:*:*:*:*:*:*",
+	"cpeNameId": "61756D06-C351-4A96-83BA-9AED97F633BC",
+	"created": "2007-08-23T21:16:59.567",
+	"lastModified": "2007-09-14T17:36:49.090",
+	"titles": [
+		{
+			"title": "Apple Darwin Streaming Server 4.1.3g",
+			"lang": "en"
+		}
+	]
 }

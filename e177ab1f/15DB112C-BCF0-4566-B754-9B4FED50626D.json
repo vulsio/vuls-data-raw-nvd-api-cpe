@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:opencv:opencv:2.4.7:-:*:*:*:*:*:*",
-  "cpeNameId": "15DB112C-BCF0-4566-B754-9B4FED50626D",
-  "created": "2019-07-02T15:10:48.480",
-  "lastModified": "2019-07-02T15:10:48.480",
-  "titles": [
-    {
-      "title": "OpenCV 2.4.7",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/opencv/opencv",
-      "type": "Version"
-    },
-    {
-      "ref": "https://opencv.org/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:opencv:opencv:2.4.7:-:*:*:*:*:*:*",
+	"cpeNameId": "15DB112C-BCF0-4566-B754-9B4FED50626D",
+	"created": "2019-07-02T15:10:48.480",
+	"lastModified": "2019-07-02T15:10:48.480",
+	"titles": [
+		{
+			"title": "OpenCV 2.4.7",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/opencv/opencv",
+			"type": "Version"
+		},
+		{
+			"ref": "https://opencv.org/",
+			"type": "Vendor"
+		}
+	]
 }

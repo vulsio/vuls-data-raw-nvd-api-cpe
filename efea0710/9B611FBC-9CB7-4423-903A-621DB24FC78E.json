@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:backdropcms:backdrop_cms:1.21.1:*:*:*:*:*:*:*",
-  "cpeNameId": "9B611FBC-9CB7-4423-903A-621DB24FC78E",
-  "created": "2022-11-28T12:50:40.200",
-  "lastModified": "2022-11-28T12:53:46.370",
-  "titles": [
-    {
-      "title": "Backdrop CMS 1.21.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://backdropcms.org/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/backdrop/backdrop/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:backdropcms:backdrop_cms:1.21.1:*:*:*:*:*:*:*",
+	"cpeNameId": "9B611FBC-9CB7-4423-903A-621DB24FC78E",
+	"created": "2022-11-28T12:50:40.200",
+	"lastModified": "2022-11-28T12:53:46.370",
+	"titles": [
+		{
+			"title": "Backdrop CMS 1.21.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://backdropcms.org/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/backdrop/backdrop/releases",
+			"type": "Change Log"
+		}
+	]
 }

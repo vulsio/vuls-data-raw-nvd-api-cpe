@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:cisco:gigabit_switch_router_12012:-:*:*:*:*:*:*:*",
-  "cpeNameId": "E420DAE4-94D3-4BCD-874D-3B73680CE88F",
-  "created": "2007-08-23T21:16:59.567",
-  "lastModified": "2008-04-07T13:49:03.637",
-  "titles": [
-    {
-      "title": "Cisco Gigabit Switch Router 12012",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:cisco:gigabit_switch_router_12012:-:*:*:*:*:*:*:*",
+	"cpeNameId": "E420DAE4-94D3-4BCD-874D-3B73680CE88F",
+	"created": "2007-08-23T21:16:59.567",
+	"lastModified": "2008-04-07T13:49:03.637",
+	"titles": [
+		{
+			"title": "Cisco Gigabit Switch Router 12012",
+			"lang": "en"
+		}
+	]
 }

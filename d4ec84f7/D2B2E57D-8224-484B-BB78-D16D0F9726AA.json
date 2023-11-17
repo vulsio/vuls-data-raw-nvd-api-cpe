@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:gns3:gns3:1.3.12:*:*:*:*:*:*:*",
-  "cpeNameId": "D2B2E57D-8224-484B-BB78-D16D0F9726AA",
-  "created": "2020-08-03T11:52:05.897",
-  "lastModified": "2020-08-03T11:52:05.897",
-  "titles": [
-    {
-      "title": "GNS3 GNS3 1.3.12",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.gns3.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/GNS3/gns3-server/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:gns3:gns3:1.3.12:*:*:*:*:*:*:*",
+	"cpeNameId": "D2B2E57D-8224-484B-BB78-D16D0F9726AA",
+	"created": "2020-08-03T11:52:05.897",
+	"lastModified": "2020-08-03T11:52:05.897",
+	"titles": [
+		{
+			"title": "GNS3 GNS3 1.3.12",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.gns3.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/GNS3/gns3-server/releases",
+			"type": "Change Log"
+		}
+	]
 }

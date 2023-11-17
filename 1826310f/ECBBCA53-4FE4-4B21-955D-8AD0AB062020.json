@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:apache:iotdb:0.9.1:*:*:*:*:*:*:*",
-  "cpeNameId": "ECBBCA53-4FE4-4B21-955D-8AD0AB062020",
-  "created": "2020-04-30T17:17:46.210",
-  "lastModified": "2020-04-30T17:17:46.210",
-  "titles": [
-    {
-      "title": "Apache Software Foundation IoTDB 0.9.1",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://iotdb.apache.org/Download/",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:apache:iotdb:0.9.1:*:*:*:*:*:*:*",
+	"cpeNameId": "ECBBCA53-4FE4-4B21-955D-8AD0AB062020",
+	"created": "2020-04-30T17:17:46.210",
+	"lastModified": "2020-04-30T17:17:46.210",
+	"titles": [
+		{
+			"title": "Apache Software Foundation IoTDB 0.9.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://iotdb.apache.org/Download/",
+			"type": "Version"
+		}
+	]
 }

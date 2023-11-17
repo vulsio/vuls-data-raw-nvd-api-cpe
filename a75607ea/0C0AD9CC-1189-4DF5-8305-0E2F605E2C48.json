@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:ibm:jre:1.4.0:*:*:*:*:*:*:*",
-  "cpeNameId": "0C0AD9CC-1189-4DF5-8305-0E2F605E2C48",
-  "created": "2012-06-21T19:06:34.410",
-  "lastModified": "2012-06-21T19:06:34.410",
-  "titles": [
-    {
-      "title": "IBM Jre 1.4.0",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:ibm:jre:1.4.0:*:*:*:*:*:*:*",
+	"cpeNameId": "0C0AD9CC-1189-4DF5-8305-0E2F605E2C48",
+	"created": "2012-06-21T19:06:34.410",
+	"lastModified": "2012-06-21T19:06:34.410",
+	"titles": [
+		{
+			"title": "IBM Jre 1.4.0",
+			"lang": "en"
+		}
+	]
 }

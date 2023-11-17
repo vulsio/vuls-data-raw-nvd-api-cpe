@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:d-bus_project:d-bus:1.9.4:*:*:*:*:*:*:*",
-  "cpeNameId": "9201BDF8-3CCB-4094-9B78-FA5C7637389C",
-  "created": "2015-02-17T15:04:56.147",
-  "lastModified": "2015-02-17T15:35:04.227",
-  "titles": [
-    {
-      "title": "D-Bus Project D-Bus 1.9.4",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://dbus.freedesktop.org/releases/dbus/",
-      "type": "Product"
-    },
-    {
-      "ref": "http://www.freedesktop.org/wiki/Software/dbus/#index1h1",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:d-bus_project:d-bus:1.9.4:*:*:*:*:*:*:*",
+	"cpeNameId": "9201BDF8-3CCB-4094-9B78-FA5C7637389C",
+	"created": "2015-02-17T15:04:56.147",
+	"lastModified": "2015-02-17T15:35:04.227",
+	"titles": [
+		{
+			"title": "D-Bus Project D-Bus 1.9.4",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://dbus.freedesktop.org/releases/dbus/",
+			"type": "Product"
+		},
+		{
+			"ref": "http://www.freedesktop.org/wiki/Software/dbus/#index1h1",
+			"type": "Vendor"
+		}
+	]
 }

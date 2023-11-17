@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:simple_cold_storage_management_system_project:simple_cold_storage_management_system:1.0:*:*:*:*:*:*:*",
-  "cpeNameId": "A61F0A38-B5A9-4A27-A7CF-D4AF60FABB2F",
-  "created": "2022-02-02T18:41:12.580",
-  "lastModified": "2022-03-09T01:28:36.423",
-  "titles": [
-    {
-      "title": "Simple Cold Storage Management System Project Simple Cold Storage Management System 1.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.sourcecodester.com/php/15088/simple-cold-storage-management-system-using-phpoop-source-code.html",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:simple_cold_storage_management_system_project:simple_cold_storage_management_system:1.0:*:*:*:*:*:*:*",
+	"cpeNameId": "A61F0A38-B5A9-4A27-A7CF-D4AF60FABB2F",
+	"created": "2022-02-02T18:41:12.580",
+	"lastModified": "2022-03-09T01:28:36.423",
+	"titles": [
+		{
+			"title": "Simple Cold Storage Management System Project Simple Cold Storage Management System 1.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.sourcecodester.com/php/15088/simple-cold-storage-management-system-using-phpoop-source-code.html",
+			"type": "Product"
+		}
+	]
 }

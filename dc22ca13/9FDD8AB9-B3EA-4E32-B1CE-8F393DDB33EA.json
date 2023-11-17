@@ -1,18 +1,18 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:elgg:elgg:1.8.16:*:*:*:*:*:*:*",
-  "cpeNameId": "9FDD8AB9-B3EA-4E32-B1CE-8F393DDB33EA",
-  "created": "2014-02-21T18:05:32.937",
-  "lastModified": "2014-02-21T18:10:21.047",
-  "titles": [
-    {
-      "title": "Elgg 1.8.16",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://elgg.org/previous.php"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:elgg:elgg:1.8.16:*:*:*:*:*:*:*",
+	"cpeNameId": "9FDD8AB9-B3EA-4E32-B1CE-8F393DDB33EA",
+	"created": "2014-02-21T18:05:32.937",
+	"lastModified": "2014-02-21T18:10:21.047",
+	"titles": [
+		{
+			"title": "Elgg 1.8.16",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://elgg.org/previous.php"
+		}
+	]
 }

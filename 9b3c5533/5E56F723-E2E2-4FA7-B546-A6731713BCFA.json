@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:umbraco:umbraco_cms:9.0.0:beta002:*:*:*:*:*:*",
-  "cpeNameId": "5E56F723-E2E2-4FA7-B546-A6731713BCFA",
-  "created": "2021-06-30T14:02:08.733",
-  "lastModified": "2021-07-08T14:50:33.580",
-  "titles": [
-    {
-      "title": "Umbraco CMS 9.0.0 Beta 002",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://umbraco.com/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/umbraco/Umbraco-CMS/releases",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:umbraco:umbraco_cms:9.0.0:beta002:*:*:*:*:*:*",
+	"cpeNameId": "5E56F723-E2E2-4FA7-B546-A6731713BCFA",
+	"created": "2021-06-30T14:02:08.733",
+	"lastModified": "2021-07-08T14:50:33.580",
+	"titles": [
+		{
+			"title": "Umbraco CMS 9.0.0 Beta 002",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://umbraco.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/umbraco/Umbraco-CMS/releases",
+			"type": "Version"
+		}
+	]
 }

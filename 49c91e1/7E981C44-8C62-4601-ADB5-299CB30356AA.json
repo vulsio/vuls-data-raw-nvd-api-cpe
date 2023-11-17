@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:qnap:quts_hero:h5.0.0.1986:*:*:*:*:*:*:*",
-  "cpeNameId": "7E981C44-8C62-4601-ADB5-299CB30356AA",
-  "created": "2022-05-13T13:13:40.677",
-  "lastModified": "2022-05-27T03:44:08.690",
-  "titles": [
-    {
-      "title": "QNAP Quts Hero H5.0.0.1986",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.qnap.com/en/security-advisory/qsa-22-16",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:qnap:quts_hero:h5.0.0.1986:*:*:*:*:*:*:*",
+	"cpeNameId": "7E981C44-8C62-4601-ADB5-299CB30356AA",
+	"created": "2022-05-13T13:13:40.677",
+	"lastModified": "2022-05-27T03:44:08.690",
+	"titles": [
+		{
+			"title": "QNAP Quts Hero H5.0.0.1986",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.qnap.com/en/security-advisory/qsa-22-16",
+			"type": "Advisory"
+		}
+	]
 }

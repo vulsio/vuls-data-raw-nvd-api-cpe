@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:wp-events-plugin:events_manager:5.9.7.3:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "83A0BF10-88C3-437D-BA6D-E4A8BAD7390C",
-  "created": "2021-12-02T21:30:50.483",
-  "lastModified": "2021-12-02T21:33:57.233",
-  "titles": [
-    {
-      "title": "wp-events-plugin Events Manager 5.9.7.3 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wordpress.org/plugins/events-manager/#developers",
-      "type": "Change Log"
-    },
-    {
-      "ref": "https://wpscan.com/vulnerability/323140b1-66c4-4e7d-85a4-1c922e40866f",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:wp-events-plugin:events_manager:5.9.7.3:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "83A0BF10-88C3-437D-BA6D-E4A8BAD7390C",
+	"created": "2021-12-02T21:30:50.483",
+	"lastModified": "2021-12-02T21:33:57.233",
+	"titles": [
+		{
+			"title": "wp-events-plugin Events Manager 5.9.7.3 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/events-manager/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://wpscan.com/vulnerability/323140b1-66c4-4e7d-85a4-1c922e40866f",
+			"type": "Advisory"
+		}
+	]
 }

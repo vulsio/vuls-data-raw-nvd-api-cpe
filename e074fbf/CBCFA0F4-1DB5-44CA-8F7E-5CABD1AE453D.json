@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:leonerd:libvterm:0\\+bzr726:*:*:*:*:*:*:*",
-  "cpeNameId": "CBCFA0F4-1DB5-44CA-8F7E-5CABD1AE453D",
-  "created": "2019-02-25T17:11:36.460",
-  "lastModified": "2021-03-30T19:27:31.973",
-  "titles": [
-    {
-      "title": "LeoNerd libvterm 0+bzr726",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www.leonerd.org.uk/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "http://www.leonerd.org.uk/code/libvterm/",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:leonerd:libvterm:0\\+bzr726:*:*:*:*:*:*:*",
+	"cpeNameId": "CBCFA0F4-1DB5-44CA-8F7E-5CABD1AE453D",
+	"created": "2019-02-25T17:11:36.460",
+	"lastModified": "2021-03-30T19:27:31.973",
+	"titles": [
+		{
+			"title": "LeoNerd libvterm 0+bzr726",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.leonerd.org.uk/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "http://www.leonerd.org.uk/code/libvterm/",
+			"type": "Product"
+		}
+	]
 }

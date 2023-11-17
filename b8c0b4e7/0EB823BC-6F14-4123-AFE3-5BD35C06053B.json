@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:linux:linux_kernel:4.17.16:*:*:*:*:*:*:*",
-  "cpeNameId": "0EB823BC-6F14-4123-AFE3-5BD35C06053B",
-  "created": "2022-10-26T11:35:10.087",
-  "lastModified": "2022-10-26T11:44:52.253",
-  "titles": [
-    {
-      "title": "Linux Kernel 4.17.16",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://mirrors.edge.kernel.org/pub/linux/kernel/v4.x/",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:linux:linux_kernel:4.17.16:*:*:*:*:*:*:*",
+	"cpeNameId": "0EB823BC-6F14-4123-AFE3-5BD35C06053B",
+	"created": "2022-10-26T11:35:10.087",
+	"lastModified": "2022-10-26T11:44:52.253",
+	"titles": [
+		{
+			"title": "Linux Kernel 4.17.16",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://mirrors.edge.kernel.org/pub/linux/kernel/v4.x/",
+			"type": "Change Log"
+		}
+	]
 }

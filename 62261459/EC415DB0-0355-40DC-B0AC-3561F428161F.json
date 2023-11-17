@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:d-bus_project:d-bus:1.6.28:*:*:*:*:*:*:*",
-  "cpeNameId": "EC415DB0-0355-40DC-B0AC-3561F428161F",
-  "created": "2015-02-17T15:04:56.147",
-  "lastModified": "2015-02-17T15:35:03.773",
-  "titles": [
-    {
-      "title": "D-Bus Project D-Bus 1.6.28",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://dbus.freedesktop.org/releases/dbus/",
-      "type": "Product"
-    },
-    {
-      "ref": "http://www.freedesktop.org/wiki/Software/dbus/#index1h1",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:d-bus_project:d-bus:1.6.28:*:*:*:*:*:*:*",
+	"cpeNameId": "EC415DB0-0355-40DC-B0AC-3561F428161F",
+	"created": "2015-02-17T15:04:56.147",
+	"lastModified": "2015-02-17T15:35:03.773",
+	"titles": [
+		{
+			"title": "D-Bus Project D-Bus 1.6.28",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://dbus.freedesktop.org/releases/dbus/",
+			"type": "Product"
+		},
+		{
+			"ref": "http://www.freedesktop.org/wiki/Software/dbus/#index1h1",
+			"type": "Vendor"
+		}
+	]
 }

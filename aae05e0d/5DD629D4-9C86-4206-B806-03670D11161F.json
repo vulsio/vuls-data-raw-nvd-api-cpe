@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:cisco:telepresence_server_software:4.1\\(1.40\\):*:*:*:*:*:*:*",
-  "cpeNameId": "5DD629D4-9C86-4206-B806-03670D11161F",
-  "created": "2016-04-07T17:10:52.820",
-  "lastModified": "2016-04-07T17:10:52.820",
-  "titles": [
-    {
-      "title": "Cisco Telepresence Server Software 4.1(1.40)",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160406-cts",
-      "type": "Advisory"
-    },
-    {
-      "ref": "http://www.cisco.com/",
-      "type": "Vendor"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:cisco:telepresence_server_software:4.1\\(1.40\\):*:*:*:*:*:*:*",
+	"cpeNameId": "5DD629D4-9C86-4206-B806-03670D11161F",
+	"created": "2016-04-07T17:10:52.820",
+	"lastModified": "2016-04-07T17:10:52.820",
+	"titles": [
+		{
+			"title": "Cisco Telepresence Server Software 4.1(1.40)",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160406-cts",
+			"type": "Advisory"
+		},
+		{
+			"ref": "http://www.cisco.com/",
+			"type": "Vendor"
+		}
+	]
 }

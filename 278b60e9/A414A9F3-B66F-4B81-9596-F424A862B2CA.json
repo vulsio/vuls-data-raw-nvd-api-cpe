@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:mercurial:mercurial:3.9.2:*:*:*:*:*:*:*",
-  "cpeNameId": "A414A9F3-B66F-4B81-9596-F424A862B2CA",
-  "created": "2019-04-30T17:12:12.757",
-  "lastModified": "2019-04-30T17:12:12.757",
-  "titles": [
-    {
-      "title": "Mercurial 3.9.2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.mercurial-scm.org/wiki/WhatsNew/Archive",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:mercurial:mercurial:3.9.2:*:*:*:*:*:*:*",
+	"cpeNameId": "A414A9F3-B66F-4B81-9596-F424A862B2CA",
+	"created": "2019-04-30T17:12:12.757",
+	"lastModified": "2019-04-30T17:12:12.757",
+	"titles": [
+		{
+			"title": "Mercurial 3.9.2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.mercurial-scm.org/wiki/WhatsNew/Archive",
+			"type": "Version"
+		}
+	]
 }

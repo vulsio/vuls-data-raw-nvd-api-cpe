@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:zohocorp:application_control_plus:10.0.515:*:*:*:*:*:*:*",
-  "cpeNameId": "78080C9E-81FF-4CB7-BABE-2C1D1E85F5E4",
-  "created": "2020-10-20T15:34:41.910",
-  "lastModified": "2020-10-20T15:34:41.910",
-  "titles": [
-    {
-      "title": "Zohocorp Application Control Plus 10.0.515",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.manageengine.com/application-control/hotfix-readme.html",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:zohocorp:application_control_plus:10.0.515:*:*:*:*:*:*:*",
+	"cpeNameId": "78080C9E-81FF-4CB7-BABE-2C1D1E85F5E4",
+	"created": "2020-10-20T15:34:41.910",
+	"lastModified": "2020-10-20T15:34:41.910",
+	"titles": [
+		{
+			"title": "Zohocorp Application Control Plus 10.0.515",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.manageengine.com/application-control/hotfix-readme.html",
+			"type": "Change Log"
+		}
+	]
 }

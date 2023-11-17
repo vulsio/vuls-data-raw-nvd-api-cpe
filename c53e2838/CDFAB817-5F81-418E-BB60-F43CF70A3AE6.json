@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:br-automation:vc4:4.20.0:*:*:*:*:*:*:*",
-  "cpeNameId": "CDFAB817-5F81-418E-BB60-F43CF70A3AE6",
-  "created": "2023-04-20T13:43:54.910",
-  "lastModified": "2023-05-02T17:03:20.047",
-  "titles": [
-    {
-      "title": "B&R VC4 4.20.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.br-automation.com/downloads_br_productcatalogue/assets/1681046878970-en-original-1.0.pdf",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:br-automation:vc4:4.20.0:*:*:*:*:*:*:*",
+	"cpeNameId": "CDFAB817-5F81-418E-BB60-F43CF70A3AE6",
+	"created": "2023-04-20T13:43:54.910",
+	"lastModified": "2023-05-02T17:03:20.047",
+	"titles": [
+		{
+			"title": "B&R VC4 4.20.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.br-automation.com/downloads_br_productcatalogue/assets/1681046878970-en-original-1.0.pdf",
+			"type": "Advisory"
+		}
+	]
 }

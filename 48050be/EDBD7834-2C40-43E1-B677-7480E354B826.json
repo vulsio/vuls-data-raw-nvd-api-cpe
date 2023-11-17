@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:gnu:glibc:2.27:*:*:*:*:*:x86:*",
-  "cpeNameId": "EDBD7834-2C40-43E1-B677-7480E354B826",
-  "created": "2019-03-06T16:56:48.863",
-  "lastModified": "2019-03-06T16:56:48.863",
-  "titles": [
-    {
-      "title": "GNU glibc 2.27 x86",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://pkgs.org/download/glibc(x86-64)",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:gnu:glibc:2.27:*:*:*:*:*:x86:*",
+	"cpeNameId": "EDBD7834-2C40-43E1-B677-7480E354B826",
+	"created": "2019-03-06T16:56:48.863",
+	"lastModified": "2019-03-06T16:56:48.863",
+	"titles": [
+		{
+			"title": "GNU glibc 2.27 x86",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://pkgs.org/download/glibc(x86-64)",
+			"type": "Version"
+		}
+	]
 }

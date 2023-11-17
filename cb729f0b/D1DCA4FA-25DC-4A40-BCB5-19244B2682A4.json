@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:todd_miller:sudo:1.7.4p1:*:*:*:*:*:*:*",
-  "cpeNameId": "D1DCA4FA-25DC-4A40-BCB5-19244B2682A4",
-  "created": "2010-09-13T19:36:11.243",
-  "lastModified": "2013-03-07T18:51:32.520",
-  "titles": [
-    {
-      "title": "Todd Miller Sudo 1.7.4p1",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:todd_miller:sudo:1.7.4p1:*:*:*:*:*:*:*",
+	"cpeNameId": "D1DCA4FA-25DC-4A40-BCB5-19244B2682A4",
+	"created": "2010-09-13T19:36:11.243",
+	"lastModified": "2013-03-07T18:51:32.520",
+	"titles": [
+		{
+			"title": "Todd Miller Sudo 1.7.4p1",
+			"lang": "en"
+		}
+	]
 }

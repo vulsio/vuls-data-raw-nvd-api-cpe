@@ -1,22 +1,22 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:mozilla:firefox_esr:31.5.3:*:*:*:*:*:*:*",
-  "cpeNameId": "5F191E99-1631-43E6-B720-90010BD170A6",
-  "created": "2015-04-01T13:29:41.863",
-  "lastModified": "2015-04-13T18:28:00.920",
-  "titles": [
-    {
-      "title": "Mozilla Firefox Extended Support Release (ESR) 31.5.3",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://www.mozilla.org/en-US/firefox/organizations/faq/",
-      "type": "Product"
-    },
-    {
-      "ref": "https://www.mozilla.org/en-US/firefox/31.5.3/releasenotes/"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:mozilla:firefox_esr:31.5.3:*:*:*:*:*:*:*",
+	"cpeNameId": "5F191E99-1631-43E6-B720-90010BD170A6",
+	"created": "2015-04-01T13:29:41.863",
+	"lastModified": "2015-04-13T18:28:00.920",
+	"titles": [
+		{
+			"title": "Mozilla Firefox Extended Support Release (ESR) 31.5.3",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.mozilla.org/en-US/firefox/organizations/faq/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://www.mozilla.org/en-US/firefox/31.5.3/releasenotes/"
+		}
+	]
 }

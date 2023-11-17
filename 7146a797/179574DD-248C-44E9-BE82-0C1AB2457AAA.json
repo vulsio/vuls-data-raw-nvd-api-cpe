@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:dollarshaveclub:shave:0.0.7:*:*:*:*:*:*:*",
-  "cpeNameId": "179574DD-248C-44E9-BE82-0C1AB2457AAA",
-  "created": "2019-05-28T16:43:51.257",
-  "lastModified": "2019-05-28T16:43:51.257",
-  "titles": [
-    {
-      "title": "Shave 0.0.7",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/dollarshaveclub/shave/releases",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:dollarshaveclub:shave:0.0.7:*:*:*:*:*:*:*",
+	"cpeNameId": "179574DD-248C-44E9-BE82-0C1AB2457AAA",
+	"created": "2019-05-28T16:43:51.257",
+	"lastModified": "2019-05-28T16:43:51.257",
+	"titles": [
+		{
+			"title": "Shave 0.0.7",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/dollarshaveclub/shave/releases",
+			"type": "Version"
+		}
+	]
 }

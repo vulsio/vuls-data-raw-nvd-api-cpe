@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:useful_banner_manager_project:useful_banner_manager:1.6.1:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "E089F6F6-6F33-40BE-92E0-8361928A3A4B",
-  "created": "2022-06-15T16:35:47.747",
-  "lastModified": "2022-06-16T13:43:01.620",
-  "titles": [
-    {
-      "title": "Useful Banner Manager Project Useful Banner Manager 1.6.1 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://wordpress.org/plugins/useful-banner-manager/",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:useful_banner_manager_project:useful_banner_manager:1.6.1:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "E089F6F6-6F33-40BE-92E0-8361928A3A4B",
+	"created": "2022-06-15T16:35:47.747",
+	"lastModified": "2022-06-16T13:43:01.620",
+	"titles": [
+		{
+			"title": "Useful Banner Manager Project Useful Banner Manager 1.6.1 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/useful-banner-manager/",
+			"type": "Product"
+		}
+	]
 }

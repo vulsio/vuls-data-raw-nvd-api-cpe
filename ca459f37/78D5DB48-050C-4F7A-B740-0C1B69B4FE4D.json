@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:wekan_project:wekan:0.72:*:*:*:*:*:*:*",
-  "cpeNameId": "78D5DB48-050C-4F7A-B740-0C1B69B4FE4D",
-  "created": "2019-08-14T13:52:14.023",
-  "lastModified": "2019-08-14T13:52:14.023",
-  "titles": [
-    {
-      "title": "Wekan Project Wekan 0.72",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/wekan",
-      "type": "Project"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:wekan_project:wekan:0.72:*:*:*:*:*:*:*",
+	"cpeNameId": "78D5DB48-050C-4F7A-B740-0C1B69B4FE4D",
+	"created": "2019-08-14T13:52:14.023",
+	"lastModified": "2019-08-14T13:52:14.023",
+	"titles": [
+		{
+			"title": "Wekan Project Wekan 0.72",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/wekan",
+			"type": "Project"
+		}
+	]
 }

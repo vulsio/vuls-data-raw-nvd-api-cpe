@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:openharmony:openharmony:3.0.7:*:*:*:lts:*:*:*",
-  "cpeNameId": "0DC27423-5872-4552-84E0-CF66947A3BFD",
-  "created": "2023-03-14T14:38:25.440",
-  "lastModified": "2023-03-14T14:39:47.307",
-  "titles": [
-    {
-      "title": "OpenHarmony 3.0.7 Long Term Support (LTS)",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://gitee.com/openharmony/docs/tags",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:openharmony:openharmony:3.0.7:*:*:*:lts:*:*:*",
+	"cpeNameId": "0DC27423-5872-4552-84E0-CF66947A3BFD",
+	"created": "2023-03-14T14:38:25.440",
+	"lastModified": "2023-03-14T14:39:47.307",
+	"titles": [
+		{
+			"title": "OpenHarmony 3.0.7 Long Term Support (LTS)",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://gitee.com/openharmony/docs/tags",
+			"type": "Change Log"
+		}
+	]
 }

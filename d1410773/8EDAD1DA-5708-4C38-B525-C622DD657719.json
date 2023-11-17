@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:ibm:publishing_engine:7.0:*:*:*:*:*:*:*",
-  "cpeNameId": "8EDAD1DA-5708-4C38-B525-C622DD657719",
-  "created": "2020-07-21T19:35:38.583",
-  "lastModified": "2020-07-21T19:35:38.583",
-  "titles": [
-    {
-      "title": "IBM Publishing Engine 7.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.ibm.com/support/knowledgecenter/SS6RHZ_7.0.1/com.ibm.rational.pe.install.doc/topics/rpe_release_notes_7.0.1.html",
-      "type": "Product"
-    },
-    {
-      "ref": "https://www.ibm.com/support/pages/node/6249131",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:ibm:publishing_engine:7.0:*:*:*:*:*:*:*",
+	"cpeNameId": "8EDAD1DA-5708-4C38-B525-C622DD657719",
+	"created": "2020-07-21T19:35:38.583",
+	"lastModified": "2020-07-21T19:35:38.583",
+	"titles": [
+		{
+			"title": "IBM Publishing Engine 7.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.ibm.com/support/knowledgecenter/SS6RHZ_7.0.1/com.ibm.rational.pe.install.doc/topics/rpe_release_notes_7.0.1.html",
+			"type": "Product"
+		},
+		{
+			"ref": "https://www.ibm.com/support/pages/node/6249131",
+			"type": "Advisory"
+		}
+	]
 }

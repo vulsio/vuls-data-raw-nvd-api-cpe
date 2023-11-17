@@ -1,27 +1,27 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:tri:the_events_calendar:4.6.22.1:*:*:*:*:wordpress:*:*",
-  "cpeNameId": "10DBB049-BD8C-428E-8E86-06824560EB96",
-  "created": "2019-09-04T12:45:47.503",
-  "lastModified": "2019-09-04T12:45:47.503",
-  "titles": [
-    {
-      "title": "Modern Tribe The Events Calendar 4.6.22.1 for WordPress",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://theeventscalendar.com/?utm_campaign=in-app&utm_source=docblock&utm_medium=plugin-tec",
-      "type": "Product"
-    },
-    {
-      "ref": "https://tri.be/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://wordpress.org/plugins/the-events-calendar/#developers",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:tri:the_events_calendar:4.6.22.1:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "10DBB049-BD8C-428E-8E86-06824560EB96",
+	"created": "2019-09-04T12:45:47.503",
+	"lastModified": "2019-09-04T12:45:47.503",
+	"titles": [
+		{
+			"title": "Modern Tribe The Events Calendar 4.6.22.1 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://theeventscalendar.com/?utm_campaign=in-app&utm_source=docblock&utm_medium=plugin-tec",
+			"type": "Product"
+		},
+		{
+			"ref": "https://tri.be/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/the-events-calendar/#developers",
+			"type": "Change Log"
+		}
+	]
 }

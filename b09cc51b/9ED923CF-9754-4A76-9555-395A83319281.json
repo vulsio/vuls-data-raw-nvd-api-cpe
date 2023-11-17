@@ -1,22 +1,22 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.0.8:*:*:*:*:*:*:*",
-  "cpeNameId": "9ED923CF-9754-4A76-9555-395A83319281",
-  "created": "2014-06-25T14:40:49.480",
-  "lastModified": "2014-06-25T14:48:12.697",
-  "titles": [
-    {
-      "title": "phpMYAdmin 4.0.8",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/phpmyadmin/history/blob/master/ChangeLogs/ChangeLog-2013"
-    },
-    {
-      "ref": "https://github.com/phpmyadmin/phpmyadmin/blob/master/ChangeLog",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.0.8:*:*:*:*:*:*:*",
+	"cpeNameId": "9ED923CF-9754-4A76-9555-395A83319281",
+	"created": "2014-06-25T14:40:49.480",
+	"lastModified": "2014-06-25T14:48:12.697",
+	"titles": [
+		{
+			"title": "phpMYAdmin 4.0.8",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/phpmyadmin/history/blob/master/ChangeLogs/ChangeLog-2013"
+		},
+		{
+			"ref": "https://github.com/phpmyadmin/phpmyadmin/blob/master/ChangeLog",
+			"type": "Change Log"
+		}
+	]
 }

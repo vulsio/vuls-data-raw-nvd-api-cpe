@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:lucent:vitalnet:8.0:*:*:*:*:*:*:*",
-  "cpeNameId": "058B3144-216F-46C3-86B7-57EA7B3E66DD",
-  "created": "2007-08-23T21:16:59.567",
-  "lastModified": "2007-09-14T17:36:49.090",
-  "titles": [
-    {
-      "title": "Lucent VitalNet 8.0",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:lucent:vitalnet:8.0:*:*:*:*:*:*:*",
+	"cpeNameId": "058B3144-216F-46C3-86B7-57EA7B3E66DD",
+	"created": "2007-08-23T21:16:59.567",
+	"lastModified": "2007-09-14T17:36:49.090",
+	"titles": [
+		{
+			"title": "Lucent VitalNet 8.0",
+			"lang": "en"
+		}
+	]
 }

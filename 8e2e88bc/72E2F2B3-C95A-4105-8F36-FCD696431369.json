@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:o:apple:ipad_os:15.7.4:*:*:*:*:*:*:*",
-  "cpeNameId": "72E2F2B3-C95A-4105-8F36-FCD696431369",
-  "created": "2023-09-22T21:13:32.977",
-  "lastModified": "2023-09-22T21:13:32.977",
-  "titles": [
-    {
-      "title": "Apple iPad OS 15.7.4",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://support.apple.com/en-us/HT213673",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:apple:ipad_os:15.7.4:*:*:*:*:*:*:*",
+	"cpeNameId": "72E2F2B3-C95A-4105-8F36-FCD696431369",
+	"created": "2023-09-22T21:13:32.977",
+	"lastModified": "2023-09-22T21:13:32.977",
+	"titles": [
+		{
+			"title": "Apple iPad OS 15.7.4",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://support.apple.com/en-us/HT213673",
+			"type": "Advisory"
+		}
+	]
 }

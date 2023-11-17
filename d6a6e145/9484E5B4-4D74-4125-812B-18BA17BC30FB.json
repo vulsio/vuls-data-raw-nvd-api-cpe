@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:arangodb:arangodb:0.4.2:-:*:*:*:*:*:*",
-  "cpeNameId": "9484E5B4-4D74-4125-812B-18BA17BC30FB",
-  "created": "2021-05-27T14:31:07.733",
-  "lastModified": "2021-05-27T14:57:24.490",
-  "titles": [
-    {
-      "title": "ArangoDB 0.4.2",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/arangodb/arangodb/tags",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:arangodb:arangodb:0.4.2:-:*:*:*:*:*:*",
+	"cpeNameId": "9484E5B4-4D74-4125-812B-18BA17BC30FB",
+	"created": "2021-05-27T14:31:07.733",
+	"lastModified": "2021-05-27T14:57:24.490",
+	"titles": [
+		{
+			"title": "ArangoDB 0.4.2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/arangodb/arangodb/tags",
+			"type": "Version"
+		}
+	]
 }

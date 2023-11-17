@@ -1,13 +1,13 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:h:foundrynet:fastiron_ii_router:-:*:*:*:*:*:*:*",
-  "cpeNameId": "66A89A38-8BF8-46C9-88B3-CB7E01B674CF",
-  "created": "2007-08-23T21:05:57.937",
-  "lastModified": "2008-03-25T19:15:32.273",
-  "titles": [
-    {
-      "title": "Foundry FastIron II Router",
-      "lang": "en"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:foundrynet:fastiron_ii_router:-:*:*:*:*:*:*:*",
+	"cpeNameId": "66A89A38-8BF8-46C9-88B3-CB7E01B674CF",
+	"created": "2007-08-23T21:05:57.937",
+	"lastModified": "2008-03-25T19:15:32.273",
+	"titles": [
+		{
+			"title": "Foundry FastIron II Router",
+			"lang": "en"
+		}
+	]
 }

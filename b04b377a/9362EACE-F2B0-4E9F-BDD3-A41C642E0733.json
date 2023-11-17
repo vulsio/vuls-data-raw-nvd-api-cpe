@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:twistedmatrix:twisted:20.11.0:dev4:*:*:*:*:*:*",
-  "cpeNameId": "9362EACE-F2B0-4E9F-BDD3-A41C642E0733",
-  "created": "2022-02-09T15:06:11.190",
-  "lastModified": "2022-02-09T19:19:31.827",
-  "titles": [
-    {
-      "title": "Twisted Matrix Twisted 20.11.0 Dev4",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.twistedmatrix.com/trac/",
-      "type": "Vendor"
-    },
-    {
-      "ref": "https://github.com/twisted/twisted/releases",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:twistedmatrix:twisted:20.11.0:dev4:*:*:*:*:*:*",
+	"cpeNameId": "9362EACE-F2B0-4E9F-BDD3-A41C642E0733",
+	"created": "2022-02-09T15:06:11.190",
+	"lastModified": "2022-02-09T19:19:31.827",
+	"titles": [
+		{
+			"title": "Twisted Matrix Twisted 20.11.0 Dev4",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.twistedmatrix.com/trac/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/twisted/twisted/releases",
+			"type": "Change Log"
+		}
+	]
 }

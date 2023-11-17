@@ -1,23 +1,23 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:cockpit-project:cockpit:151:*:*:*:*:*:*:*",
-  "cpeNameId": "E276DFB2-086B-4FEF-ABB5-135D7F131BDE",
-  "created": "2019-04-02T15:20:28.203",
-  "lastModified": "2019-04-02T15:20:28.203",
-  "titles": [
-    {
-      "title": "Cockpit Project Cockpit 151",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/cockpit-project/cockpit",
-      "type": "Version"
-    },
-    {
-      "ref": "https://cockpit-project.org/",
-      "type": "Product"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:cockpit-project:cockpit:151:*:*:*:*:*:*:*",
+	"cpeNameId": "E276DFB2-086B-4FEF-ABB5-135D7F131BDE",
+	"created": "2019-04-02T15:20:28.203",
+	"lastModified": "2019-04-02T15:20:28.203",
+	"titles": [
+		{
+			"title": "Cockpit Project Cockpit 151",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/cockpit-project/cockpit",
+			"type": "Version"
+		},
+		{
+			"ref": "https://cockpit-project.org/",
+			"type": "Product"
+		}
+	]
 }

@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:cryptography_project:cryptography:0.9.3:*:*:*:*:python:*:*",
-  "cpeNameId": "E1E3F47A-A6D5-4301-A839-ADB64005C2EE",
-  "created": "2021-02-08T15:11:43.137",
-  "lastModified": "2021-02-08T15:11:43.137",
-  "titles": [
-    {
-      "title": "cryptography Project cryptography 0.9.3 for Python",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://github.com/pyca/cryptography",
-      "type": "Version"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:cryptography_project:cryptography:0.9.3:*:*:*:*:python:*:*",
+	"cpeNameId": "E1E3F47A-A6D5-4301-A839-ADB64005C2EE",
+	"created": "2021-02-08T15:11:43.137",
+	"lastModified": "2021-02-08T15:11:43.137",
+	"titles": [
+		{
+			"title": "cryptography Project cryptography 0.9.3 for Python",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/pyca/cryptography",
+			"type": "Version"
+		}
+	]
 }

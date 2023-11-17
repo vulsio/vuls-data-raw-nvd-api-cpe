@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:snowtide:pdfxstream:2.6.4:*:*:*:*:*:*:*",
-  "cpeNameId": "2A55968E-8C93-489A-A385-1B47BCA329B1",
-  "created": "2019-10-07T14:11:01.197",
-  "lastModified": "2019-10-07T14:11:01.197",
-  "titles": [
-    {
-      "title": "Snowtide PDFxStream 2.6.4",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "http://downloads.snowtide.com/CHANGELOG.html",
-      "type": "Change Log"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:snowtide:pdfxstream:2.6.4:*:*:*:*:*:*:*",
+	"cpeNameId": "2A55968E-8C93-489A-A385-1B47BCA329B1",
+	"created": "2019-10-07T14:11:01.197",
+	"lastModified": "2019-10-07T14:11:01.197",
+	"titles": [
+		{
+			"title": "Snowtide PDFxStream 2.6.4",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://downloads.snowtide.com/CHANGELOG.html",
+			"type": "Change Log"
+		}
+	]
 }

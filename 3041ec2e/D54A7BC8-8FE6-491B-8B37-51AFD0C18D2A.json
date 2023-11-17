@@ -1,19 +1,19 @@
 {
-  "deprecated": false,
-  "cpeName": "cpe:2.3:a:mozilla:firefox:117.0:*:*:*:*:*:*:*",
-  "cpeNameId": "D54A7BC8-8FE6-491B-8B37-51AFD0C18D2A",
-  "created": "2023-09-21T17:55:37.093",
-  "lastModified": "2023-09-21T17:55:37.093",
-  "titles": [
-    {
-      "title": "Mozilla Firefox 117.0",
-      "lang": "en"
-    }
-  ],
-  "refs": [
-    {
-      "ref": "https://www.mozilla.org/en-US/security/advisories/mfsa2023-34/",
-      "type": "Advisory"
-    }
-  ]
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:mozilla:firefox:117.0:*:*:*:*:*:*:*",
+	"cpeNameId": "D54A7BC8-8FE6-491B-8B37-51AFD0C18D2A",
+	"created": "2023-09-21T17:55:37.093",
+	"lastModified": "2023-09-21T17:55:37.093",
+	"titles": [
+		{
+			"title": "Mozilla Firefox 117.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.mozilla.org/en-US/security/advisories/mfsa2023-34/",
+			"type": "Advisory"
+		}
+	]
 }
