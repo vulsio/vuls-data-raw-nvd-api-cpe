@@ -3,21 +3,11 @@
 	"cpeName": "cpe:2.3:a:apache:mina:2.8.0:*:*:*:*:*:*:*",
 	"cpeNameId": "CF998DBF-AE35-4052-BEE4-18F3AFAD9BE0",
 	"created": "2023-07-17T11:20:59.680",
-	"lastModified": "2023-07-17T13:46:08.607",
+	"lastModified": "2023-11-21T15:53:51.923",
 	"titles": [
 		{
 			"title": "Apache Software Foundation MINA 2.8.0",
 			"lang": "en"
-		}
-	],
-	"refs": [
-		{
-			"ref": "https://issues.apache.org/jira/browse/SSHD-1326?jql=project%20%3D%20SSHD%20AND%20fixVersion%20%3D%202.10.0",
-			"type": "Version"
-		},
-		{
-			"ref": "https://lists.apache.org/thread/b9qgtqvhnvgfpn0w1gz918p21p53tqk2",
-			"type": "Advisory"
 		}
 	]
 }

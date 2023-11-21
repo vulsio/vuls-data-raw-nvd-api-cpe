@@ -3,7 +3,7 @@
 	"cpeName": "cpe:2.3:a:oracle:jdk:1.9.1:*:*:*:*:*:*:*",
 	"cpeNameId": "B72EADEE-5E3D-431D-AA17-78A928C6D22B",
 	"created": "2020-01-14T18:00:02.467",
-	"lastModified": "2020-01-14T18:00:02.467",
+	"lastModified": "2023-11-21T16:06:46.957",
 	"titles": [
 		{
 			"title": "Oracle Java Development Kit (JDK) 1.9.1",
