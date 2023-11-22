@@ -3,10 +3,10 @@
 	"cpeName": "cpe:2.3:a:oracle:jdk:9:*:*:*:*:*:*:*",
 	"cpeNameId": "CFF62BED-FB99-457C-8291-747B90E7B8CF",
 	"created": "2020-03-19T13:00:23.997",
-	"lastModified": "2020-03-19T13:00:23.997",
+	"lastModified": "2023-11-21T19:55:48.063",
 	"titles": [
 		{
-			"title": "Oracle JDK 9",
+			"title": "Oracle Java Development Kit (JDK) 9",
 			"lang": "en"
 		}
 	],
@@ -14,6 +14,16 @@
 		{
 			"ref": "https://www.oracle.com/technetwork/java/javase/9u-relnotes-3704429.html",
 			"type": "Version"
+		},
+		{
+			"ref": "https://www.oracle.com/java/technologies/javase/javase9-archive-downloads.html",
+			"type": "Change Log"
+		}
+	],
+	"deprecates": [
+		{
+			"cpeName": "cpe:2.3:a:oracle:jdk:1.9.0:*:*:*:*:*:*:*",
+			"cpeNameId": "89020151-1732-4B4F-87B7-14F7AC964123"
 		}
 	]
 }

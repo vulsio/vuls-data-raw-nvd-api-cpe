@@ -1,19 +1,19 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:oracle:jdk:1.10.0:*:*:*:*:*:*:*",
 	"cpeNameId": "046ECD42-B550-43A3-8657-BF18B8FEA970",
 	"created": "2018-04-26T15:24:42.167",
-	"lastModified": "2021-05-17T18:38:39.677",
+	"lastModified": "2023-11-21T20:26:20.697",
 	"titles": [
 		{
 			"title": "Oracle JDK 1.10.0",
 			"lang": "en"
 		}
 	],
-	"refs": [
+	"deprecatedBy": [
 		{
-			"ref": "http://www.oracle.com/technetwork/java/javase/downloads/index.html",
-			"type": "Version"
+			"cpeName": "cpe:2.3:a:oracle:jdk:10:*:*:*:*:*:*:*",
+			"cpeNameId": "C435F0F3-4CC6-4514-A73E-ACABB6E6B79D"
 		}
 	]
 }
