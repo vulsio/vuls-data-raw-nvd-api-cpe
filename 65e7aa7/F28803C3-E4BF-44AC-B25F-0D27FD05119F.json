@@ -1,0 +1,23 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:ipswitch:whatsup_gold:22.0.0:*:*:*:*:*:*:*",
+	"cpeNameId": "F28803C3-E4BF-44AC-B25F-0D27FD05119F",
+	"created": "2023-11-25T04:34:25.230",
+	"lastModified": "2023-11-25T04:34:25.230",
+	"titles": [
+		{
+			"title": "Ipswitch Whatsup Gold 22.0.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "http://www.whatsupgold.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://community.progress.com/s/article/WhatsUp-Gold-Critical-Product-Alert-May-2022",
+			"type": "Advisory"
+		}
+	]
+}
