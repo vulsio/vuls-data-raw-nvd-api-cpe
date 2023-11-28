@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:openvpn:openvpn:2.3.7:*:*:*:*:*:*:*",
 	"cpeNameId": "5ACF44E7-12A1-47A7-B0BB-09D92E395791",
 	"created": "2019-10-31T17:20:09.480",
-	"lastModified": "2019-10-31T17:20:09.480",
+	"lastModified": "2023-11-27T20:07:36.010",
 	"titles": [
 		{
 			"title": "OpenVPN 2.3.7",
@@ -12,12 +12,14 @@
 	],
 	"refs": [
 		{
-			"ref": "https://github.com/OpenVPN/openvpn/tags",
-			"type": "Version"
-		},
+			"ref": "https://openvpn.net/open-source-or-access-server/",
+			"type": "Product"
+		}
+	],
+	"deprecatedBy": [
 		{
-			"ref": "https://community.openvpn.net/openvpn/wiki/ChangesInOpenvpn24",
-			"type": "Change Log"
+			"cpeName": "cpe:2.3:a:openvpn:openvpn:2.3.7:*:*:*:community:*:*:*",
+			"cpeNameId": "DB608E29-8745-4D59-9716-9AEB7FDE3267"
 		}
 	]
 }

@@ -1,23 +1,25 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:openvpn:openvpn:2.4.11:*:*:*:*:*:*:*",
 	"cpeNameId": "57B553E9-279F-4196-B054-318DDA99CFAF",
 	"created": "2021-04-30T13:30:25.807",
-	"lastModified": "2021-05-07T13:56:47.947",
+	"lastModified": "2023-11-27T20:07:36.010",
 	"titles": [
 		{
-			"title": "OpenVPN OpenVPN 2.4.11",
+			"title": "OpenVPN 2.4.11",
 			"lang": "en"
 		}
 	],
 	"refs": [
 		{
-			"ref": "https://openvpn.net/community-downloads/",
-			"type": "Change Log"
-		},
+			"ref": "https://openvpn.net/open-source-or-access-server/",
+			"type": "Product"
+		}
+	],
+	"deprecatedBy": [
 		{
-			"ref": "https://openvpn.net/",
-			"type": "Vendor"
+			"cpeName": "cpe:2.3:a:openvpn:openvpn:2.4.11:*:*:*:community:*:*:*",
+			"cpeNameId": "0DD76C26-D1BF-4864-B152-16559BAE4D64"
 		}
 	]
 }

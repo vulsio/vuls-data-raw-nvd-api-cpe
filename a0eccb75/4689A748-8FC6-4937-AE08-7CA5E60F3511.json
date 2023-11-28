@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:openvpn:openvpn:2.4.0:rc2:*:*:*:*:*:*",
 	"cpeNameId": "4689A748-8FC6-4937-AE08-7CA5E60F3511",
 	"created": "2017-05-25T15:45:01.287",
-	"lastModified": "2017-05-25T15:45:01.287",
+	"lastModified": "2023-11-27T20:07:36.010",
 	"titles": [
 		{
 			"title": "OpenVPN 2.4.0 Release Candidate 2",
@@ -12,8 +12,14 @@
 	],
 	"refs": [
 		{
-			"ref": "https://openvpn.net/index.php/open-source/documentation/change-log.html",
-			"type": "Change Log"
+			"ref": "https://openvpn.net/open-source-or-access-server/",
+			"type": "Product"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:openvpn:openvpn:2.4.0:rc2:*:*:community:*:*:*",
+			"cpeNameId": "AC585F1A-B6A2-4F6E-AFBD-5B76E8A9B0BF"
 		}
 	]
 }
