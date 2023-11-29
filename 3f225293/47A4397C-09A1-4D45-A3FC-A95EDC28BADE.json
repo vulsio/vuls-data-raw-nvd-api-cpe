@@ -1,0 +1,23 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:seraphinitesolutions:seraphinite_accelerator:1.7.4:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "47A4397C-09A1-4D45-A3FC-A95EDC28BADE",
+	"created": "2023-11-29T17:55:11.867",
+	"lastModified": "2023-11-29T17:55:11.867",
+	"titles": [
+		{
+			"title": "Seraphinite Solutions Seraphinite Accelerator 1.7.4 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/seraphinite-accelerator/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://www.s-sols.com/",
+			"type": "Vendor"
+		}
+	]
+}
