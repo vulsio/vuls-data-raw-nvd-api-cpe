@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:woocommerce_vietnam_checkout_project:woocommerce_vietnam_checkout:2.0.5:*:*:*:*:wordpress:*:*",
 	"cpeNameId": "C8F14F3D-218D-46A9-91CB-7479380691C3",
 	"created": "2023-03-29T15:33:12.353",
-	"lastModified": "2023-04-04T15:03:26.147",
+	"lastModified": "2023-11-30T13:07:40.813",
 	"titles": [
 		{
 			"title": "WooCommerce Vietnam Checkout Project WooCommerce Vietnam Checkout 2.0.5 for WordPress",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://wordpress.org/plugins/woo-vietnam-checkout/#developers",
 			"type": "Change Log"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:levantoan:woocommerce_vietnam_checkout:2.0.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "AF872756-12F3-440A-8CDA-31D5BB0E016B"
 		}
 	]
 }

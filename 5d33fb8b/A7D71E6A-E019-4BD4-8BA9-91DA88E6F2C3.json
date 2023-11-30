@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:kk_star_ratings_project:kk_star_ratings:1.3.1:*:*:*:*:wordpress:*:*",
 	"cpeNameId": "A7D71E6A-E019-4BD4-8BA9-91DA88E6F2C3",
 	"created": "2021-09-22T14:26:47.680",
-	"lastModified": "2021-09-22T14:30:14.577",
+	"lastModified": "2023-11-30T13:18:12.300",
 	"titles": [
 		{
 			"title": "Kk Star Ratings Project Kk Star Ratings 1.3.1 for WordPress",
@@ -14,6 +14,12 @@
 		{
 			"ref": "https://github.com/kamalkhan/kk-star-ratings/releases",
 			"type": "Version"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:kamalkhan:kk_star_ratings:1.3.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B64205F4-28E6-479E-BDDE-3A08EFDA9D26"
 		}
 	]
 }
