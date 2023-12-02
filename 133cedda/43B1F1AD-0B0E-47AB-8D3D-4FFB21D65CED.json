@@ -3,7 +3,7 @@
 	"cpeName": "cpe:2.3:a:strangerstudios:paid_memberships_pro:2.5.5:*:*:*:*:wordpress:*:*",
 	"cpeNameId": "43B1F1AD-0B0E-47AB-8D3D-4FFB21D65CED",
 	"created": "2022-01-04T19:25:12.860",
-	"lastModified": "2022-01-04T19:26:41.043",
+	"lastModified": "2023-12-01T18:28:42.207",
 	"titles": [
 		{
 			"title": "Stranger Studios Paid Memberships Pro 2.5.5 for WordPress",
@@ -22,6 +22,16 @@
 		{
 			"ref": "https://plugins.trac.wordpress.org/browser/paid-memberships-pro/#tags",
 			"type": "Version"
+		},
+		{
+			"ref": "https://github.com/strangerstudios/paid-memberships-pro",
+			"type": "Product"
+		}
+	],
+	"deprecates": [
+		{
+			"cpeName": "cpe:2.3:a:paidmembershipspro:paid_memberships_pro:2.5.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "16408258-52E5-49F2-A38C-7BE4D68E8617"
 		}
 	]
 }

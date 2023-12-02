@@ -1,0 +1,19 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:bd:facschorus:3.0:*:*:*:*:*:*:*",
+	"cpeNameId": "99718A04-25FB-441F-B3AF-62CF2AC7B7F9",
+	"created": "2023-12-01T22:41:12.713",
+	"lastModified": "2023-12-01T22:41:12.713",
+	"titles": [
+		{
+			"title": "BD FACSChorus 3.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.bd.com/en-us/about-bd/cybersecurity/bulletin/bd-facschorus-software",
+			"type": "Advisory"
+		}
+	]
+}

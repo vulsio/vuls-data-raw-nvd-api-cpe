@@ -1,0 +1,23 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:microsoft:windows_10_21h2:10.0.19041.3693:*:*:*:*:*:arm64:*",
+	"cpeNameId": "0F003AAE-B9EA-4F08-BE1D-72F526C82207",
+	"created": "2023-12-01T18:30:58.093",
+	"lastModified": "2023-12-01T18:30:58.093",
+	"titles": [
+		{
+			"title": "Microsoft Windows 10 21h2 10.0.19041.3693 on ARM64",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-36028",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://www.microsoft.com/en-us/",
+			"type": "Vendor"
+		}
+	]
+}
