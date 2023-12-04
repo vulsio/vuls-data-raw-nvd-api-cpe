@@ -1,0 +1,19 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:wp-events-plugin:events_manager:6.4.1:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "C613B09B-390E-4D0D-B47F-7066D96A8477",
+	"created": "2023-12-04T13:10:30.643",
+	"lastModified": "2023-12-04T13:10:30.643",
+	"titles": [
+		{
+			"title": "Events Manager Project Events Manager 6.4.1 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/events-manager/#developers",
+			"type": "Change Log"
+		}
+	]
+}
