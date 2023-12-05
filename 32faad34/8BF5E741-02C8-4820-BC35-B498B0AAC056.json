@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:o:bd:facschorus:5.0:*:*:*:*:*:*:*",
 	"cpeNameId": "8BF5E741-02C8-4820-BC35-B498B0AAC056",
 	"created": "2023-12-01T22:41:12.713",
-	"lastModified": "2023-12-01T22:41:12.713",
+	"lastModified": "2023-12-05T16:56:15.123",
 	"titles": [
 		{
 			"title": "BD FACSChorus 5.0",
@@ -14,6 +14,12 @@
 		{
 			"ref": "https://www.bd.com/en-us/about-bd/cybersecurity/bulletin/bd-facschorus-software",
 			"type": "Advisory"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:bd:facschorus:5.0:*:*:*:*:*:*:*",
+			"cpeNameId": "6FD9AFA7-A32D-4A2A-88ED-0693EA8CDE33"
 		}
 	]
 }
