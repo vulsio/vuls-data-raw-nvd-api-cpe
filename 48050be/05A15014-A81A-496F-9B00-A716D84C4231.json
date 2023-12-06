@@ -3,7 +3,7 @@
 	"cpeName": "cpe:2.3:a:gnu:glibc:1.07:*:*:*:*:*:*:*",
 	"cpeNameId": "05A15014-A81A-496F-9B00-A716D84C4231",
 	"created": "2018-05-24T14:22:51.753",
-	"lastModified": "2018-05-24T14:22:51.753",
+	"lastModified": "2023-12-06T13:11:12.803",
 	"titles": [
 		{
 			"title": "GNU glibc 1.07",
@@ -12,7 +12,11 @@
 	],
 	"refs": [
 		{
-			"ref": "https://sourceware.org/glibc/wiki/Release/2.23",
+			"ref": "https://www.gnu.org/software/libc/",
+			"type": "Project"
+		},
+		{
+			"ref": "https://sourceware.org/glibc/wiki/Glibc%20Timeline",
 			"type": "Version"
 		},
 		{
@@ -20,12 +24,12 @@
 			"type": "Version"
 		},
 		{
-			"ref": "https://www.gnu.org/software/libc/",
-			"type": "Project"
+			"ref": "https://sourceware.org/glibc/wiki/Release/2.23",
+			"type": "Version"
 		},
 		{
-			"ref": "https://sourceware.org/glibc/wiki/Glibc%20Timeline",
-			"type": "Version"
+			"ref": "https://sourceware.org/git/?p=glibc.git;a=tags",
+			"type": "Change Log"
 		}
 	]
 }

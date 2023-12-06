@@ -3,7 +3,7 @@
 	"cpeName": "cpe:2.3:a:gnu:glibc:2.32.0:*:*:*:*:*:*:*",
 	"cpeNameId": "1DC3A44F-EF81-4A1B-84DA-59419E662ED4",
 	"created": "2020-03-09T17:55:48.070",
-	"lastModified": "2020-03-09T17:55:48.070",
+	"lastModified": "2023-12-06T13:11:12.803",
 	"titles": [
 		{
 			"title": "GNU glibc 2.32.0",
@@ -18,6 +18,10 @@
 		{
 			"ref": "https://www.gnu.org/software/libc/",
 			"type": "Project"
+		},
+		{
+			"ref": "https://sourceware.org/git/?p=glibc.git;a=tags",
+			"type": "Change Log"
 		}
 	]
 }

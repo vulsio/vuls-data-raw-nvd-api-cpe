@@ -3,11 +3,17 @@
 	"cpeName": "cpe:2.3:a:gnu:glibc:-:*:*:*:*:*:*:*",
 	"cpeNameId": "D25EAAF1-AAE0-4D9B-870D-E3F87482CAF8",
 	"created": "2007-08-23T21:05:57.937",
-	"lastModified": "2007-09-14T17:36:49.090",
+	"lastModified": "2023-12-06T13:11:12.803",
 	"titles": [
 		{
 			"title": "GNU glibc",
 			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://sourceware.org/git/?p=glibc.git;a=tags",
+			"type": "Change Log"
 		}
 	]
 }
