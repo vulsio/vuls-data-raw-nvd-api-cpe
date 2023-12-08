@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:apache:tomcat:9.0.0:m14:*:*:*:*:*:*",
 	"cpeNameId": "61D2E576-38EC-4864-BA7F-47F49F5922D7",
 	"created": "2017-04-21T18:53:28.600",
-	"lastModified": "2017-04-21T18:53:28.600",
+	"lastModified": "2023-12-08T16:41:17.687",
 	"titles": [
 		{
 			"title": "Apache Software Foundation Tomcat 9.0.0 M14",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://tomcat.apache.org/tomcat-9.0-doc/changelog.html",
 			"type": "Change Log"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:apache:tomcat:9.0.0:milestone14:*:*:*:*:*:*",
+			"cpeNameId": "2C7E8E95-7E06-427A-A838-3B0DC581D105"
 		}
 	]
 }

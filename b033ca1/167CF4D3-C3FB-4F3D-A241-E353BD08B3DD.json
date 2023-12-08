@@ -3,7 +3,7 @@
 	"cpeName": "cpe:2.3:a:python:python:3.10.0:-:*:*:*:*:*:*",
 	"cpeNameId": "167CF4D3-C3FB-4F3D-A241-E353BD08B3DD",
 	"created": "2022-03-14T14:26:18.850",
-	"lastModified": "2022-03-18T18:07:08.173",
+	"lastModified": "2023-12-08T16:56:53.480",
 	"titles": [
 		{
 			"title": "Python 3.10.0 -",
@@ -18,6 +18,16 @@
 		{
 			"ref": "https://bugzilla.redhat.com/show_bug.cgi?id=1995234",
 			"type": "Advisory"
+		}
+	],
+	"deprecates": [
+		{
+			"cpeName": "cpe:2.3:a:python:python:3.10.0:*:*:*:*:*:*:*",
+			"cpeNameId": "B0113BA7-A490-4402-B5D4-A1083B342F7B"
+		},
+		{
+			"cpeName": "cpe:2.3:a:python:python:3.10:*:*:*:*:*:*:*",
+			"cpeNameId": "B117EB64-C682-4E9E-806E-2C501F173951"
 		}
 	]
 }

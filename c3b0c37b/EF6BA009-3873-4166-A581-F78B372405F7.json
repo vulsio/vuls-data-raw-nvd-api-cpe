@@ -3,7 +3,7 @@
 	"cpeName": "cpe:2.3:a:apache:tomcat:9.0.0:milestone18:*:*:*:*:*:*",
 	"cpeNameId": "EF6BA009-3873-4166-A581-F78B372405F7",
 	"created": "2019-10-29T13:55:08.877",
-	"lastModified": "2019-10-29T13:55:08.877",
+	"lastModified": "2023-12-08T16:41:17.687",
 	"titles": [
 		{
 			"title": "Apache Software Foundation Tomcat 9.0.0 Milestone 18",
@@ -14,6 +14,12 @@
 		{
 			"ref": "https://github.com/apache/tomcat",
 			"type": "Version"
+		}
+	],
+	"deprecates": [
+		{
+			"cpeName": "cpe:2.3:a:apache:tomcat:9.0.0:m18:*:*:*:*:*:*",
+			"cpeNameId": "63CCA6A9-8D6F-4D4B-A0D0-A9022DC95890"
 		}
 	]
 }

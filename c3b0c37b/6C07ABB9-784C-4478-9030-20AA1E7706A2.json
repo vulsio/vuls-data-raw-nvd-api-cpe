@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:apache:tomcat:9.0.0:m1:*:*:*:*:*:*",
 	"cpeNameId": "6C07ABB9-784C-4478-9030-20AA1E7706A2",
 	"created": "2016-02-26T14:22:36.287",
-	"lastModified": "2016-02-26T14:22:36.287",
+	"lastModified": "2023-12-08T16:41:17.687",
 	"titles": [
 		{
 			"title": "Apache Software Foundation Tomcat 9.0.0 M1",
@@ -18,6 +18,12 @@
 		{
 			"ref": "http://tomcat.apache.org/",
 			"type": "Product"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:apache:tomcat:9.0.0:milestone1:*:*:*:*:*:*",
+			"cpeNameId": "4B98CEBA-D000-4B5E-BEDE-C8AD3FEAD71C"
 		}
 	]
 }

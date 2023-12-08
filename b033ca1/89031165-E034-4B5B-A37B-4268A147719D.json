@@ -3,7 +3,7 @@
 	"cpeName": "cpe:2.3:a:python:python:3.8.2:-:*:*:*:*:*:*",
 	"cpeNameId": "89031165-E034-4B5B-A37B-4268A147719D",
 	"created": "2022-05-20T13:47:26.407",
-	"lastModified": "2022-05-20T13:51:00.430",
+	"lastModified": "2023-12-08T16:54:04.287",
 	"titles": [
 		{
 			"title": "Python 3.8.2",
@@ -22,6 +22,12 @@
 		{
 			"ref": "https://github.com/python/cpython",
 			"type": "Version"
+		}
+	],
+	"deprecates": [
+		{
+			"cpeName": "cpe:2.3:a:python:python:3.8.2:*:*:*:*:*:*:*",
+			"cpeNameId": "EFF30DAC-40E2-4535-A393-90B83F194E30"
 		}
 	]
 }

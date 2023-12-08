@@ -3,7 +3,7 @@
 	"cpeName": "cpe:2.3:a:python:python:3.5.10:-:*:*:*:*:*:*",
 	"cpeNameId": "BD203858-0BE4-4A6B-ADB3-1C7D17DB93F6",
 	"created": "2022-05-20T13:47:53.420",
-	"lastModified": "2022-05-20T13:51:00.430",
+	"lastModified": "2023-12-08T16:54:04.287",
 	"titles": [
 		{
 			"title": "Python 3.5.10",
@@ -12,16 +12,22 @@
 	],
 	"refs": [
 		{
-			"ref": "https://www.python.org/",
-			"type": "Vendor"
+			"ref": "https://github.com/python/cpython",
+			"type": "Version"
 		},
 		{
 			"ref": "https://www.python.org/doc/versions/",
 			"type": "Version"
 		},
 		{
-			"ref": "https://github.com/python/cpython",
-			"type": "Version"
+			"ref": "https://www.python.org/",
+			"type": "Vendor"
+		}
+	],
+	"deprecates": [
+		{
+			"cpeName": "cpe:2.3:a:python:python:3.5.10:*:*:*:*:*:*:*",
+			"cpeNameId": "EDA1E8CB-C55E-4302-92F0-FA4448B509DB"
 		}
 	]
 }
