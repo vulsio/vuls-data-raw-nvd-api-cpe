@@ -1,0 +1,23 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:cryptography_project:cryptography:41.0.5:*:*:*:*:python:*:*",
+	"cpeNameId": "2EBA50FC-F3F9-40D5-82BD-EFB67F761153",
+	"created": "2023-12-09T00:23:49.020",
+	"lastModified": "2023-12-09T00:23:49.020",
+	"titles": [
+		{
+			"title": "cryptography Project cryptography 41.0.5 for Python",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/pyca/cryptography/tags",
+			"type": "Version"
+		},
+		{
+			"ref": "https://github.com/pyca/cryptography/security/advisories/GHSA-jfhm-5ghh-2f97",
+			"type": "Advisory"
+		}
+	]
+}

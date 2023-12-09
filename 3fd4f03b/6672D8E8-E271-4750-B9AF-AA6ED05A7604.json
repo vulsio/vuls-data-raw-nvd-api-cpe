@@ -1,0 +1,19 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:linuxfoundation:argo-cd:2.7.11:*:*:*:*:*:*:*",
+	"cpeNameId": "6672D8E8-E271-4750-B9AF-AA6ED05A7604",
+	"created": "2023-12-09T04:57:34.540",
+	"lastModified": "2023-12-09T04:57:34.540",
+	"titles": [
+		{
+			"title": "The Linux Foundation Argo CD 2.7.11",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/argoproj/argo-cd/releases",
+			"type": "Change Log"
+		}
+	]
+}

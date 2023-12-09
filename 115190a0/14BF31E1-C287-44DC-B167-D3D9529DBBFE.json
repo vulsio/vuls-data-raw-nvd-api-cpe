@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:zohocorp:network_configuration_manager:12.6:build126002:*:*:*:*:*:*",
 	"cpeNameId": "14BF31E1-C287-44DC-B167-D3D9529DBBFE",
 	"created": "2022-08-12T14:41:09.760",
-	"lastModified": "2022-08-12T20:46:00.243",
+	"lastModified": "2023-12-09T00:30:32.643",
 	"titles": [
 		{
 			"title": "Zoho Corporation Network Configuration Manager 12.6 Build126002",
@@ -12,8 +12,14 @@
 	],
 	"refs": [
 		{
-			"ref": "https://www.manageengine.com/itom/advisory/cve-2022-37024.html",
-			"type": "Advisory"
+			"ref": "https://www.manageengine.com/network-configuration-manager/",
+			"type": "Product"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_network_configuration_manager:12.6:build126002:*:*:*:*:*:*",
+			"cpeNameId": "B3053457-93DB-4EC1-9922-3D2C64CF2EE0"
 		}
 	]
 }
