@@ -1,0 +1,27 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:arisoft:ari_stream_quiz:1.2.32:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "FAB22F12-F377-486E-860D-D66EBEE1828D",
+	"created": "2023-12-09T14:57:46.987",
+	"lastModified": "2023-12-09T14:57:46.987",
+	"titles": [
+		{
+			"title": "ARI Soft ARI Stream Quiz 1.2.32 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.ari-soft.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/ari-stream-quiz/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "http://wp-quiz.ari-soft.com/",
+			"type": "Product"
+		}
+	]
+}
