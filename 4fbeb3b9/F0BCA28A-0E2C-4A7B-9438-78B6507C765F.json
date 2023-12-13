@@ -1,0 +1,23 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:woocommerce:woocommerce:8.2.2:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "F0BCA28A-0E2C-4A7B-9438-78B6507C765F",
+	"created": "2023-12-12T21:22:32.480",
+	"lastModified": "2023-12-12T21:22:32.480",
+	"titles": [
+		{
+			"title": "WooCommerce 8.2.2 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://woocommerce.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/woocommerce/#developers",
+			"type": "Version"
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:woocommerce:woocommerce:6.7.0:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "787F7A03-1FB0-4E55-A40B-1009A2404547",
+	"created": "2023-12-12T21:22:32.480",
+	"lastModified": "2023-12-12T21:22:32.480",
+	"titles": [
+		{
+			"title": "WooCommerce 6.7.0 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://woocommerce.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/woocommerce/#developers",
+			"type": "Version"
+		}
+	]
+}
