@@ -1,0 +1,23 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:reputeinfosystems:bookingpress:1.0.69:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "EBD63F62-BA70-41FC-A369-DB73A31F9E3D",
+	"created": "2023-12-13T20:26:42.230",
+	"lastModified": "2023-12-13T20:26:42.230",
+	"titles": [
+		{
+			"title": "Repute Infosystems BookingPress 1.0.69 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/bookingpress-appointment-booking/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://www.bookingpressplugin.com/",
+			"type": "Product"
+		}
+	]
+}
