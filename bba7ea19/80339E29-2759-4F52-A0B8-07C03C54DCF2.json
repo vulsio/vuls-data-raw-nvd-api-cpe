@@ -1,0 +1,19 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:apple:ipados:17.2:*:*:*:*:*:*:*",
+	"cpeNameId": "80339E29-2759-4F52-A0B8-07C03C54DCF2",
+	"created": "2023-12-14T13:55:59.243",
+	"lastModified": "2023-12-14T13:55:59.243",
+	"titles": [
+		{
+			"title": "Apple iPadOS 17.2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://support.apple.com/en-us/HT214035",
+			"type": "Advisory"
+		}
+	]
+}
