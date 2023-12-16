@@ -1,0 +1,19 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.17:*:*:*:*:*:*:*",
+	"cpeNameId": "24B42C9B-7B70-4D29-980A-C92D70F141C2",
+	"created": "2023-12-16T04:32:10.130",
+	"lastModified": "2023-12-16T04:32:10.130",
+	"titles": [
+		{
+			"title": "Palo Alto Networks PAN-OS 9.1.17",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://security.paloaltonetworks.com/CVE-2023-6793",
+			"type": "Advisory"
+		}
+	]
+}

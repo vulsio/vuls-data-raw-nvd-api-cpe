@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:openzeppelin:openzeppelin-eth:2.0.0:*:*:*:node.js:*:*:*",
 	"cpeNameId": "1CE7CD3B-3FE1-4679-8BCF-DA2E00E2E668",
 	"created": "2022-08-08T11:55:54.827",
-	"lastModified": "2022-08-12T20:37:57.897",
+	"lastModified": "2023-12-16T04:05:58.243",
 	"titles": [
 		{
 			"title": "Openzeppelin Openzeppelin-eth 2.0.0 Node.js Edition",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://www.npmjs.com/package/openzeppelin-eth",
 			"type": "Product"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:openzeppelin:openzeppelin-eth:2.0.0:*:*:*:*:node.js:*:*",
+			"cpeNameId": "70ED415B-3EAD-437B-9873-5C052B758724"
 		}
 	]
 }

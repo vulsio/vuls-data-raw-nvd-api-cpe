@@ -1,0 +1,19 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:pulsesecure:pulse_policy_secure:9.1:r4.3:*:*:*:*:*:*",
+	"cpeNameId": "3B897A0E-C7FB-4635-9873-0F52C092FC38",
+	"created": "2023-12-16T04:28:17.570",
+	"lastModified": "2023-12-16T04:28:17.570",
+	"titles": [
+		{
+			"title": "Pulse Secure Pulse Policy Secure 9.1 R4.3",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.ivanti.com/company/history/pulse-secure",
+			"type": "Product"
+		}
+	]
+}

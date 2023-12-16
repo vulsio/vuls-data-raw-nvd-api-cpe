@@ -1,0 +1,19 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.12:*:*:*:*:*:*:*",
+	"cpeNameId": "B0214E1B-49C3-43FA-8590-7C2C3633620E",
+	"created": "2023-12-16T04:32:10.130",
+	"lastModified": "2023-12-16T04:32:10.130",
+	"titles": [
+		{
+			"title": "Palo Alto Networks PAN-OS 9.1.12",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://security.paloaltonetworks.com/CVE-2023-6795",
+			"type": "Advisory"
+		}
+	]
+}

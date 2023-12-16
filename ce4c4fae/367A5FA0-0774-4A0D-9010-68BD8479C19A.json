@@ -1,0 +1,19 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:10.2.5:*:*:*:*:*:*:*",
+	"cpeNameId": "367A5FA0-0774-4A0D-9010-68BD8479C19A",
+	"created": "2023-12-16T04:32:10.130",
+	"lastModified": "2023-12-16T04:32:10.130",
+	"titles": [
+		{
+			"title": "Palo Alto Networks PAN-OS 10.2.5",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://security.paloaltonetworks.com/CVE-2023-6793",
+			"type": "Advisory"
+		}
+	]
+}

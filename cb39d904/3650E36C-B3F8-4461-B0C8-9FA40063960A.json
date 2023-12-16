@@ -1,0 +1,23 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:adobe:experience_manager:6.5.18:*:*:*:*:*:*:*",
+	"cpeNameId": "3650E36C-B3F8-4461-B0C8-9FA40063960A",
+	"created": "2023-12-16T03:17:51.377",
+	"lastModified": "2023-12-16T03:17:51.377",
+	"titles": [
+		{
+			"title": "Adobe Experience Manager 6.5.18",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.adobe.com/marketing/experience-manager.html",
+			"type": "Product"
+		},
+		{
+			"ref": "https://business.adobe.com/",
+			"type": "Vendor"
+		}
+	]
+}

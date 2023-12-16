@@ -1,0 +1,23 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:monsterinsights:user_feedback:1.0.9:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "6969C9CD-299C-4647-B4EF-7C8A19C89D9E",
+	"created": "2023-12-16T03:42:31.200",
+	"lastModified": "2023-12-16T03:42:31.200",
+	"titles": [
+		{
+			"title": "MonsterInsights User Feedback 1.0.9 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/userfeedback-lite/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://www.monsterinsights.com/",
+			"type": "Vendor"
+		}
+	]
+}

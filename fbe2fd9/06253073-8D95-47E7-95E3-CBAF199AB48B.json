@@ -3,7 +3,7 @@
 	"cpeName": "cpe:2.3:a:quarkus:gizmo:1.0.0:alpha4:*:*:*:*:*:*",
 	"cpeNameId": "06253073-8D95-47E7-95E3-CBAF199AB48B",
 	"created": "2021-03-19T13:50:21.577",
-	"lastModified": "2022-01-28T14:41:07.487",
+	"lastModified": "2023-12-16T04:28:17.570",
 	"titles": [
 		{
 			"title": "Quarkus Gizmo 1.0.0 Alpha 4",

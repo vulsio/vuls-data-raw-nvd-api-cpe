@@ -1,0 +1,19 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:microsoft:windows_10_21h2:10.0.19041.3803:*:*:*:*:*:*:*",
+	"cpeNameId": "33F7C483-9871-4581-AF08-759D4C7F1790",
+	"created": "2023-12-16T03:29:20.353",
+	"lastModified": "2023-12-16T03:29:20.353",
+	"titles": [
+		{
+			"title": "Microsoft Windows 10 21H2 10.0.19041.3803",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21740",
+			"type": "Advisory"
+		}
+	]
+}

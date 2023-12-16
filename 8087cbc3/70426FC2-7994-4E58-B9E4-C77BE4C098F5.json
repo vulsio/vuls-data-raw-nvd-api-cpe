@@ -1,0 +1,23 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:upx_project:upx:2022-11-23:*:*:*:*:*:*:*",
+	"cpeNameId": "70426FC2-7994-4E58-B9E4-C77BE4C098F5",
+	"created": "2023-12-16T04:01:59.527",
+	"lastModified": "2023-12-16T04:01:59.527",
+	"titles": [
+		{
+			"title": "Upx Project Upx 2022-11-23",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/upx/upx/commit/779b648c5f6aa9b33f4728f79dd4d0efec0bf860",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://bugzilla.redhat.com/show_bug.cgi?id=2160382",
+			"type": "Advisory"
+		}
+	]
+}

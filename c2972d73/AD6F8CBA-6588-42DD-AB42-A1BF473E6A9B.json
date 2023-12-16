@@ -1,0 +1,23 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:qnap:qts:4.3.6.2441:*:*:*:*:*:*:*",
+	"cpeNameId": "AD6F8CBA-6588-42DD-AB42-A1BF473E6A9B",
+	"created": "2023-12-16T03:42:31.200",
+	"lastModified": "2023-12-16T03:42:31.200",
+	"titles": [
+		{
+			"title": "QNAP QTS 4.3.6.2441",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.qnap.com/en/security-advisory/qsa-23-25",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://www.qnap.com/en",
+			"type": "Vendor"
+		}
+	]
+}
