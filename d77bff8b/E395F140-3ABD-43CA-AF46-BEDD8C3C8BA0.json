@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:nested_pages_project:nested_pages:1.2.0:*:*:*:*:wordpress:*:*",
 	"cpeNameId": "E395F140-3ABD-43CA-AF46-BEDD8C3C8BA0",
 	"created": "2021-09-01T13:46:53.363",
-	"lastModified": "2021-09-01T15:43:32.970",
+	"lastModified": "2023-12-18T15:32:37.980",
 	"titles": [
 		{
 			"title": "Nested Pages Project Nested Pages 1.2.0 for WordPress",
@@ -22,6 +22,12 @@
 		{
 			"ref": "https://www.wordfence.com/vulnerability-advisories/",
 			"type": "Advisory"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:kylephillips:nested_pages:1.2.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3E3CC3FD-A553-4944-B204-D787ABEACBAA"
 		}
 	]
 }

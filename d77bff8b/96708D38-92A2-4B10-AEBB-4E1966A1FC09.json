@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:nested_pages_project:nested_pages:3.0.10:*:*:*:*:wordpress:*:*",
 	"cpeNameId": "96708D38-92A2-4B10-AEBB-4E1966A1FC09",
 	"created": "2021-09-01T13:46:53.363",
-	"lastModified": "2021-09-01T15:43:32.970",
+	"lastModified": "2023-12-18T15:32:37.980",
 	"titles": [
 		{
 			"title": "Nested Pages Project Nested Pages 3.0.10 for WordPress",
@@ -22,6 +22,12 @@
 		{
 			"ref": "https://wordpress.org/plugins/wp-nested-pages/",
 			"type": "Project"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:kylephillips:nested_pages:3.0.10:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3E8ABE45-8A2E-4CE7-94A2-B6BDDA398511"
 		}
 	]
 }
