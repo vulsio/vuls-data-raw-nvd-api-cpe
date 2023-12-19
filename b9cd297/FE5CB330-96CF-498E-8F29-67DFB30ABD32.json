@@ -1,12 +1,12 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:fla-shop:html5_maps:1.5.7:*:*:*:*:*:*:*",
 	"cpeNameId": "FE5CB330-96CF-498E-8F29-67DFB30ABD32",
 	"created": "2019-07-15T13:00:03.913",
-	"lastModified": "2019-07-15T13:00:03.913",
+	"lastModified": "2023-12-19T15:23:25.600",
 	"titles": [
 		{
-			"title": "Fla-Shop HTML5 Maps 1.5.7",
+			"title": "Fla-Shop HTML5 Maps 1.5.7 for WordPress",
 			"lang": "en"
 		}
 	],
@@ -18,10 +18,12 @@
 		{
 			"ref": "https://wordpress.org/plugins/html5-maps/#developers",
 			"type": "Version"
-		},
+		}
+	],
+	"deprecatedBy": [
 		{
-			"ref": "https://wordpress.org/plugins/html5-maps/",
-			"type": "Project"
+			"cpeName": "cpe:2.3:a:fla-shop:html5_maps:1.5.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "B122DA14-7EE6-48AD-AD82-2E8A5DF415A6"
 		}
 	]
 }
