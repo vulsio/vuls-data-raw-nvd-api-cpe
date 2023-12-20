@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:export_any_wordpress_data_to_xml\\/csv_project:export_any_wordpress_data_to_xml\\/csv:1.2.2:*:*:*:*:wordpress:*:*",
 	"cpeNameId": "0FD43120-1706-4794-B031-F51EE1D49125",
 	"created": "2022-06-16T14:53:25.787",
-	"lastModified": "2022-06-22T01:38:18.640",
+	"lastModified": "2023-12-20T17:57:05.000",
 	"titles": [
 		{
 			"title": "Export any Wordpress data to XML/CSV Project Export any Wordpress data to XML/CSV 1.2.2 for WordPress",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://wordpress.org/plugins/wp-all-export/#developers",
 			"type": "Change Log"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:soflyy:export_any_wordpress_data_to_xml\\/csv:1.2.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D67ED44D-B309-4A05-9798-2C05740A1EAC"
 		}
 	]
 }

@@ -1,0 +1,27 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:avecnous:event_post:2.8.12:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "7B44FFCA-1FE6-4C05-A595-E2FF661E3483",
+	"created": "2023-12-20T13:11:35.230",
+	"lastModified": "2023-12-20T13:11:35.230",
+	"titles": [
+		{
+			"title": "avecnous (Apps by US) Event Post 2.8.12 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://apps.avecnous.eu/?mtm_campaign=wp-plugin&mtm_kwd=event-post&mtm_medium=dashboard&mtm_source=author",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/event-post/#developers",
+			"type": "Version"
+		},
+		{
+			"ref": "https://apps.avecnous.eu/product/eventpost/",
+			"type": "Product"
+		}
+	]
+}
