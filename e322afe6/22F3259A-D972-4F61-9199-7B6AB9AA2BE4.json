@@ -1,0 +1,19 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:tri:the_events_calendar:6.2.0:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "22F3259A-D972-4F61-9199-7B6AB9AA2BE4",
+	"created": "2023-12-21T16:26:13.053",
+	"lastModified": "2023-12-21T16:26:13.053",
+	"titles": [
+		{
+			"title": "Modern Tribe The Events Calendar 6.2.0 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/the-events-calendar/#developers",
+			"type": "Change Log"
+		}
+	]
+}
