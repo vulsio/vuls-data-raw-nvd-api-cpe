@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:teachpress_project:teachpress:9.0.4:*:*:*:*:wordpress:*:*",
 	"cpeNameId": "D4D9E3D2-36C1-4963-9F5C-D33D71893F44",
 	"created": "2023-07-31T13:39:00.720",
-	"lastModified": "2023-08-01T15:38:08.737",
+	"lastModified": "2023-12-26T16:42:30.180",
 	"titles": [
 		{
 			"title": "teachPress Project teachPress 9.0.4 for WordPress",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://patchstack.com/database/vulnerability/teachpress/wordpress-teachpress-plugin-8-1-8-cross-site-scripting-xss-vulnerability?_s_id=cve",
 			"type": "Advisory"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:mtrv:teachpress:9.0.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A8FB8974-CE52-4465-9E3C-2C79BC2F4622"
 		}
 	]
 }
