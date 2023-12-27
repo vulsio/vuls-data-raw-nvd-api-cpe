@@ -3,10 +3,10 @@
 	"cpeName": "cpe:2.3:a:freedesktop:dbus:1.2.26:*:*:*:*:*:*:*",
 	"cpeNameId": "B2675668-6B59-44A1-BF34-5B78244816DF",
 	"created": "2022-02-03T21:48:47.833",
-	"lastModified": "2022-02-03T21:51:47.363",
+	"lastModified": "2023-12-27T16:36:56.510",
 	"titles": [
 		{
-			"title": "Freedesktop Dbus 1.2.26",
+			"title": "Freedesktop dbus 1.2.26",
 			"lang": "en"
 		}
 	],
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://gitlab.freedesktop.org/dbus/dbus/-/tags",
 			"type": "Version"
+		}
+	],
+	"deprecates": [
+		{
+			"cpeName": "cpe:2.3:a:d-bus_project:d-bus:1.2.26:*:*:*:*:*:*:*",
+			"cpeNameId": "8E77E269-D160-4FFD-87B4-228CD2382AA5"
 		}
 	]
 }
