@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:activity_log_project:activity_log:1.0.4:*:*:*:*:wordpress:*:*",
 	"cpeNameId": "5F37411B-3308-48F9-BE32-37E27F094E18",
 	"created": "2019-07-22T14:31:28.703",
-	"lastModified": "2019-07-22T14:31:28.703",
+	"lastModified": "2023-12-26T19:56:25.687",
 	"titles": [
 		{
 			"title": "Activity Log Project Activity Log 1.0.4 for WordPress",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://wordpress.org/plugins/aryo-activity-log/#description",
 			"type": "Project"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:pojo:activity_log:1.0.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "97B54F11-56B5-4FE2-BD32-363299A36C22"
 		}
 	]
 }

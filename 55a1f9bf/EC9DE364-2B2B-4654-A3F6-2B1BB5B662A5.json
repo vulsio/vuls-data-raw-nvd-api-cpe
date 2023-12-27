@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:event_registration_system_project:event_registration_system:1.0:*:*:*:*:*:*:*",
 	"cpeNameId": "EC9DE364-2B2B-4654-A3F6-2B1BB5B662A5",
 	"created": "2022-11-30T15:44:41.007",
-	"lastModified": "2023-01-23T18:44:21.150",
+	"lastModified": "2023-12-26T19:56:25.687",
 	"titles": [
 		{
 			"title": "Event Registration System Project Event Registration System 1.0",
@@ -14,6 +14,12 @@
 		{
 			"ref": "https://www.sourcecodester.com/tags/event-registration-system",
 			"type": "Product"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:rinvizle:event_registration_system:1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "9515B485-1DC3-4EFF-9967-11A647E8F4EA"
 		}
 	]
 }

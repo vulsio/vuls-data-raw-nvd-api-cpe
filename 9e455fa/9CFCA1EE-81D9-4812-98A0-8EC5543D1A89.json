@@ -1,12 +1,12 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:karmasis:infraskope_security_event_manager:-:*:*:*:*:*:*:*",
 	"cpeNameId": "9CFCA1EE-81D9-4812-98A0-8EC5543D1A89",
 	"created": "2022-11-16T16:48:51.787",
-	"lastModified": "2023-02-21T17:43:46.510",
+	"lastModified": "2023-12-26T19:56:25.687",
 	"titles": [
 		{
-			"title": "Karmasis Infraskope Security Event Manager -",
+			"title": "Karmasis Infraskope Security Event Manager",
 			"lang": "en"
 		}
 	],
@@ -22,6 +22,12 @@
 		{
 			"ref": "https://www.usom.gov.tr/bildirim/tr-22-0691",
 			"type": "Advisory"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:karmasis:infraskope_siem\\+:-:*:*:*:*:*:*:*",
+			"cpeNameId": "B8DF7051-EA25-4AD4-972F-0498F828F187"
 		}
 	]
 }
