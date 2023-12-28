@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:rails_html_sanitizer_project:rails_html_sanitizer:1.0.2:*:*:*:*:ruby:*:*",
 	"cpeNameId": "41EA0C63-BEDB-43EF-95A6-37E2BF04DB9E",
 	"created": "2022-12-16T16:12:43.640",
-	"lastModified": "2022-12-19T13:58:49.993",
+	"lastModified": "2023-12-28T16:46:18.327",
 	"titles": [
 		{
 			"title": "Rails HTML Sanitizer Project Rails HTML Sanitizer 1.0.2 Ruby",
@@ -22,6 +22,12 @@
 		{
 			"ref": "https://rubygems.org/gems/rails-html-sanitizer/versions",
 			"type": "Version"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:rubyonrails:rails_html_sanitizers:1.0.2:*:*:*:*:rails:*:*",
+			"cpeNameId": "430B0FD5-F758-4D90-AA22-C22D9FBCA289"
 		}
 	]
 }
