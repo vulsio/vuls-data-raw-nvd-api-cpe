@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:kerio:connect:8.2.1:*:*:*:*:*:*:*",
 	"cpeNameId": "4BF7E852-38DB-4E47-A1BB-D1C114889304",
 	"created": "2017-05-13T03:06:19.847",
-	"lastModified": "2021-03-02T14:44:59.780",
+	"lastModified": "2023-12-28T19:02:52.547",
 	"titles": [
 		{
 			"title": "Kerio Connect 8.2.1",
@@ -18,6 +18,12 @@
 		{
 			"ref": "http://download.kerio.com/archive/",
 			"type": "Version"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:gfi:kerio_connect:8.2.1:*:*:*:*:*:*:*",
+			"cpeNameId": "3A3674CD-B7B9-46FD-8BDE-F33CF3A7C099"
 		}
 	]
 }

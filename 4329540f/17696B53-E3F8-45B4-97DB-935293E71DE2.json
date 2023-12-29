@@ -1,0 +1,23 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:daily_prayer_time_project:daily_prayer_time:2023.10.21:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "17696B53-E3F8-45B4-97DB-935293E71DE2",
+	"created": "2023-12-28T19:46:49.920",
+	"lastModified": "2023-12-28T19:46:49.920",
+	"titles": [
+		{
+			"title": "Daily Prayer Time Project Daily Prayer Time 2023.10.21 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/daily-prayer-time-for-mosques/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://profiles.wordpress.org/mmrs151/",
+			"type": "Vendor"
+		}
+	]
+}
