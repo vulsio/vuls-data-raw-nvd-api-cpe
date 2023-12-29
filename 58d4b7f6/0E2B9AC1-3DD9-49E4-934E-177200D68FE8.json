@@ -1,0 +1,23 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:tongda2000:office_anywhere:2017:*:*:*:*:*:*:*",
+	"cpeNameId": "0E2B9AC1-3DD9-49E4-934E-177200D68FE8",
+	"created": "2023-12-29T18:02:38.650",
+	"lastModified": "2023-12-29T18:02:38.650",
+	"titles": [
+		{
+			"title": "Tongda2000 Office Anywhere 2017",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.tongda2000.com/oa/hero/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/RCEraser/cve/blob/main/sql_inject_4.md",
+			"type": "Advisory"
+		}
+	]
+}
