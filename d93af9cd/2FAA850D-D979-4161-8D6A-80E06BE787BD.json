@@ -1,0 +1,19 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:nodejs:node.js:18.16.1:*:*:*:-:*:*:*",
+	"cpeNameId": "2FAA850D-D979-4161-8D6A-80E06BE787BD",
+	"created": "2023-12-29T10:43:01.230",
+	"lastModified": "2023-12-29T10:43:01.230",
+	"titles": [
+		{
+			"title": "Nodejs Node.js 18.16.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/nodejs/node/releases/tag/v18.16.1",
+			"type": "Version"
+		}
+	]
+}
