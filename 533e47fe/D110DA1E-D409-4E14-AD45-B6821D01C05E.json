@@ -1,0 +1,31 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:dromara:hertzbeat:1.2.5:*:*:*:*:*:*:*",
+	"cpeNameId": "D110DA1E-D409-4E14-AD45-B6821D01C05E",
+	"created": "2024-01-02T17:53:07.560",
+	"lastModified": "2024-01-02T17:53:07.560",
+	"titles": [
+		{
+			"title": "Dromara HertzBeat 1.2.5",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/dromara/hertzbeat/tags",
+			"type": "Version"
+		},
+		{
+			"ref": "https://github.com/dromara/hertzbeat",
+			"type": "Product"
+		},
+		{
+			"ref": "https://dromara.org/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://hertzbeat.dromara.org/",
+			"type": "Product"
+		}
+	]
+}

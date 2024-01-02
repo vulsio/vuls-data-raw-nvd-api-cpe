@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:wp_mail_catcher_project:wp_mail_catcher:2.0.4:*:*:*:*:wordpress:*:*",
 	"cpeNameId": "A92DC132-D8C3-4909-98DA-128485A2516A",
 	"created": "2023-07-18T17:28:29.730",
-	"lastModified": "2023-07-18T18:10:27.150",
+	"lastModified": "2024-01-02T16:28:54.020",
 	"titles": [
 		{
 			"title": "WP Mail Catcher Project WP Mail Catcher 2.0.4 for WordPress",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://wordpress.org/plugins/wp-mail-catcher/#developers",
 			"type": "Change Log"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:jamesward:wp_mail_catcher:2.0.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "717C731A-C042-4163-A56A-BEC17B42C305"
 		}
 	]
 }
