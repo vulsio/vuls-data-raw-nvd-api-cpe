@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:buildwoofunnels:autonami:2.0.0:*:*:*:*:wordpress:*:*",
 	"cpeNameId": "C940F419-ABD8-4B6C-86A3-0A8CA6ADBFD5",
 	"created": "2022-08-24T15:10:57.220",
-	"lastModified": "2022-08-24T15:25:48.330",
+	"lastModified": "2024-01-04T15:17:18.890",
 	"titles": [
 		{
 			"title": "BuildWooFunnels Autonami 2.0.0 for WordPress",
@@ -22,6 +22,12 @@
 		{
 			"ref": "https://buildwoofunnels.com/",
 			"type": "Vendor"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:funnelkit:funnelkit_automations:2.0.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "72DDA6FB-A44A-4085-A2AB-D76E8EC5B049"
 		}
 	]
 }
