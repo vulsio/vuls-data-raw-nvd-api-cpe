@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:advanced_access_manager_project:advanced_access_manager:6.4.1:*:*:*:*:wordpress:*:*",
 	"cpeNameId": "77D964D7-BBA2-49F2-96C3-3A924500108E",
 	"created": "2021-02-02T18:43:40.310",
-	"lastModified": "2021-02-02T18:43:40.310",
+	"lastModified": "2024-01-05T14:36:18.870",
 	"titles": [
 		{
 			"title": "Advanced Access Manager Project Advanced Access Manager 6.4.1 for WordPress",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://wordpress.org/plugins/advanced-access-manager/#developers",
 			"type": "Change Log"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:vasyltech:advanced_access_manager:6.4.1:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6607DCC1-0872-4978-8C0C-B718DCFCD3BD"
 		}
 	]
 }
