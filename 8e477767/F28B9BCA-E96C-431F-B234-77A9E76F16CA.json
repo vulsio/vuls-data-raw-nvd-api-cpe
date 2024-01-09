@@ -1,0 +1,23 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:ideabox:powerpack_addons_for_elementor:2.7.13:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "F28B9BCA-E96C-431F-B234-77A9E76F16CA",
+	"created": "2024-01-09T16:45:41.677",
+	"lastModified": "2024-01-09T16:45:41.677",
+	"titles": [
+		{
+			"title": "IdeaBox PowerPack Addons For Elementor 2.7.13 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/powerpack-lite-for-elementor/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://ideabox.io/",
+			"type": "Vendor"
+		}
+	]
+}
