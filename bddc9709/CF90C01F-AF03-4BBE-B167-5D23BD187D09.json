@@ -3,7 +3,7 @@
 	"cpeName": "cpe:2.3:a:icegram:icegram_engage:1.9.11:*:*:*:*:wordpress:*:*",
 	"cpeNameId": "CF90C01F-AF03-4BBE-B167-5D23BD187D09",
 	"created": "2023-06-16T13:06:07.133",
-	"lastModified": "2023-06-16T17:05:34.823",
+	"lastModified": "2024-01-10T17:19:32.260",
 	"titles": [
 		{
 			"title": "Icegram Engage 1.9.11 for WordPress",
@@ -18,6 +18,16 @@
 		{
 			"ref": "https://wordpress.org/plugins/icegram/#developers",
 			"type": "Change Log"
+		},
+		{
+			"ref": "https://www.icegram.com/engage/",
+			"type": "Product"
+		}
+	],
+	"deprecates": [
+		{
+			"cpeName": "cpe:2.3:a:icegram:icegram:1.9.11:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "08EE0A2C-17CE-48B6-8759-30EC9260249B"
 		}
 	]
 }

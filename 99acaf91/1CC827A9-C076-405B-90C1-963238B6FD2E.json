@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:icegram:icegram:1.10.9:*:*:*:*:wordpress:*:*",
 	"cpeNameId": "1CC827A9-C076-405B-90C1-963238B6FD2E",
 	"created": "2019-09-04T12:02:34.493",
-	"lastModified": "2019-09-04T12:02:34.493",
+	"lastModified": "2024-01-10T17:19:32.260",
 	"titles": [
 		{
 			"title": "Icegram 1.10.9 for WordPress",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://www.icegram.com/",
 			"type": "Vendor"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:icegram:icegram_engage:1.10.9:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "89D96C3B-614A-4382-8CAD-7B8F3188CE83"
 		}
 	]
 }
