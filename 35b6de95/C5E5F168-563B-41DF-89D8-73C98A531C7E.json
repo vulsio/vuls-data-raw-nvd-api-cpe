@@ -1,0 +1,27 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:coderex:wp_vr:8.3.9:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "C5E5F168-563B-41DF-89D8-73C98A531C7E",
+	"created": "2024-01-10T19:35:16.437",
+	"lastModified": "2024-01-10T19:35:16.437",
+	"titles": [
+		{
+			"title": "Coderex WP VR 8.3.9 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wpscan.com/vulnerability/c36314c1-a2c0-4816-93c9-e61f9cf7f27a/",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/wpvr/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://rextheme.com/",
+			"type": "Vendor"
+		}
+	]
+}
