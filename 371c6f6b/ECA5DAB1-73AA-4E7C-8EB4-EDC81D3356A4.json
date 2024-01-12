@@ -1,0 +1,23 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:fooplugins:foogallery:2.4.6:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "ECA5DAB1-73AA-4E7C-8EB4-EDC81D3356A4",
+	"created": "2024-01-12T12:36:19.517",
+	"lastModified": "2024-01-12T12:36:19.517",
+	"titles": [
+		{
+			"title": "Fooplugins Foogallery 2.4.6 for Wordpress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/foogallery-premium/foogallery-premium-233-authenticated-contributor-stored-cross-site-scripting",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/foogallery/#developers",
+			"type": "Change Log"
+		}
+	]
+}

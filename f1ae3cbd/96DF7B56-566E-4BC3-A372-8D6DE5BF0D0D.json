@@ -1,0 +1,23 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:gtkwave:gtkwave:3.3.115:*:*:*:*:*:*:*",
+	"cpeNameId": "96DF7B56-566E-4BC3-A372-8D6DE5BF0D0D",
+	"created": "2024-01-12T12:36:19.517",
+	"lastModified": "2024-01-12T12:36:19.517",
+	"titles": [
+		{
+			"title": "GTKWave 3.3.115",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://talosintelligence.com/vulnerability_reports/TALOS-2023-1792",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://gtkwave.sourceforge.net/",
+			"type": "Product"
+		}
+	]
+}

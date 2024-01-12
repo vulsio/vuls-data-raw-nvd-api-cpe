@@ -1,0 +1,23 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:wedevs:wp_erp:1.12.7:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "FF5E7A08-5B87-46BB-9B56-EA093F3F89F1",
+	"created": "2024-01-12T12:35:05.863",
+	"lastModified": "2024-01-12T12:35:05.863",
+	"titles": [
+		{
+			"title": "WEDEVS WP ERP 1.12.7 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://patchstack.com/database/vulnerability/erp/wordpress-wp-erp-plugin-1-12-8-sql-injection-vulnerability?_s_id=cve",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/erp/#developers",
+			"type": "Change Log"
+		}
+	]
+}

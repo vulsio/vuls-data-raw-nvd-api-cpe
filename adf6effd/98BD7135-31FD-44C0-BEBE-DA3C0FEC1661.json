@@ -1,0 +1,23 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:idurar_project:idurar:2.0.1:*:*:*:*:*:*:*",
+	"cpeNameId": "98BD7135-31FD-44C0-BEBE-DA3C0FEC1661",
+	"created": "2024-01-12T12:35:05.863",
+	"lastModified": "2024-01-12T12:35:05.863",
+	"titles": [
+		{
+			"title": "IDURAR Project IDURAR 2.0.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/idurar/idurar-erp-crm/tags",
+			"type": "Version"
+		},
+		{
+			"ref": "https://github.com/wbowm15/jubilant-enigma/blob/main/writeup.md",
+			"type": "Change Log"
+		}
+	]
+}

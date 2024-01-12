@@ -1,0 +1,19 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:zte:zxcloud_irai_firmware:7.23.32:*:*:*:*:*:*:*",
+	"cpeNameId": "EF9DC1CF-518D-4632-AA69-3319B8053A90",
+	"created": "2024-01-12T12:36:19.517",
+	"lastModified": "2024-01-12T12:36:19.517",
+	"titles": [
+		{
+			"title": "ZTE ZXCLOUD iRAI Firmware 7.23.32",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://support.zte.com.cn/support/news/LoopholeInfoDetail.aspx?newsId=1034404",
+			"type": "Advisory"
+		}
+	]
+}
