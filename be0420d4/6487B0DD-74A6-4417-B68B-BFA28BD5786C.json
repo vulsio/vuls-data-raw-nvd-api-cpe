@@ -1,0 +1,23 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:wpdeveloper:essential_addons_for_elementor:5.8.18:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "6487B0DD-74A6-4417-B68B-BFA28BD5786C",
+	"created": "2024-01-12T19:27:01.793",
+	"lastModified": "2024-01-12T19:27:01.793",
+	"titles": [
+		{
+			"title": "WPDeveloper Essential Addons for Elementor 5.8.18 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/essential-addons-for-elementor-lite/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://wpdeveloper.net/",
+			"type": "Vendor"
+		}
+	]
+}
