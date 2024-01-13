@@ -3,7 +3,7 @@
 	"cpeName": "cpe:2.3:a:ivanti:policy_secure:9.1:r4.1:*:*:*:*:*:*",
 	"cpeNameId": "9D0C6B10-A330-4953-AD6B-84159A6F054E",
 	"created": "2024-01-12T20:42:30.830",
-	"lastModified": "2024-01-12T20:42:30.830",
+	"lastModified": "2024-01-13T04:43:42.073",
 	"titles": [
 		{
 			"title": "Ivanti Policy Secure 9.1 R4.1",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://help.ivanti.com/ps/help/en_US/IPS/9.1RX/9.1R18-IPS-RelNotes.pdf",
 			"type": "Change Log"
+		}
+	],
+	"deprecates": [
+		{
+			"cpeName": "cpe:2.3:a:pulsesecure:pulse_policy_secure:9.1:r4.1:*:*:*:*:*:*",
+			"cpeNameId": "738B1483-FE15-4EEE-A223-B789A76864AB"
 		}
 	]
 }

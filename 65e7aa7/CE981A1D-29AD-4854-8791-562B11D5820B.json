@@ -1,0 +1,23 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:ipswitch:whatsup_gold:21.1.1:*:*:*:*:*:*:*",
+	"cpeNameId": "CE981A1D-29AD-4854-8791-562B11D5820B",
+	"created": "2024-01-13T05:00:02.210",
+	"lastModified": "2024-01-13T05:00:02.210",
+	"titles": [
+		{
+			"title": "Ipswitch Whatsup Gold 21.1.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.whatsupgold.com/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://docs.ipswitch.com/NM/WhatsUpGold2021_1/01_ReleaseNotes/index.htm",
+			"type": "Version"
+		}
+	]
+}
