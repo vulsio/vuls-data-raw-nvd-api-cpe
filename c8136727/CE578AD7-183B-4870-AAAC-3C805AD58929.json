@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:pulsesecure:pulse_connect_secure:9.0:r1:*:*:*:*:*:*",
 	"cpeNameId": "CE578AD7-183B-4870-AAAC-3C805AD58929",
 	"created": "2019-04-30T16:08:28.083",
-	"lastModified": "2019-04-30T16:08:28.083",
+	"lastModified": "2024-01-13T18:36:48.050",
 	"titles": [
 		{
 			"title": "PulseSecure Pulse Connect Secure (PCS) 9.0 R1",
@@ -14,6 +14,12 @@
 		{
 			"ref": "https://www-prev.pulsesecure.net/techpubs/pulse-connect-secure/pcs/8.2rx",
 			"type": "Version"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:ivanti:connect_secure:9.0:r1:*:*:*:*:*:*",
+			"cpeNameId": "495D07CC-2C68-4FD3-87DE-AE78CE7A1E38"
 		}
 	]
 }
