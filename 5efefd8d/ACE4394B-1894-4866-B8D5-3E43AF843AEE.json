@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:pulsesecure:pulse_policy_secure:9.0:r2.1:*:*:*:*:*:*",
 	"cpeNameId": "ACE4394B-1894-4866-B8D5-3E43AF843AEE",
 	"created": "2019-07-11T11:46:26.273",
-	"lastModified": "2019-07-11T11:46:26.273",
+	"lastModified": "2024-01-16T19:18:24.053",
 	"titles": [
 		{
 			"title": "Pulse Secure Pulse Policy Secure 9.0 R2.1",
@@ -14,6 +14,12 @@
 		{
 			"ref": "https://www-prev.pulsesecure.net/techpubs/pulse-policy-secure/pps",
 			"type": "Version"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:ivanti:policy_secure:9.0:r2.1:*:*:*:*:*:*",
+			"cpeNameId": "C6C56924-3D78-458D-85DC-100B40373983"
 		}
 	]
 }
