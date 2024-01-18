@@ -1,0 +1,19 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:apple:ipados:15.7.4:*:*:*:*:*:*:*",
+	"cpeNameId": "25F5CAA9-D147-4C9B-B3FF-A590709BF5BD",
+	"created": "2024-01-18T16:30:54.280",
+	"lastModified": "2024-01-18T16:30:54.280",
+	"titles": [
+		{
+			"title": "Apple iPadOS 15.7.4",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://support.apple.com/en-us/HT213673",
+			"type": "Advisory"
+		}
+	]
+}

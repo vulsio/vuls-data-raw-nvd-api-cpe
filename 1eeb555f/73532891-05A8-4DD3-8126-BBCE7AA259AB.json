@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:pmb_project:pmb:7.4.6:*:*:*:*:*:*:*",
 	"cpeNameId": "73532891-05A8-4DD3-8126-BBCE7AA259AB",
 	"created": "2023-03-09T17:58:50.630",
-	"lastModified": "2023-03-09T18:01:26.387",
+	"lastModified": "2024-01-18T18:04:51.770",
 	"titles": [
 		{
 			"title": "PMB Project PMB 7.4.6",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://forge.sigb.net/projects/pmb/files",
 			"type": "Version"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:sigb:pmb:7.4.6:*:*:*:*:*:*:*",
+			"cpeNameId": "87DA574F-F39C-45C7-BA63-C91F344A6BEB"
 		}
 	]
 }
