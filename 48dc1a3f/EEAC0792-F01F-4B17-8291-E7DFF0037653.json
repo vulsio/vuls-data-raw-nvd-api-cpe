@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:wp_editor_project:wp_editor:1.2.5.3:*:*:*:*:wordpress:*:*",
 	"cpeNameId": "EEAC0792-F01F-4B17-8291-E7DFF0037653",
 	"created": "2019-09-05T16:19:03.950",
-	"lastModified": "2019-09-05T16:19:03.950",
+	"lastModified": "2024-01-23T17:59:08.990",
 	"titles": [
 		{
 			"title": "WP Editor Project WP Editor 1.2.5.3 for WordPress",
@@ -14,6 +14,12 @@
 		{
 			"ref": "https://wordpress.org/plugins/wp-editor/#developers",
 			"type": "Change Log"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:benjaminrojas:wp_editor:1.2.5.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DBCE31F2-657B-4E4B-8D2D-6FEFFDF7EE0F"
 		}
 	]
 }
