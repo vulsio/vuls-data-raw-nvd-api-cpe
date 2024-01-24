@@ -1,0 +1,23 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:bootstrapped:wp_recipe_maker:8.10.2:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "72A80B40-68A2-4DDF-AA4A-02A116CBC0A0",
+	"created": "2024-01-24T14:16:26.443",
+	"lastModified": "2024-01-24T14:16:26.443",
+	"titles": [
+		{
+			"title": "Bootstrapped Ventures WP Recipe Maker 8.10.2 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/wp-recipe-maker/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://bootstrapped.ventures/wp-recipe-maker/",
+			"type": "Product"
+		}
+	]
+}
