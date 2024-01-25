@@ -1,0 +1,19 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:apple:safari:17.3:*:*:*:*:*:*:*",
+	"cpeNameId": "B2022D07-33DA-46BF-B055-D84C5C998085",
+	"created": "2024-01-25T18:03:08.127",
+	"lastModified": "2024-01-25T18:03:08.127",
+	"titles": [
+		{
+			"title": "Apple Safari 17.3",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://support.apple.com/en-us/HT214056",
+			"type": "Advisory"
+		}
+	]
+}
