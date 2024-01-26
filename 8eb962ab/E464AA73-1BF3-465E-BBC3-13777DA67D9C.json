@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:monitorr_project:monitorr:1.7.6m:*:*:*:*:*:*:*",
 	"cpeNameId": "E464AA73-1BF3-465E-BBC3-13777DA67D9C",
 	"created": "2021-02-10T18:15:45.047",
-	"lastModified": "2021-02-10T18:15:45.047",
+	"lastModified": "2024-01-26T16:46:57.417",
 	"titles": [
 		{
 			"title": "Monitorr Project Monitorr 1.7.6m",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://github.com/Monitorr/Monitorr",
 			"type": "Project"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:monitorr:monitorr:1.7.6m:*:*:*:*:*:*:*",
+			"cpeNameId": "D932FA35-E8D0-400F-A349-9E912727443D"
 		}
 	]
 }

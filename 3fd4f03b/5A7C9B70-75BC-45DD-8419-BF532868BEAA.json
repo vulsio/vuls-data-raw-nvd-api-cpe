@@ -1,0 +1,23 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:linuxfoundation:argo-cd:2.9.0:rc2:*:*:*:*:*:*",
+	"cpeNameId": "5A7C9B70-75BC-45DD-8419-BF532868BEAA",
+	"created": "2024-01-26T16:46:57.417",
+	"lastModified": "2024-01-26T16:46:57.417",
+	"titles": [
+		{
+			"title": "The Linux Foundation Argo CD 2.9.0 Release Candidate 2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/argoproj/argo-cd",
+			"type": "Product"
+		},
+		{
+			"ref": "https://github.com/argoproj/argo-cd/tags",
+			"type": "Version"
+		}
+	]
+}
