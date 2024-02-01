@@ -1,0 +1,19 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:mozilla:firefox_esr:115.7:*:*:*:*:*:*:*",
+	"cpeNameId": "106FC69D-391F-4017-BBB3-4646CD623306",
+	"created": "2024-01-31T19:19:40.597",
+	"lastModified": "2024-01-31T19:19:40.597",
+	"titles": [
+		{
+			"title": "Mozilla Firefox ESR 115.7",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.mozilla.org/en-US/security/advisories/mfsa2024-02/",
+			"type": "Advisory"
+		}
+	]
+}
