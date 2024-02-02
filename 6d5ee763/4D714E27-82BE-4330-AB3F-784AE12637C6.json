@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:netbox_project:netbox:2.4.1:*:*:*:*:*:*:*",
 	"cpeNameId": "4D714E27-82BE-4330-AB3F-784AE12637C6",
 	"created": "2021-06-16T13:38:04.770",
-	"lastModified": "2021-06-16T13:44:32.693",
+	"lastModified": "2024-02-02T13:54:53.800",
 	"titles": [
 		{
 			"title": "netbox Project netbox 2.4.1",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://github.com/netbox-community/netbox/releases",
 			"type": "Version"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:netbox:netbox:2.4.1:*:*:*:*:*:*:*",
+			"cpeNameId": "79C989FC-0A68-4011-9171-897C375B0E66"
 		}
 	]
 }

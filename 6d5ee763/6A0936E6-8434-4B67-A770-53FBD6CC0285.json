@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:netbox_project:netbox:3.1.8:*:*:*:*:*:*:*",
 	"cpeNameId": "6A0936E6-8434-4B67-A770-53FBD6CC0285",
 	"created": "2023-05-26T14:29:44.477",
-	"lastModified": "2023-05-26T14:31:33.983",
+	"lastModified": "2024-02-02T13:54:53.800",
 	"titles": [
 		{
 			"title": "netbox Project netbox 3.1.8",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://docs.netbox.dev/en/stable/",
 			"type": "Project"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:netbox:netbox:3.1.8:*:*:*:*:*:*:*",
+			"cpeNameId": "2C14F115-B63C-4C79-B256-6506F3086574"
 		}
 	]
 }
