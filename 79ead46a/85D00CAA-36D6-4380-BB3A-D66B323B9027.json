@@ -1,0 +1,27 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:p37:*:*:*:*:*:*",
+	"cpeNameId": "85D00CAA-36D6-4380-BB3A-D66B323B9027",
+	"created": "2024-02-03T01:48:48.543",
+	"lastModified": "2024-02-03T01:48:48.543",
+	"titles": [
+		{
+			"title": "tribe29 checkmk 2.1.0 Patch 37",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://tribe29.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://checkmk.com/check_mk-werks.php?edition_id=raw&all_versions=1",
+			"type": "Version"
+		},
+		{
+			"ref": "https://checkmk.com/",
+			"type": "Product"
+		}
+	]
+}

@@ -1,0 +1,27 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:wpdeveloper:essential_blocks:4.4.6:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "A4C849C4-2D48-4F66-884F-81003F34065B",
+	"created": "2024-02-03T01:39:22.613",
+	"lastModified": "2024-02-03T01:39:22.613",
+	"titles": [
+		{
+			"title": "WPDeveloper Essential Blocks 4.4.6 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wpdeveloper.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/essential-blocks/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/essential-blocks/essential-blocks-page-builder-gutenberg-blocks-patterns-templates-446-authenticated-contributor-stored-cross-site-scripting",
+			"type": "Advisory"
+		}
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:machothemes:strong_testimonials:3.1.10:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "FA6084AB-3184-4D3D-B232-625471C17DDC",
+	"created": "2024-02-03T01:39:22.613",
+	"lastModified": "2024-02-03T01:39:22.613",
+	"titles": [
+		{
+			"title": "MachoThemes Strong Testimonials 3.1.10 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/strong-testimonials/#developers",
+			"type": "Change Log"
+		}
+	]
+}

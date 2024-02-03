@@ -1,0 +1,19 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:huawei:openeuler:4.19.90:*:*:*:-:-:*:*",
+	"cpeNameId": "2F3F67B6-48BA-4F24-9B7A-7ECF72BA6052",
+	"created": "2024-02-03T01:39:22.613",
+	"lastModified": "2024-02-03T01:39:22.613",
+	"titles": [
+		{
+			"title": "Huawei Openeuler 4.19.90 - Edition for -",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/CVEProject/cvelist/blob/master/2021/33xxx/CVE-2021-33631.json",
+			"type": "Advisory"
+		}
+	]
+}

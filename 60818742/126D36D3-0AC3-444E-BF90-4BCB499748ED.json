@@ -1,0 +1,23 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:hasthemes:ht_mega_-_absolute_addons_for_elementor_page_builder:2.3.8:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "126D36D3-0AC3-444E-BF90-4BCB499748ED",
+	"created": "2024-02-03T01:39:22.613",
+	"lastModified": "2024-02-03T01:39:22.613",
+	"titles": [
+		{
+			"title": "Has Themes Ht Mega - Absolute Addons For Elementor Page Builder 2.3.8 for Wordpress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://hasthemes.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/ht-mega-for-elementor/#developers",
+			"type": "Product"
+		}
+	]
+}

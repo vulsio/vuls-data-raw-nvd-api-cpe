@@ -1,0 +1,19 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:synology:diskstation_manager:7.2.1-69057-2:*:*:*:*:*:*:*",
+	"cpeNameId": "279524CD-7B8D-4CC5-8741-F5513B6B5E05",
+	"created": "2024-02-03T01:48:48.543",
+	"lastModified": "2024-02-03T01:48:48.543",
+	"titles": [
+		{
+			"title": "Synology Diskstation Manager 7.2.1-69057-2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.synology.com/en-global/security/advisory/Synology_SA_24_02",
+			"type": "Advisory"
+		}
+	]
+}

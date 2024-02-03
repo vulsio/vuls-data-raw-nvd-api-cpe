@@ -1,0 +1,19 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:huawei:openeuler:5.10.0-60.18.0:*:*:*:-:-:*:*",
+	"cpeNameId": "B4628025-9881-4BED-9A60-2B5409470B7C",
+	"created": "2024-02-03T01:39:22.613",
+	"lastModified": "2024-02-03T01:39:22.613",
+	"titles": [
+		{
+			"title": "Huawei Openeuler 5.10.0-60.18.0 - Edition for -",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/CVEProject/cvelist/blob/master/2021/33xxx/CVE-2021-33631.json",
+			"type": "Advisory"
+		}
+	]
+}
