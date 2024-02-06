@@ -1,8 +1,8 @@
 {
-	"deprecated": true,
-	"cpeName": "cpe:2.3:a:redhat:shim:15.8:*:*:*:*:*:*:*",
-	"cpeNameId": "BE16205B-1AA4-4939-B11E-6F3D5FC79817",
-	"created": "2024-02-03T01:39:22.613",
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:redhat:shim:15.8:-:*:*:*:*:*:*",
+	"cpeNameId": "0EB1C717-D800-416D-98BE-0AF4D1B2A711",
+	"created": "2024-02-06T15:25:18.790",
 	"lastModified": "2024-02-06T15:25:18.790",
 	"titles": [
 		{
@@ -20,10 +20,10 @@
 			"type": "Product"
 		}
 	],
-	"deprecatedBy": [
+	"deprecates": [
 		{
-			"cpeName": "cpe:2.3:a:redhat:shim:15.8:-:*:*:*:*:*:*",
-			"cpeNameId": "0EB1C717-D800-416D-98BE-0AF4D1B2A711"
+			"cpeName": "cpe:2.3:a:redhat:shim:15.8:*:*:*:*:*:*:*",
+			"cpeNameId": "BE16205B-1AA4-4939-B11E-6F3D5FC79817"
 		}
 	]
 }
