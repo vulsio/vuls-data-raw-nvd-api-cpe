@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:fastapi_project:fastapi:0.61.2:*:*:*:*:*:*:*",
 	"cpeNameId": "2A6635C9-742E-4448-A5CA-C2D2DFEDEAAB",
 	"created": "2021-06-16T15:26:59.623",
-	"lastModified": "2021-06-24T17:33:19.890",
+	"lastModified": "2024-02-12T20:04:00.283",
 	"titles": [
 		{
 			"title": "FastAPI Project FastAPI 0.61.2",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://github.com/tiangolo/fastapi/releases",
 			"type": "Change Log"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:tiangolo:fastapi:0.61.2:*:*:*:*:*:*:*",
+			"cpeNameId": "E78BF519-699D-43B7-8E7E-17DE630A61C0"
 		}
 	]
 }
