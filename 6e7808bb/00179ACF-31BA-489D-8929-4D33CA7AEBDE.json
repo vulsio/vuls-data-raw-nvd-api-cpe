@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:ai_engine_project:ai_engine:1.6.83:*:*:*:*:wordpress:*:*",
 	"cpeNameId": "00179ACF-31BA-489D-8929-4D33CA7AEBDE",
 	"created": "2023-07-03T16:35:59.310",
-	"lastModified": "2023-07-03T16:37:51.173",
+	"lastModified": "2024-02-13T17:16:52.537",
 	"titles": [
 		{
 			"title": "AI Engine Project AI Engine 1.6.83 for WordPress",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://wordpress.org/plugins/ai-engine/#developers",
 			"type": "Change Log"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:meowapps:ai_engine:1.6.83:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "6143174B-DCF1-418F-914A-AE5668AC46FB"
 		}
 	]
 }

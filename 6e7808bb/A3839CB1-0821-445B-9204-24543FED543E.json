@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:ai_engine_project:ai_engine:1.7.7:*:*:*:*:wordpress:*:*",
 	"cpeNameId": "A3839CB1-0821-445B-9204-24543FED543E",
 	"created": "2023-07-03T16:36:07.267",
-	"lastModified": "2023-07-03T16:37:51.173",
+	"lastModified": "2024-02-13T17:16:52.537",
 	"titles": [
 		{
 			"title": "AI Engine Project AI Engine 1.7.7 for WordPress",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://wpscan.com/vulnerability/7ee1efb1-9969-40b2-8ab2-ea427091bbd8",
 			"type": "Advisory"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:meowapps:ai_engine:1.7.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D85B676B-FD71-47D3-A15F-2BB226FA05D1"
 		}
 	]
 }

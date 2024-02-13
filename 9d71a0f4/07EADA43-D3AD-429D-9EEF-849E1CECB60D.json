@@ -1,0 +1,27 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:coolplugins:cryptocurrency_widgets:1.1:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "07EADA43-D3AD-429D-9EEF-849E1CECB60D",
+	"created": "2024-02-13T17:16:52.537",
+	"lastModified": "2024-02-13T17:16:52.537",
+	"titles": [
+		{
+			"title": "CoolPlugins Cryptocurrency Widgets 1.1 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://coolplugins.net/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/cryptocurrency-price-ticker-widget/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/cryptocurrency-price-ticker-widget/",
+			"type": "Product"
+		}
+	]
+}
