@@ -15,11 +15,5 @@
 			"ref": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160525-ipv6",
 			"type": "Advisory"
 		}
-	],
-	"deprecates": [
-		{
-			"cpeName": "cpe:2.3:o:cisco:ios:12.2\\\\(25\\\\)see4:*:*:*:*:*:*:*",
-			"cpeNameId": "65E4E581-8E86-4F28-928E-C35555DF5925"
-		}
 	]
 }

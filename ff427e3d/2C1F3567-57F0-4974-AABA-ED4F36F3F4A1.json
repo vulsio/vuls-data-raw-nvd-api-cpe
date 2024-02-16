@@ -1,6 +1,6 @@
 {
 	"deprecated": false,
-	"cpeName": "cpe:2.3:o:cisco:nx-os:6.2\\\\(29\\\\):*:*:*:*:*:*:*",
+	"cpeName": "cpe:2.3:o:cisco:nx-os:6.2\\(29\\):*:*:*:*:*:*:*",
 	"cpeNameId": "2C1F3567-57F0-4974-AABA-ED4F36F3F4A1",
 	"created": "2019-09-04T17:56:00.430",
 	"lastModified": "2021-04-13T14:30:47.297",
