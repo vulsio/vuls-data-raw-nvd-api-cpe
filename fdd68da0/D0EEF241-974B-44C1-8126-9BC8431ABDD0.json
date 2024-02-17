@@ -1,0 +1,23 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:ays-pro:chartify:1.9.8:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "D0EEF241-974B-44C1-8126-9BC8431ABDD0",
+	"created": "2024-02-16T20:06:05.003",
+	"lastModified": "2024-02-16T20:06:05.003",
+	"titles": [
+		{
+			"title": "AYS Pro Chartify 1.9.8 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://ays-pro.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/chart-builder/#developers",
+			"type": "Change Log"
+		}
+	]
+}
