@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:openssh:openssh:9.1:*:*:*:*:*:*:*",
 	"cpeNameId": "13C82E7A-CBCD-418F-BDA9-268652EF7F48",
 	"created": "2023-02-09T16:22:03.497",
-	"lastModified": "2023-08-11T23:44:56.230",
+	"lastModified": "2024-02-27T15:15:13.543",
 	"titles": [
 		{
 			"title": "OpenSSH OpenSSH 9.1",
@@ -22,6 +22,12 @@
 		{
 			"ref": "https://github.com/openssh/openssh-portable/tags",
 			"type": "Version"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:openbsd:openssh:9.1:-:*:*:*:*:*:*",
+			"cpeNameId": "8AB6D59F-B95B-421C-B6D5-FF50CD59F012"
 		}
 	]
 }

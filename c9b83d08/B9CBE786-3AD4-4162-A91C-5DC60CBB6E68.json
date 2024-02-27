@@ -3,7 +3,7 @@
 	"cpeName": "cpe:2.3:a:maykinmedia:open_forms:1.1.0:rc1:*:*:*:*:*:*",
 	"cpeNameId": "B9CBE786-3AD4-4162-A91C-5DC60CBB6E68",
 	"created": "2022-06-15T16:38:44.823",
-	"lastModified": "2022-06-16T14:36:34.920",
+	"lastModified": "2024-02-27T13:18:06.103",
 	"titles": [
 		{
 			"title": "Maykinmedia Open Forms 1.1.0 Release Candidate 1",
@@ -22,6 +22,12 @@
 		{
 			"ref": "https://www.maykinmedia.nl/en/",
 			"type": "Vendor"
+		}
+	],
+	"deprecates": [
+		{
+			"cpeName": "cpe:2.3:a:maykinmedia:open_forms:1.10:rc1:*:*:*:*:*:*",
+			"cpeNameId": "47D415C5-BBC9-4ABF-970B-6071E5154C6F"
 		}
 	]
 }
