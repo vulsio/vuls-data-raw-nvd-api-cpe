@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:pulsesecure:pulse_connect_secure:9.1:r6.0:*:*:*:*:*:*",
 	"cpeNameId": "B6025993-7FEF-4FD1-B172-BBFDB74C05EC",
 	"created": "2021-08-19T23:44:50.640",
-	"lastModified": "2022-04-26T11:14:02.553",
+	"lastModified": "2024-02-27T21:04:15.610",
 	"titles": [
 		{
 			"title": "PulseSecure Pulse Connect Secure (PCS) 9.1 R6.0",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://kb.pulsesecure.net/?l=en_US",
 			"type": "Vendor"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:ivanti:connect_secure:9.1:r6.0:*:*:*:*:*:*",
+			"cpeNameId": "0F1FC261-DB99-49F1-A892-1DAB53857773"
 		}
 	]
 }
