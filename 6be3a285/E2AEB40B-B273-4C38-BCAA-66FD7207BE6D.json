@@ -3,7 +3,7 @@
 	"cpeName": "cpe:2.3:a:openssl:openssl:3.0.0:-:*:*:*:*:*:*",
 	"cpeNameId": "E2AEB40B-B273-4C38-BCAA-66FD7207BE6D",
 	"created": "2022-02-02T13:23:13.547",
-	"lastModified": "2022-02-02T13:51:58.427",
+	"lastModified": "2024-02-29T13:21:56.770",
 	"titles": [
 		{
 			"title": "OpenSSL Project OpenSSL 3.0.0",
@@ -22,6 +22,12 @@
 		{
 			"ref": "https://github.com/openssl/openssl/tags",
 			"type": "Version"
+		}
+	],
+	"deprecates": [
+		{
+			"cpeName": "cpe:2.3:a:openssl:openssl:3.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "59209EE4-3B03-461B-B5C5-7E53F320C437"
 		}
 	]
 }
