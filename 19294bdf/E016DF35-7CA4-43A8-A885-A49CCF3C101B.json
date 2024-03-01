@@ -1,12 +1,12 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:notaryproject:notation:0.12.0:beta1:*:*:*:go:*:*",
 	"cpeNameId": "E016DF35-7CA4-43A8-A885-A49CCF3C101B",
 	"created": "2023-06-13T19:48:27.883",
-	"lastModified": "2023-06-16T15:07:45.753",
+	"lastModified": "2024-02-29T21:16:48.643",
 	"titles": [
 		{
-			"title": "Notaryproject Notation 0.12.0 Beta 1 for Go",
+			"title": "Notary Project notation-go 0.12.0 Beta 1 for Go",
 			"lang": "en"
 		}
 	],
@@ -22,6 +22,12 @@
 		{
 			"ref": "https://github.com/notaryproject/notation-go/tags",
 			"type": "Version"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:notaryproject:notation-go:0.12.0:beta1:*:*:*:*:*:*",
+			"cpeNameId": "78F215E0-37BF-4DBA-AD06-C4B331374755"
 		}
 	]
 }
