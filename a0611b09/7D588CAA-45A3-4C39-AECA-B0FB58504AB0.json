@@ -1,0 +1,27 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:curl:curl:8.5.0:*:*:*:*:*:*:*",
+	"cpeNameId": "7D588CAA-45A3-4C39-AECA-B0FB58504AB0",
+	"created": "2024-03-04T14:29:58.800",
+	"lastModified": "2024-03-04T14:29:58.800",
+	"titles": [
+		{
+			"title": "Curl Curl 8.5.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/CVEProject/cvelist/blob/master/2023/52xxx/CVE-2023-52071.json",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://curl.se/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://github.com/curl/curl/commit/af3f4e41#r127212213",
+			"type": "Product"
+		}
+	]
+}
