@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:nodejs:node.js:8.11.3:*:*:*:-:*:*:*",
 	"cpeNameId": "F84AE72A-27AB-4154-9A79-30896D332035",
 	"created": "2020-02-10T18:04:36.707",
-	"lastModified": "2020-02-10T18:04:36.707",
+	"lastModified": "2024-03-07T21:59:37.087",
 	"titles": [
 		{
 			"title": "Nodejs Node.js 8.11.3",
@@ -34,6 +34,16 @@
 		{
 			"ref": "https://nodejs.org/dist/latest-v8.x/",
 			"type": "Version"
+		},
+		{
+			"ref": "https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V8.md",
+			"type": "Change Log"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:8.11.3:*:*:*:lts:*:*:*",
+			"cpeNameId": "F3C73F09-FB62-4B4B-B599-C1B9AEE4A219"
 		}
 	],
 	"deprecates": [

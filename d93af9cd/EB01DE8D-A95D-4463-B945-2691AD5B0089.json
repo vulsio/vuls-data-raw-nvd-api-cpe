@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:nodejs:node.js:14.17.4:*:*:*:-:*:*:*",
 	"cpeNameId": "EB01DE8D-A95D-4463-B945-2691AD5B0089",
 	"created": "2021-08-23T11:59:28.150",
-	"lastModified": "2021-08-23T13:00:01.270",
+	"lastModified": "2024-03-07T21:25:50.013",
 	"titles": [
 		{
 			"title": "Nodejs Node.js 14.17.4",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://github.com/nodejs/node/releases",
 			"type": "Change Log"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:14.17.4:*:*:*:lts:*:*:*",
+			"cpeNameId": "5B5B38F2-1CF0-4F6B-8E2E-AF4BFCC60942"
 		}
 	]
 }

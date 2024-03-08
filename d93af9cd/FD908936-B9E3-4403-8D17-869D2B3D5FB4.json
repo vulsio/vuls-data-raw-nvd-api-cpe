@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:nodejs:node.js:8.2.0:*:*:*:lts:*:*:*",
 	"cpeNameId": "FD908936-B9E3-4403-8D17-869D2B3D5FB4",
 	"created": "2020-06-22T11:45:05.037",
-	"lastModified": "2020-06-22T11:45:05.037",
+	"lastModified": "2024-03-07T21:59:37.087",
 	"titles": [
 		{
 			"title": "Nodejs Node.js 8.2.0 LTS Edition",
@@ -18,6 +18,16 @@
 		{
 			"ref": "https://nodejs.org/download/release/",
 			"type": "Change Log"
+		},
+		{
+			"ref": "https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V8.md",
+			"type": "Change Log"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:8.2.0:*:*:*:-:*:*:*",
+			"cpeNameId": "6E0FAC3D-0350-4808-AAFD-465DF1598402"
 		}
 	]
 }

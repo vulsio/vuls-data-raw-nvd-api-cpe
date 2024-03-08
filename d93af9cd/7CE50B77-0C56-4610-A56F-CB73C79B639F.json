@@ -3,7 +3,7 @@
 	"cpeName": "cpe:2.3:a:nodejs:node.js:6.10.2:*:*:*:lts:*:*:*",
 	"cpeNameId": "7CE50B77-0C56-4610-A56F-CB73C79B639F",
 	"created": "2020-06-22T11:45:03.460",
-	"lastModified": "2020-06-22T11:45:03.460",
+	"lastModified": "2024-03-07T21:54:36.307",
 	"titles": [
 		{
 			"title": "Nodejs Node.js 6.10.2 LTS Edition",
@@ -18,6 +18,16 @@
 		{
 			"ref": "https://nodejs.org/download/release/",
 			"type": "Change Log"
+		},
+		{
+			"ref": "https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V6.md",
+			"type": "Change Log"
+		}
+	],
+	"deprecates": [
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:6.10.2:*:*:*:-:*:*:*",
+			"cpeNameId": "5578CF9E-F9FA-4E34-980A-D1929B76463E"
 		}
 	]
 }

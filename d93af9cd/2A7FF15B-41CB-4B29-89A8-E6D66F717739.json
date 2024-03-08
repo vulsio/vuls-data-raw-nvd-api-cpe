@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:nodejs:node.js:4.7.2:*:*:*:-:*:*:*",
 	"cpeNameId": "2A7FF15B-41CB-4B29-89A8-E6D66F717739",
 	"created": "2020-02-10T17:57:31.263",
-	"lastModified": "2020-02-10T17:57:31.263",
+	"lastModified": "2024-03-07T21:48:04.147",
 	"titles": [
 		{
 			"title": "Nodejs Node.js 4.7.2",
@@ -30,6 +30,16 @@
 		{
 			"ref": "https://nodejs.org/download/docs/",
 			"type": "Version"
+		},
+		{
+			"ref": "https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V4.md",
+			"type": "Change Log"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:4.7.2:*:*:*:lts:*:*:*",
+			"cpeNameId": "D3BAC638-EAE8-41FC-9070-5898DEF53FB1"
 		}
 	],
 	"deprecates": [

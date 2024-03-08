@@ -3,7 +3,7 @@
 	"cpeName": "cpe:2.3:a:nodejs:node.js:12.2.0:*:*:*:-:*:*:*",
 	"cpeNameId": "97204090-B872-4256-BF51-C99C8D031317",
 	"created": "2020-08-14T13:32:58.457",
-	"lastModified": "2021-04-14T19:55:58.503",
+	"lastModified": "2024-03-07T21:39:05.487",
 	"titles": [
 		{
 			"title": "Nodejs Node.js 12.2.0",
@@ -26,6 +26,16 @@
 		{
 			"ref": "https://nodejs.org/docs/",
 			"type": "Version"
+		},
+		{
+			"ref": "https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V12.md",
+			"type": "Change Log"
+		}
+	],
+	"deprecates": [
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:12.2.0:*:*:*:lts:*:*:*",
+			"cpeNameId": "CD0DC428-464A-42BA-A8F4-A4FBC88F2B19"
 		}
 	]
 }

@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:nodejs:node.js:14.13.1:*:*:*:lts:*:*:*",
 	"cpeNameId": "FE6129B2-693F-4B81-B317-60E084D5F61D",
 	"created": "2020-12-16T14:48:00.550",
-	"lastModified": "2020-12-16T14:48:00.550",
+	"lastModified": "2024-03-07T21:24:39.437",
 	"titles": [
 		{
 			"title": "Nodejs Node.js 14.13.1 LTS Edition",
@@ -18,6 +18,16 @@
 		{
 			"ref": "https://nodejs.org/en/blog/vulnerability/november-2020-security-releases/",
 			"type": "Advisory"
+		},
+		{
+			"ref": "https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V14.md",
+			"type": "Change Log"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:14.13.1:*:*:*:-:*:*:*",
+			"cpeNameId": "ABBC3E60-21B6-48D9-A1BC-043CB29A10FC"
 		}
 	]
 }

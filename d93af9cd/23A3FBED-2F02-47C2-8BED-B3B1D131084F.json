@@ -3,7 +3,7 @@
 	"cpeName": "cpe:2.3:a:nodejs:node.js:6.9.1:*:*:*:lts:*:*:*",
 	"cpeNameId": "23A3FBED-2F02-47C2-8BED-B3B1D131084F",
 	"created": "2019-02-11T16:39:15.877",
-	"lastModified": "2019-02-11T16:39:15.877",
+	"lastModified": "2024-03-07T21:54:36.307",
 	"titles": [
 		{
 			"title": "Nodejs Node.js 6.9.1 LTS Edition",
@@ -14,6 +14,16 @@
 		{
 			"ref": "https://github.com/nodejs/node",
 			"type": "Version"
+		},
+		{
+			"ref": "https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V6.md",
+			"type": "Change Log"
+		}
+	],
+	"deprecates": [
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:6.9.1:*:*:*:-:*:*:*",
+			"cpeNameId": "37A5E8C8-8C96-4BD3-B09F-B18AB6A1B5C7"
 		}
 	]
 }

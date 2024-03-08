@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:nodejs:node.js:4.8.5:*:*:*:-:*:*:*",
 	"cpeNameId": "9CDE020C-A407-4383-9424-F1AF0DBD8A70",
 	"created": "2020-02-10T17:57:32.793",
-	"lastModified": "2020-02-10T17:57:32.793",
+	"lastModified": "2024-03-07T21:48:04.147",
 	"titles": [
 		{
 			"title": "Nodejs Node.js 4.8.5",
@@ -12,15 +12,7 @@
 	],
 	"refs": [
 		{
-			"ref": "https://nodejs.org/docs/",
-			"type": "Change Log"
-		},
-		{
-			"ref": "https://nodejs.org/en/",
-			"type": "Vendor"
-		},
-		{
-			"ref": "https://nodejs.org/en/download/releases/",
+			"ref": "https://nodejs.org/download/docs/",
 			"type": "Version"
 		},
 		{
@@ -28,8 +20,26 @@
 			"type": "Change Log"
 		},
 		{
-			"ref": "https://nodejs.org/download/docs/",
+			"ref": "https://nodejs.org/en/download/releases/",
 			"type": "Version"
+		},
+		{
+			"ref": "https://nodejs.org/en/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://nodejs.org/docs/",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V4.md",
+			"type": "Change Log"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:4.8.5:*:*:*:lts:*:*:*",
+			"cpeNameId": "82C3ED93-F5D2-4BA3-AF01-EE3D5BFD76FE"
 		}
 	],
 	"deprecates": [

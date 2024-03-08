@@ -3,7 +3,7 @@
 	"cpeName": "cpe:2.3:a:nodejs:node.js:8.8.0:*:*:*:-:*:*:*",
 	"cpeNameId": "33C1A6D5-15FF-4F83-92E0-CE01A49F98C3",
 	"created": "2020-02-10T18:04:33.847",
-	"lastModified": "2020-02-10T18:04:33.847",
+	"lastModified": "2024-03-07T21:59:37.087",
 	"titles": [
 		{
 			"title": "Nodejs Node.js 8.8.0",
@@ -34,12 +34,20 @@
 		{
 			"ref": "https://nodejs.org/dist/latest-v8.x/",
 			"type": "Version"
+		},
+		{
+			"ref": "https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V8.md",
+			"type": "Change Log"
 		}
 	],
 	"deprecates": [
 		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:8.8.0:*:*:*:*:*:*:*",
 			"cpeNameId": "B22F504F-CC5F-4ABF-9CBE-1CEEDB6BAA88"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:8.8.0:*:*:*:lts:*:*:*",
+			"cpeNameId": "FCC6145F-96DA-4609-9CDF-9390651E3F69"
 		}
 	]
 }

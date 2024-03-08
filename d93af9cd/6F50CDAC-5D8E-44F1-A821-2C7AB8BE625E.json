@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:nodejs:node.js:6.9.3:*:*:*:-:*:*:*",
 	"cpeNameId": "6F50CDAC-5D8E-44F1-A821-2C7AB8BE625E",
 	"created": "2020-02-10T18:04:26.003",
-	"lastModified": "2020-02-10T18:04:26.003",
+	"lastModified": "2024-03-07T21:54:36.307",
 	"titles": [
 		{
 			"title": "Nodejs Node.js 6.9.3",
@@ -12,19 +12,7 @@
 	],
 	"refs": [
 		{
-			"ref": "https://nodejs.org/docs/",
-			"type": "Change Log"
-		},
-		{
-			"ref": "https://nodejs.org/en/",
-			"type": "Vendor"
-		},
-		{
-			"ref": "https://nodejs.org/en/download/releases/",
-			"type": "Version"
-		},
-		{
-			"ref": "https://nodejs.org/dist/",
+			"ref": "https://nodejs.org/dist/latest-v8.x/",
 			"type": "Version"
 		},
 		{
@@ -32,8 +20,30 @@
 			"type": "Vendor"
 		},
 		{
-			"ref": "https://nodejs.org/dist/latest-v8.x/",
+			"ref": "https://nodejs.org/dist/",
 			"type": "Version"
+		},
+		{
+			"ref": "https://nodejs.org/en/download/releases/",
+			"type": "Version"
+		},
+		{
+			"ref": "https://nodejs.org/en/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://nodejs.org/docs/",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V6.md",
+			"type": "Change Log"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:6.9.3:*:*:*:lts:*:*:*",
+			"cpeNameId": "2CCBFF97-849E-453E-94F6-CE7FABD925AD"
 		}
 	],
 	"deprecates": [

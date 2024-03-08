@@ -3,7 +3,7 @@
 	"cpeName": "cpe:2.3:a:nodejs:node.js:4.3.2:*:*:*:lts:*:*:*",
 	"cpeNameId": "BFD664F2-1387-4607-B342-3330000837A6",
 	"created": "2019-02-11T16:39:12.453",
-	"lastModified": "2019-02-11T16:39:12.453",
+	"lastModified": "2024-03-07T21:48:04.147",
 	"titles": [
 		{
 			"title": "Nodejs Node.js 4.3.2 LTS Edition",
@@ -14,6 +14,16 @@
 		{
 			"ref": "https://github.com/nodejs/node",
 			"type": "Version"
+		},
+		{
+			"ref": "https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V4.md",
+			"type": "Change Log"
+		}
+	],
+	"deprecates": [
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:4.3.2:*:*:*:-:*:*:*",
+			"cpeNameId": "2448E463-21A7-4F26-8F0B-8FA861C77215"
 		}
 	]
 }

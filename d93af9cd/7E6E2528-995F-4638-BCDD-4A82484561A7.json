@@ -3,7 +3,7 @@
 	"cpeName": "cpe:2.3:a:nodejs:node.js:20.8.0:*:*:*:-:*:*:*",
 	"cpeNameId": "7E6E2528-995F-4638-BCDD-4A82484561A7",
 	"created": "2023-12-01T10:45:30.163",
-	"lastModified": "2023-12-01T10:45:30.163",
+	"lastModified": "2024-03-07T21:24:39.437",
 	"titles": [
 		{
 			"title": "Nodejs Node.js 20.8.0  Edition",
@@ -18,6 +18,16 @@
 		{
 			"ref": "https://hackerone.com/reports/2092852",
 			"type": "Advisory"
+		},
+		{
+			"ref": "https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V20.md",
+			"type": "Change Log"
+		}
+	],
+	"deprecates": [
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:20.8.0:*:*:*:*:*:*:*",
+			"cpeNameId": "87F930E3-53CA-495A-8B81-E93B4A7820D1"
 		}
 	]
 }

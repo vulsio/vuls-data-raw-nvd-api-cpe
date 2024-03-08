@@ -1,12 +1,12 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:nodejs:node.js:13.4.0:*:*:*:lts:*:*:*",
 	"cpeNameId": "8D883D33-4857-4DBE-8415-2EF5385E299B",
 	"created": "2020-02-13T15:21:44.690",
-	"lastModified": "2020-02-13T15:21:44.690",
+	"lastModified": "2024-03-07T21:24:39.437",
 	"titles": [
 		{
-			"title": "Nodejs Node.js 13.4.0 LTS Edition",
+			"title": "Nodejs Node.js 13.4.0",
 			"lang": "en"
 		}
 	],
@@ -18,6 +18,16 @@
 		{
 			"ref": "https://nodejs.org/en/blog/vulnerability/february-2020-security-releases/",
 			"type": "Advisory"
+		},
+		{
+			"ref": "https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V13.md",
+			"type": "Change Log"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:13.4.0:*:*:*:-:*:*:*",
+			"cpeNameId": "0A6A8E27-A83B-4913-B2CF-24696D4CEF9A"
 		}
 	]
 }

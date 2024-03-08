@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:nodejs:node.js:6.9.2:*:*:*:-:*:*:*",
 	"cpeNameId": "DD876B81-0887-4E6A-9AB6-0C24505B7D96",
 	"created": "2020-02-10T18:04:25.767",
-	"lastModified": "2020-02-10T18:04:25.767",
+	"lastModified": "2024-03-07T21:54:36.307",
 	"titles": [
 		{
 			"title": "Nodejs Node.js 6.9.2",
@@ -34,6 +34,16 @@
 		{
 			"ref": "https://nodejs.org/dist/latest-v8.x/",
 			"type": "Version"
+		},
+		{
+			"ref": "https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V6.md",
+			"type": "Change Log"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:6.9.2:*:*:*:lts:*:*:*",
+			"cpeNameId": "5A372217-F5BC-4BCD-8ED8-74B39323A969"
 		}
 	],
 	"deprecates": [

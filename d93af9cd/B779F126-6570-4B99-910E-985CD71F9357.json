@@ -3,7 +3,7 @@
 	"cpeName": "cpe:2.3:a:nodejs:node.js:14.9.0:*:*:*:-:*:*:*",
 	"cpeNameId": "B779F126-6570-4B99-910E-985CD71F9357",
 	"created": "2020-09-23T13:30:10.187",
-	"lastModified": "2021-04-14T20:02:18.450",
+	"lastModified": "2024-03-07T21:24:39.437",
 	"titles": [
 		{
 			"title": "Nodejs Node.js 14.9.0",
@@ -18,12 +18,20 @@
 		{
 			"ref": "https://nodejs.org/en/download/releases/",
 			"type": "Version"
+		},
+		{
+			"ref": "https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V14.md",
+			"type": "Change Log"
 		}
 	],
 	"deprecates": [
 		{
 			"cpeName": "cpe:2.3:a:nodejs:node.js:14.9.0:*:*:*:*:*:*:*",
 			"cpeNameId": "2DCD48BF-C6E6-48C3-A3EC-D183EEB04679"
+		},
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:14.9.0:*:*:*:lts:*:*:*",
+			"cpeNameId": "4256E229-FF80-485C-9A8B-1D559E49B6B5"
 		}
 	]
 }

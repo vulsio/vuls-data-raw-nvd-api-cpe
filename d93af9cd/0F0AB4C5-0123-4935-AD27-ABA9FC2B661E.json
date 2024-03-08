@@ -3,7 +3,7 @@
 	"cpeName": "cpe:2.3:a:nodejs:node.js:8.9.0:*:*:*:lts:*:*:*",
 	"cpeNameId": "0F0AB4C5-0123-4935-AD27-ABA9FC2B661E",
 	"created": "2019-02-11T16:39:20.157",
-	"lastModified": "2019-02-11T16:39:20.157",
+	"lastModified": "2024-03-07T21:59:37.087",
 	"titles": [
 		{
 			"title": "Nodejs Node.js 8.9.0 LTS Edition",
@@ -14,6 +14,16 @@
 		{
 			"ref": "https://github.com/nodejs/node",
 			"type": "Version"
+		},
+		{
+			"ref": "https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V8.md",
+			"type": "Change Log"
+		}
+	],
+	"deprecates": [
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:8.9.0:*:*:*:-:*:*:*",
+			"cpeNameId": "5811E0AD-0377-4BDD-BB44-D952E525C6C6"
 		}
 	]
 }

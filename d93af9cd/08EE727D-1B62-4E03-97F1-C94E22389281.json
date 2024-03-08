@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:nodejs:node.js:4.4.5:*:*:*:-:*:*:*",
 	"cpeNameId": "08EE727D-1B62-4E03-97F1-C94E22389281",
 	"created": "2020-02-10T17:54:02.007",
-	"lastModified": "2020-02-10T17:54:02.007",
+	"lastModified": "2024-03-07T21:48:04.147",
 	"titles": [
 		{
 			"title": "Nodejs Node.js 4.4.5",
@@ -34,6 +34,16 @@
 		{
 			"ref": "https://nodejs.org/docs/",
 			"type": "Change Log"
+		},
+		{
+			"ref": "https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V4.md",
+			"type": "Change Log"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:nodejs:node.js:4.4.5:*:*:*:lts:*:*:*",
+			"cpeNameId": "2313F009-88EC-456A-8DDA-38E38D9760D8"
 		}
 	],
 	"deprecates": [
