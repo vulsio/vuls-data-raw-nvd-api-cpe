@@ -3,7 +3,7 @@
 	"cpeName": "cpe:2.3:a:bitcoin:bitcoin_core:0.8.2:*:*:*:*:*:*:*",
 	"cpeNameId": "70E8AD16-E2CD-4D47-A95B-AD84CA979616",
 	"created": "2019-09-09T12:57:53.510",
-	"lastModified": "2020-03-18T17:12:06.127",
+	"lastModified": "2024-03-12T21:10:39.203",
 	"titles": [
 		{
 			"title": "Bitcoin Core 0.8.2",
@@ -20,6 +20,12 @@
 		{
 			"cpeName": "cpe:2.3:a:bitcoin:bitcoin_core:0.8.2:-:*:*:*:*:*:*",
 			"cpeNameId": "0EBFAF6D-C9C2-45F3-A178-11E902EAF186"
+		}
+	],
+	"deprecates": [
+		{
+			"cpeName": "cpe:2.3:a:bitcoincore:bitcoin_core:0.8.2:*:*:*:*:*:*:*",
+			"cpeNameId": "A5D88F95-2FDA-4973-8085-3754A9BA4445"
 		}
 	]
 }

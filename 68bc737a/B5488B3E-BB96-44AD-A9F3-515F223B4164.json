@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:bitcoincore:bitcoin_core:0.7.0:*:*:*:*:*:*:*",
 	"cpeNameId": "B5488B3E-BB96-44AD-A9F3-515F223B4164",
 	"created": "2018-08-25T12:12:00.297",
-	"lastModified": "2021-03-16T18:08:02.160",
+	"lastModified": "2024-03-12T21:10:39.203",
 	"titles": [
 		{
 			"title": "Bitcoincore Bitcoin Core 0.7.0",
@@ -14,6 +14,12 @@
 		{
 			"ref": "https://bitcoin.org/en/version-history",
 			"type": "Version"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:bitcoin:bitcoin_core:0.7.0:*:*:*:*:*:*:*",
+			"cpeNameId": "8C2B6E53-E5AE-4A04-8C1A-D00A1BD12745"
 		}
 	]
 }
