@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:xt-commerce:xt\\:commerce:6.1.2:*:*:*:*:*:*:*",
 	"cpeNameId": "0CCF2720-7A17-413A-9A66-5981BF446936",
 	"created": "2020-05-04T17:41:11.523",
-	"lastModified": "2020-05-04T17:41:11.523",
+	"lastModified": "2024-03-20T12:03:24.250",
 	"titles": [
 		{
 			"title": "xt:Commerce 6.1.2",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://www.xt-commerce.com/",
 			"type": "Vendor"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:xt-commerce:xt-commerce:6.1.2:*:*:*:*:*:*:*",
+			"cpeNameId": "37A99FD2-9307-4ADC-86A6-9C04575C5EEE"
 		}
 	]
 }

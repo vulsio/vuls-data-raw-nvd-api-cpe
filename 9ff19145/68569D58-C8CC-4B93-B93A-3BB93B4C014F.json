@@ -1,0 +1,19 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:1password:command_line_interface:0.0.3:*:*:*:*:*:*:*",
+	"cpeNameId": "68569D58-C8CC-4B93-B93A-3BB93B4C014F",
+	"created": "2024-03-20T11:54:32.883",
+	"lastModified": "2024-03-20T11:54:32.883",
+	"titles": [
+		{
+			"title": "1Password Command Line Interface (CLI) 0.0.3",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://app-updates.agilebits.com/product_history/CLI",
+			"type": "Version"
+		}
+	]
+}

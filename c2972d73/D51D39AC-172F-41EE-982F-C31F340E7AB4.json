@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:o:qnap:qts:5.1.0.2418:*:*:*:*:*:*:*",
 	"cpeNameId": "D51D39AC-172F-41EE-982F-C31F340E7AB4",
 	"created": "2023-08-31T11:09:54.740",
-	"lastModified": "2023-09-01T03:42:36.997",
+	"lastModified": "2024-03-20T13:57:27.073",
 	"titles": [
 		{
 			"title": "QNAP QTS 5.1.0.2418",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://www.qnap.com/en/release-notes/qts/overview/5.1.0",
 			"type": "Version"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:o:qnap:qts:5.1.0.2418:-:*:*:*:*:*:*",
+			"cpeNameId": "E0187300-21FE-46C1-A72F-AC0F50014052"
 		}
 	]
 }
