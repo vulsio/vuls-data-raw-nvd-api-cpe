@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:1password:command-line:0.3:*:*:*:*:*:*:*",
 	"cpeNameId": "5A0C88C2-D426-4B8D-AF1A-2630E457E858",
 	"created": "2021-07-12T17:52:21.163",
-	"lastModified": "2021-07-12T17:58:13.950",
+	"lastModified": "2024-03-25T17:51:48.830",
 	"titles": [
 		{
 			"title": "1Password Command Line 0.3",
@@ -18,6 +18,16 @@
 		{
 			"ref": "https://1password.com/downloads/command-line/",
 			"type": "Product"
+		},
+		{
+			"ref": "https://support.1password.com/command-line/",
+			"type": "Product"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:1password:command_line_interface:0.3:*:*:*:*:*:*:*",
+			"cpeNameId": "50319F34-86F9-471C-BCC2-95ACF27FD523"
 		}
 	]
 }
