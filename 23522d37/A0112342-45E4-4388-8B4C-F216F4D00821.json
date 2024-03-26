@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:file-upload-with-preview_project:file-upload-with-preview:4.2.0:*:*:*:*:node.js:*:*",
 	"cpeNameId": "A0112342-45E4-4388-8B4C-F216F4D00821",
 	"created": "2021-09-08T13:54:40.173",
-	"lastModified": "2021-09-08T15:51:26.163",
+	"lastModified": "2024-03-26T11:44:30.887",
 	"titles": [
 		{
 			"title": "file-upload-with-preview Project file-upload-with-preview 4.2.0 for Node.js",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://snyk.io/vuln/SNYK-JS-FILEUPLOADWITHPREVIEW-1579492",
 			"type": "Advisory"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:johndatserakis:file-upload-with-preview:4.2.0:*:*:*:*:node.js:*:*",
+			"cpeNameId": "F5E83F87-68EF-4396-A27E-97A0913BC470"
 		}
 	]
 }

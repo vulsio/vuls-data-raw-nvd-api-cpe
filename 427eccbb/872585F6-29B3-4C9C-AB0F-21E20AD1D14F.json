@@ -3,7 +3,7 @@
 	"cpeName": "cpe:2.3:a:quill-mention:quill_mention:3.1.0:*:*:*:*:node.js:*:*",
 	"cpeNameId": "872585F6-29B3-4C9C-AB0F-21E20AD1D14F",
 	"created": "2023-10-02T17:12:16.423",
-	"lastModified": "2023-10-02T17:12:16.423",
+	"lastModified": "2024-03-26T11:53:42.580",
 	"titles": [
 		{
 			"title": "Quill Mention 3.1.0 for Node.js",
@@ -18,6 +18,10 @@
 		{
 			"ref": "https://quill-mention.com/",
 			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/quill-mention/quill-mention",
+			"type": "Product"
 		}
 	]
 }
