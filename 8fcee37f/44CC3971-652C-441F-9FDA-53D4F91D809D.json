@@ -1,0 +1,19 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:adaptiva:adaptiva_edge_platform:9.0.962.0:*:*:*:*:*:*:*",
+	"cpeNameId": "44CC3971-652C-441F-9FDA-53D4F91D809D",
+	"created": "2024-03-27T13:35:20.853",
+	"lastModified": "2024-03-27T13:35:20.853",
+	"titles": [
+		{
+			"title": "Adaptiva Edge Platform 9.0.962.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://adaptiva.com/release-history",
+			"type": "Change Log"
+		}
+	]
+}
