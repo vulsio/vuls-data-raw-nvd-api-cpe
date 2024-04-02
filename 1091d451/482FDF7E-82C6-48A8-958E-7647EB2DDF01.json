@@ -1,0 +1,23 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:hcltech:sametime:12.0.2:*:*:*:*:*:*:*",
+	"cpeNameId": "482FDF7E-82C6-48A8-958E-7647EB2DDF01",
+	"created": "2024-04-02T12:44:51.353",
+	"lastModified": "2024-04-02T12:44:51.353",
+	"titles": [
+		{
+			"title": "HCL Technologies Sametime 12.0.2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0109082",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://www.hcl-software.com/sametime",
+			"type": "Product"
+		}
+	]
+}
