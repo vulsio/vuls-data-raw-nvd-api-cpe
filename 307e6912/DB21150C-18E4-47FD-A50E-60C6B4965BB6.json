@@ -3,7 +3,7 @@
 	"cpeName": "cpe:2.3:a:microsoft:internet_explorer:9:*:*:*:*:*:*:*",
 	"cpeNameId": "DB21150C-18E4-47FD-A50E-60C6B4965BB6",
 	"created": "2012-07-11T14:03:41.847",
-	"lastModified": "2021-07-23T15:12:10.117",
+	"lastModified": "2024-04-16T19:22:41.060",
 	"titles": [
 		{
 			"title": "Microsoft Internet Explorer 9",
@@ -28,6 +28,10 @@
 		{
 			"cpeName": "cpe:2.3:a:microsoft:ie:9:*:*:*:*:*:*:*",
 			"cpeNameId": "F4491CAD-4440-4303-ABD6-66718A5D497E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:microsoft:internet_explorer:9:-:*:*:*:*:*:*",
+			"cpeNameId": "EE78A187-1117-426C-8EC5-3FCFC031EF06"
 		}
 	]
 }
