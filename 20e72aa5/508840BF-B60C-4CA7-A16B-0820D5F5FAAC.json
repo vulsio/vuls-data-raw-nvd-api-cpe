@@ -1,0 +1,19 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:openharmony:openharmony:4.0:*:*:*:-:*:*:*",
+	"cpeNameId": "508840BF-B60C-4CA7-A16B-0820D5F5FAAC",
+	"created": "2024-04-17T16:15:15.317",
+	"lastModified": "2024-04-17T16:15:15.317",
+	"titles": [
+		{
+			"title": "OpenHarmony 4.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://gitee.com/openharmony/security/blob/master/zh/security-disclosure/2024/2024-02.md",
+			"type": "Advisory"
+		}
+	]
+}
