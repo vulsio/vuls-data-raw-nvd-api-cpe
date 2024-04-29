@@ -1,0 +1,23 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:remyandrade:qr_code_login_system:1.0:*:*:*:*:*:*:*",
+	"cpeNameId": "7F5DD9EE-1182-4FC1-94E5-32A34F3EB8D2",
+	"created": "2024-04-29T13:18:48.930",
+	"lastModified": "2024-04-29T13:18:48.930",
+	"titles": [
+		{
+			"title": "Remy Andrade QR Code Login System 1.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.sourcecodester.com/php/17145/qr-code-login-system-using-php-and-mysql-source-code.html",
+			"type": "Product"
+		},
+		{
+			"ref": "https://vuldb.com/?id.252470",
+			"type": "Advisory"
+		}
+	]
+}

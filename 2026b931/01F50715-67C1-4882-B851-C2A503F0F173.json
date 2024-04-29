@@ -1,0 +1,23 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:layerslider:layerslider:6.6.4:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "01F50715-67C1-4882-B851-C2A503F0F173",
+	"created": "2024-04-29T17:31:22.543",
+	"lastModified": "2024-04-29T17:31:22.543",
+	"titles": [
+		{
+			"title": "LayerSlider 6.6.4 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://layerslider.com/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://layerslider.com/release-log/",
+			"type": "Change Log"
+		}
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:wpdeveloper:essential_addons_for_elementor:5.9.4:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "17C6A796-8A6E-4DAB-AB87-7758B4917785",
+	"created": "2024-04-29T12:46:03.030",
+	"lastModified": "2024-04-29T12:46:03.030",
+	"titles": [
+		{
+			"title": "WPDeveloper Download Essential Addons for Elementor 5.9.4 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/essential-addons-for-elementor-lite/#developers",
+			"type": "Change Log"
+		}
+	]
+}
