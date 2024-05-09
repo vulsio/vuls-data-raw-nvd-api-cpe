@@ -1,0 +1,19 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:layslider:layslider:-:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "E83FA15E-1C8B-46A0-8782-23DB4BA610CE",
+	"created": "2024-05-09T15:01:20.007",
+	"lastModified": "2024-05-09T15:01:20.007",
+	"titles": [
+		{
+			"title": "LaySlider for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://layerslider.com/",
+			"type": "Product"
+		}
+	]
+}

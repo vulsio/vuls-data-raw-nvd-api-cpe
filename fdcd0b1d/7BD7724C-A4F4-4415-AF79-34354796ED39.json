@@ -1,0 +1,23 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:layslider:layslider:7.1.2:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "7BD7724C-A4F4-4415-AF79-34354796ED39",
+	"created": "2024-05-09T15:01:20.007",
+	"lastModified": "2024-05-09T15:01:20.007",
+	"titles": [
+		{
+			"title": "LaySlider 7.1.2 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://layerslider.com/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://layerslider.com/release-log/",
+			"type": "Change Log"
+		}
+	]
+}

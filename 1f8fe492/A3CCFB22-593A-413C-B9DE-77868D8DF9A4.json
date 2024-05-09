@@ -1,8 +1,8 @@
 {
-	"deprecated": true,
-	"cpeName": "cpe:2.3:a:dolibarr:dolibarr:18.0.4:*:*:*:*:*:*:*",
-	"cpeNameId": "C52DA564-8963-48E7-9A90-01827006A9AA",
-	"created": "2024-02-03T01:39:22.613",
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:dolibarr:dolibarr_erp\\/crm:18.0.4:*:*:*:*:*:*:*",
+	"cpeNameId": "A3CCFB22-593A-413C-B9DE-77868D8DF9A4",
+	"created": "2024-05-09T15:23:22.837",
 	"lastModified": "2024-05-09T15:23:22.837",
 	"titles": [
 		{
@@ -20,10 +20,10 @@
 			"type": "Advisory"
 		}
 	],
-	"deprecatedBy": [
+	"deprecates": [
 		{
-			"cpeName": "cpe:2.3:a:dolibarr:dolibarr_erp\\/crm:18.0.4:*:*:*:*:*:*:*",
-			"cpeNameId": "A3CCFB22-593A-413C-B9DE-77868D8DF9A4"
+			"cpeName": "cpe:2.3:a:dolibarr:dolibarr:18.0.4:*:*:*:*:*:*:*",
+			"cpeNameId": "C52DA564-8963-48E7-9A90-01827006A9AA"
 		}
 	]
 }
