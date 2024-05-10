@@ -1,12 +1,12 @@
 {
 	"deprecated": false,
-	"cpeName": "cpe:2.3:a:veeam:veeam_backup_\\&_replication:10.0.1.4854:*:*:*:*:*:*:*",
-	"cpeNameId": "188196FB-DDF7-4BBD-8A9E-F7341400C6AA",
-	"created": "2021-07-03T01:23:38.963",
+	"cpeName": "cpe:2.3:a:veeam:veeam_backup_\\&_replication:9.5.4.2615:*:*:*:*:*:*:*",
+	"cpeNameId": "75EB9AC0-6792-4E44-B5A6-03EE914287D1",
+	"created": "2024-05-09T18:37:53.550",
 	"lastModified": "2024-05-09T18:37:53.550",
 	"titles": [
 		{
-			"title": "Veeam Backup & Replication 10.0.1.4854",
+			"title": "Veeam Backup & Replication (B&R) 9.5.4.2615",
 			"lang": "en"
 		}
 	],
@@ -30,8 +30,8 @@
 	],
 	"deprecates": [
 		{
-			"cpeName": "cpe:2.3:a:veeam:backup_\\&_replication:10.0.1.4854:*:*:*:*:*:*:*",
-			"cpeNameId": "F3752748-4B96-4737-A28E-D7FB05CB782D"
+			"cpeName": "cpe:2.3:a:veeam:backup_\\&_replication:9.5.4.2615:*:*:*:*:*:*:*",
+			"cpeNameId": "7A180BA5-81C6-4808-908C-813676032631"
 		}
 	]
 }
