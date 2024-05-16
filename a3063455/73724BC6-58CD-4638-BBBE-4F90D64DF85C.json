@@ -1,0 +1,23 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:h:se-elektronicgmbh:e-ddc3.3:-:*:*:*:*:*:*:*",
+	"cpeNameId": "73724BC6-58CD-4638-BBBE-4F90D64DF85C",
+	"created": "2024-05-16T15:26:10.653",
+	"lastModified": "2024-05-16T15:26:10.653",
+	"titles": [
+		{
+			"title": "SE-ELEKTRONIC GMBH E-DDC3.3 ",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.se-elektronic.de/downloads/products/G_02_90_75_E-DDC3-3_Produktblatt_EN.pdf",
+			"type": "Product"
+		},
+		{
+			"ref": "https://www.incibe.es/en/incibe-cert/notices/aviso-sci/multiple-vulnerabilities-se-elektronic-gmbh-products",
+			"type": "Advisory"
+		}
+	]
+}
