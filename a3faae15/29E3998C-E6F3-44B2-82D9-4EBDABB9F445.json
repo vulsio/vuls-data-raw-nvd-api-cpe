@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:arcgis:geoevent_server:10.8.1:*:*:*:*:*:*:*",
 	"cpeNameId": "29E3998C-E6F3-44B2-82D9-4EBDABB9F445",
 	"created": "2021-05-10T11:03:52.883",
-	"lastModified": "2021-05-17T15:28:33.857",
+	"lastModified": "2024-05-21T14:27:21.770",
 	"titles": [
 		{
 			"title": "ArcGIS GeoEvent Server 10.8.1",
@@ -22,6 +22,12 @@
 		{
 			"ref": "https://enterprise.arcgis.com/en/geoevent/latest/get-started/whats-new-in-geoevent-server.htm",
 			"type": "Change Log"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:esri:arcgis_geoevent_server:10.8.1:*:*:*:*:*:*:*",
+			"cpeNameId": "084E93E1-3EB6-4107-86F9-A270F588882B"
 		}
 	]
 }
