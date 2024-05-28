@@ -1,0 +1,19 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:cisco:firepower_management_center:7.2.4.1:*:*:*:*:*:*:*",
+	"cpeNameId": "68703686-3AC5-47F9-83B3-BF4F644C1AC7",
+	"created": "2024-05-28T13:43:02.120",
+	"lastModified": "2024-05-28T13:43:02.120",
+	"titles": [
+		{
+			"title": "Cisco Firepower Management Center 7.2.4.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.cve.org/CVERecord?id=CVE-2024-20360",
+			"type": "Version"
+		}
+	]
+}
