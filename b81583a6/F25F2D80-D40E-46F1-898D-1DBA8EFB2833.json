@@ -3,7 +3,7 @@
 	"cpeName": "cpe:2.3:a:igniterealtime:openfire:4.5.0:-:*:*:*:*:*:*",
 	"cpeNameId": "F25F2D80-D40E-46F1-898D-1DBA8EFB2833",
 	"created": "2022-03-25T15:46:52.690",
-	"lastModified": "2023-02-21T17:43:46.510",
+	"lastModified": "2024-05-30T15:54:14.050",
 	"titles": [
 		{
 			"title": "Ignite Realtime Openfire 4.5.0",
@@ -14,6 +14,16 @@
 		{
 			"ref": "https://discourse.igniterealtime.org/t/openfire-4-5-0-is-released/87004",
 			"type": "Version"
+		},
+		{
+			"ref": "https://github.com/igniterealtime/Openfire",
+			"type": "Version"
+		}
+	],
+	"deprecates": [
+		{
+			"cpeName": "cpe:2.3:a:igniterealtime:openfire:4.5.0:*:*:*:*:*:*:*",
+			"cpeNameId": "1C2EF4F2-C159-4A3B-B8B2-44E6911F40A4"
 		}
 	]
 }

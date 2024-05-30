@@ -1,8 +1,8 @@
 {
-	"deprecated": true,
-	"cpeName": "cpe:2.3:a:igniterealtime:openfire:4.2.0:*:*:*:*:*:*:*",
-	"cpeNameId": "5D380F46-6D01-4BEA-B7FD-8F3B14C646B4",
-	"created": "2019-11-18T13:19:24.343",
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:igniterealtime:openfire:4.2.0:-:*:*:*:*:*:*",
+	"cpeNameId": "06A8388F-CB01-4133-A819-7B61A0E36251",
+	"created": "2024-05-30T15:52:15.623",
 	"lastModified": "2024-05-30T15:52:15.623",
 	"titles": [
 		{
@@ -16,10 +16,6 @@
 			"type": "Vendor"
 		},
 		{
-			"ref": "https://www.igniterealtime.org/projects/openfire/index.jsp",
-			"type": "Product"
-		},
-		{
 			"ref": "http://download.igniterealtime.org/openfire/docs/latest/changelog.html",
 			"type": "Change Log"
 		},
@@ -28,10 +24,10 @@
 			"type": "Change Log"
 		}
 	],
-	"deprecatedBy": [
+	"deprecates": [
 		{
-			"cpeName": "cpe:2.3:a:igniterealtime:openfire:4.2.0:-:*:*:*:*:*:*",
-			"cpeNameId": "06A8388F-CB01-4133-A819-7B61A0E36251"
+			"cpeName": "cpe:2.3:a:igniterealtime:openfire:4.2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "5D380F46-6D01-4BEA-B7FD-8F3B14C646B4"
 		}
 	]
 }
