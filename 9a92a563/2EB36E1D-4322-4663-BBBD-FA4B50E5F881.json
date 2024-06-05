@@ -1,0 +1,27 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:getshortcodes:shortcodes_ultimate:7.0.4:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "2EB36E1D-4322-4663-BBBD-FA4B50E5F881",
+	"created": "2024-06-05T16:58:19.690",
+	"lastModified": "2024-06-05T16:58:19.690",
+	"titles": [
+		{
+			"title": "Getshortcodes Shortcodes Ultimate 7.0.4 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/shortcodes-ultimate/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://vulners.com/cvelist/CVELIST:CVE-2024-4821",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://getshortcodes.com/",
+			"type": "Vendor"
+		}
+	]
+}

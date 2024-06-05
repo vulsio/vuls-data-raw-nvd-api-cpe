@@ -1,0 +1,27 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:wpdownloadmanager:download_manager:3.2.72:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "AC2ED358-42EE-4DC6-BB36-8C9CD2B8FDB2",
+	"created": "2024-06-05T17:43:01.637",
+	"lastModified": "2024-06-05T17:43:01.637",
+	"titles": [
+		{
+			"title": "Download Manager 3.2.72 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/download-manager/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://www.wpdownloadmanager.com/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/download-manager/download-manager-3293-authenticated-contributor-stored-cross-site-scripting-via-wpdm-modal-login-form-shortcode",
+			"type": "Advisory"
+		}
+	]
+}
