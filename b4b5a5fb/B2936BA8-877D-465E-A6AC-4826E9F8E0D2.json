@@ -1,0 +1,27 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:sendinblue:newsletter\\,_smtp\\,_email_marketing_and_subscribe:3.1.79:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "B2936BA8-877D-465E-A6AC-4826E9F8E0D2",
+	"created": "2024-06-05T11:31:14.743",
+	"lastModified": "2024-06-05T11:31:14.743",
+	"titles": [
+		{
+			"title": "Sendinblue Newsletter, SMTP, Email Marketing And Subscribe 3.1.79 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://patchstack.com/database/vulnerability/mailin/wordpress-newsletter-smtp-email-marketing-and-subscribe-forms-by-brevo-plugin-3-1-77-reflected-cross-site-scripting-xss-vulnerability?_s_id=cve",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/mailin/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://www.brevo.com/",
+			"type": "Vendor"
+		}
+	]
+}
