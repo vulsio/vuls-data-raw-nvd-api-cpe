@@ -3,7 +3,7 @@
 	"cpeName": "cpe:2.3:a:miniupnp_project:ngiflib:0.4:*:*:*:*:*:*:*",
 	"cpeNameId": "F380FCAD-0075-468B-8619-BB4312F8EAAB",
 	"created": "2019-12-02T16:26:32.693",
-	"lastModified": "2019-12-02T16:26:32.693",
+	"lastModified": "2024-06-06T20:17:46.353",
 	"titles": [
 		{
 			"title": "MiniUPnP Project ngiflib 0.4",
@@ -18,6 +18,12 @@
 		{
 			"ref": "http://miniupnp.free.fr/",
 			"type": "Project"
+		}
+	],
+	"deprecates": [
+		{
+			"cpeName": "cpe:2.3:a:ngiflib_project:ngiflib:0.4:*:*:*:*:*:*:*",
+			"cpeNameId": "58962B88-CA7D-4160-8908-F327EAC5584E"
 		}
 	]
 }
