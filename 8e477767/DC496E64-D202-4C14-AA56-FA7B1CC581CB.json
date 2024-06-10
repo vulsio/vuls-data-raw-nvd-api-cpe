@@ -1,0 +1,23 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:ideabox:powerpack_addons_for_elementor:2.7.15:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "DC496E64-D202-4C14-AA56-FA7B1CC581CB",
+	"created": "2024-06-10T17:04:12.923",
+	"lastModified": "2024-06-10T17:04:12.923",
+	"titles": [
+		{
+			"title": "IdeaBox PowerPack Addons for Elementor 2.7.15 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/powerpack-lite-for-elementor/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://patchstack.com/database/vulnerability/powerpack-elements/wordpress-powerpack-pro-for-elementor-plugin-2-9-23-reflected-cross-site-scripting-xss-vulnerability?_s_id=cve",
+			"type": "Advisory"
+		}
+	]
+}

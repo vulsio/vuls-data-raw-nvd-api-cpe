@@ -1,0 +1,23 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:themeum:tutor_lms:2.6.2:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "293CF1DA-B856-4EF0-87F1-DE2852DA7ED7",
+	"created": "2024-06-10T17:04:12.923",
+	"lastModified": "2024-06-10T17:04:12.923",
+	"titles": [
+		{
+			"title": "Themeum Tutor LMS 2.6.2 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/tutor/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/tutor/tutor-lms-elearning-and-online-course-solution-271-authenticated-instructor-insecure-direct-object-reference-to-arbitrary-quiz-attempt-deletion",
+			"type": "Advisory"
+		}
+	]
+}
