@@ -1,0 +1,23 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:themify:themify_builder:7.5.9:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "42479CA6-3955-430D-B699-091D6DB7CD1C",
+	"created": "2024-06-17T13:37:07.420",
+	"lastModified": "2024-06-17T13:37:07.420",
+	"titles": [
+		{
+			"title": "Themify Builder 7.5.9 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://themify.me/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/themify-builder/#developers",
+			"type": "Change Log"
+		}
+	]
+}
