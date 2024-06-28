@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:dethemekit_for_elementor_project:dethemekit_for_elementor:1.5.4.2:*:*:*:*:wordpress:*:*",
 	"cpeNameId": "623BABF3-48FA-464F-B414-446E0FD309A7",
 	"created": "2021-05-07T17:09:55.187",
-	"lastModified": "2021-05-17T17:36:55.077",
+	"lastModified": "2024-06-28T13:34:03.907",
 	"titles": [
 		{
 			"title": "Dethemekit For Elementor Project Dethemekit For Elementor 1.5.4.2 for WordPress",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://www.wordfence.com/blog/2021/04/recent-patches-rock-the-elementor-ecosystem/",
 			"type": "Advisory"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:detheme:dethemekit_for_elementor:1.5.4.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "8E1A62F5-316D-4B76-A495-31252CFCC108"
 		}
 	]
 }
