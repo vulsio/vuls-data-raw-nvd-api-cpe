@@ -1,0 +1,27 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:mongodb:mongodb:7.0.0:rc6:*:*:*:*:*:*",
+	"cpeNameId": "8C99E242-5E4F-49BC-85A0-C45843688707",
+	"created": "2024-07-02T15:00:29.140",
+	"lastModified": "2024-07-02T15:00:29.140",
+	"titles": [
+		{
+			"title": "MongoDB 7.0.0 Release Candidate 6",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/mongodb/mongo/tags",
+			"type": "Version"
+		},
+		{
+			"ref": "https://jira.mongodb.org/browse/SERVER-79327",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://www.mongodb.com/docs/manual/release-notes/7.0-changelog/",
+			"type": "Change Log"
+		}
+	]
+}

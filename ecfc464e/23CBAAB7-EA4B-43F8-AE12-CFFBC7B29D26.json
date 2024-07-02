@@ -1,23 +1,29 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:o:cisco:pix_firewall:501_base:*:*:*:*:*:*:*",
 	"cpeNameId": "23CBAAB7-EA4B-43F8-AE12-CFFBC7B29D26",
 	"created": "2016-08-19T14:10:27.293",
-	"lastModified": "2021-06-17T15:20:33.500",
+	"lastModified": "2024-07-02T12:50:07.530",
 	"titles": [
 		{
-			"title": "Cisco Pix Firewall 501 Base",
+			"title": "Cisco PIX FIREWALL 501 Base",
 			"lang": "en"
 		}
 	],
 	"refs": [
 		{
-			"ref": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160817-asa-snmp",
-			"type": "Advisory"
-		},
-		{
 			"ref": "http://www.cisco.com/c/en/us/index.html",
 			"type": "Vendor"
+		},
+		{
+			"ref": "https://www.cisco.com/web/ANZ/cpp/refguide/hview/security/pix.html",
+			"type": "Product"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:h:cisco:pix-501:-:*:*:*:*:*:*:*",
+			"cpeNameId": "7E62609B-CC6A-47E5-BE6F-8EA35DE3B702"
 		}
 	]
 }

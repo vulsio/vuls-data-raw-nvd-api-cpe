@@ -1,0 +1,27 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:mongodb:mongodb:6.0.10:*:*:*:*:*:*:*",
+	"cpeNameId": "1AFCEF23-C649-4091-B200-404AEA08AD21",
+	"created": "2024-07-02T15:00:29.140",
+	"lastModified": "2024-07-02T15:00:29.140",
+	"titles": [
+		{
+			"title": "MongoDB 6.0.10",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/mongodb/mongo/tags",
+			"type": "Version"
+		},
+		{
+			"ref": "https://jira.mongodb.org/browse/SERVER-79327",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://www.mongodb.com/docs/v6.0/release-notes/6.0-changelog/",
+			"type": "Change Log"
+		}
+	]
+}
