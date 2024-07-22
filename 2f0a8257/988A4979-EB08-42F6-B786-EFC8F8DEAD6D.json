@@ -1,0 +1,27 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:bdthemes:element_pack_elementor_addons:5.6.6:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "988A4979-EB08-42F6-B786-EFC8F8DEAD6D",
+	"created": "2024-07-22T17:47:47.583",
+	"lastModified": "2024-07-22T17:47:47.583",
+	"titles": [
+		{
+			"title": "BdThemes Element Pack Elementor Addons 5.6.6 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://bdthemes.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/bdthemes-element-pack-lite/#developers",
+			"type": "Version"
+		},
+		{
+			"ref": "https://plugins.svn.wordpress.org/bdthemes-element-pack-lite/tags/",
+			"type": "Version"
+		}
+	]
+}
