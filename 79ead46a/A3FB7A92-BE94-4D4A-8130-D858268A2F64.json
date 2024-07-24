@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:tribe29:checkmk:2.0.0:-:*:*:*:*:*:*",
 	"cpeNameId": "A3FB7A92-BE94-4D4A-8130-D858268A2F64",
 	"created": "2022-03-02T14:27:50.630",
-	"lastModified": "2022-03-02T14:51:53.557",
+	"lastModified": "2024-07-23T19:37:14.753",
 	"titles": [
 		{
 			"title": "tribe29 checkmk 2.0.0",
@@ -22,6 +22,12 @@
 		{
 			"ref": "https://github.com/tribe29/checkmk/tags",
 			"type": "Change Log"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:checkmk:checkmk:2.0.0:-:*:*:*:*:*:*",
+			"cpeNameId": "1BB21BD4-4A30-4021-8AA9-49CB31223A70"
 		}
 	]
 }

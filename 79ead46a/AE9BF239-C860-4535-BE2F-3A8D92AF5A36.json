@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:p28:*:*:*:*:*:*",
 	"cpeNameId": "AE9BF239-C860-4535-BE2F-3A8D92AF5A36",
 	"created": "2023-08-04T12:51:16.453",
-	"lastModified": "2023-08-11T23:37:43.177",
+	"lastModified": "2024-07-23T19:37:14.753",
 	"titles": [
 		{
 			"title": "tribe29 checkmk 2.1.0 Patch 28",
@@ -22,6 +22,12 @@
 		{
 			"ref": "https://checkmk.com/download",
 			"type": "Product"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:checkmk:checkmk:2.1.0:p28:*:*:*:*:*:*",
+			"cpeNameId": "5F7BDB75-DF69-4C1A-84F8-94AEDD28B66F"
 		}
 	]
 }

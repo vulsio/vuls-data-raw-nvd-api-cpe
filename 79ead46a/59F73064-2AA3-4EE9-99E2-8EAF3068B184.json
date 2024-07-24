@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:tribe29:checkmk:2.1.0:p23:*:*:*:*:*:*",
 	"cpeNameId": "59F73064-2AA3-4EE9-99E2-8EAF3068B184",
 	"created": "2023-03-22T18:43:59.073",
-	"lastModified": "2023-05-09T17:05:37.420",
+	"lastModified": "2024-07-23T19:37:14.753",
 	"titles": [
 		{
 			"title": "tribe29 checkmk 2.1.0 Patch 23",
@@ -22,6 +22,12 @@
 		{
 			"ref": "https://checkmk.com/",
 			"type": "Product"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:checkmk:checkmk:2.1.0:p23:*:*:*:*:*:*",
+			"cpeNameId": "8CCF67FD-0E35-4152-9933-E43D05E80D8B"
 		}
 	]
 }

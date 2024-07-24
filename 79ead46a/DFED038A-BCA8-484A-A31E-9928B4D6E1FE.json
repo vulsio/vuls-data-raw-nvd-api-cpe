@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:tribe29:checkmk:1.2.7:i2:*:*:*:*:*:*",
 	"cpeNameId": "DFED038A-BCA8-484A-A31E-9928B4D6E1FE",
 	"created": "2019-10-17T12:12:36.143",
-	"lastModified": "2019-10-17T12:12:36.143",
+	"lastModified": "2024-07-23T19:37:14.753",
 	"titles": [
 		{
 			"title": "tribe29 checkmk 1.2.7 i2",
@@ -22,6 +22,12 @@
 		{
 			"ref": "https://tribe29.com/",
 			"type": "Vendor"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:checkmk:checkmk:1.2.7:i2:*:*:*:*:*:*",
+			"cpeNameId": "20E22B4C-1C4C-4A75-AFDD-5B1642029A35"
 		}
 	]
 }

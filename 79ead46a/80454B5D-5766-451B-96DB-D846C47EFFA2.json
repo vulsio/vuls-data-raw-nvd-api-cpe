@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:tribe29:checkmk:1.6.0:p1:*:*:*:*:*:*",
 	"cpeNameId": "80454B5D-5766-451B-96DB-D846C47EFFA2",
 	"created": "2019-10-17T12:12:42.330",
-	"lastModified": "2019-10-17T12:12:42.330",
+	"lastModified": "2024-07-23T19:37:14.753",
 	"titles": [
 		{
 			"title": "tribe29 checkmk 1.6.0 Patch 1",
@@ -22,6 +22,12 @@
 		{
 			"ref": "https://tribe29.com/",
 			"type": "Vendor"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:checkmk:checkmk:1.6.0:p1:*:*:*:*:*:*",
+			"cpeNameId": "52EF18BD-4EF5-447C-8366-AD76DDA1EB5C"
 		}
 	]
 }

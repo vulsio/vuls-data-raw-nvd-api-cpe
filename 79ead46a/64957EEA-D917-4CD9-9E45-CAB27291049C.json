@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:tribe29:checkmk:1.6.0:p17:*:*:*:*:*:*",
 	"cpeNameId": "64957EEA-D917-4CD9-9E45-CAB27291049C",
 	"created": "2022-01-21T19:01:18.123",
-	"lastModified": "2022-09-12T13:51:26.700",
+	"lastModified": "2024-07-23T19:37:14.753",
 	"titles": [
 		{
 			"title": "Tribe29 checkmk 1.6.0 Patch 17",
@@ -14,6 +14,12 @@
 		{
 			"ref": "https://checkmk.com/download/archive",
 			"type": "Change Log"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:checkmk:checkmk:1.6.0:p17:*:*:*:*:*:*",
+			"cpeNameId": "DD575DDD-6891-4A65-9160-05FDB1C3154F"
 		}
 	]
 }
