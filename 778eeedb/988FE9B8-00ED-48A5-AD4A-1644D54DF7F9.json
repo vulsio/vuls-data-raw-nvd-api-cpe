@@ -1,0 +1,27 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:quomodosoft:elementsready:3.1:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "988FE9B8-00ED-48A5-AD4A-1644D54DF7F9",
+	"created": "2024-07-24T21:22:56.087",
+	"lastModified": "2024-07-24T21:22:56.087",
+	"titles": [
+		{
+			"title": "QuomodoSoft ElementsReady 3.1 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://quomodosoft.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/element-ready-lite/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://elementsready.com/",
+			"type": "Product"
+		}
+	]
+}
