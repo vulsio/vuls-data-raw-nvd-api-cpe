@@ -1,0 +1,23 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:technowich:wp_ulike_-_most_advanced_wordpress_marketing_toolkit:4.7.0:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "715520DE-245D-44DF-91DA-88DFDA551746",
+	"created": "2024-07-25T18:04:01.970",
+	"lastModified": "2024-07-25T18:04:01.970",
+	"titles": [
+		{
+			"title": "TechnoWich WP ULike - Most Advanced WordPress Marketing Toolkit 4.7.0 WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/wp-ulike/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://technowich.com/",
+			"type": "Vendor"
+		}
+	]
+}

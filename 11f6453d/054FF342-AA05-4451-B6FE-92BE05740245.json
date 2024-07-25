@@ -1,0 +1,23 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:kognetics:kognetiks_chatbot:1.9.5:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "054FF342-AA05-4451-B6FE-92BE05740245",
+	"created": "2024-07-25T16:25:44.557",
+	"lastModified": "2024-07-25T16:25:44.557",
+	"titles": [
+		{
+			"title": "Kognetiks Chatbot 1.9.5 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/chatbot-chatgpt/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://kognetiks.com/",
+			"type": "Vendor"
+		}
+	]
+}

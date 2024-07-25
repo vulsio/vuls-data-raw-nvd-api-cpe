@@ -3,7 +3,7 @@
 	"cpeName": "cpe:2.3:a:hitachienergy:foxman-un:r11b:*:*:*:*:*:*:*",
 	"cpeNameId": "FA9C4845-8CAA-4124-BDB9-FA7C15FF4C73",
 	"created": "2023-01-23T18:54:29.350",
-	"lastModified": "2023-01-23T19:35:37.827",
+	"lastModified": "2024-07-25T15:45:02.433",
 	"titles": [
 		{
 			"title": "Hitachi Energy FOXMAN-UN R11B",
@@ -20,6 +20,10 @@
 		{
 			"cpeName": "cpe:2.3:a:hitachi:foxman-un:r11b:*:*:*:*:*:*:*",
 			"cpeNameId": "E63314CE-7B77-4C63-BD0A-CC92FBB000A9"
+		},
+		{
+			"cpeName": "cpe:2.3:a:hitachienergy:foxman_un:r11b:*:*:*:*:*:*:*",
+			"cpeNameId": "04F1D850-6916-4F1A-B0E6-0845DACBF910"
 		}
 	]
 }
