@@ -1,0 +1,27 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:paloaltonetworks:prisma_cloud:32.04:*:*:*:compute:*:*:*",
+	"cpeNameId": "3646C056-A1B5-48BB-BA4C-EF6B90659486",
+	"created": "2024-07-29T17:49:20.343",
+	"lastModified": "2024-07-29T17:49:20.343",
+	"titles": [
+		{
+			"title": "Palo Alto Networks Prisma Cloud 32.04 Compute Edition",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://docs.prismacloud.io/en/compute-edition/32/rn/release-information/release-notes-32-05",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://www.paloaltonetworks.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://www.paloaltonetworks.com/prisma/cloud",
+			"type": "Product"
+		}
+	]
+}

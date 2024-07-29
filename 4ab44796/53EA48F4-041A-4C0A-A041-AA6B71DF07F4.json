@@ -1,0 +1,27 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:kainelabs:youzify:1.2.4:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "53EA48F4-041A-4C0A-A041-AA6B71DF07F4",
+	"created": "2024-07-29T16:41:14.523",
+	"lastModified": "2024-07-29T16:41:14.523",
+	"titles": [
+		{
+			"title": "KaineLabs Youzify 1.2.4 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/youzify/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://youzify.com/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://www.kainelabs.com/",
+			"type": "Vendor"
+		}
+	]
+}
