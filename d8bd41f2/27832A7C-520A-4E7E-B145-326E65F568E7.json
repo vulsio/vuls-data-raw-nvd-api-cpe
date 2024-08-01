@@ -1,0 +1,23 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:pixelite:events_manager:-:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "27832A7C-520A-4E7E-B145-326E65F568E7",
+	"created": "2024-08-01T17:15:54.043",
+	"lastModified": "2024-08-01T17:15:54.043",
+	"titles": [
+		{
+			"title": "Pixelite Events Manager for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/events-manager/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://pixelite.com/",
+			"type": "Vendor"
+		}
+	]
+}
