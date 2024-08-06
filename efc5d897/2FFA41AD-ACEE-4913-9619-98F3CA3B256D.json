@@ -1,0 +1,23 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:placement_management_system_project:placement_management_system:1.0:*:*:*:*:*:*:*",
+	"cpeNameId": "2FFA41AD-ACEE-4913-9619-98F3CA3B256D",
+	"created": "2024-08-06T17:34:03.713",
+	"lastModified": "2024-08-06T17:34:03.713",
+	"titles": [
+		{
+			"title": "Placement Management System Project Placement Management System 1.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/DeepMountains/Mirage/blob/main/CVE11-4.md",
+			"type": "Advisory"
+		},
+		{
+			"ref": "https://vuldb.com/?id.273543",
+			"type": "Advisory"
+		}
+	]
+}
