@@ -1,0 +1,27 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:anji-plus:report:1.2.1:*:*:*:*:*:*:*",
+	"cpeNameId": "DFD4EA6F-8C1D-454F-B4A8-D4D6C6531A2C",
+	"created": "2024-08-07T10:37:04.187",
+	"lastModified": "2024-08-07T10:37:04.187",
+	"titles": [
+		{
+			"title": "Anji-plus AJ-Report 1.2.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://gitee.com/anji-plus/report/releases",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://github.com/anji-plus/report/tags",
+			"type": "Version"
+		},
+		{
+			"ref": "http://www.anji-plus.com/",
+			"type": "Vendor"
+		}
+	]
+}
