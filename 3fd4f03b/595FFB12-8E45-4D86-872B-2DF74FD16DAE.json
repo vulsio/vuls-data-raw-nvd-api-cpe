@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:linuxfoundation:argo-cd:2.3.4:*:*:*:*:*:*:*",
 	"cpeNameId": "595FFB12-8E45-4D86-872B-2DF74FD16DAE",
 	"created": "2022-06-01T16:33:57.010",
-	"lastModified": "2022-06-02T16:10:11.967",
+	"lastModified": "2024-08-07T15:43:47.567",
 	"titles": [
 		{
 			"title": "The Linux Foundation Argo CD 2.3.4",
@@ -14,6 +14,12 @@
 		{
 			"ref": "https://github.com/argoproj/argo-cd/releases",
 			"type": "Change Log"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:argoproj:argo_cd:2.3.4:*:*:*:*:*:*:*",
+			"cpeNameId": "1D8B102F-358F-43EF-A50A-B95A336C9B24"
 		}
 	]
 }

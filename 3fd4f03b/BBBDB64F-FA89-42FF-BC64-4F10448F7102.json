@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:linuxfoundation:argo-cd:0.5.1:*:*:*:*:*:*:*",
 	"cpeNameId": "BBBDB64F-FA89-42FF-BC64-4F10448F7102",
 	"created": "2021-03-03T16:40:08.330",
-	"lastModified": "2021-03-08T16:38:31.390",
+	"lastModified": "2024-08-07T15:43:47.567",
 	"titles": [
 		{
 			"title": "The Linux Foundation Argo CD 0.5.1",
@@ -26,6 +26,12 @@
 		{
 			"ref": "https://www.linuxfoundation.org/",
 			"type": "Vendor"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:argoproj:argo_cd:0.5.1:*:*:*:*:*:*:*",
+			"cpeNameId": "6C50ED89-33A5-42E2-8FAC-342E79C57F3B"
 		}
 	]
 }

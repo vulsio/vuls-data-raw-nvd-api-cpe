@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:linuxfoundation:argo-cd:2.3.10:*:*:*:*:*:*:*",
 	"cpeNameId": "317AE7EB-9A03-477F-AE3F-C98F52D4ED9E",
 	"created": "2023-02-06T12:50:07.183",
-	"lastModified": "2023-02-06T17:13:52.413",
+	"lastModified": "2024-08-07T15:43:47.567",
 	"titles": [
 		{
 			"title": "The Linux Foundation Argo CD 2.3.10",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://github.com/argoproj/argo-cd/security/advisories/GHSA-q9hr-j4rf-8fjc",
 			"type": "Advisory"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:argoproj:argo_cd:2.3.10:*:*:*:*:*:*:*",
+			"cpeNameId": "C4F3720B-DC25-4C9C-A504-5B930530FDBD"
 		}
 	]
 }
