@@ -1,12 +1,12 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:anji-plus:report:0.9.7.3:*:*:*:*:*:*:*",
 	"cpeNameId": "38D078D2-6BA2-456B-B70A-168335160186",
 	"created": "2022-11-04T14:28:30.667",
-	"lastModified": "2022-11-04T17:44:41.387",
+	"lastModified": "2024-08-08T12:05:02.463",
 	"titles": [
 		{
-			"title": "Anji-plus Report 0.9.7.3",
+			"title": "Anji Jiajia Information Technology Co., Ltd. (Anji-Plus) AJ-Report 0.9.7.3",
 			"lang": "en"
 		}
 	],
@@ -18,6 +18,16 @@
 		{
 			"ref": "http://www.anji-plus.com/",
 			"type": "Vendor"
+		},
+		{
+			"ref": "https://gitee.com/anji-plus/report/releases",
+			"type": "Change Log"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:anji-plus:aj-report:0.9.7.3:*:*:*:*:*:*:*",
+			"cpeNameId": "8DDBC74C-41D2-4D2E-80B5-012759B863A5"
 		}
 	]
 }

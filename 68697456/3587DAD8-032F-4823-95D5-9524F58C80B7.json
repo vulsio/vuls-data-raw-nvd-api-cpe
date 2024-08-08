@@ -1,12 +1,12 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:anji-plus:report:1.2.0:*:*:*:*:*:*:*",
 	"cpeNameId": "3587DAD8-032F-4823-95D5-9524F58C80B7",
 	"created": "2024-08-07T10:37:04.187",
-	"lastModified": "2024-08-07T10:37:04.187",
+	"lastModified": "2024-08-08T12:05:02.463",
 	"titles": [
 		{
-			"title": "Anji-plus AJ-Report 1.2.0",
+			"title": "Anji Jiajia Information Technology Co., Ltd. (Anji-Plus) AJ-Report 1.2.0",
 			"lang": "en"
 		}
 	],
@@ -22,6 +22,12 @@
 		{
 			"ref": "http://www.anji-plus.com/",
 			"type": "Vendor"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:anji-plus:aj-report:1.2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "79BD341B-8C0A-45D8-B189-45266BD4AD18"
 		}
 	]
 }
