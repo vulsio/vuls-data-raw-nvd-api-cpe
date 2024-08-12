@@ -1,0 +1,19 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:mozilla:thunderbird:128.0.1:*:*:*:*:*:*:*",
+	"cpeNameId": "2D7A31CF-7B60-4EAE-AB36-34B991CF925A",
+	"created": "2024-08-12T14:11:03.823",
+	"lastModified": "2024-08-12T14:11:03.823",
+	"titles": [
+		{
+			"title": "Mozilla Thunderbird 128.0.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.thunderbird.net/en-US/thunderbird/releases/",
+			"type": "Change Log"
+		}
+	]
+}

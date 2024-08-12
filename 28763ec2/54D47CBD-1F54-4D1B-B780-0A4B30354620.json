@@ -1,0 +1,19 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:mozilla:thunderbird:115.11.1:*:*:*:*:*:*:*",
+	"cpeNameId": "54D47CBD-1F54-4D1B-B780-0A4B30354620",
+	"created": "2024-08-12T14:11:03.823",
+	"lastModified": "2024-08-12T14:11:03.823",
+	"titles": [
+		{
+			"title": "Mozilla Thunderbird 115.11.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.thunderbird.net/en-US/thunderbird/releases/",
+			"type": "Change Log"
+		}
+	]
+}
