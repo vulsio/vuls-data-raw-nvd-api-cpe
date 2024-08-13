@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:streamlit:streamlit:0.83.0:*:*:*:*:*:*:*",
 	"cpeNameId": "63535634-CC2D-4693-80D4-6E11822D41DE",
 	"created": "2023-03-06T23:38:57.557",
-	"lastModified": "2023-03-07T14:08:26.197",
+	"lastModified": "2024-08-13T12:50:56.590",
 	"titles": [
 		{
 			"title": "Streamlit 0.83.0",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://streamlit.io/",
 			"type": "Vendor"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:snowflake:streamlit:0.83.0:*:*:*:*:*:*:*",
+			"cpeNameId": "2DD7E53B-0BE9-4B6D-9611-20E15F8360CF"
 		}
 	]
 }
