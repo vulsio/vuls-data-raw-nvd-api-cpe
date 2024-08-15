@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:asterisk:open_source:15.3.0:*:*:*:*:*:*:*",
 	"cpeNameId": "4132F6FE-4504-4C1C-A61C-AC96363BF452",
 	"created": "2020-08-11T17:17:06.460",
-	"lastModified": "2020-08-11T17:17:06.460",
+	"lastModified": "2024-08-15T12:44:23.460",
 	"titles": [
 		{
 			"title": "Asterisk Open Source 15.3.0",
@@ -14,6 +14,12 @@
 		{
 			"ref": "http://downloads.asterisk.org/pub/telephony/asterisk/old-releases/",
 			"type": "Vendor"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:sangoma:asterisk:15.3.0:*:*:*:*:*:*:*",
+			"cpeNameId": "2251872E-7287-45E6-B84D-6541FF59F671"
 		}
 	]
 }
