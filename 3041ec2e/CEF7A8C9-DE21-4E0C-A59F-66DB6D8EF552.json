@@ -1,0 +1,19 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:mozilla:firefox:126.0.1:*:*:*:*:*:*:*",
+	"cpeNameId": "CEF7A8C9-DE21-4E0C-A59F-66DB6D8EF552",
+	"created": "2024-08-16T23:16:51.620",
+	"lastModified": "2024-08-16T23:16:51.620",
+	"titles": [
+		{
+			"title": "Mozilla Firefox 126.0.1",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.mozilla.org/en-US/firefox/releases/",
+			"type": "Change Log"
+		}
+	]
+}

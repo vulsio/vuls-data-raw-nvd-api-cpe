@@ -1,0 +1,19 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:mozilla:firefox:127.0.2:*:*:*:*:*:*:*",
+	"cpeNameId": "0EEF589E-CD80-4E9D-8059-DD7F0464641B",
+	"created": "2024-08-16T23:16:51.620",
+	"lastModified": "2024-08-16T23:16:51.620",
+	"titles": [
+		{
+			"title": "Mozilla Firefox 127.0.2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.mozilla.org/en-US/firefox/releases/",
+			"type": "Change Log"
+		}
+	]
+}
