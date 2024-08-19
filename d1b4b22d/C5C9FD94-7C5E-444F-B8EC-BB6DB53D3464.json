@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:mongodb:mongodb:6.0.0:-:*:*:*:*:*:*",
 	"cpeNameId": "C5C9FD94-7C5E-444F-B8EC-BB6DB53D3464",
 	"created": "2024-07-02T15:00:29.140",
-	"lastModified": "2024-07-02T15:00:29.140",
+	"lastModified": "2024-08-19T12:27:33.770",
 	"titles": [
 		{
 			"title": "MongoDB 6.0.0",
@@ -22,6 +22,12 @@
 		{
 			"ref": "https://www.mongodb.com/docs/v6.0/release-notes/6.0-changelog/",
 			"type": "Change Log"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:mongodb:mongodb:6.0.0:-:*:*:-:*:*:*",
+			"cpeNameId": "FF4B7FD0-0FDD-455E-B50B-3B6ECAABF5F2"
 		}
 	]
 }
