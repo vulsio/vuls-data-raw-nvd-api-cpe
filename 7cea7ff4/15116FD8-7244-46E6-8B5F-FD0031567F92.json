@@ -1,12 +1,12 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:stormshield:network_security:3.7.17:*:*:*:*:*:*:*",
 	"cpeNameId": "15116FD8-7244-46E6-8B5F-FD0031567F92",
 	"created": "2021-03-03T13:00:10.860",
-	"lastModified": "2021-04-21T18:26:30.430",
+	"lastModified": "2024-08-20T14:58:52.787",
 	"titles": [
 		{
-			"title": "Stormshield Network Security 3.7.17",
+			"title": "Stormshield Network Security (SNS) 3.7.17",
 			"lang": "en"
 		}
 	],
@@ -26,6 +26,24 @@
 		{
 			"ref": "https://documentation.stormshield.eu/SNS/v3/en/Content/Release_Notes_SNS/Previous-Versions.htm",
 			"type": "Version"
+		},
+		{
+			"ref": "https://documentation.stormshield.eu/SNS/v2/en/Content/Release_Notes_SNS/Getting_Started_RNO.htm",
+			"type": "Version"
+		},
+		{
+			"ref": "https://documentation.stormshield.eu/SNS/v4/en/Content/Release_Notes_SNS/Previous-Versions.htm",
+			"type": "Version"
+		},
+		{
+			"ref": "https://documentation.stormshield.eu/SNS/v4/en/Content/PDF/ReleaseNotesSNS/sns-en-release_notes-v4.6.6.pdf",
+			"type": "Version"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:stormshield:stormshield_network_security:3.7.17:*:*:*:*:*:*:*",
+			"cpeNameId": "84D86A02-C9D0-4217-B959-08232213FD6A"
 		}
 	]
 }
