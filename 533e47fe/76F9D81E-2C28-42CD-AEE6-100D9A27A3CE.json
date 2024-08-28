@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:dromara:hertzbeat:1.2.0:*:*:*:*:*:*:*",
 	"cpeNameId": "76F9D81E-2C28-42CD-AEE6-100D9A27A3CE",
 	"created": "2024-01-02T17:53:07.560",
-	"lastModified": "2024-01-02T17:53:07.560",
+	"lastModified": "2024-08-28T15:44:18.630",
 	"titles": [
 		{
 			"title": "Dromara HertzBeat 1.2.0",
@@ -26,6 +26,12 @@
 		{
 			"ref": "https://hertzbeat.dromara.org/",
 			"type": "Product"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:apache:hertzbeat:1.2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "1E30954C-527C-4D5A-A82B-76FA9D09BDCB"
 		}
 	]
 }
