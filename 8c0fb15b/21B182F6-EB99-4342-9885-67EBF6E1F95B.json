@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:zephyr_project_manager_project:zephyr_project_manager:2.95.0:*:*:*:*:wordpress:*:*",
 	"cpeNameId": "21B182F6-EB99-4342-9885-67EBF6E1F95B",
 	"created": "2022-10-04T15:05:30.293",
-	"lastModified": "2022-10-04T15:44:37.230",
+	"lastModified": "2024-09-03T13:24:11.433",
 	"titles": [
 		{
 			"title": "Zephyr Project Manager Project Zephyr Project Manager 2.95.0 for WordPress",
@@ -22,6 +22,12 @@
 		{
 			"ref": "https://wordpress.org/plugins/zephyr-project-manager/",
 			"type": "Product"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:zephyr-one:zephyr_project_manager:2.95.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "DCB531BD-7750-4FE1-B83E-7C2C02F225BB"
 		}
 	]
 }

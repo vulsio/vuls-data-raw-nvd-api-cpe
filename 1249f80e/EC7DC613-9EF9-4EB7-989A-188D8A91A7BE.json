@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:o:zephyrproject:zephyr:2.89.0:*:*:*:*:*:*:*",
 	"cpeNameId": "EC7DC613-9EF9-4EB7-989A-188D8A91A7BE",
 	"created": "2022-06-15T14:08:06.477",
-	"lastModified": "2022-06-16T14:36:34.920",
+	"lastModified": "2024-09-03T13:24:11.433",
 	"titles": [
 		{
 			"title": "Zephyrproject Zephyr 2.89.0",
@@ -14,6 +14,12 @@
 		{
 			"ref": "https://wordpress.org/plugins/zephyr-project-manager/#developers",
 			"type": "Change Log"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:zephyrproject:zephyr_project_manager:2.89.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "800DEC19-FFEE-45B2-9341-1F1DE2A8BFF9"
 		}
 	]
 }

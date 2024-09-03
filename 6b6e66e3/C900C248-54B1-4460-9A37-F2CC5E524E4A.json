@@ -1,0 +1,23 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:getkirby:kirby:4.1.0:*:*:*:*:*:*:*",
+	"cpeNameId": "C900C248-54B1-4460-9A37-F2CC5E524E4A",
+	"created": "2024-09-03T14:20:08.660",
+	"lastModified": "2024-09-03T14:20:08.660",
+	"titles": [
+		{
+			"title": "Getkirby Kirby 4.1.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/getkirby/kirby/releases",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://github.com/getkirby/kirby/security/advisories/GHSA-jm9m-rqr3-wfmh",
+			"type": "Advisory"
+		}
+	]
+}
