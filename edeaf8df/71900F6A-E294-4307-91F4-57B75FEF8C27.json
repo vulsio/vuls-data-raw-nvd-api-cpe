@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:phpspreadsheet_project:phpspreadsheet:1.9.0:*:*:*:*:*:*:*",
 	"cpeNameId": "71900F6A-E294-4307-91F4-57B75FEF8C27",
 	"created": "2019-11-08T18:18:58.287",
-	"lastModified": "2019-11-08T18:18:58.287",
+	"lastModified": "2024-09-04T17:45:30.340",
 	"titles": [
 		{
 			"title": "PhpSpreadsheet Project PhpSpreadsheet 1.9.0",
@@ -14,6 +14,12 @@
 		{
 			"ref": "https://github.com/PHPOffice/PhpSpreadsheet/releases",
 			"type": "Change Log"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:phpoffice:phpspreadsheet:1.9.0:*:*:*:*:*:*:*",
+			"cpeNameId": "E8DD4620-30F6-476B-8AD3-5E4EA55E1295"
 		}
 	]
 }

@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:phpspreadsheet_project:phpspreadsheet:1.15.0:*:*:*:*:*:*:*",
 	"cpeNameId": "3CEB6021-DE0D-407B-B132-72F00D5C2FBC",
 	"created": "2021-01-19T17:12:47.030",
-	"lastModified": "2021-01-19T17:12:47.030",
+	"lastModified": "2024-09-04T17:45:30.340",
 	"titles": [
 		{
 			"title": "PhpSpreadsheet Project PhpSpreadsheet 1.15.0",
@@ -14,6 +14,12 @@
 		{
 			"ref": "https://github.com/PHPOffice/PhpSpreadsheet",
 			"type": "Version"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:phpoffice:phpspreadsheet:1.15.0:*:*:*:*:*:*:*",
+			"cpeNameId": "0CA4ED7F-BF43-4534-A511-445D2F9A4935"
 		}
 	]
 }
