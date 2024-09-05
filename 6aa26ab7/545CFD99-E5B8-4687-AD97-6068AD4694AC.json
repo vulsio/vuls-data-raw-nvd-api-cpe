@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:cryptography_project:cryptography:35.0.0:*:*:*:*:python:*:*",
 	"cpeNameId": "545CFD99-E5B8-4687-AD97-6068AD4694AC",
 	"created": "2023-02-14T16:12:00.870",
-	"lastModified": "2023-02-14T17:53:54.190",
+	"lastModified": "2024-09-05T16:09:08.410",
 	"titles": [
 		{
 			"title": "cryptography Project cryptography 35.0.0 for Python",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://github.com/pyca/cryptography/tags",
 			"type": "Version"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:cryptography.io:cryptography:35.0.0:*:*:*:*:python:*:*",
+			"cpeNameId": "BE95EE24-B95F-446B-84E4-E8AC23F7F69D"
 		}
 	]
 }
