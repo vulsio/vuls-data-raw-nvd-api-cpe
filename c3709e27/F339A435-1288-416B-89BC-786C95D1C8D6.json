@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:food_ordering_management_system_project:food_ordering_management_system:1.0:*:*:*:*:*:*:*",
 	"cpeNameId": "F339A435-1288-416B-89BC-786C95D1C8D6",
 	"created": "2022-11-07T17:16:16.503",
-	"lastModified": "2022-11-07T17:34:06.350",
+	"lastModified": "2024-09-07T12:56:40.797",
 	"titles": [
 		{
 			"title": "Food Ordering Management System Project Food Ordering Management System 1.0",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://github.com/YorkLee2022/bug_report/blob/main/vendors/onetnom23/Food%20Ordering%20Management%20System/SQLi-1.md",
 			"type": "Advisory"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:oretnom23:food_ordering_management_system:1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "FE8AB339-5E0D-4996-927B-5C854C0515E9"
 		}
 	]
 }

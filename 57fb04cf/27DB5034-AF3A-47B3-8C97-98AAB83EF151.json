@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:music_class_enrollment_system_project:music_class_enrollment_system:1.0:*:*:*:*:*:*:*",
 	"cpeNameId": "27DB5034-AF3A-47B3-8C97-98AAB83EF151",
 	"created": "2024-08-06T15:58:11.067",
-	"lastModified": "2024-08-06T15:58:11.067",
+	"lastModified": "2024-09-07T12:56:40.797",
 	"titles": [
 		{
 			"title": "Music Class Enrollment System Project Music Class Enrollment System 1.0",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://www.sourcecodester.com/php/15362/music-class-enrollment-site-phpoop-free-source-code.html",
 			"type": "Product"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:oretnom23:music_class_enrollment_system:1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "19B12253-A80B-4847-9F38-316C603DE3B2"
 		}
 	]
 }
