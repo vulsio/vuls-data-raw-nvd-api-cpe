@@ -1,0 +1,19 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:mezz:justenoughitems:4.2.5:*:*:*:*:*:*:*",
+	"cpeNameId": "6720FDF1-68A5-4ED2-9BE7-934F19E20535",
+	"created": "2024-09-10T13:51:08.277",
+	"lastModified": "2024-09-10T13:51:08.277",
+	"titles": [
+		{
+			"title": "Mezz JustEnoughItems (JEI) 4.2.5",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/mezz/JustEnoughItems/releases",
+			"type": "Change Log"
+		}
+	]
+}
