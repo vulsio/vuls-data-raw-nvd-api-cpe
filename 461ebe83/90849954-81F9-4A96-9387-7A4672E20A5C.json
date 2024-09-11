@@ -1,0 +1,23 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:wpmobile.app_project:wpmobile.app:11.45:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "90849954-81F9-4A96-9387-7A4672E20A5C",
+	"created": "2024-09-11T17:48:07.877",
+	"lastModified": "2024-09-11T17:48:07.877",
+	"titles": [
+		{
+			"title": "WPMobile.App Project WPMobile.App 11.45 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/wpappninja/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://wpmobile.app/en/",
+			"type": "Product"
+		}
+	]
+}
