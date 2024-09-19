@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:mezz:justenoughitems:15.5.0:*:*:*:*:*:*:*",
 	"cpeNameId": "FB30E90A-F42A-43D1-A40C-5238ED230626",
 	"created": "2024-09-10T13:51:08.277",
-	"lastModified": "2024-09-10T13:51:08.277",
+	"lastModified": "2024-09-19T16:03:21.633",
 	"titles": [
 		{
 			"title": "Mezz JustEnoughItems (JEI) 15.5.0",
@@ -14,6 +14,12 @@
 		{
 			"ref": "https://github.com/mezz/JustEnoughItems/releases",
 			"type": "Change Log"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:mezz:justenoughitems:15.5.0:*:*:*:*:minecraft:*:*",
+			"cpeNameId": "AF454068-8789-4F94-80A2-A5B5244E908B"
 		}
 	]
 }
