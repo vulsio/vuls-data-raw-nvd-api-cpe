@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:gnuboard:gnuboard5:5.4.1.8:*:*:*:*:*:*:*",
 	"cpeNameId": "03D48608-788F-4E66-8AB8-3EE402BDD6CF",
 	"created": "2021-12-16T12:29:44.960",
-	"lastModified": "2021-12-16T12:32:03.640",
+	"lastModified": "2024-09-19T11:42:41.300",
 	"titles": [
 		{
 			"title": "gnuboard5 5.4.1.8",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://github.com/gnuboard/gnuboard5/tags",
 			"type": "Version"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:sir:gnuboard:5.4.1.8:*:*:*:*:*:*:*",
+			"cpeNameId": "0A2F7B3B-FCFC-4001-A4BD-B65CE142FC3C"
 		}
 	]
 }

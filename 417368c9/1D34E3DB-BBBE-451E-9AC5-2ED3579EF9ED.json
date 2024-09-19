@@ -3,7 +3,7 @@
 	"cpeName": "cpe:2.3:a:sir:gnuboard:5.4.4.8:*:*:*:*:*:*:*",
 	"cpeNameId": "1D34E3DB-BBBE-451E-9AC5-2ED3579EF9ED",
 	"created": "2023-02-28T11:22:06.480",
-	"lastModified": "2023-02-28T11:24:40.883",
+	"lastModified": "2024-09-19T11:42:41.300",
 	"titles": [
 		{
 			"title": "SIR GNUBoard 5.4.4.8",
@@ -18,6 +18,16 @@
 		{
 			"ref": "https://sir.kr/",
 			"type": "Vendor"
+		},
+		{
+			"ref": "https://sir.kr/main/g5/",
+			"type": "Product"
+		}
+	],
+	"deprecates": [
+		{
+			"cpeName": "cpe:2.3:a:gnuboard:gnuboard5:5.4.4.8:*:*:*:*:*:*:*",
+			"cpeNameId": "7FD207D9-56A3-4A7C-8D3F-F6030BC81C9E"
 		}
 	]
 }

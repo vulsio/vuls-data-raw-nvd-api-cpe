@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:gnuboard:gnuboard5:5.1.4:*:*:*:*:*:*:*",
 	"cpeNameId": "4EB9F2E7-6698-439C-8E87-AD739563B7D3",
 	"created": "2019-09-05T15:58:12.447",
-	"lastModified": "2019-09-05T15:58:12.447",
+	"lastModified": "2024-09-19T11:42:41.300",
 	"titles": [
 		{
 			"title": "gnuboard5 5.1.4",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://gnuboard.com/",
 			"type": "Vendor"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:sir:gnuboard:5.1.4:*:*:*:*:*:*:*",
+			"cpeNameId": "21815A88-E895-4192-B1F4-5D9B2B9977EE"
 		}
 	]
 }
