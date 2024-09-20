@@ -1,0 +1,27 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:woocommerce:woocommerce:7.8.3:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "F373796A-82E1-461A-961C-A40B65744D94",
+	"created": "2024-09-20T16:27:53.840",
+	"lastModified": "2024-09-20T16:27:53.840",
+	"titles": [
+		{
+			"title": "WooCommerce 7.8.3 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://raw.githubusercontent.com/woocommerce/woocommerce/trunk/changelog.txt",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://woocommerce.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/woocommerce/woocommerce/",
+			"type": "Product"
+		}
+	]
+}
