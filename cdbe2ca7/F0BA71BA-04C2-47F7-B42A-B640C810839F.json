@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:warhammer:wp_custom_fields_search:1.1.3:*:*:*:*:wordpress:*:*",
 	"cpeNameId": "F0BA71BA-04C2-47F7-B42A-B640C810839F",
 	"created": "2019-09-12T17:36:59.840",
-	"lastModified": "2019-09-12T17:36:59.840",
+	"lastModified": "2024-09-25T15:10:14.057",
 	"titles": [
 		{
 			"title": "Warhammer WP Custom Fields Search 1.1.3 for WordPress",
@@ -22,6 +22,12 @@
 		{
 			"ref": "http://www.webhammer.co.uk/shop",
 			"type": "Product"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:webhammer:wp_custom_fields_search:1.1.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E5CE008C-E030-4099-872B-8FB4C2B710F7"
 		}
 	]
 }
