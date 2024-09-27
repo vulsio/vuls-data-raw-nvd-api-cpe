@@ -1,0 +1,23 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:elementor:website_builder:3.22.3:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "05014268-5B07-421C-AE30-6447F981517A",
+	"created": "2024-09-27T11:54:29.293",
+	"lastModified": "2024-09-27T11:54:29.293",
+	"titles": [
+		{
+			"title": "Elementor Website Builder 3.22.3 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/elementor/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://elementor.com/",
+			"type": "Vendor"
+		}
+	]
+}
