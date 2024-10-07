@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:pixelyoursite:pixelyoursite:9.6.2:*:*:*:*:wordpress:*:*",
 	"cpeNameId": "EE748EF9-90C4-4D24-8CFA-48C1BEB62F58",
 	"created": "2024-08-02T20:51:25.110",
-	"lastModified": "2024-08-02T20:51:25.110",
+	"lastModified": "2024-10-07T12:01:56.217",
 	"titles": [
 		{
 			"title": "PixelYourSite 9.6.2 for WordPress",
@@ -22,6 +22,12 @@
 		{
 			"ref": "http://www.pixelyoursite.com/",
 			"type": "Vendor"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:pixelyoursite:pixelyoursite:9.6.2:*:*:*:-:wordpress:*:*",
+			"cpeNameId": "5E988246-34C4-4409-BF54-AFBE993EF309"
 		}
 	]
 }
