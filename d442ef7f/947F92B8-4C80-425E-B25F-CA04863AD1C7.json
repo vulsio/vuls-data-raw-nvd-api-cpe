@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:wp-events-plugin:events_manager:5.1.7:*:*:*:*:wordpress:*:*",
 	"cpeNameId": "947F92B8-4C80-425E-B25F-CA04863AD1C7",
 	"created": "2018-08-16T14:11:23.477",
-	"lastModified": "2018-08-16T14:11:23.477",
+	"lastModified": "2024-10-08T14:03:08.527",
 	"titles": [
 		{
 			"title": "wp-events-plugin Events Manager 5.1.7 for WordPress",
@@ -18,6 +18,12 @@
 		{
 			"ref": "http://wp-events-plugin.com/",
 			"type": "Vendor"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:pixelite:events_manager:5.1.7:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "5D878D97-5A82-4EF1-B3A6-61F93A00F557"
 		}
 	]
 }

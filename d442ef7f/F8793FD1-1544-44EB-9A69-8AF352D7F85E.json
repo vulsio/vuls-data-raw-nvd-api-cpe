@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:wp-events-plugin:events_manager:6.1.5:*:*:*:*:wordpress:*:*",
 	"cpeNameId": "F8793FD1-1544-44EB-9A69-8AF352D7F85E",
 	"created": "2023-12-04T13:10:30.643",
-	"lastModified": "2023-12-04T13:10:30.643",
+	"lastModified": "2024-10-08T14:03:08.527",
 	"titles": [
 		{
 			"title": "Events Manager Project Events Manager 6.1.5 for WordPress",
@@ -14,6 +14,12 @@
 		{
 			"ref": "https://wordpress.org/plugins/events-manager/#developers",
 			"type": "Change Log"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:pixelite:events_manager:6.1.5:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "580F1DDA-2392-4492-8CC7-302C91EBC1B7"
 		}
 	]
 }
