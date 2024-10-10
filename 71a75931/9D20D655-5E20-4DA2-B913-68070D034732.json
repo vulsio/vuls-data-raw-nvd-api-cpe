@@ -3,7 +3,7 @@
 	"cpeName": "cpe:2.3:a:libcap_project:libcap:2.17:*:*:*:*:*:*:*",
 	"cpeNameId": "9D20D655-5E20-4DA2-B913-68070D034732",
 	"created": "2019-01-28T15:30:33.607",
-	"lastModified": "2019-01-28T15:30:33.607",
+	"lastModified": "2024-10-10T16:51:24.393",
 	"titles": [
 		{
 			"title": "libcap Project libcap 2.17",
@@ -18,6 +18,10 @@
 		{
 			"ref": "http://sites.google.com/site/fullycapable/",
 			"type": "Product"
+		},
+		{
+			"ref": "https://git.kernel.org/pub/scm/libs/libcap/libcap.git/about/",
+			"type": "Vendor"
 		}
 	]
 }

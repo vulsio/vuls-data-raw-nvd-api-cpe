@@ -3,7 +3,7 @@
 	"cpeName": "cpe:2.3:a:libcap_project:libcap:2.26:*:*:*:*:*:*:*",
 	"cpeNameId": "5055BDD0-6060-48E9-9EBD-BC0255843825",
 	"created": "2019-01-28T15:30:34.497",
-	"lastModified": "2019-01-28T15:30:34.497",
+	"lastModified": "2024-10-10T16:51:24.393",
 	"titles": [
 		{
 			"title": "libcap Project libcap 2.26",
@@ -12,12 +12,16 @@
 	],
 	"refs": [
 		{
+			"ref": "http://sites.google.com/site/fullycapable/",
+			"type": "Product"
+		},
+		{
 			"ref": "https://www.kernel.org/pub/linux/libs/security/linux-privs/libcap2",
 			"type": "Version"
 		},
 		{
-			"ref": "http://sites.google.com/site/fullycapable/",
-			"type": "Product"
+			"ref": "https://git.kernel.org/pub/scm/libs/libcap/libcap.git/about/",
+			"type": "Vendor"
 		}
 	]
 }

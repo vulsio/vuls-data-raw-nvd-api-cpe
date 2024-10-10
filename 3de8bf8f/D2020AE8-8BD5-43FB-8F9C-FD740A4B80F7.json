@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:link_library_project:link_library:6.6.12:*:*:*:*:wordpress:*:*",
 	"cpeNameId": "D2020AE8-8BD5-43FB-8F9C-FD740A4B80F7",
 	"created": "2022-02-03T16:58:34.210",
-	"lastModified": "2022-02-23T23:02:46.957",
+	"lastModified": "2024-10-10T16:59:03.067",
 	"titles": [
 		{
 			"title": "Link Library Project Link Library 6.6.12 for WordPress",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://wordpress.org/plugins/link-library/#developers",
 			"type": "Change Log"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:ylefebvre:link_library:6.6.12:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "F895450C-B591-4E33-894A-EF17014B4728"
 		}
 	]
 }
