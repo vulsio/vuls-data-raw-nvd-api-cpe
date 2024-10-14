@@ -1,27 +1,37 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:unlimited-elements:unlimited_elements_for_elementor_\\(free_widgets\\,_addons\\,_templates\\):1.5.70:*:*:*:*:wordpress:*:*",
 	"cpeNameId": "9CED6EFE-6FC0-469C-BB5F-34A3C109DDDA",
 	"created": "2023-06-23T15:12:16.957",
-	"lastModified": "2023-06-23T15:58:00.517",
+	"lastModified": "2024-10-14T13:43:10.163",
 	"titles": [
 		{
-			"title": "Unlimited-elements Unlimited Elements For Elementor (free Widgets, Addons, Templates) 1.5.70 for Wordpress",
+			"title": "Unlimited Elements for Elementor 1.5.70 for WordPress",
 			"lang": "en"
 		}
 	],
 	"refs": [
 		{
+			"ref": "https://unlimited-elements.com",
+			"type": "Vendor"
+		},
+		{
 			"ref": "https://wordpress.org/plugins/unlimited-elements-for-elementor/#developers",
 			"type": "Change Log"
 		},
 		{
-			"ref": "https://unlimited-elements.com/",
-			"type": "Vendor"
+			"ref": "https://unlimited-elements.com/change-log/",
+			"type": "Change Log"
 		},
 		{
-			"ref": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/unlimited-elements-for-elementor/unlimited-elements-for-elementor-free-widgets-addons-templates-1566-authenticated-contributor-arbitrary-file-upload",
-			"type": "Advisory"
+			"ref": "https://wordpress.org/plugins/unlimited-elements-for-elementor/",
+			"type": "Product"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:unlimited-elements:unlimited_elements_for_elementor:1.5.70:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "E0062275-793D-4411-8A4A-29EBCDB9BFED"
 		}
 	]
 }
