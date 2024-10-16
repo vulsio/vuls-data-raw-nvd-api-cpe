@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:wp-advanced-search_project:wp-advanced-search:1.6:*:*:*:*:wordpress:*:*",
 	"cpeNameId": "0E9BA731-7323-4CDC-AE1A-903A42330322",
 	"created": "2020-05-06T13:41:05.293",
-	"lastModified": "2020-05-06T13:41:05.293",
+	"lastModified": "2024-10-16T13:47:54.830",
 	"titles": [
 		{
 			"title": "WP-Advanced-Search Project WP-Advanced-Search 1.6 for WordPress",
@@ -14,6 +14,12 @@
 		{
 			"ref": "https://plugins.trac.wordpress.org/browser/wp-advanced-search/#tags",
 			"type": "Version"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:internet-formation:wp-advanced-search:1.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "632F7DED-8E97-4C39-9AD8-69777C4EC58F"
 		}
 	]
 }

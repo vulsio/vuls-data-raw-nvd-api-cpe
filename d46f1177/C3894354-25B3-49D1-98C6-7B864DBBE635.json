@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:elliptic_project:elliptic:6.1.0:*:*:*:*:node.js:*:*",
 	"cpeNameId": "C3894354-25B3-49D1-98C6-7B864DBBE635",
 	"created": "2020-06-05T17:23:35.467",
-	"lastModified": "2020-06-05T17:23:35.467",
+	"lastModified": "2024-10-16T13:45:15.620",
 	"titles": [
 		{
 			"title": "Elliptic Project Elliptic 6.1.0 for Node.js",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://github.com/indutny/elliptic",
 			"type": "Version"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:indutny:elliptic:6.1.0:*:*:*:*:node.js:*:*",
+			"cpeNameId": "9BFE4F7B-21AB-48B5-B59D-E509FF80E9C7"
 		}
 	]
 }

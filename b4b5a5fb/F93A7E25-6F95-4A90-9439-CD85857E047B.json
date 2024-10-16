@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:sendinblue:newsletter\\,_smtp\\,_email_marketing_and_subscribe:3.1.49:*:*:*:*:wordpress:*:*",
 	"cpeNameId": "F93A7E25-6F95-4A90-9439-CD85857E047B",
 	"created": "2024-06-05T11:31:14.743",
-	"lastModified": "2024-06-05T11:31:14.743",
+	"lastModified": "2024-10-16T13:26:17.047",
 	"titles": [
 		{
 			"title": "Sendinblue Newsletter, SMTP, Email Marketing And Subscribe 3.1.49 for WordPress",
@@ -22,6 +22,12 @@
 		{
 			"ref": "https://www.brevo.com/",
 			"type": "Vendor"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:brevo:newsletter\\,_smtp\\,_email_marketing_and_subscribe:3.1.49:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "D3470B3B-2DCC-4077-BF2F-1F50BE9B38D0"
 		}
 	]
 }

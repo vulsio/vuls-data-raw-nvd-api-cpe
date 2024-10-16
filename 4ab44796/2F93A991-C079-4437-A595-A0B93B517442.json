@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:kainelabs:youzify:1.1.0:*:*:*:*:wordpress:*:*",
 	"cpeNameId": "2F93A991-C079-4437-A595-A0B93B517442",
 	"created": "2022-08-04T17:48:24.560",
-	"lastModified": "2022-08-04T19:19:12.997",
+	"lastModified": "2024-10-16T13:52:26.700",
 	"titles": [
 		{
 			"title": "KaineLabs Youzify 1.1.0 for WordPress",
@@ -20,8 +20,14 @@
 			"type": "Vendor"
 		},
 		{
-			"ref": "https://youzify.com/",
+			"ref": "https://wordpress.org/plugins/youzify/",
 			"type": "Product"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:kainelabs:youzify:1.1.0:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "1CAAE18E-FE27-4879-9E7B-6A78B3970884"
 		}
 	]
 }
