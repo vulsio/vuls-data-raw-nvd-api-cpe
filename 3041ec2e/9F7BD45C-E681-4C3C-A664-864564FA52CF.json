@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:mozilla:firefox:115.1.0:*:*:*:*:*:*:*",
 	"cpeNameId": "9F7BD45C-E681-4C3C-A664-864564FA52CF",
 	"created": "2023-09-21T17:55:37.093",
-	"lastModified": "2023-09-21T17:55:37.093",
+	"lastModified": "2024-10-16T19:55:13.033",
 	"titles": [
 		{
 			"title": "Mozilla Firefox 115.1.0",
@@ -14,6 +14,12 @@
 		{
 			"ref": "https://www.mozilla.org/en-US/firefox/releases/",
 			"type": "Change Log"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:mozilla:firefox:115.1.0:*:*:*:-:*:*:*",
+			"cpeNameId": "C2ED1E42-282C-4B83-9429-FFB31C8B5515"
 		}
 	]
 }
