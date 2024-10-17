@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:woocommerce:woocommerce:9.3.2:*:*:*:*:wordpress:*:*",
 	"cpeNameId": "098C4D83-0188-45DB-A1D7-521BE10D5128",
 	"created": "2024-09-20T16:27:53.840",
-	"lastModified": "2024-09-20T16:27:53.840",
+	"lastModified": "2024-10-17T12:34:33.193",
 	"titles": [
 		{
 			"title": "WooCommerce 9.3.2 for WordPress",
@@ -22,6 +22,12 @@
 		{
 			"ref": "https://github.com/woocommerce/woocommerce/",
 			"type": "Product"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:9.3.2:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "77ACC8D7-6EB9-4EAD-966E-3E6E3CDD5401"
 		}
 	]
 }

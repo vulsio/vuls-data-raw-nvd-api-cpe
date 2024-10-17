@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.1.0:*:*:*:*:wordpress:*:*",
 	"cpeNameId": "C5726233-9935-48A2-8B16-2F97E593378B",
 	"created": "2021-01-04T14:00:44.803",
-	"lastModified": "2021-01-04T14:00:44.803",
+	"lastModified": "2024-10-17T12:34:10.360",
 	"titles": [
 		{
 			"title": "WooCommerce 4.1.0 for WordPress",
@@ -22,6 +22,40 @@
 		{
 			"ref": "https://wordpress.org/plugins/woocommerce/",
 			"type": "Product"
+		},
+		{
+			"ref": "https://github.com/woocommerce/woocommerce/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://plugins.trac.wordpress.org/browser/woocommerce/#tags",
+			"type": "Version"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/woocommerce/changelog/",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://raw.githubusercontent.com/woocommerce/woocommerce/trunk/changelog.txt",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://github.com/woocommerce/woocommerce/releases",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/woocommerce/#developers",
+			"type": "Version"
+		},
+		{
+			"ref": "https://woocommerce.com/",
+			"type": "Vendor"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:woocommerce:4.1.0:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "F408325B-48CA-4A5E-BC70-008F3CC9D00E"
 		}
 	]
 }
