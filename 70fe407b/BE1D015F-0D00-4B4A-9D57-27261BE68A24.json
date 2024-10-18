@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:webdesi9:file_manager:4.6:*:*:*:*:wordpress:*:*",
 	"cpeNameId": "BE1D015F-0D00-4B4A-9D57-27261BE68A24",
 	"created": "2019-07-15T17:12:58.010",
-	"lastModified": "2023-05-26T17:54:54.117",
+	"lastModified": "2024-10-18T12:19:39.353",
 	"titles": [
 		{
 			"title": "Webdesi9 File Manager 4.6 for WordPress",
@@ -22,6 +22,12 @@
 		{
 			"ref": "https://webdesi9.com/",
 			"type": "Vendor"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:filemanagerpro:file_manager:4.6:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "BB2720EB-8792-4317-B9C2-946F88602934"
 		}
 	],
 	"deprecates": [
