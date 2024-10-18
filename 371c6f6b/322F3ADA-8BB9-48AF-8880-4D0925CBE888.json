@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:fooplugins:foogallery:1.6.11:*:*:*:*:wordpress:*:*",
 	"cpeNameId": "322F3ADA-8BB9-48AF-8880-4D0925CBE888",
 	"created": "2020-01-16T19:21:42.157",
-	"lastModified": "2020-01-16T19:21:42.157",
+	"lastModified": "2024-10-17T20:32:38.423",
 	"titles": [
 		{
 			"title": "FooPlugins FooGallery 1.6.11 for WordPress",
@@ -18,6 +18,20 @@
 		{
 			"ref": "https://fooplugins.com/",
 			"type": "Vendor"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/foogallery/#developers",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/foogallery-premium/foogallery-premium-233-authenticated-contributor-stored-cross-site-scripting",
+			"type": "Advisory"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:fooplugins:foogallery:1.6.11:*:*:*:-:wordpress:*:*",
+			"cpeNameId": "FDC4446C-42BC-4CD7-9014-E18DB5FDEEF0"
 		}
 	]
 }
