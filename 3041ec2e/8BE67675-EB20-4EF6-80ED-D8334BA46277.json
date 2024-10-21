@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:mozilla:firefox:84.0:*:*:*:*:*:*:*",
 	"cpeNameId": "8BE67675-EB20-4EF6-80ED-D8334BA46277",
 	"created": "2021-01-08T21:24:25.243",
-	"lastModified": "2021-01-08T21:24:25.243",
+	"lastModified": "2024-10-21T11:26:45.240",
 	"titles": [
 		{
 			"title": "Mozilla Firefox 84.0",
@@ -14,6 +14,12 @@
 		{
 			"ref": "https://www.mozilla.org/en-US/security/advisories/mfsa2020-54/",
 			"type": "Advisory"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:mozilla:firefox:84.0:*:*:*:-:*:*:*",
+			"cpeNameId": "052CA29F-215D-4644-94EE-544A4CEAEB38"
 		}
 	]
 }
