@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:mozilla:firefox_esr:91.3.0:*:*:*:*:*:*:*",
 	"cpeNameId": "C8D07F5F-7100-4430-9D3D-F78DEAB2C156",
 	"created": "2021-12-09T14:53:50.470",
-	"lastModified": "2021-12-10T18:37:45.827",
+	"lastModified": "2024-10-21T13:11:20.513",
 	"titles": [
 		{
 			"title": "Mozilla Firefox Extended Support Release (ESR) 91.3.0",
@@ -14,6 +14,12 @@
 		{
 			"ref": "http://www.mozilla.org/en-US/firefox/organizations/faq/",
 			"type": "Product"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:mozilla:firefox:91.3.0:*:*:*:esr:*:*:*",
+			"cpeNameId": "8AEDDD56-B5A3-487A-99E5-8D7150B8ABEE"
 		}
 	]
 }

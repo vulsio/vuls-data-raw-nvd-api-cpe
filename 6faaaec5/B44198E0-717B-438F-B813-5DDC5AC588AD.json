@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:mozilla:firefox_esr:45.0:*:*:*:*:*:*:*",
 	"cpeNameId": "B44198E0-717B-438F-B813-5DDC5AC588AD",
 	"created": "2019-06-25T19:13:44.767",
-	"lastModified": "2019-06-25T19:13:44.767",
+	"lastModified": "2024-10-21T13:55:00.353",
 	"titles": [
 		{
 			"title": "Mozilla Firefox Extended Support Release (ESR) 45.0",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://ftp.mozilla.org/pub/firefox/releases/",
 			"type": "Version"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:mozilla:firefox:45.0:*:*:*:-:*:*:*",
+			"cpeNameId": "7B023523-8928-4DDA-AB74-90EDDB60F83D"
 		}
 	]
 }

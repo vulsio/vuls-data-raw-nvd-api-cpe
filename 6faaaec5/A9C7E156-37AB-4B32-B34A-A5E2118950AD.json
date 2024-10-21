@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:mozilla:firefox_esr:52.1.1:*:*:*:*:*:*:*",
 	"cpeNameId": "A9C7E156-37AB-4B32-B34A-A5E2118950AD",
 	"created": "2019-06-25T17:50:53.827",
-	"lastModified": "2019-06-25T17:50:53.827",
+	"lastModified": "2024-10-21T13:11:20.513",
 	"titles": [
 		{
 			"title": "Mozilla Firefox ESR 52.1.1",
@@ -14,6 +14,12 @@
 		{
 			"ref": "https://ftp.mozilla.org/pub/firefox/releases/",
 			"type": "Version"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:mozilla:firefox:52.1.1:*:*:*:esr:*:*:*",
+			"cpeNameId": "A543C5EE-0D04-409C-B65F-C6A7CA579A3E"
 		}
 	]
 }

@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:mozilla:firefox_esr:60.0:*:*:*:*:*:*:*",
 	"cpeNameId": "FA439DC2-BB9D-496A-9CAC-9FD28CC8CA93",
 	"created": "2019-04-29T17:23:43.943",
-	"lastModified": "2019-04-29T17:23:43.943",
+	"lastModified": "2024-10-21T13:55:00.353",
 	"titles": [
 		{
 			"title": "Mozilla Firefox Extended Support Release (ESR) 60.0",
@@ -14,6 +14,12 @@
 		{
 			"ref": "https://www.mozilla.org/en-US/firefox/organizations/",
 			"type": "Version"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:mozilla:firefox:60.0:*:*:*:-:*:*:*",
+			"cpeNameId": "1C671C23-2AD2-46CB-AA92-46EB1750E4BE"
 		}
 	]
 }

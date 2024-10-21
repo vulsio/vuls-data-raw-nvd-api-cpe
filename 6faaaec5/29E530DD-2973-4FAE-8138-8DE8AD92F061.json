@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:mozilla:firefox_esr:91.9.1:*:*:*:*:*:*:*",
 	"cpeNameId": "29E530DD-2973-4FAE-8138-8DE8AD92F061",
 	"created": "2022-12-27T12:14:45.723",
-	"lastModified": "2022-12-27T18:05:08.333",
+	"lastModified": "2024-10-21T13:11:20.513",
 	"titles": [
 		{
 			"title": "Mozilla Firefox ESR 91.9.1",
@@ -14,6 +14,12 @@
 		{
 			"ref": "https://www.mozilla.org/en-US/security/advisories/mfsa2022-19/",
 			"type": "Advisory"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:mozilla:firefox:91.9.1:*:*:*:esr:*:*:*",
+			"cpeNameId": "F324D8AC-9871-4CCF-BC36-FC19B0F2ED68"
 		}
 	]
 }

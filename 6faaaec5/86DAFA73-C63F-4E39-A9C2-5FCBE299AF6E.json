@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:mozilla:firefox_esr:68.0:*:*:*:*:*:*:*",
 	"cpeNameId": "86DAFA73-C63F-4E39-A9C2-5FCBE299AF6E",
 	"created": "2020-01-13T18:22:34.737",
-	"lastModified": "2020-01-13T18:22:34.737",
+	"lastModified": "2024-10-21T13:55:00.353",
 	"titles": [
 		{
 			"title": "Mozilla Firefox Extended Support Release (ESR) 68.0",
@@ -14,6 +14,12 @@
 		{
 			"ref": "https://www.mozilla.org/en-US/firefox/68.0esr/releasenotes/",
 			"type": "Change Log"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:mozilla:firefox:68.0:*:*:*:-:*:*:*",
+			"cpeNameId": "C1F598D8-4195-4C14-81DC-9E7355025DCD"
 		}
 	]
 }

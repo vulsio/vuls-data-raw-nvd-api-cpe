@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:mozilla:firefox_esr:38.3.0:*:*:*:*:*:*:*",
 	"cpeNameId": "91C597C0-A9E2-4711-A962-0B010508108B",
 	"created": "2015-11-05T13:43:40.337",
-	"lastModified": "2015-11-18T20:28:06.877",
+	"lastModified": "2024-10-21T13:11:20.513",
 	"titles": [
 		{
 			"title": "Mozilla Firefox Extended Support Release (ESR) 38.3.0",
@@ -14,6 +14,12 @@
 		{
 			"ref": "https://www.mozilla.org/en-US/firefox/organizations/",
 			"type": "Version"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:mozilla:firefox:38.3.0:*:*:*:esr:*:*:*",
+			"cpeNameId": "9ADA873D-5B40-4607-AAB4-E739300D6126"
 		}
 	]
 }

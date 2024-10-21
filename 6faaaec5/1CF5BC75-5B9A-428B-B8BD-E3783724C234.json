@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:mozilla:firefox_esr:38.4.0:*:*:*:*:*:*:*",
 	"cpeNameId": "1CF5BC75-5B9A-428B-B8BD-E3783724C234",
 	"created": "2015-12-16T15:39:04.727",
-	"lastModified": "2015-12-16T15:39:04.727",
+	"lastModified": "2024-10-21T13:11:20.513",
 	"titles": [
 		{
 			"title": "Mozilla Firefox ESR 38.4.0",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://www.mozilla.org/en-US/firefox/releases/",
 			"type": "Change Log"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:mozilla:firefox:38.4.0:*:*:*:esr:*:*:*",
+			"cpeNameId": "69C0DA03-5C2F-4713-81B3-1E6E9577ACFD"
 		}
 	]
 }
