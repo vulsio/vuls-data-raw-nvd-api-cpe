@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:suricata-ids:suricata:4.1.0:beta1:*:*:*:*:*:*",
 	"cpeNameId": "EF933408-4249-41B7-9273-6D9415882D2F",
 	"created": "2019-12-17T14:59:18.443",
-	"lastModified": "2019-12-17T14:59:18.443",
+	"lastModified": "2024-10-22T17:11:28.710",
 	"titles": [
 		{
 			"title": "Suricata-IDS Suricata 4.1.0 Beta1",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://github.com/OISF/suricata",
 			"type": "Version"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:oisf:suricata:4.1.0:beta1:*:*:*:*:*:*",
+			"cpeNameId": "D5B3F79F-D1FF-4E00-9282-36EB03E4F11C"
 		}
 	],
 	"deprecates": [

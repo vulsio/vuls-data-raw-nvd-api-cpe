@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:suricata-ids:suricata:5.0.0:-:*:*:*:*:*:*",
 	"cpeNameId": "0B1F9941-24BD-46FD-B976-1920A74704FD",
 	"created": "2019-12-10T19:59:26.517",
-	"lastModified": "2019-12-10T19:59:26.517",
+	"lastModified": "2024-10-22T17:11:28.710",
 	"titles": [
 		{
 			"title": "Suricata-ids Suricata 5.0.0 -",
@@ -14,6 +14,12 @@
 		{
 			"ref": "https://suricata-ids.org/category/release/",
 			"type": "Change Log"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:oisf:suricata:5.0.0:-:*:*:*:*:*:*",
+			"cpeNameId": "2D7ED313-DE55-4A6E-B41B-C6CE8697CA09"
 		}
 	]
 }

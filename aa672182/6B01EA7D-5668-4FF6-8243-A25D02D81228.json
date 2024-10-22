@@ -3,10 +3,10 @@
 	"cpeName": "cpe:2.3:a:oisf:suricata:2.0:rc1:*:*:*:*:*:*",
 	"cpeNameId": "6B01EA7D-5668-4FF6-8243-A25D02D81228",
 	"created": "2019-07-22T11:24:26.990",
-	"lastModified": "2019-07-22T11:24:26.990",
+	"lastModified": "2024-10-22T17:11:28.710",
 	"titles": [
 		{
-			"title": "OISF 2.0 Release Candidate 1",
+			"title": "OISF (The Open Information Security Foundation) Suricata 2.0 Release Candidate 1",
 			"lang": "en"
 		}
 	],
@@ -14,6 +14,24 @@
 		{
 			"ref": "https://github.com/OISF/suricata/releases",
 			"type": "Change Log"
+		},
+		{
+			"ref": "https://oisf.net/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://suricata.io/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://github.com/OISF/suricata",
+			"type": "Product"
+		}
+	],
+	"deprecates": [
+		{
+			"cpeName": "cpe:2.3:a:suricata-ids:suricata:2.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "DB45D7C2-2D47-4B2E-BD86-18001C026E0B"
 		}
 	]
 }

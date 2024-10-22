@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:suricata-ids:suricata:3.1:rc1:*:*:*:*:*:*",
 	"cpeNameId": "2A803E6D-5526-4537-96D1-3FE46A98FEAE",
 	"created": "2018-06-07T13:26:54.420",
-	"lastModified": "2018-06-07T13:26:54.420",
+	"lastModified": "2024-10-22T17:11:28.710",
 	"titles": [
 		{
 			"title": "Suricata-IDS Suricata 3.1 Release Candidate 1",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://suricata-ids.org",
 			"type": "Vendor"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:oisf:suricata:3.1:rc1:*:*:*:*:*:*",
+			"cpeNameId": "8B9C4F6E-12EA-40C6-8466-65368B52E5F0"
 		}
 	]
 }
