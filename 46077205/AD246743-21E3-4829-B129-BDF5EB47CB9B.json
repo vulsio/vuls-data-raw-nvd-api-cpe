@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:openinfosecfoundation:suricata:3.2.4:*:*:*:*:*:*:*",
 	"cpeNameId": "AD246743-21E3-4829-B129-BDF5EB47CB9B",
 	"created": "2020-01-23T19:24:12.930",
-	"lastModified": "2020-01-23T19:24:12.930",
+	"lastModified": "2024-10-28T12:04:17.097",
 	"titles": [
 		{
 			"title": "Open Information Security Foundation (OISF) Suricata 3.2.4",
@@ -22,6 +22,12 @@
 		{
 			"ref": "https://suricata-ids.org/",
 			"type": "Vendor"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:oisf:suricata:3.2.4:*:*:*:*:*:*:*",
+			"cpeNameId": "148B6AE2-8587-4572-B5DC-A706AC862566"
 		}
 	]
 }

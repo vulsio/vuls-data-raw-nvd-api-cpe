@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:getshortcodes:shortcodes_ultimate:7.0.1:*:*:*:*:wordpress:*:*",
 	"cpeNameId": "B77CB40F-16B8-4A13-A88D-A48857E61B6F",
 	"created": "2024-06-05T16:58:19.690",
-	"lastModified": "2024-06-05T16:58:19.690",
+	"lastModified": "2024-10-28T11:48:49.820",
 	"titles": [
 		{
 			"title": "Getshortcodes Shortcodes Ultimate 7.0.1 for WordPress",
@@ -22,6 +22,20 @@
 		{
 			"ref": "https://getshortcodes.com/",
 			"type": "Vendor"
+		},
+		{
+			"ref": "https://plugins.trac.wordpress.org/browser/shortcodes-ultimate/trunk/changelog.txt",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/shortcodes-ultimate/wp-shortcodes-plugin-shortcodes-ultimate-5133-authenticated-contributor-stored-cross-site-scripting",
+			"type": "Advisory"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:getshortcodes:shortcodes_ultimate:7.0.1:*:*:*:-:wordpress:*:*",
+			"cpeNameId": "99E95364-4CB4-4637-9275-CE52C7455211"
 		}
 	]
 }

@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:properfraction:profilepress:3.2.7:*:*:*:*:wordpress:*:*",
 	"cpeNameId": "5A9BDF1F-DC27-4745-9E7E-E6C77A4B7A53",
 	"created": "2022-12-27T17:23:43.900",
-	"lastModified": "2022-12-27T18:05:08.333",
+	"lastModified": "2024-10-28T12:09:26.567",
 	"titles": [
 		{
 			"title": "Proper Fraction ProfilePress 3.2.7 for WordPress",
@@ -12,24 +12,30 @@
 	],
 	"refs": [
 		{
-			"ref": "https://wordpress.org/plugins/wp-user-avatar/#developers",
+			"ref": "https://plugins.svn.wordpress.org/wp-user-avatar/trunk/changelog.txt",
 			"type": "Change Log"
 		},
 		{
-			"ref": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wp-user-avatar/profilepress-450-authenticated-administrator-stored-cross-site-scripting",
-			"type": "Advisory"
-		},
-		{
-			"ref": "https://profilepress.com/",
-			"type": "Product"
+			"ref": "https://wordpress.org/plugins/wp-user-avatar/#developers",
+			"type": "Change Log"
 		},
 		{
 			"ref": "https://properfraction.com/",
 			"type": "Vendor"
 		},
 		{
-			"ref": "https://plugins.trac.wordpress.org/browser/wp-user-avatar/#tags",
-			"type": "Version"
+			"ref": "https://profilepress.com/changelog/",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/wp-user-avatar/",
+			"type": "Product"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:properfraction:profilepress:3.2.7:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "35B2194A-F996-4BDE-9424-307B6B6A9284"
 		}
 	]
 }

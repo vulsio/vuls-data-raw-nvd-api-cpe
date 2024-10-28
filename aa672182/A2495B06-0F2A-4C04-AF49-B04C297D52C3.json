@@ -3,7 +3,7 @@
 	"cpeName": "cpe:2.3:a:oisf:suricata:1.0.5:*:*:*:*:*:*:*",
 	"cpeNameId": "A2495B06-0F2A-4C04-AF49-B04C297D52C3",
 	"created": "2019-07-22T11:24:20.897",
-	"lastModified": "2024-10-22T17:11:28.710",
+	"lastModified": "2024-10-28T12:04:17.097",
 	"titles": [
 		{
 			"title": "OISF (The Open Information Security Foundation) Suricata 1.0.5",
@@ -32,6 +32,10 @@
 		{
 			"cpeName": "cpe:2.3:a:suricata-ids:suricata:1.0.5:*:*:*:*:*:*:*",
 			"cpeNameId": "88A7FBF6-7686-4CAC-ADB9-F019EFE0D68E"
+		},
+		{
+			"cpeName": "cpe:2.3:a:openinfosecfoundation:suricata:1.0.5:*:*:*:*:*:*:*",
+			"cpeNameId": "92A5E174-12F7-464A-BDDD-8DC8F0122828"
 		}
 	]
 }

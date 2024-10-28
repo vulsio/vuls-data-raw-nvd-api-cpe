@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:wp-members_project:wp-members:3.4.4:*:*:*:*:wordpress:*:*",
 	"cpeNameId": "4480F2B4-689B-48FE-A40A-28ED3D1B7422",
 	"created": "2023-07-18T16:46:06.573",
-	"lastModified": "2023-07-18T18:10:27.150",
+	"lastModified": "2024-10-28T11:41:15.100",
 	"titles": [
 		{
 			"title": "Wp-members Project Wp-members 3.4.4 for Wordpress",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wp-members/wp-members-membership-3473-missing-authorization-to-settings-update",
 			"type": "Advisory"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:butlerblog:wp-members:3.4.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "A294FF90-116F-4BC0-BFB1-5E37EB76B4E9"
 		}
 	]
 }

@@ -1,12 +1,12 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:getshortcodes:shortcodes_ultimate:7.0.0:*:*:*:*:wordpress:*:*",
 	"cpeNameId": "8392C308-F21A-4F86-9923-A408334B547C",
 	"created": "2023-12-01T22:41:12.713",
-	"lastModified": "2023-12-01T22:41:12.713",
+	"lastModified": "2024-10-28T11:48:49.820",
 	"titles": [
 		{
-			"title": "Getshortcodes Shortcodes Ultimate 7.0.0 for Wordpress",
+			"title": "Getshortcodes Shortcodes Ultimate 7.0.0 for WordPress",
 			"lang": "en"
 		}
 	],
@@ -18,6 +18,24 @@
 		{
 			"ref": "https://wordpress.org/plugins/shortcodes-ultimate/#developers",
 			"type": "Change Log"
+		},
+		{
+			"ref": "https://getshortcodes.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://plugins.trac.wordpress.org/browser/shortcodes-ultimate/trunk/changelog.txt",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://vulners.com/cvelist/CVELIST:CVE-2024-4821",
+			"type": "Advisory"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:getshortcodes:shortcodes_ultimate:7.0.0:*:*:*:-:wordpress:*:*",
+			"cpeNameId": "4C903994-196B-4669-B6F4-5FEF2A7718C6"
 		}
 	]
 }

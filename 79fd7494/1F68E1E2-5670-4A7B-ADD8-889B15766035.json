@@ -1,12 +1,12 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:servmask:all-in-one_wp_migration:7.59:*:*:*:*:wordpress:*:*",
 	"cpeNameId": "1F68E1E2-5670-4A7B-ADD8-889B15766035",
 	"created": "2022-05-16T18:18:23.977",
-	"lastModified": "2022-05-16T18:20:25.707",
+	"lastModified": "2024-10-28T12:13:40.633",
 	"titles": [
 		{
-			"title": "ServMask All-in-One WP Migration 7.59 WordPress",
+			"title": "ServMask All-in-One WP Migration 7.59 for WordPress",
 			"lang": "en"
 		}
 	],
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://wordpress.org/plugins/all-in-one-wp-migration/#developers",
 			"type": "Change Log"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:servmask:all-in-one_wp_migration:7.59:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "95C0134D-7985-44D4-B945-AEE5C91CA827"
 		}
 	]
 }

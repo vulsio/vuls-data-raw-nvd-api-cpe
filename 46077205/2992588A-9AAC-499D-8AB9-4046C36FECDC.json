@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:openinfosecfoundation:suricata:4.1.0:rc1:*:*:*:*:*:*",
 	"cpeNameId": "2992588A-9AAC-499D-8AB9-4046C36FECDC",
 	"created": "2020-01-23T19:24:15.353",
-	"lastModified": "2020-01-23T19:24:15.353",
+	"lastModified": "2024-10-28T12:04:17.097",
 	"titles": [
 		{
 			"title": "Open Information Security Foundation (OISF) Suricata 4.1.0 Release Candidate 1",
@@ -22,6 +22,12 @@
 		{
 			"ref": "https://oisf.net/",
 			"type": "Vendor"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:oisf:suricata:4.1.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "935055AC-84E5-4DB1-9B2E-8B7126AAB079"
 		}
 	]
 }

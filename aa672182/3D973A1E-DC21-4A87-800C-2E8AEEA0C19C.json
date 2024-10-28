@@ -3,7 +3,7 @@
 	"cpeName": "cpe:2.3:a:oisf:suricata:4.1.2:*:*:*:*:*:*:*",
 	"cpeNameId": "3D973A1E-DC21-4A87-800C-2E8AEEA0C19C",
 	"created": "2019-07-22T11:24:38.083",
-	"lastModified": "2019-07-22T11:24:38.083",
+	"lastModified": "2024-10-28T12:04:17.097",
 	"titles": [
 		{
 			"title": "OISF 4.1.2",
@@ -14,6 +14,12 @@
 		{
 			"ref": "https://github.com/OISF/suricata/releases",
 			"type": "Change Log"
+		}
+	],
+	"deprecates": [
+		{
+			"cpeName": "cpe:2.3:a:openinfosecfoundation:suricata:4.1.2:*:*:*:*:*:*:*",
+			"cpeNameId": "FBA61E62-7148-4F2E-88D2-925BA5A14FD4"
 		}
 	]
 }

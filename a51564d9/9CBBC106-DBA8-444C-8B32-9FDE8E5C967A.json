@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:properfraction:profilepress:4.13.3:*:*:*:*:wordpress:*:*",
 	"cpeNameId": "9CBBC106-DBA8-444C-8B32-9FDE8E5C967A",
 	"created": "2023-12-08T16:48:53.657",
-	"lastModified": "2023-12-08T16:48:53.657",
+	"lastModified": "2024-10-28T12:09:26.567",
 	"titles": [
 		{
 			"title": "Proper Fraction ProfilePress 4.13.3 for WordPress",
@@ -16,20 +16,26 @@
 			"type": "Change Log"
 		},
 		{
-			"ref": "https://patchstack.com/database/vulnerability/wp-user-avatar/wordpress-profilepress-plugin-4-13-2-sensitive-data-exposure-via-debug-log-vulnerability?_s_id=cve",
-			"type": "Advisory"
-		},
-		{
 			"ref": "https://wordpress.org/plugins/wp-user-avatar/#developers",
 			"type": "Change Log"
 		},
 		{
-			"ref": "https://profilepress.com/",
-			"type": "Product"
-		},
-		{
 			"ref": "https://properfraction.com/",
 			"type": "Vendor"
+		},
+		{
+			"ref": "https://profilepress.com/changelog/",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/wp-user-avatar/",
+			"type": "Product"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:properfraction:profilepress:4.13.3:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "C52269D0-7AE1-47BD-A286-8CBC83773D58"
 		}
 	]
 }
