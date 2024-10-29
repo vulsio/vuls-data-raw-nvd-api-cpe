@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:machothemes:strong_testimonials:2.3.3:*:*:*:*:wordpress:*:*",
 	"cpeNameId": "EC07D34F-3D43-42FB-B8E9-AB4DBE1CB736",
 	"created": "2020-02-05T17:30:43.487",
-	"lastModified": "2020-02-05T17:30:43.487",
+	"lastModified": "2024-10-29T14:02:27.830",
 	"titles": [
 		{
 			"title": "MachoThemes Strong Testimonials 2.3.3 for WordPress",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://github.com/MachoThemes/strong-testimonials/releases",
 			"type": "Version"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:wpchill:strong_testimonials:2.3.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "3834FA1E-8C6A-4AB0-8864-DF5DEAC258A8"
 		}
 	]
 }

@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:wpdeveloper:essential_addons_for_elementor:3.3.0:*:*:*:*:wordpress:*:*",
 	"cpeNameId": "532DC0F0-1E9D-4CD8-85DE-B08E17BEC5E4",
 	"created": "2021-05-07T13:29:26.387",
-	"lastModified": "2021-05-07T17:47:51.513",
+	"lastModified": "2024-10-29T15:43:04.387",
 	"titles": [
 		{
 			"title": "WPDeveloper Essential Addons for Elementor 3.3.0 for WordPress",
@@ -22,6 +22,20 @@
 		{
 			"ref": "https://wpdeveloper.net/",
 			"type": "Vendor"
+		},
+		{
+			"ref": "https://wpdeveloper.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://essential-addons.com/changelog/",
+			"type": "Change Log"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:wpdeveloper:essential_addons_for_elementor:3.3.0:*:*:*:lite:wordpress:*:*",
+			"cpeNameId": "589B0703-9AB5-401B-9EAA-15F284528814"
 		}
 	]
 }
