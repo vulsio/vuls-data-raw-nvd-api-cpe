@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:smartdns_project:smartdns:24:*:*:*:*:*:*:*",
 	"cpeNameId": "76E6AF05-A7C9-4A18-B9A5-A3889CC682E5",
 	"created": "2023-05-05T12:56:26.553",
-	"lastModified": "2023-05-09T12:27:44.557",
+	"lastModified": "2024-10-31T12:47:55.970",
 	"titles": [
 		{
 			"title": "SmartDNS Project SmartDNS 24",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://github.com/pymumu/smartdns/issues/1378",
 			"type": "Advisory"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:pymumu:smartdns:24:*:*:*:*:*:*:*",
+			"cpeNameId": "1DBE5F0D-CDFE-49E7-A5D4-4DFCBEB9EED7"
 		}
 	]
 }
