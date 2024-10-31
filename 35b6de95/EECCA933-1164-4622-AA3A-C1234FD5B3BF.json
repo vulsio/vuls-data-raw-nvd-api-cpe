@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:coderex:wp_vr:8.2.4:*:*:*:*:wordpress:*:*",
 	"cpeNameId": "EECCA933-1164-4622-AA3A-C1234FD5B3BF",
 	"created": "2023-03-17T17:14:52.837",
-	"lastModified": "2023-03-20T12:53:13.740",
+	"lastModified": "2024-10-31T11:45:24.870",
 	"titles": [
 		{
 			"title": "Code Rex WP VR 8.2.4 for WordPress",
@@ -26,6 +26,12 @@
 		{
 			"ref": "https://www.coderex.co/",
 			"type": "Vendor"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:rextheme:wp_vr:8.2.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "CFBA0409-7A8C-4C0C-AE6B-231F7CD03C4F"
 		}
 	]
 }

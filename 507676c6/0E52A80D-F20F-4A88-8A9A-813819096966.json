@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:intel:computer_vision_annotation_tool:0.2.0:*:*:*:*:*:*:*",
 	"cpeNameId": "0E52A80D-F20F-4A88-8A9A-813819096966",
 	"created": "2023-03-06T14:38:28.823",
-	"lastModified": "2023-03-06T16:08:24.793",
+	"lastModified": "2024-10-31T12:17:16.280",
 	"titles": [
 		{
 			"title": "Intel Computer Vision Annotation Tool (CVAT) 0.2.0",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://github.com/opencv/cvat/releases",
 			"type": "Change Log"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:cvat:computer_vision_annotation_tool:0.2.0:*:*:*:*:*:*:*",
+			"cpeNameId": "92107465-A9F0-4B85-8150-184FDE724848"
 		}
 	]
 }
