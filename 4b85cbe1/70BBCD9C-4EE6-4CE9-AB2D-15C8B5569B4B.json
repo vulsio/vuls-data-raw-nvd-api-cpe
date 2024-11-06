@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:woo:product_vendors:2.0.6:*:*:*:*:wordpress:*:*",
 	"cpeNameId": "70BBCD9C-4EE6-4CE9-AB2D-15C8B5569B4B",
 	"created": "2023-11-06T19:10:42.360",
-	"lastModified": "2023-11-06T19:10:42.360",
+	"lastModified": "2024-11-06T12:55:23.263",
 	"titles": [
 		{
 			"title": "Woo Product Vendors 2.0.6 for WordPress",
@@ -22,6 +22,12 @@
 		{
 			"ref": "https://woo.com/products/product-vendors/",
 			"type": "Product"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:woocommerce:product_vendors:2.0.6:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "FA3A3FE3-6666-47E0-BD54-3470D3E9A8C2"
 		}
 	]
 }
