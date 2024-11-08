@@ -3,7 +3,7 @@
 	"cpeName": "cpe:2.3:a:suricata-ids:suricata:5.1.0:*:*:*:*:*:*:*",
 	"cpeNameId": "83DE7BCC-4C73-413D-BD1E-1D9945CBB735",
 	"created": "2020-01-28T20:03:29.807",
-	"lastModified": "2020-01-28T20:03:29.807",
+	"lastModified": "2024-11-07T19:22:22.957",
 	"titles": [
 		{
 			"title": "Suricata-IDS Suricata 5.1.0",
