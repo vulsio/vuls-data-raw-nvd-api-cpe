@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:subscribe_to_comments_project:subscribe_to_comments:2.1.2:*:*:*:*:wordpress:*:*",
 	"cpeNameId": "317CB02F-E057-403F-88FF-02B0D9B3F39C",
 	"created": "2023-03-09T20:18:43.593",
-	"lastModified": "2023-03-14T17:13:42.077",
+	"lastModified": "2024-11-12T15:38:24.720",
 	"titles": [
 		{
 			"title": "Subscribe to Comments Project Subscribe to Comments 2.1.2 for WordPress",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://wordpress.org/plugins/subscribe-to-comments/#description",
 			"type": "Project"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:markjaquith:subscribe_to_comments:2.1.2:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "1D1E0F9D-19A3-495A-8213-52AA31AE19F0"
 		}
 	]
 }
