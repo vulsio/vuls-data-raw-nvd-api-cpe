@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:ays-pro:chartify:1.2.1:*:*:*:*:wordpress:*:*",
 	"cpeNameId": "329898AA-C5CF-4CD6-BA10-DF5C9A6E0C39",
 	"created": "2024-02-16T20:06:05.003",
-	"lastModified": "2024-02-16T20:06:05.003",
+	"lastModified": "2024-11-18T13:50:02.537",
 	"titles": [
 		{
 			"title": "AYS Pro Chartify 1.2.1 for WordPress",
@@ -18,6 +18,20 @@
 		{
 			"ref": "https://wordpress.org/plugins/chart-builder/#developers",
 			"type": "Change Log"
+		},
+		{
+			"ref": "https://ays-pro.com/wordpress/chart-builder",
+			"type": "Product"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/chart-builder/",
+			"type": "Product"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:ays-pro:chartify:1.2.1:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "468476EF-7752-4077-B935-F48C554CD6D2"
 		}
 	]
 }
