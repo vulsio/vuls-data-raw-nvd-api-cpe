@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:mattermost:mattermost_server:9.5.2:*:*:*:*:*:*:*",
 	"cpeNameId": "3D01C4A9-74AA-481E-B61D-8E96F284B6EF",
 	"created": "2024-09-04T19:39:08.160",
-	"lastModified": "2024-09-04T19:39:08.160",
+	"lastModified": "2024-11-19T14:16:19.133",
 	"titles": [
 		{
 			"title": "Mattermost Server 9.5.2",
@@ -22,6 +22,12 @@
 		{
 			"ref": "https://github.com/mattermost/mattermost/releases",
 			"type": "Change Log"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:mattermost:mattermost_server:9.5.2:-:*:*:*:*:*:*",
+			"cpeNameId": "609A4C1A-249A-4747-9194-F8CBC2D8D86D"
 		}
 	]
 }

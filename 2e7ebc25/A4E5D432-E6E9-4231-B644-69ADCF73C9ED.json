@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:calibre-web_project:calibre-web:0.6.8:*:*:*:*:*:*:*",
 	"cpeNameId": "A4E5D432-E6E9-4231-B644-69ADCF73C9ED",
 	"created": "2021-10-06T17:30:45.737",
-	"lastModified": "2021-10-08T14:58:27.913",
+	"lastModified": "2024-11-19T13:55:29.653",
 	"titles": [
 		{
 			"title": "Calibre-Web Project Calibre-Web 0.6.8",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://www.whitesourcesoftware.com/vulnerability-database/CVE-2021-25964",
 			"type": "Advisory"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:janeczku:calibre-web:0.6.8:*:*:*:*:*:*:*",
+			"cpeNameId": "ECD1E677-1F6A-43DD-AA73-C8FAC046DBA7"
 		}
 	]
 }

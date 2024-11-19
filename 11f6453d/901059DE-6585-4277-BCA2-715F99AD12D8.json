@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:kognetics:kognetiks_chatbot:1.7.4:*:*:*:*:wordpress:*:*",
 	"cpeNameId": "901059DE-6585-4277-BCA2-715F99AD12D8",
 	"created": "2024-07-25T16:25:44.557",
-	"lastModified": "2024-07-25T16:25:44.557",
+	"lastModified": "2024-11-19T13:58:32.837",
 	"titles": [
 		{
 			"title": "Kognetiks Chatbot 1.7.4 for WordPress",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://kognetiks.com/",
 			"type": "Vendor"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:kognetiks:kognetiks_chatbot:1.7.4:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "480A4BF2-19A8-4A94-ADB1-1472BE394874"
 		}
 	]
 }
