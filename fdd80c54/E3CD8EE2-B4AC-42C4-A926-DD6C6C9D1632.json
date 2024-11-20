@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:nextcloud:mail:2.2.7:*:*:*:*:*:*:*",
 	"cpeNameId": "E3CD8EE2-B4AC-42C4-A926-DD6C6C9D1632",
 	"created": "2023-10-19T17:41:35.307",
-	"lastModified": "2023-10-19T17:41:35.307",
+	"lastModified": "2024-11-20T14:49:09.773",
 	"titles": [
 		{
 			"title": "Nextcloud Mail 2.2.7",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://github.com/nextcloud/mail/blob/main/CHANGELOG.md",
 			"type": "Change Log"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:nextcloud:mail:2.2.7:*:*:*:*:nextcloud:*:*",
+			"cpeNameId": "8D1B3020-A9F6-413F-BB9B-48231366192A"
 		}
 	]
 }

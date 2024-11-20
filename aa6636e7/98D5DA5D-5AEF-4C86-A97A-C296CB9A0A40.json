@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:mycurator_content_curation_project:mycurator_content_curation:3.0:*:*:*:*:wordpress:*:*",
 	"cpeNameId": "98D5DA5D-5AEF-4C86-A97A-C296CB9A0A40",
 	"created": "2023-07-18T13:58:54.940",
-	"lastModified": "2023-07-18T14:04:34.507",
+	"lastModified": "2024-11-20T14:34:40.633",
 	"titles": [
 		{
 			"title": "MyCurator Content Curation Project MyCurator Content Curation 3.0 for WordPress",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://plugins.trac.wordpress.org/browser/mycurator/#tags",
 			"type": "Version"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:target-info:mycurator_content_curation:3.0:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "BDF402CC-19A1-46E5-9151-7C9300F36B61"
 		}
 	]
 }

@@ -1,12 +1,12 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:algolplus:advanced_order_export:1.4.1:*:*:*:*:wordpress:*:*",
 	"cpeNameId": "D63FAD89-3B6B-4152-AA48-FD057FCBDCCC",
 	"created": "2019-07-19T12:11:24.633",
-	"lastModified": "2019-07-19T12:11:24.633",
+	"lastModified": "2024-11-20T12:45:34.940",
 	"titles": [
 		{
-			"title": "Algol Plus Advanced Order Export 1.4.1 for WordPress",
+			"title": "Algolplus Advanced Order Export for WooCommerce 1.4.1 for WordPress",
 			"lang": "en"
 		}
 	],
@@ -16,12 +16,18 @@
 			"type": "Version"
 		},
 		{
-			"ref": "https://algolplus.com/plugins/",
-			"type": "Vendor"
+			"ref": "https://wordpress.org/plugins/woo-order-export-lite/",
+			"type": "Product"
 		},
 		{
-			"ref": "https://wordpress.org/plugins/woo-order-export-lite/#description",
-			"type": "Project"
+			"ref": "https://algolplus.com/plugins/downloads/advanced-order-export-for-woocommerce-pro/",
+			"type": "Product"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:algolplus:advanced_order_export_for_woocommerce:1.4.1:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "1E30E9A4-C7CF-4F55-97F4-1EB58E76632D"
 		}
 	]
 }
