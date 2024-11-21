@@ -3,10 +3,10 @@
 	"cpeName": "cpe:2.3:a:angeljudesuarez:tailoring_management_system:1.0:*:*:*:*:*:*:*",
 	"cpeNameId": "1050E619-DAD2-4DFB-8E10-656EE5045AA0",
 	"created": "2024-09-06T20:45:51.960",
-	"lastModified": "2024-09-06T20:45:51.960",
+	"lastModified": "2024-11-20T18:17:01.270",
 	"titles": [
 		{
-			"title": "Angeljudesuarez Tailoring Management System 1.0",
+			"title": "Angel Jude Suarez Tailoring Management System 1.0",
 			"lang": "en"
 		}
 	],
@@ -14,6 +14,12 @@
 		{
 			"ref": "https://itsourcecode.com/free-projects/php-project/tailoring-management-system-project-in-php-with-source-code/",
 			"type": "Product"
+		}
+	],
+	"deprecates": [
+		{
+			"cpeName": "cpe:2.3:a:angeljudesuarez:tailoring_management_system_project:1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "79EC62F7-4FDF-49BC-9FD0-8B840D2983A5"
 		}
 	]
 }

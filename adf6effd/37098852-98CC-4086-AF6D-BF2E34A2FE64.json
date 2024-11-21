@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:idurar_project:idurar:2.0.0:*:*:*:*:*:*:*",
 	"cpeNameId": "37098852-98CC-4086-AF6D-BF2E34A2FE64",
 	"created": "2023-05-23T12:26:47.487",
-	"lastModified": "2023-08-04T17:09:36.627",
+	"lastModified": "2024-11-20T19:56:21.303",
 	"titles": [
 		{
 			"title": "IDURAR Project IDURAR 2.0.0",
@@ -14,6 +14,12 @@
 		{
 			"ref": "https://github.com/idurar/idurar-erp-crm",
 			"type": "Product"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:idurarapp:idurar:2.0.0:*:*:*:*:*:*:*",
+			"cpeNameId": "C916968D-323C-45B7-93E2-4A742A827DC5"
 		}
 	]
 }
