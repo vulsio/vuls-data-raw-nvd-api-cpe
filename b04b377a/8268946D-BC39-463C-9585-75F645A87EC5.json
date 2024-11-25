@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:twistedmatrix:twisted:22.10.0:-:*:*:*:*:*:*",
 	"cpeNameId": "8268946D-BC39-463C-9585-75F645A87EC5",
 	"created": "2022-10-28T14:48:56.233",
-	"lastModified": "2022-11-08T13:20:41.340",
+	"lastModified": "2024-11-25T18:12:23.270",
 	"titles": [
 		{
 			"title": "Twisted Matrix Twisted 22.10.0",
@@ -22,6 +22,12 @@
 		{
 			"ref": "https://www.twistedmatrix.com/trac/",
 			"type": "Vendor"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:twisted:twisted:22.10.0:-:*:*:*:*:*:*",
+			"cpeNameId": "8A70749D-F44A-4395-9DE4-165AE2D967F0"
 		}
 	]
 }

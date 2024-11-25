@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:twistedmatrix:twisted:20.3.0:*:*:*:*:*:*:*",
 	"cpeNameId": "2FE0013D-477F-40E8-9EAA-6CFDBFADE558",
 	"created": "2022-02-09T15:05:22.637",
-	"lastModified": "2022-02-09T19:19:31.827",
+	"lastModified": "2024-11-25T18:12:23.270",
 	"titles": [
 		{
 			"title": "Twisted Matrix Twisted 20.3.0",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://github.com/twisted/twisted/releases",
 			"type": "Change Log"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:twisted:twisted:20.3.0:*:*:*:*:*:*:*",
+			"cpeNameId": "74D96881-F9CB-48EA-B26C-0A8B996CC82A"
 		}
 	]
 }
