@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:cisco:firepower_management_center:2.9.13.6:*:*:*:*:*:*:*",
 	"cpeNameId": "4B07DB07-CD5B-47D2-8639-FB0A15C6138B",
 	"created": "2019-12-06T19:14:46.287",
-	"lastModified": "2019-12-06T19:14:46.287",
+	"lastModified": "2024-11-26T16:08:59.550",
 	"titles": [
 		{
 			"title": "Cisco Firepower Management Center 2.9.13.6",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://www.cisco.com/c/en/us/support/security/defense-center/products-release-notes-list.html",
 			"type": "Version"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:cisco:secure_firewall_management_center:2.9.13.6:*:*:*:*:*:*:*",
+			"cpeNameId": "5643E85F-039A-489A-9251-C64B65BB5F07"
 		}
 	]
 }

@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:cisco:firepower_management_center:6.4.0.12:*:*:*:*:*:*:*",
 	"cpeNameId": "180B44EF-692B-4C80-B774-30760C346E4C",
 	"created": "2021-05-05T16:40:17.403",
-	"lastModified": "2021-05-06T15:43:25.273",
+	"lastModified": "2024-11-26T16:08:59.550",
 	"titles": [
 		{
 			"title": "Cisco Firepower Management Center (FMC) 6.4.0.12",
@@ -14,6 +14,12 @@
 		{
 			"ref": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-fmc-iac-pZDMQ4wC",
 			"type": "Advisory"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:cisco:secure_firewall_management_center:6.4.0.12:*:*:*:*:*:*:*",
+			"cpeNameId": "9B66B1DD-91EE-464A-B6A8-29062481F49E"
 		}
 	]
 }

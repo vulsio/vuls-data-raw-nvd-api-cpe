@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:cisco:firepower_management_center:6.6.7:*:*:*:*:*:*:*",
 	"cpeNameId": "176D267A-6BB0-43D0-8111-12DFCC00DC44",
 	"created": "2022-11-18T15:53:43.950",
-	"lastModified": "2023-05-16T13:22:57.873",
+	"lastModified": "2024-11-26T16:08:59.550",
 	"titles": [
 		{
 			"title": "Cisco Firepower Management Center 6.6.7",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://software.cisco.com/download/home/286324340/type/286271056/release/7.0.5",
 			"type": "Change Log"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:cisco:secure_firewall_management_center:6.6.7:*:*:*:*:*:*:*",
+			"cpeNameId": "EA47CF69-862F-4979-AB5B-99267EDDCBFF"
 		}
 	]
 }
