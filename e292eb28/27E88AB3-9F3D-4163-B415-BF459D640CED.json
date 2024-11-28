@@ -1,23 +1,33 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:arm:trusted_firmware-a:-:*:*:*:*:*:*:*",
 	"cpeNameId": "27E88AB3-9F3D-4163-B415-BF459D640CED",
 	"created": "2020-09-15T16:16:08.017",
-	"lastModified": "2020-09-15T16:16:08.017",
+	"lastModified": "2024-11-27T20:03:18.813",
 	"titles": [
 		{
-			"title": "ARM Trusted Firmware-A",
+			"title": "ARM Trusted Firmware-A (TF-A)",
 			"lang": "en"
 		}
 	],
 	"refs": [
 		{
-			"ref": "http://infocenter.arm.com/help/index.jsp?topic=/com.arm.doc.dui0928e/CJHIDGJF.html",
+			"ref": "https://www.arm.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://github.com/ARM-software/arm-trusted-firmware",
 			"type": "Product"
 		},
 		{
-			"ref": "https://github.com/ARM-software/arm-trusted-firmware/wiki/Trusted-Firmware-A-Security-Advisory-TFV-8",
-			"type": "Advisory"
+			"ref": "https://github.com/ARM-software/arm-trusted-firmware/tags",
+			"type": "Version"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:o:arm:trusted_firmware-a:-:*:*:*:-:*:*:*",
+			"cpeNameId": "FE253341-269F-498F-BF72-175267210E03"
 		}
 	]
 }
