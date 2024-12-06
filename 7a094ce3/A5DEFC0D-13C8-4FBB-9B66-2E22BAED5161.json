@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:strategy11:formidable_forms:6.5.1:*:*:*:*:wordpress:*:*",
 	"cpeNameId": "A5DEFC0D-13C8-4FBB-9B66-2E22BAED5161",
 	"created": "2024-01-23T13:10:46.120",
-	"lastModified": "2024-01-23T13:10:46.120",
+	"lastModified": "2024-12-05T20:02:23.280",
 	"titles": [
 		{
 			"title": "Strategy11 Formidable Forms 6.5.1 for WordPress",
@@ -26,6 +26,12 @@
 		{
 			"ref": "https://wordpress.org/plugins/formidable/#developers",
 			"type": "Change Log"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:strategy11:formidable_forms:6.5.1:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "040B5D37-DF30-41C3-A78B-4B820ACAB6EC"
 		}
 	]
 }
