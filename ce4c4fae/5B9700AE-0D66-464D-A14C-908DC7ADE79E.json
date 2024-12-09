@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.16:*:*:*:*:*:*:*",
 	"cpeNameId": "5B9700AE-0D66-464D-A14C-908DC7ADE79E",
 	"created": "2023-05-17T16:16:52.623",
-	"lastModified": "2023-08-19T02:57:00.647",
+	"lastModified": "2024-12-09T16:40:32.753",
 	"titles": [
 		{
 			"title": "Palo Alto Networks PAN-OS 9.1.16",
@@ -12,8 +12,14 @@
 	],
 	"refs": [
 		{
-			"ref": "https://security.paloaltonetworks.com/CVE-2023-0007",
-			"type": "Advisory"
+			"ref": "https://docs.paloaltonetworks.com/pan-os/9-1/pan-os-release-notes/pan-os-9-1-release-information",
+			"type": "Version"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.16:-:*:*:*:*:*:*",
+			"cpeNameId": "40CD7469-ADB7-4552-A7F8-DA63DCF1818D"
 		}
 	]
 }
