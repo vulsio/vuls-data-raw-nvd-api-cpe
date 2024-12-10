@@ -3,7 +3,7 @@
 	"cpeName": "cpe:2.3:o:nixos:nixos:17.03:*:*:*:*:*:*:*",
 	"cpeNameId": "8CE99382-B5EA-4592-9934-8E069C772338",
 	"created": "2020-05-05T17:05:34.263",
-	"lastModified": "2020-05-05T17:05:34.263",
+	"lastModified": "2024-12-10T00:44:04.700",
 	"titles": [
 		{
 			"title": "NixOS 17.03",
@@ -12,8 +12,12 @@
 	],
 	"refs": [
 		{
-			"ref": "http://nixos.org/nixos/download.html",
-			"type": "Product"
+			"ref": "https://nixos.org/manual/nixos/stable/release-notes",
+			"type": "Version"
+		},
+		{
+			"ref": "https://nixos.org/",
+			"type": "Vendor"
 		}
 	]
 }
