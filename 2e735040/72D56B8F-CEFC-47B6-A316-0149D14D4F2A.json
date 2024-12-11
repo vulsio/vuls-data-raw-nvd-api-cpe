@@ -1,0 +1,19 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:adobe:lifecycle:9.0:*:*:*:*:*:*:*",
+	"cpeNameId": "72D56B8F-CEFC-47B6-A316-0149D14D4F2A",
+	"created": "2024-12-11T15:08:45.607",
+	"lastModified": "2024-12-11T15:08:45.607",
+	"titles": [
+		{
+			"title": "Adobe Lifecycle 9.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/CVEProject/cvelist/blob/master/2009/3xxx/CVE-2009-3960.json",
+			"type": "Advisory"
+		}
+	]
+}
