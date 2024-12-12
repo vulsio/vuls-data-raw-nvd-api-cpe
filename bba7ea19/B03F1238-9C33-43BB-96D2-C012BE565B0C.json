@@ -3,7 +3,7 @@
 	"cpeName": "cpe:2.3:o:apple:ipados:16.6:*:*:*:*:*:*:*",
 	"cpeNameId": "B03F1238-9C33-43BB-96D2-C012BE565B0C",
 	"created": "2023-08-01T13:20:01.960",
-	"lastModified": "2023-08-15T13:37:08.533",
+	"lastModified": "2024-12-12T14:26:17.950",
 	"titles": [
 		{
 			"title": "Apple iPadOS 16.6",
@@ -14,6 +14,12 @@
 		{
 			"ref": "https://support.apple.com/en-us/HT213841",
 			"type": "Advisory"
+		}
+	],
+	"deprecates": [
+		{
+			"cpeName": "cpe:2.3:o:apple:ipad_os:16.6:*:*:*:*:*:*:*",
+			"cpeNameId": "1D507048-14AE-42D1-865A-787F028634C7"
 		}
 	]
 }

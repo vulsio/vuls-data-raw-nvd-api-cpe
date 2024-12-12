@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:h:utstarcom:f1000_wi-fi_telephone:-:*:*:*:*:*:*:*",
 	"cpeNameId": "E5243035-037D-4498-BFBF-B48B268BEBFA",
 	"created": "2024-05-16T15:31:13.773",
-	"lastModified": "2024-05-16T15:31:13.773",
+	"lastModified": "2024-12-12T18:00:47.310",
 	"titles": [
 		{
 			"title": "UTStarcom F1000 Wi-Fi Telephone",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://support.vonage.com/articles/answer/UTStarcom-F1000-WiFi-Telephone-877",
 			"type": "Product"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:h:utstarcom:f1000_wi-fi:-:*:*:*:*:*:*:*",
+			"cpeNameId": "40DF4ABB-FF41-444B-99C0-925BD740FE88"
 		}
 	]
 }
