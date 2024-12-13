@@ -1,0 +1,23 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:synology:diskstation_manager:7.1-42661:*:*:*:*:*:*:*",
+	"cpeNameId": "AC25850F-E2A9-406E-B435-937839A0BEC0",
+	"created": "2024-12-13T15:58:08.140",
+	"lastModified": "2024-12-13T15:58:08.140",
+	"titles": [
+		{
+			"title": "Synology DiskStation Manager (DSM) 7.1-42661",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.synology.com/en-us/releaseNote/DSM",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://www.synology.com/en-us/security/advisory/Synology_SA_24_20",
+			"type": "Advisory"
+		}
+	]
+}

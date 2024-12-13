@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:apollographql:apollo_router:1.28.0:alpha0:*:*:*:*:*:*",
 	"cpeNameId": "AFB50D9D-4A44-4652-891C-B622C89EB775",
 	"created": "2023-09-08T11:21:43.200",
-	"lastModified": "2023-09-09T03:46:59.147",
+	"lastModified": "2024-12-13T13:07:23.350",
 	"titles": [
 		{
 			"title": "Apollo GraphQL Apollo Router 1.28.0 Alpha 0",
@@ -22,6 +22,12 @@
 		{
 			"ref": "https://github.com/apollographql/router/security/advisories/GHSA-w8vq-3hf9-xppx",
 			"type": "Advisory"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:apollographql:apollo_router:1.28.0:alpha0:*:*:-:*:*:*",
+			"cpeNameId": "25351877-EE03-4BD9-95FC-421BF6C1FAB2"
 		}
 	]
 }

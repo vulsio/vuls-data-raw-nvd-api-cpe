@@ -1,0 +1,19 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:synology:diskstation_manager:7.2:*:*:*:*:*:*:*",
+	"cpeNameId": "67951D82-A211-4F78-82F9-DF459BF28D35",
+	"created": "2024-12-13T15:58:08.140",
+	"lastModified": "2024-12-13T15:58:08.140",
+	"titles": [
+		{
+			"title": "Synology DiskStation Manager (DSM) 7.2",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.synology.com/en-us/DSM72",
+			"type": "Product"
+		}
+	]
+}

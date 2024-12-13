@@ -1,0 +1,23 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:synology:diskstation_manager:7.0-41890:*:*:*:*:*:*:*",
+	"cpeNameId": "4048B957-4493-4D0A-9487-8C8CD6727BD3",
+	"created": "2024-12-13T15:58:08.140",
+	"lastModified": "2024-12-13T15:58:08.140",
+	"titles": [
+		{
+			"title": "Synology DiskStation Manager (DSM) 7.0-41890",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.synology.com/en-us/releaseNote/DSM",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://www.synology.com/en-us/security/advisory/Synology_SA_24_20",
+			"type": "Advisory"
+		}
+	]
+}
