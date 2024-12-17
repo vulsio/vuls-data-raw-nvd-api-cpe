@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:veronalabs:wp_sms:2.0.2:*:*:*:*:wordpress:*:*",
 	"cpeNameId": "4BBFC1A0-919B-4600-A2F7-9B39FE2D8951",
 	"created": "2023-08-30T15:17:50.730",
-	"lastModified": "2023-08-30T15:24:32.113",
+	"lastModified": "2024-12-17T17:48:58.577",
 	"titles": [
 		{
 			"title": "VeronaLabs WP SMS 2.0.2 for WordPress",
@@ -18,6 +18,24 @@
 		{
 			"ref": "https://wordpress.org/plugins/wp-sms/#developers",
 			"type": "Change Log"
+		},
+		{
+			"ref": "https://raw.githubusercontent.com/wp-sms/wp-sms/master/CHANGELOG.md",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/wp-sms/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://wp-sms-pro.com/buy",
+			"type": "Product"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:veronalabs:wp_sms:2.0.2:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "AD542E91-A6E4-47B7-85E5-2F29C2624308"
 		}
 	]
 }
