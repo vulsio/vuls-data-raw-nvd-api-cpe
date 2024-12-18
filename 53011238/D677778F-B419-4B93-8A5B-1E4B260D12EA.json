@@ -1,0 +1,19 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:zohocorp:manageengine_password_manager_pro:12.0:build12004:*:*:-:*:*:*",
+	"cpeNameId": "D677778F-B419-4B93-8A5B-1E4B260D12EA",
+	"created": "2024-12-18T15:24:08.747",
+	"lastModified": "2024-12-18T15:24:08.747",
+	"titles": [
+		{
+			"title": "ZohoCorp ManageEngine Password Manager Pro 12.0 Build12004",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.manageengine.com/products/passwordmanagerpro/release-notes.html",
+			"type": "Change Log"
+		}
+	]
+}

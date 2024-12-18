@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:zohocorp:manageengine_sharepoint_manager_plus:-:build_4320:*:*:*:*:*:*",
 	"cpeNameId": "CF1FBEB5-8442-4320-AB8E-ADF727533A60",
 	"created": "2022-03-07T18:42:42.157",
-	"lastModified": "2022-03-07T19:13:07.860",
+	"lastModified": "2024-12-18T16:45:27.577",
 	"titles": [
 		{
 			"title": "Zoho Corporation ManageEngine SharePoint Manager Plus Build 4320",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://www.manageengine.com/sharepoint-management-reporting/release-notes.html",
 			"type": "Change Log"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:zohocorp:manageengine_sharepoint_manager_plus:4.3:4320:*:*:*:*:*:*",
+			"cpeNameId": "903FE153-E9AB-4C06-82DB-E2D1932AE6B8"
 		}
 	]
 }
