@@ -3,7 +3,7 @@
 	"cpeName": "cpe:2.3:h:dell:precision_5820_tower:-:*:*:*:*:*:*:*",
 	"cpeNameId": "CE82CDC1-F3A8-46CC-BCEE-CDB30BD911BD",
 	"created": "2020-06-22T13:20:43.373",
-	"lastModified": "2021-04-20T18:08:01.020",
+	"lastModified": "2024-12-19T14:25:43.340",
 	"titles": [
 		{
 			"title": "Dell Precision 5820 Tower",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://www.dell.com/en-us/work/shop/desktops-all-in-one-pcs/precision-5820-tower-workstation/spd/precision-5820-workstation",
 			"type": "Product"
+		}
+	],
+	"deprecates": [
+		{
+			"cpeName": "cpe:2.3:h:dell:dell_precision_5820_tower:-:*:*:*:*:*:*:*",
+			"cpeNameId": "392CA8B6-0971-45D0-87E7-7604A98D9BDD"
 		}
 	]
 }

@@ -3,7 +3,7 @@
 	"cpeName": "cpe:2.3:h:dell:latitude_3580:-:*:*:*:*:*:*:*",
 	"cpeNameId": "D6841D86-637C-4D0B-9543-E330F17E46F0",
 	"created": "2019-08-12T12:20:24.680",
-	"lastModified": "2021-04-19T17:30:05.720",
+	"lastModified": "2024-12-19T14:25:43.340",
 	"titles": [
 		{
 			"title": "Dell Latitude 3580",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://www.dell.com/support/manuals/en-us/latitude-15-3580-laptop/lat3580_om/processor-specifications?guid=guid-e4a97cee-db02-4415-9c82-df1702b82752",
 			"type": "Product"
+		}
+	],
+	"deprecates": [
+		{
+			"cpeName": "cpe:2.3:h:dell:dell_latitude_3580:-:*:*:*:*:*:*:*",
+			"cpeNameId": "FB92A77D-E3A8-41B8-AEAB-B6AB9594710F"
 		}
 	]
 }
