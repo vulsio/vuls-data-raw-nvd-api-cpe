@@ -1,8 +1,8 @@
 {
-	"deprecated": true,
-	"cpeName": "cpe:2.3:a:x.org:x11:5.0:*:*:*:*:*:*:*",
-	"cpeNameId": "96CE71EF-8A88-4A0D-841B-46674F38E3E3",
-	"created": "2015-04-08T18:01:31.830",
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:x.org:x11:5.0:-:*:*:*:*:*:*",
+	"cpeNameId": "04A02130-1621-40AB-9AF9-55CE87FC6DC8",
+	"created": "2024-12-20T19:46:43.270",
 	"lastModified": "2024-12-20T19:46:43.270",
 	"titles": [
 		{
@@ -24,10 +24,10 @@
 			"type": "Version"
 		}
 	],
-	"deprecatedBy": [
+	"deprecates": [
 		{
-			"cpeName": "cpe:2.3:a:x.org:x11:5.0:-:*:*:*:*:*:*",
-			"cpeNameId": "04A02130-1621-40AB-9AF9-55CE87FC6DC8"
+			"cpeName": "cpe:2.3:a:x.org:x11:5.0:*:*:*:*:*:*:*",
+			"cpeNameId": "96CE71EF-8A88-4A0D-841B-46674F38E3E3"
 		}
 	]
 }
