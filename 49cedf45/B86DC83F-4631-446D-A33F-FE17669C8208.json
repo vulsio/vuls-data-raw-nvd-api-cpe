@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:nlnetlabs:unbound:1.16.1:*:*:*:*:*:*:*",
 	"cpeNameId": "B86DC83F-4631-446D-A33F-FE17669C8208",
 	"created": "2022-08-05T18:29:47.633",
-	"lastModified": "2022-11-09T15:10:25.333",
+	"lastModified": "2024-12-23T19:00:11.677",
 	"titles": [
 		{
 			"title": "NLnet Labs Unbound 1.16.1",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://nlnetlabs.nl/downloads/unbound/",
 			"type": "Version"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:nlnetlabs:unbound:1.16.1:-:*:*:*:*:*:*",
+			"cpeNameId": "BA3F74A1-31A5-4451-BA0A-9B698CA3FEB8"
 		}
 	]
 }

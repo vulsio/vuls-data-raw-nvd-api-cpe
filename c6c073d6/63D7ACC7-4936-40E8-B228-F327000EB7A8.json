@@ -1,0 +1,19 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:wedevs:wp_erp:1.13.2:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "63D7ACC7-4936-40E8-B228-F327000EB7A8",
+	"created": "2024-12-23T20:28:31.617",
+	"lastModified": "2024-12-23T20:28:31.617",
+	"titles": [
+		{
+			"title": "WEDEVS WP ERP 1.13.2 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://wordpress.org/plugins/erp/#developers",
+			"type": "Change Log"
+		}
+	]
+}
