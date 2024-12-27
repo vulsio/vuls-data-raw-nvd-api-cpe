@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:simple_music_cloud_community_system_project:simple_music_cloud_community_system:1.0:*:*:*:*:*:*:*",
 	"cpeNameId": "79B7B462-AA71-48F4-A041-E1369D43D8EF",
 	"created": "2022-01-26T01:18:33.813",
-	"lastModified": "2022-01-28T21:32:41.457",
+	"lastModified": "2024-12-27T15:55:33.670",
 	"titles": [
 		{
 			"title": "Simple Music Cloud Community System Project Simple Music Cloud Community System 1.0",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://www.sourcecodester.com/php/14605/simple-music-cloud-community-system-using-phpmysqli-source-code.html",
 			"type": "Product"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:oretnom23:simple_music_cloud_community_system:1.0:*:*:*:*:*:*:*",
+			"cpeNameId": "348CDA13-1CE7-4227-B6C2-3F35A006AD37"
 		}
 	]
 }
