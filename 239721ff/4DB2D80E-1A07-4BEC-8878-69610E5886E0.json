@@ -1,0 +1,23 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:o:nixos:nix:2.24.5:*:*:*:*:*:*:*",
+	"cpeNameId": "4DB2D80E-1A07-4BEC-8878-69610E5886E0",
+	"created": "2024-12-31T19:24:19.153",
+	"lastModified": "2024-12-31T19:24:19.153",
+	"titles": [
+		{
+			"title": "Nixos Nix 2.24.5",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://github.com/NixOS/nix/tags",
+			"type": "Version"
+		},
+		{
+			"ref": "https://github.com/NixOS/nix/security/advisories/GHSA-h4vv-h3jq-v493",
+			"type": "Advisory"
+		}
+	]
+}
