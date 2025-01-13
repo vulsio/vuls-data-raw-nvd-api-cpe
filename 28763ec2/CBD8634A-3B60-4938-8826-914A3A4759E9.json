@@ -1,0 +1,19 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:mozilla:thunderbird:128.4.0:*:*:*:*:*:*:*",
+	"cpeNameId": "CBD8634A-3B60-4938-8826-914A3A4759E9",
+	"created": "2025-01-13T16:02:01.643",
+	"lastModified": "2025-01-13T16:02:01.643",
+	"titles": [
+		{
+			"title": "Mozilla Thunderbird 128.4.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.mozilla.org/en-US/security/advisories/mfsa2024-58/",
+			"type": "Advisory"
+		}
+	]
+}

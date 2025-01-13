@@ -1,0 +1,19 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:mozilla:thunderbird:128.2.0:*:*:*:*:*:*:*",
+	"cpeNameId": "AFF1EB66-6B0A-4108-9146-F9DCAA23C352",
+	"created": "2025-01-13T16:02:01.643",
+	"lastModified": "2025-01-13T16:02:01.643",
+	"titles": [
+		{
+			"title": "Mozilla Thunderbird 128.2.0",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://www.thunderbird.net/en-US/thunderbird/128.2.0esr/releasenotes/",
+			"type": "Version"
+		}
+	]
+}
