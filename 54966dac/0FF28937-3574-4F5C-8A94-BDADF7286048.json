@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:synology:diskstation_manager:3.0:*:*:*:*:*:*:*",
 	"cpeNameId": "0FF28937-3574-4F5C-8A94-BDADF7286048",
 	"created": "2015-04-01T14:13:41.240",
-	"lastModified": "2015-04-02T17:55:41.277",
+	"lastModified": "2025-01-14T19:29:54.087",
 	"titles": [
 		{
 			"title": "Synology Diskstation Manager 3.0",
@@ -14,6 +14,28 @@
 		{
 			"ref": "http://www.synology.com/en-global/",
 			"type": "Vendor"
+		},
+		{
+			"ref": "https://www.synology.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://www.synology.com/en-us/dsm",
+			"type": "Product"
+		},
+		{
+			"ref": "https://www.synology.com/en-us/releaseNote/DSM",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://www.synology.com/en-global/releaseNote/DSM?os=DSM&version=all_versions",
+			"type": "Change Log"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:o:synology:diskstation_manager:3.0:*:*:*:*:*:*:*",
+			"cpeNameId": "4F0FCD32-6EEF-478F-9119-9D357AC544A2"
 		}
 	]
 }

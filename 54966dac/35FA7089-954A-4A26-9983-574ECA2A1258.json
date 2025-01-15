@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:synology:diskstation_manager:7.2-64570-2:*:*:*:*:*:*:*",
 	"cpeNameId": "35FA7089-954A-4A26-9983-574ECA2A1258",
 	"created": "2024-12-27T15:37:59.833",
-	"lastModified": "2024-12-27T15:37:59.833",
+	"lastModified": "2025-01-14T19:29:54.087",
 	"titles": [
 		{
 			"title": "Synology DiskStation Manager (DSM) 7.2-64570-2",
@@ -18,6 +18,24 @@
 		{
 			"ref": "https://www.synology.com/en-global/releaseNote/DSM?os=DSM&version=all_versions",
 			"type": "Change Log"
+		},
+		{
+			"ref": "https://www.synology.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://www.synology.com/en-us/dsm",
+			"type": "Product"
+		},
+		{
+			"ref": "https://www.synology.com/en-us/releaseNote/DSM",
+			"type": "Change Log"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:o:synology:diskstation_manager:7.2-64570-2:*:*:*:*:*:*:*",
+			"cpeNameId": "5561A186-EBB2-4DC5-8FC4-05F5A73D1AEB"
 		}
 	]
 }
