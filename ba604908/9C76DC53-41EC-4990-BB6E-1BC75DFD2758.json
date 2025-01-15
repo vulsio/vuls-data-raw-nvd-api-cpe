@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:cakefoundation:cakephp:3.1.2:*:*:*:*:*:*:*",
 	"cpeNameId": "9C76DC53-41EC-4990-BB6E-1BC75DFD2758",
 	"created": "2019-09-10T16:29:09.500",
-	"lastModified": "2019-09-10T16:29:09.500",
+	"lastModified": "2025-01-15T17:44:02.693",
 	"titles": [
 		{
 			"title": "Cake Software Foundation CakePHP 3.1.2",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://cakefoundation.org/old",
 			"type": "Vendor"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:cakephp:cakephp:3.1.2:*:*:*:*:*:*:*",
+			"cpeNameId": "6405DBD2-0F4B-4CE4-9106-094EB4EB5788"
 		}
 	]
 }

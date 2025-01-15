@@ -1,12 +1,12 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:o:nixos:patchelf:0.9:*:*:*:*:*:*:*",
 	"cpeNameId": "9A61210F-F2A2-4741-924F-70F97AF8E001",
 	"created": "2023-09-29T03:56:47.257",
-	"lastModified": "2023-09-29T03:56:47.257",
+	"lastModified": "2025-01-15T14:17:01.387",
 	"titles": [
 		{
-			"title": "NixOS Patchelf 0.9",
+			"title": "NixOS PatchELF 0.9",
 			"lang": "en"
 		}
 	],
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://nixos.org/",
 			"type": "Vendor"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:nixos:patchelf:0.9:*:*:*:*:*:*:*",
+			"cpeNameId": "8A215340-5A00-496E-BBF2-9636B87FD3C3"
 		}
 	]
 }

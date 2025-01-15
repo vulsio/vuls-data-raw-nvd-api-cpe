@@ -3,7 +3,7 @@
 	"cpeName": "cpe:2.3:a:cakephp:cakephp:4.1.0:rc1:*:*:*:*:*:*",
 	"cpeNameId": "04F018DB-9CA1-4884-8632-24F4B532EAC6",
 	"created": "2021-05-20T15:53:43.707",
-	"lastModified": "2021-05-20T16:06:15.230",
+	"lastModified": "2025-01-15T17:44:02.693",
 	"titles": [
 		{
 			"title": "CakePHP 4.1.0 Release Candidate 1",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://github.com/cakephp/cakephp/releases",
 			"type": "Version"
+		}
+	],
+	"deprecates": [
+		{
+			"cpeName": "cpe:2.3:a:cakefoundation:cakephp:4.1.0:rc1:*:*:*:*:*:*",
+			"cpeNameId": "0DFB0E08-8F19-400B-8813-AAC337ABEBE6"
 		}
 	]
 }

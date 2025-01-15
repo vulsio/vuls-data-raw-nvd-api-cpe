@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:cakefoundation:cakephp:4.2.4:*:*:*:*:*:*:*",
 	"cpeNameId": "5780F9E7-12E8-402F-B5DD-02DC20F2629D",
 	"created": "2021-03-15T18:44:17.623",
-	"lastModified": "2021-03-16T12:17:39.990",
+	"lastModified": "2025-01-15T17:44:02.693",
 	"titles": [
 		{
 			"title": "Cake Software Foundation CakePHP 4.2.4",
@@ -22,6 +22,12 @@
 		{
 			"ref": "https://bakery.cakephp.org/2021/02/27/cakephp_424_released.html",
 			"type": "Change Log"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:cakephp:cakephp:4.2.4:*:*:*:*:*:*:*",
+			"cpeNameId": "B3EE3EED-30CF-4729-8F0F-EA54CCC7494F"
 		}
 	]
 }

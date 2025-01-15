@@ -3,7 +3,7 @@
 	"cpeName": "cpe:2.3:a:cakephp:cakephp:3.6.12:*:*:*:*:*:*:*",
 	"cpeNameId": "02421BCB-168F-4232-97D9-C14B714CA5B3",
 	"created": "2021-05-20T15:54:47.823",
-	"lastModified": "2021-05-20T16:06:15.230",
+	"lastModified": "2025-01-15T17:44:02.693",
 	"titles": [
 		{
 			"title": "CakePHP 3.6.12",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://github.com/cakephp/cakephp/releases",
 			"type": "Version"
+		}
+	],
+	"deprecates": [
+		{
+			"cpeName": "cpe:2.3:a:cakefoundation:cakephp:3.6.12:*:*:*:*:*:*:*",
+			"cpeNameId": "4B3308C3-2863-4014-86F9-36B5AD609ADC"
 		}
 	]
 }

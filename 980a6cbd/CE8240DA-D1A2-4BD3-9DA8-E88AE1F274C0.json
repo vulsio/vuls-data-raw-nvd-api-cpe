@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:cakephp:cakephp:2.0.0:*:*:*:*:*:*:*",
 	"cpeNameId": "CE8240DA-D1A2-4BD3-9DA8-E88AE1F274C0",
 	"created": "2016-01-28T00:15:32.813",
-	"lastModified": "2016-01-28T00:15:32.813",
+	"lastModified": "2025-01-15T16:14:42.120",
 	"titles": [
 		{
 			"title": "CakePHP 2.0.0",
@@ -22,6 +22,12 @@
 		{
 			"ref": "https://github.com/cakephp/cakephp/releases",
 			"type": "Version"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:cakephp:cakephp:2.0.0:-:*:*:*:*:*:*",
+			"cpeNameId": "3623E7B2-C05E-4EBB-8BE9-07D783C65844"
 		}
 	]
 }

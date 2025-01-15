@@ -1,10 +1,14 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:o:nixos:nix:1.5:*:*:*:*:*:*:*",
 	"cpeNameId": "52BD8422-2EC9-47C3-AAE4-E0169AADB12B",
 	"created": "2019-10-11T13:23:48.017",
-	"lastModified": "2019-10-11T13:23:48.017",
+	"lastModified": "2025-01-15T14:29:21.990",
 	"titles": [
+		{
+			"title": "NixOS Nix 1.5",
+			"lang": "en"
+		},
 		{
 			"title": "NixOS Nix 1.5",
 			"lang": "en"
@@ -12,8 +16,18 @@
 	],
 	"refs": [
 		{
+			"ref": "https://github.com/NixOS/nix/tags",
+			"type": "Version"
+		},
+		{
 			"ref": "https://nixos.org/",
-			"type": "Change Log"
+			"type": "Vendor"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:nixos:nix:1.5:*:*:*:*:*:*:*",
+			"cpeNameId": "1E74939A-5BED-4266-B8DE-59F151FF1A75"
 		}
 	]
 }
