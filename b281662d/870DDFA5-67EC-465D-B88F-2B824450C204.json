@@ -1,12 +1,12 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:brizy:brizy-page_builder:2.2.5:*:*:*:*:wordpress:*:*",
 	"cpeNameId": "870DDFA5-67EC-465D-B88F-2B824450C204",
 	"created": "2022-07-05T13:13:35.070",
-	"lastModified": "2022-07-05T15:03:01.093",
+	"lastModified": "2025-01-16T15:07:58.240",
 	"titles": [
 		{
-			"title": "Brizy - Page Builder 2.2.5 for WordPress",
+			"title": "Brizy-page Builder 2.2.5 for WordPress",
 			"lang": "en"
 		}
 	],
@@ -18,6 +18,20 @@
 		{
 			"ref": "https://wordpress.org/plugins/brizy/#developers",
 			"type": "Change Log"
+		},
+		{
+			"ref": "https://www.brizy.io/changelog/",
+			"type": "Change Log"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/brizy/",
+			"type": "Product"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:brizy:brizy:2.2.5:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "4BE1FF43-5203-4A6D-9B1D-AAB14F1F321F"
 		}
 	]
 }
