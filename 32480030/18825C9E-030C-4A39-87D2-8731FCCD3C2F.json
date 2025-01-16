@@ -1,0 +1,27 @@
+{
+	"deprecated": false,
+	"cpeName": "cpe:2.3:a:exclusiveaddons:exclusive_addons_for_elementor:2.6.9.5:*:*:*:*:wordpress:*:*",
+	"cpeNameId": "18825C9E-030C-4A39-87D2-8731FCCD3C2F",
+	"created": "2025-01-15T18:28:04.680",
+	"lastModified": "2025-01-15T18:28:04.680",
+	"titles": [
+		{
+			"title": "Exclusive Addons For Elementor 2.6.9.5 for WordPress",
+			"lang": "en"
+		}
+	],
+	"refs": [
+		{
+			"ref": "https://exclusiveaddons.com/",
+			"type": "Vendor"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/exclusive-addons-for-elementor/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/exclusive-addons-for-elementor/#developers",
+			"type": "Change Log"
+		}
+	]
+}

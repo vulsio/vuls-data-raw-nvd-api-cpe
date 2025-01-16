@@ -3,7 +3,7 @@
 	"cpeName": "cpe:2.3:a:es:iperf3:3.0.9:*:*:*:*:*:*:*",
 	"cpeNameId": "2CD190EC-27B2-472F-A38C-301461E1CCA5",
 	"created": "2019-02-25T13:59:46.887",
-	"lastModified": "2019-02-25T13:59:46.887",
+	"lastModified": "2025-01-15T19:12:52.123",
 	"titles": [
 		{
 			"title": "Energy Sciences Network (ESnet) iperf3 3.0.9",
@@ -22,6 +22,12 @@
 		{
 			"ref": "https://software.es.net/",
 			"type": "Vendor"
+		}
+	],
+	"deprecates": [
+		{
+			"cpeName": "cpe:2.3:a:iperf3_project:iperf3:3.0.9:*:*:*:*:*:*:*",
+			"cpeNameId": "8E30A39B-1DD8-4521-B800-873E4854A2AE"
 		}
 	]
 }

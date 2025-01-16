@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:iperf3_project:iperf3:3.8:*:*:*:*:*:*:*",
 	"cpeNameId": "877F0E8D-FCAE-4B5A-B421-26F493F48244",
 	"created": "2022-06-30T14:48:07.817",
-	"lastModified": "2022-06-30T14:52:32.750",
+	"lastModified": "2025-01-15T19:12:52.123",
 	"titles": [
 		{
 			"title": "iperf3 Project iperf3 3.8",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://github.com/esnet/iperf",
 			"type": "Version"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:es:iperf3:3.8:*:*:*:*:*:*:*",
+			"cpeNameId": "91D95436-EE67-4EE3-8CF5-E3365AD4B4C3"
 		}
 	]
 }
