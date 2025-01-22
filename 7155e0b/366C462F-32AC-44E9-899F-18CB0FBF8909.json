@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:o:univention:univention_corporate_server:5.0.9:*:*:*:*:*:*:*",
 	"cpeNameId": "366C462F-32AC-44E9-899F-18CB0FBF8909",
 	"created": "2024-11-05T13:00:55.183",
-	"lastModified": "2024-11-05T13:00:55.183",
+	"lastModified": "2025-01-22T17:59:53.713",
 	"titles": [
 		{
 			"title": "Univention Corporate Server (UCS) 5.0.9",
@@ -22,6 +22,12 @@
 		{
 			"ref": "https://www.univention.com/products/ucs/",
 			"type": "Product"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:o:univention:univention_corporate_server:5.0:9:*:*:*:*:*:*",
+			"cpeNameId": "6B992D89-8B1E-420C-9907-FFCE271C7817"
 		}
 	]
 }
