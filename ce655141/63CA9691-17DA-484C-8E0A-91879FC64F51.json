@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:themeum:tutor_lms:2.1.2:*:*:*:*:wordpress:*:*",
 	"cpeNameId": "63CA9691-17DA-484C-8E0A-91879FC64F51",
 	"created": "2023-11-16T12:31:59.380",
-	"lastModified": "2023-11-16T12:31:59.380",
+	"lastModified": "2025-01-22T19:24:55.493",
 	"titles": [
 		{
 			"title": "Themeum Tutor LMS 2.1.2 for WordPress",
@@ -18,6 +18,20 @@
 		{
 			"ref": "https://www.themeum.com/",
 			"type": "Vendor"
+		},
+		{
+			"ref": "https://www.themeum.com/product/tutor-lms/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/tutor/",
+			"type": "Product"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:themeum:tutor_lms:2.1.2:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "E230AC09-6A49-4358-98E1-6D2B07E01CBB"
 		}
 	]
 }
