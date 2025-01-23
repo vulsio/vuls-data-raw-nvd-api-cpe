@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:openautomationsoftware:oas_platform:18.00.0072:*:*:*:*:*:*:*",
 	"cpeNameId": "D2C98454-AC2B-47CF-8BFA-3024D5BA84CA",
 	"created": "2023-11-25T04:34:25.230",
-	"lastModified": "2023-11-25T04:34:25.230",
+	"lastModified": "2025-01-23T17:14:31.940",
 	"titles": [
 		{
 			"title": "Open Automation Software OAS Platform 18.00.0072",
@@ -22,6 +22,12 @@
 		{
 			"ref": "https://openautomationsoftware.com/",
 			"type": "Vendor"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:openautomationsoftware:open_automation_software:18.0.0.72:*:*:*:*:*:*:*",
+			"cpeNameId": "974A1917-EE92-44DD-BE22-39356D3879F7"
 		}
 	]
 }
