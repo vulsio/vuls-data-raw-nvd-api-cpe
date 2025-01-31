@@ -1,12 +1,12 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:wedevs:wp_erp:1.5.15:*:*:*:*:wordpress:*:*",
 	"cpeNameId": "C9E3544B-974A-4773-B48D-148C233F15AA",
 	"created": "2023-06-21T13:47:44.440",
-	"lastModified": "2023-06-21T14:25:09.700",
+	"lastModified": "2025-01-30T19:39:27.777",
 	"titles": [
 		{
-			"title": "WEDEVS WP ERP 1.5.15 for WordPress",
+			"title": "WeDevs WP ERP 1.5.15 for WordPress",
 			"lang": "en"
 		}
 	],
@@ -16,12 +16,26 @@
 			"type": "Vendor"
 		},
 		{
-			"ref": "https://blog.nintechnet.com/25-wordpress-plugins-vulnerable-to-csrf-attacks/",
-			"type": "Advisory"
-		},
-		{
 			"ref": "https://wordpress.org/plugins/erp/#developers",
 			"type": "Change Log"
+		},
+		{
+			"ref": "https://wordpress.org/plugins/erp/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://wperp.com/free/",
+			"type": "Product"
+		},
+		{
+			"ref": "https://github.com/wp-erp/wp-erp/tags",
+			"type": "Version"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:wedevs:wp_erp:1.5.15:*:*:*:free:wordpress:*:*",
+			"cpeNameId": "680C0FFE-993A-4CF1-ABC9-D6319443A59F"
 		}
 	]
 }
