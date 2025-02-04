@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:pymatgen:pymatgen:-:*:*:*:*:*:*:*",
 	"cpeNameId": "BE468DA2-7D67-48E3-AAD6-CA673767ACBE",
 	"created": "2022-11-10T11:07:21.763",
-	"lastModified": "2023-02-21T17:43:46.510",
+	"lastModified": "2025-02-04T14:11:16.047",
 	"titles": [
 		{
 			"title": "Pymatgen Pymatgen -",
@@ -22,6 +22,12 @@
 		{
 			"ref": "https://pymatgen.org/",
 			"type": "Vendor"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:materialsvirtuallab:pymatgen:-:*:*:*:*:*:*:*",
+			"cpeNameId": "49493A69-6D6D-4331-8C0A-BD11D45DFFAC"
 		}
 	]
 }
