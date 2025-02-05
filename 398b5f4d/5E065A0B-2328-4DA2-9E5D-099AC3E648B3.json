@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:rti:connext_dds_secure:4.2.0:*:*:*:*:*:*:*",
 	"cpeNameId": "5E065A0B-2328-4DA2-9E5D-099AC3E648B3",
 	"created": "2022-05-12T12:24:06.150",
-	"lastModified": "2022-09-27T15:42:15.017",
+	"lastModified": "2025-02-05T13:26:19.557",
 	"titles": [
 		{
 			"title": "Rti Connext Dds Secure 4.2.0",
@@ -18,6 +18,12 @@
 		{
 			"ref": "https://www.rti.com/blog/using-connext-dds-secure-6.0-to-protect-your-data",
 			"type": "Product"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:rti:connext_secure:4.2:*:*:*:*:*:*:*",
+			"cpeNameId": "5B3E307E-D3BD-405E-9FEF-35EC0D982A92"
 		}
 	]
 }
