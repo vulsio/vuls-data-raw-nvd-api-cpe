@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:liquidweb:kb_support:1.3.3:*:*:*:*:wordpress:*:*",
 	"cpeNameId": "1FB4CBFC-758D-4E37-8D86-02D94A159CBF",
 	"created": "2023-11-13T18:30:11.970",
-	"lastModified": "2023-11-13T18:30:11.970",
+	"lastModified": "2025-02-11T13:14:41.253",
 	"titles": [
 		{
 			"title": "Liquid Web KB Support 1.3.3 for WordPress",
@@ -30,6 +30,12 @@
 		{
 			"ref": "https://github.com/codemonkey-jack/kb-support/tags",
 			"type": "Version"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:logon:kb_support:1.3.3:*:*:*:*:wordpress:*:*",
+			"cpeNameId": "20DD854F-F154-4BDB-9E5B-597153C27EDB"
 		}
 	]
 }
