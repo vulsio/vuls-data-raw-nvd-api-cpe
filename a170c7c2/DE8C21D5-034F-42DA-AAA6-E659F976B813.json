@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:kennethreitz:certifi:1.0.0:*:*:*:*:python:*:*",
 	"cpeNameId": "DE8C21D5-034F-42DA-AAA6-E659F976B813",
 	"created": "2023-08-02T15:11:37.950",
-	"lastModified": "2023-08-02T16:18:20.250",
+	"lastModified": "2025-02-12T19:55:44.310",
 	"titles": [
 		{
 			"title": "Kenneth Reitz Certifi 1.0.0 for Python",
@@ -22,6 +22,12 @@
 		{
 			"ref": "https://kennethreitz.org/",
 			"type": "Vendor"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:certifi:certifi:1.0.0:*:*:*:*:python:*:*",
+			"cpeNameId": "88D3B66C-9541-4FA5-B561-E9F15DAD33FB"
 		}
 	]
 }

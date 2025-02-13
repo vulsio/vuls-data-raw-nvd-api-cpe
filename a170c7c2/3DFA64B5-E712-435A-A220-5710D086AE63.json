@@ -1,9 +1,9 @@
 {
-	"deprecated": false,
+	"deprecated": true,
 	"cpeName": "cpe:2.3:a:kennethreitz:certifi:2022.09.14:*:*:*:*:python:*:*",
 	"cpeNameId": "3DFA64B5-E712-435A-A220-5710D086AE63",
 	"created": "2023-08-02T15:11:37.950",
-	"lastModified": "2023-08-02T16:18:20.250",
+	"lastModified": "2025-02-12T19:55:44.310",
 	"titles": [
 		{
 			"title": "Kenneth Reitz Certifi 2022.09.14 for Python",
@@ -22,6 +22,12 @@
 		{
 			"ref": "https://kennethreitz.org/",
 			"type": "Vendor"
+		}
+	],
+	"deprecatedBy": [
+		{
+			"cpeName": "cpe:2.3:a:certifi:certifi:2022.9.14:*:*:*:*:python:*:*",
+			"cpeNameId": "2B93CB18-4AC3-4724-B6D0-4FAFDCC6CC14"
 		}
 	]
 }
